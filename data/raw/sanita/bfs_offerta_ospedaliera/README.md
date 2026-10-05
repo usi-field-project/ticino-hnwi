@@ -1,11 +1,11 @@
-# BFS — Offerta ospedaliera
+# BFS — Hospital provision
 
-Ospedali, siti, letti e altre misure per cantone/grande regione e tipo di struttura.
+Hospitals, sites, beds and other measures by canton/major region and facility type.
 
-Periodo: **2010–2024**. Ogni file contiene un anno.
+Coverage: **2010–2024**. Each file contains one year.
 
-[Apri l’ultimo anno: 2024](2024.csv) · [Indice dati](../../../README.md) · [Metadati](../../../metadata/bfs_1404010100_102/metadata.json)
+[Open the latest year: 2024](2024.csv) · [Dataset index](../../../README.md) · [Metadata](../../../metadata/bfs_1404010100_102/metadata.json)
 
-Codifica: Windows-1252; separatore: virgola. Importare il file specificando la codifica per leggere correttamente gli accenti.
+Encoding: Windows-1252. Delimiter: comma. Specify the encoding when importing to preserve accented characters.
 
-Le query in `data/metadata/bfs_1404010100_102/` documentano le selezioni effettuate.
+The JSON queries in `data/metadata/bfs_1404010100_102/` document the selections applied.

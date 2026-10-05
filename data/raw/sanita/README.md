@@ -1,10 +1,10 @@
-# Sanità — dati
+# Healthcare — data
 
-[Tutti i dati](../../README.md) · [Guida di lettura](../../../docs/GUIDA_DATI.md)
+[All datasets](../../README.md) · [Data guide](../../../docs/DATA_GUIDE.md)
 
-| Dati da aprire | Periodo | Formato | Contenuto |
+| Dataset | Coverage | Format | Contents |
 |---|---|---|---|
-| [BAG — Indicatori degli ospedali svizzeri](bag_ospedali_indicatori_2024.xlsx) | 2024 | Excel | Dati su struttura, attività, personale e situazione finanziaria degli ospedali. |
-| [BAG — Liste ospedaliere cantonali](bag_ospedali_liste_cantonali_dal_2008.xlsx) | Dal 2008; dettaglio nel file | Excel | Appartenenza degli ospedali alle liste cantonali. |
-| [BAG — Serie storica degli ospedali](bag_ospedali_serie_storica_dal_2008.xlsx) | Dal 2008; dettaglio nel file | Excel | Evoluzione temporale delle cifre chiave ospedaliere. |
-| [BFS — Offerta ospedaliera](bfs_offerta_ospedaliera) | 2010–2024 | CSV annuali | Ospedali, siti, letti e altre misure per cantone/grande regione e tipo di struttura. |
+| [BAG — Swiss hospital indicators](bag_ospedali_indicatori_2024.xlsx) | 2024 | Excel | Hospital structure, activity, staff and financial indicators. |
+| [BAG — Cantonal hospital lists](bag_ospedali_liste_cantonali_dal_2008.xlsx) | From 2008; see file for coverage | Excel | Hospital membership of cantonal lists. |
+| [BAG — Hospital time series](bag_ospedali_serie_storica_dal_2008.xlsx) | From 2008; see file for coverage | Excel | Changes in key hospital indicators over time. |
+| [BFS — Hospital provision](bfs_offerta_ospedaliera) | 2010–2024 | Annual CSV files | Hospitals, sites, beds and other measures by canton/major region and facility type. |

@@ -1,8 +1,8 @@
-# Sanità — PDF originali
+# Healthcare — original PDFs
 
-[Tutti i PDF](../README.md) · [Pagina iniziale](../../README.md)
+[All PDFs](../README.md) · [Home](../../README.md)
 
-| Documento originale | Edizione / lingua | Per cosa usarlo |
+| Original document | Edition / language | What it is useful for |
 |---|---|---|
-| [BAG — Descrizione delle cifre chiave](bag_ospedali_svizzeri_2024_definizioni_it.pdf) · [sito originale](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) | Dati 2024; pubblicato 2026 · IT | Definizioni degli indicatori per interpretare il dataset ospedaliero. |
-| [BAG — Cifre chiave degli ospedali svizzeri](bag_ospedali_svizzeri_2024_report_it.pdf) · [sito originale](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) | Dati 2024; pubblicato 2026 · IT | Report da leggere insieme al file Excel sugli ospedali. |
+| [BAG — Definitions of key hospital indicators](bag_ospedali_svizzeri_2024_definizioni_it.pdf) · [original website](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) | 2024 data; published in 2026 · IT | Indicator definitions for interpreting the hospital datasets. |
+| [BAG — Key figures for Swiss hospitals](bag_ospedali_svizzeri_2024_report_it.pdf) · [original website](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) | 2024 data; published in 2026 · IT | Report to read alongside the hospital Excel dataset. |
