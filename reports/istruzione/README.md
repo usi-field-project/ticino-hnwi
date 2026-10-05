@@ -1,7 +1,7 @@
-# Istruzione — PDF originali
+# Education — original PDFs
 
-[Tutti i PDF](../README.md) · [Pagina iniziale](../../README.md)
+[All PDFs](../README.md) · [Home](../../README.md)
 
-| Documento originale | Edizione / lingua | Per cosa usarlo |
+| Original document | Edition / language | What it is useful for |
 |---|---|---|
-| [Cantone Ticino — Scuola ticinese in cifre](ticino_scuola_in_cifre_2025_it.pdf) · [sito originale](https://www4.ti.ch/tich/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=256392) | 2025 · IT | Quadro statistico del sistema scolastico ticinese. |
+| [Canton of Ticino — Education in figures](ticino_scuola_in_cifre_2025_it.pdf) · [original website](https://www4.ti.ch/tich/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=256392) | 2025 · IT | Statistical overview of the education system in Ticino. |

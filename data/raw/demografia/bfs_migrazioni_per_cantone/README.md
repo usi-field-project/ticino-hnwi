@@ -1,11 +1,11 @@
-# BFS — Migrazioni per cantone
+# BFS — Migration by canton
 
-Flussi migratori per cantone, cittadinanza, sesso e tipo di migrazione.
+Migration flows by canton, citizenship, sex and type of migration.
 
-Periodo: **2011–2025**. Ogni file contiene un anno.
+Coverage: **2011–2025**. Each file contains one year.
 
-[Apri l’ultimo anno: 2025](2025.csv) · [Indice dati](../../../README.md) · [Metadati](../../../metadata/bfs_0103010200_121/metadata.json)
+[Open the latest year: 2025](2025.csv) · [Dataset index](../../../README.md) · [Metadata](../../../metadata/bfs_0103010200_121/metadata.json)
 
-Codifica: Windows-1252; separatore: virgola. Importare il file specificando la codifica per leggere correttamente gli accenti.
+Encoding: Windows-1252. Delimiter: comma. Specify the encoding when importing to preserve accented characters.
 
-Le query in `data/metadata/bfs_0103010200_121/` documentano le selezioni effettuate.
+The JSON queries in `data/metadata/bfs_0103010200_121/` document the selections applied.

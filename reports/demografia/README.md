@@ -1,9 +1,9 @@
-# Popolazione e migrazioni — PDF originali
+# Population and migration — original PDFs
 
-[Tutti i PDF](../README.md) · [Pagina iniziale](../../README.md)
+[All PDFs](../README.md) · [Home](../../README.md)
 
-| Documento originale | Edizione / lingua | Per cosa usarlo |
+| Original document | Edition / language | What it is useful for |
 |---|---|---|
-| [USTAT - Come usare i cubi di dati in formato Excel](ustat_guida_cubi_excel_it.pdf) · [sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) | 17 giugno 2019 · IT | Guida pratica alla consultazione dei cubi Excel USTAT. |
-| [USTAT - Come usare i cubi di dati in formato PX](ustat_guida_cubi_px_it.pdf) · [sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) | 6 giugno 2019 · IT | Guida al formato PX disponibile nel portale USTAT; integra la raccolta CSV/Excel. |
-| [USTAT - Segni, simboli, abbreviazioni, sigle e concetti statistici](ustat_simboli_definizioni_it.pdf) · [sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) | Marzo 2026 · IT | Legenda per interpretare correttamente valori mancanti, segni e abbreviazioni. |
+| [USTAT — Using data cubes in Excel format](ustat_guida_cubi_excel_it.pdf) · [original website](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) | 17 June 2019 · IT | Practical guide to using USTAT Excel data cubes. |
+| [USTAT — Using data cubes in PX format](ustat_guida_cubi_px_it.pdf) · [original website](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) | 6 June 2019 · IT | Guide to the PX format available on the USTAT portal; complements the CSV/Excel collection. |
+| [USTAT — Symbols, abbreviations and statistical concepts](ustat_simboli_definizioni_it.pdf) · [original website](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) | March 2026 · IT | Reference for interpreting missing values, symbols and abbreviations. |

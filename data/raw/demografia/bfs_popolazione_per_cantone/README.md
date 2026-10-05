@@ -1,11 +1,11 @@
-# BFS — Popolazione per cantone e cittadinanza
+# BFS — Population by canton and citizenship
 
-Confronto tra tutti i cantoni; popolazione permanente e non permanente, cittadinanza e sesso. Paese di nascita aggregato.
+Comparison across cantons by population type, citizenship and sex. Country of birth is aggregated.
 
-Periodo: **2010–2025**. Ogni file contiene un anno.
+Coverage: **2010–2025**. Each file contains one year.
 
-[Apri l’ultimo anno: 2025](2025.csv) · [Indice dati](../../../README.md) · [Metadati](../../../metadata/bfs_0103010000_499/metadata.json)
+[Open the latest year: 2025](2025.csv) · [Dataset index](../../../README.md) · [Metadata](../../../metadata/bfs_0103010000_499/metadata.json)
 
-Codifica: Windows-1252; separatore: virgola. Importare il file specificando la codifica per leggere correttamente gli accenti.
+Encoding: Windows-1252. Delimiter: comma. Specify the encoding when importing to preserve accented characters.
 
-Le query in `data/metadata/bfs_0103010000_499/` documentano le selezioni effettuate.
+The JSON queries in `data/metadata/bfs_0103010000_499/` document the selections applied.

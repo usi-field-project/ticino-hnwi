@@ -1,44 +1,44 @@
-# Progetto UBS · Raccolta dati e fonti
+# UBS Project · Data and sources
 
-Materiali per studiare l’attrattività del **Ticino** e confrontarla con altre destinazioni svizzere: ricchezza, fiscalità, immobili, popolazione, sanità e istruzione.
+Research materials for studying **Ticino’s attractiveness** and comparing it with other Swiss destinations: wealth, taxation, property, population, healthcare and education.
 
-## Inizia qui
+## Start here
 
-| Cerchi… | Apri |
+| Looking for… | Open |
 |---|---|
-| I report completi scaricati dai siti | **[PDF originali — catalogo dei 22 documenti](reports/README.md)** |
-| Le tabelle da usare per l’analisi | **[Dati Excel e CSV — indice ragionato](data/README.md)** |
-| Una spiegazione dei formati e delle selezioni | [Come leggere i dati](docs/GUIDA_DATI.md) |
-| I siti degli enti e i link di provenienza | [Fonti originali](SOURCES.md) |
+| Full reports downloaded from publishers | **[Original PDFs — catalogue of 22 documents](reports/README.md)** |
+| Tables for analysis | **[Excel and CSV data — annotated index](data/README.md)** |
+| Guidance on formats and selections | [How to use the data](docs/DATA_GUIDE.md) |
+| Publishers and source links | [Original sources](SOURCES.md) |
 
-**84 file originali:** 22 PDF, 13 Excel, 47 CSV e 2 archivi ZIP. Acquisizione: 5 ottobre 2026.
+**84 original files:** 22 PDFs, 13 Excel workbooks, 47 CSV files and 2 ZIP archives. Downloaded on 5 October 2026.
 
-## Esplora per argomento
+## Browse by topic
 
-| Argomento | Cosa trovi | Materiali |
+| Topic | Contents | Materials |
 |---|---|---|
-| **Ricchezza e piazza finanziaria** | Ricchezza internazionale, settore bancario, peso economico della finanza svizzera | [UBS, Swiss Banking e BAK](reports/ricchezza/README.md) |
-| **Fiscalità e trasferimento** | Imposte su reddito e patrimonio, forfait fiscale, successioni e immigrazione | [Report ESTV, KPMG e Deloitte](reports/fiscalita/README.md) |
-| **Immobiliare** | Mercato residenziale e immobili di lusso | [Report originali UBS](reports/immobiliare/README.md) |
-| **Popolazione e migrazioni** | Residenti, nazionalità, arrivi e partenze, confronto tra cantoni | [Tabelle USTAT/BFS](data/raw/demografia/README.md) · [Guide USTAT](reports/demografia/README.md) |
-| **Sanità** | Ospedali, offerta sanitaria e serie storiche | [Dati BAG/BFS](data/raw/sanita/README.md) · [Report e definizioni](reports/sanita/README.md) |
-| **Istruzione** | Sistema scolastico ticinese | [Scuola ticinese in cifre](reports/istruzione/README.md) |
+| **Wealth and financial sector** | International wealth, banking and the financial sector’s economic contribution | [UBS, Swiss Banking and BAK reports](reports/ricchezza/README.md) |
+| **Taxation and relocation** | Income and wealth taxes, lump-sum taxation, inheritance and immigration | [ESTV, KPMG and Deloitte reports](reports/fiscalita/README.md) |
+| **Real estate** | Residential and luxury property markets | [Original UBS reports](reports/immobiliare/README.md) |
+| **Population and migration** | Residents, nationality, arrivals and departures, comparisons across cantons | [USTAT/BFS tables](data/raw/demografia/README.md) · [USTAT guides](reports/demografia/README.md) |
+| **Healthcare** | Hospitals, healthcare provision and historical series | [BAG/BFS data](data/raw/sanita/README.md) · [Reports and definitions](reports/sanita/README.md) |
+| **Education** | Ticino’s education system | [Education in figures](reports/istruzione/README.md) |
 
-## Tre punti di partenza
+## Three starting points
 
-1. Per il **quadro generale**, leggi [UBS Global Wealth Report 2026](reports/ricchezza/ubs_global_wealth_report_2026_en.pdf).
-2. Per la **fiscalità**, apri [KPMG Clarity on Swiss Taxes 2026](reports/fiscalita/kpmg_clarity_swiss_taxes_2026_en.pdf).
-3. Per iniziare con i **dati del Ticino**, apri [Movimenti migratori USTAT](data/raw/demografia/ustat_movimenti_migratori.xlsx).
+1. For the **broader context**, read the [UBS Global Wealth Report 2026](reports/ricchezza/ubs_global_wealth_report_2026_en.pdf).
+2. For **taxation**, open [KPMG Clarity on Swiss Taxes 2026](reports/fiscalita/kpmg_clarity_swiss_taxes_2026_en.pdf).
+3. To explore **Ticino’s data**, start with [USTAT migration flows](data/raw/demografia/ustat_movimenti_migratori.xlsx).
 
-## Organizzazione
+## Structure
 
 ```text
-reports/          PDF originali, suddivisi per argomento
-data/            Indice delle tabelle
-├─ raw/          Excel, CSV annuali e archivi originali
-├─ metadata/     Definizioni e selezioni delle tabelle BFS
-└─ sources.json  Provenienza e controlli di integrità
-docs/             Guida alla lettura dei dati
+reports/          Original PDFs, organised by topic
+data/             Dataset index
+├─ raw/           Excel, annual CSV files and original archives
+├─ metadata/      BFS definitions and table selections
+└─ sources.json   Provenance and integrity information
+docs/             Guide to using the data
 ```
 
-I file originali restano invariati; il catalogo riporta anno, lingua e utilizzo dei PDF. Le fonti hanno periodi di riferimento diversi: consultarli prima di effettuare confronti. I materiali di terzi mantengono le condizioni dei rispettivi editori; la licenza del repository non le sostituisce.
+The catalogue describes each PDF’s edition, language and purpose. Original files and source metadata retain their original languages and contents. Sources cover different reference periods; check these before making comparisons. Third-party materials remain subject to their publishers’ terms, which are not replaced by this repository’s licence.

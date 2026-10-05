@@ -1,11 +1,11 @@
-# BFS — Domicilio un anno prima
+# BFS — Residence one year earlier
 
-Mobilità residenziale: confronto del domicilio attuale con quello precedente. Età aggregata.
+Residential mobility: current residence compared with residence one year earlier. Age groups are aggregated.
 
-Periodo: **2025**. Ogni file contiene un anno.
+Coverage: **2025**. Each file contains one year.
 
-[Apri l’ultimo anno: 2025](2025.csv) · [Indice dati](../../../README.md) · [Metadati](../../../metadata/bfs_0103030000_225/metadata.json)
+[Open the latest year: 2025](2025.csv) · [Dataset index](../../../README.md) · [Metadata](../../../metadata/bfs_0103030000_225/metadata.json)
 
-Codifica: Windows-1252; separatore: virgola. Importare il file specificando la codifica per leggere correttamente gli accenti.
+Encoding: Windows-1252. Delimiter: comma. Specify the encoding when importing to preserve accented characters.
 
-Le query in `data/metadata/bfs_0103030000_225/` documentano le selezioni effettuate.
+The JSON queries in `data/metadata/bfs_0103030000_225/` document the selections applied.
