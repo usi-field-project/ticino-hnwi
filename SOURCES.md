@@ -1,125 +1,91 @@
-# Fonti e inventario
+# Fonti originali
 
-Download del 5 ottobre 2026. I file conservano il formato della fonte; non sono stati normalizzati né aggregati. `data/sources.json` registra URL, dimensione e SHA-256 di ciascun file.
+[Pagina iniziale](README.md) · [Catalogo PDF](reports/README.md) · [Indice dati](data/README.md)
 
-| File | Fonte / documento |
+Ogni titolo apre il materiale scaricato; il collegamento «sito» conduce alla fonte. Acquisizione: 5 ottobre 2026. L’inventario tecnico completo è in [data/sources.json](data/sources.json).
+
+## Ricchezza e piazza finanziaria
+
+| Materiale scaricato | Provenienza |
 |---|---|
-| [demografia/T_010202_020.xlsx](data/raw/demografia/T_010202_020.xlsx) | [Popolazione residente permanente al 31 dicembre, secondo la classe d'età, dal 2003 al 2025 T_010202_020](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010202_030.xlsx](data/raw/demografia/T_010202_030.xlsx) | [Popolazione residente permanente al 31 dicembre, secondo la nazionalità e il sesso, dal 2003 al 2025 T_010202_030](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010202_040.xlsx](data/raw/demografia/T_010202_040.xlsx) | [Popolazione residente permanente al 31 dicembre, secondo il sesso, e a metà dell'anno, dal 2003 al 2025 T_010202_040](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010301_010.xlsx](data/raw/demografia/T_010301_010.xlsx) | [Bilancio della popolazione residente permanente, dal 1991 al 2025 T_010301_010](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010302_010.xlsx](data/raw/demografia/T_010302_010.xlsx) | [Nati vivi, decessi, saldo naturale, matrimoni e divorzi, dal 2008 al 2025 T_010302_010](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010303_010.xlsx](data/raw/demografia/T_010303_010.xlsx) | [Movimento migratorio della popolazione residente permanente, dal 1991 al 2025 T_010303_010](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010401_020.xlsx](data/raw/demografia/T_010401_020.xlsx) | [Economie domestiche al 31 dicembre, secondo la dimensione, dal 2010 al 2025 T_010401_020](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010401_030.xlsx](data/raw/demografia/T_010401_030.xlsx) | [Popolazione residente permanente nelle economie domestiche al 31 dicembre, secondo la dimensione dell'economia domestica, dal 2010](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010602_010.xlsx](data/raw/demografia/T_010602_010.xlsx) | [Popolazione residente permanente al 31 dicembre, secondo la nazionalità e lo statuto, dal 2002 al 2025 T_010602_010](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/T_010603_010.xlsx](data/raw/demografia/T_010603_010.xlsx) | [Acquisizioni della nazionalità svizzera della popolazione residente permanente, dal 1991 al 2025 T_010603_010](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
-| [demografia/bfs_0103010000_499/2010.csv](data/raw/demografia/bfs_0103010000_499/2010.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2011.csv](data/raw/demografia/bfs_0103010000_499/2011.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2012.csv](data/raw/demografia/bfs_0103010000_499/2012.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2013.csv](data/raw/demografia/bfs_0103010000_499/2013.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2014.csv](data/raw/demografia/bfs_0103010000_499/2014.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2015.csv](data/raw/demografia/bfs_0103010000_499/2015.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2016.csv](data/raw/demografia/bfs_0103010000_499/2016.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2017.csv](data/raw/demografia/bfs_0103010000_499/2017.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2018.csv](data/raw/demografia/bfs_0103010000_499/2018.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2019.csv](data/raw/demografia/bfs_0103010000_499/2019.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2020.csv](data/raw/demografia/bfs_0103010000_499/2020.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2021.csv](data/raw/demografia/bfs_0103010000_499/2021.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2022.csv](data/raw/demografia/bfs_0103010000_499/2022.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2023.csv](data/raw/demografia/bfs_0103010000_499/2023.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2024.csv](data/raw/demografia/bfs_0103010000_499/2024.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010000_499/2025.csv](data/raw/demografia/bfs_0103010000_499/2025.csv) | [Permanent and non permanent resident population by Year, Canton, Population type, Citizenship, Country of birth and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
-| [demografia/bfs_0103010200_121/2011.csv](data/raw/demografia/bfs_0103010200_121/2011.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2012.csv](data/raw/demografia/bfs_0103010200_121/2012.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2013.csv](data/raw/demografia/bfs_0103010200_121/2013.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2014.csv](data/raw/demografia/bfs_0103010200_121/2014.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2015.csv](data/raw/demografia/bfs_0103010200_121/2015.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2016.csv](data/raw/demografia/bfs_0103010200_121/2016.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2017.csv](data/raw/demografia/bfs_0103010200_121/2017.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2018.csv](data/raw/demografia/bfs_0103010200_121/2018.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2019.csv](data/raw/demografia/bfs_0103010200_121/2019.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2020.csv](data/raw/demografia/bfs_0103010200_121/2020.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2021.csv](data/raw/demografia/bfs_0103010200_121/2021.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2022.csv](data/raw/demografia/bfs_0103010200_121/2022.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2023.csv](data/raw/demografia/bfs_0103010200_121/2023.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2024.csv](data/raw/demografia/bfs_0103010200_121/2024.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103010200_121/2025.csv](data/raw/demografia/bfs_0103010200_121/2025.csv) | [Migration of the permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Citizenship (selection), Sex and Type of migration](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
-| [demografia/bfs_0103030000_225/2025.csv](data/raw/demografia/bfs_0103030000_225/2025.csv) | [Permanent and non permanent resident population by Year, Canton (-) / District (>>) / Commune (......), Domicile 1 year ago, Citizenship (selection), Population type, Age class and Sex](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103030000_225/px-x-0103030000_225.px) |
-| [demografia/cubi_STATPOP_01_csv.zip](data/raw/demografia/cubi_STATPOP_01_csv.zip) | [USTAT cubi STATPOP 01 CSV](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) |
-| [demografia/cubi_STATPOP_02_csv.zip](data/raw/demografia/cubi_STATPOP_02_csv.zip) | [USTAT cubi STATPOP 02 CSV](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) |
-| [fiscalita/d-einkommenssteuer-natuerlicher-personen-gesamter-text-de.pdf](data/raw/fiscalita/d-einkommenssteuer-natuerlicher-personen-gesamter-text-de.pdf) | [Einkommenssteuer natürlicher Personen: gesamter Text](https://www.estv.admin.ch/de/steuerinformationen) |
-| [fiscalita/d-erbschaft-schenkung-de.pdf](data/raw/fiscalita/d-erbschaft-schenkung-de.pdf) | [Erbschafts- und Schenkungssteuern](https://www.estv.admin.ch/de/steuerinformationen) |
-| [fiscalita/d-vermoegenssteuer-np-de.pdf](data/raw/fiscalita/d-vermoegenssteuer-np-de.pdf) | [Vermögenssteuer natürlicher Personen](https://www.estv.admin.ch/de/steuerinformationen) |
-| [fiscalita/deloitte-ch-en-tax-destination-switzerland-immigration.pdf](data/raw/fiscalita/deloitte-ch-en-tax-destination-switzerland-immigration.pdf) | [Immigration This instalment explores the immigration rules, outlining practical considerations for moving to Switzerland. Download](https://www.deloitte.com/ch/en/services/tax/perspectives/destination-switzerland.html) |
-| [fiscalita/deloitte-ch-en-tax-destination-switzerland-indivdiual-taxation.pdf](data/raw/fiscalita/deloitte-ch-en-tax-destination-switzerland-indivdiual-taxation.pdf) | [Individual Taxation This instalment explores the attractive individual taxation framework, outlining practical considerations for ](https://www.deloitte.com/ch/en/services/tax/perspectives/destination-switzerland.html) |
-| [fiscalita/deloitte-ch-en-tax-destination-switzerland-lump-sum-taxation.pdf](data/raw/fiscalita/deloitte-ch-en-tax-destination-switzerland-lump-sum-taxation.pdf) | [Lump-Sum Taxation This instalment explores the attractive lump-sum taxation regime, outlining practical considerations for moving ](https://www.deloitte.com/ch/en/services/tax/perspectives/destination-switzerland.html) |
-| [fiscalita/deloitte-ch-private-client-services-GES-2020.pdf](data/raw/fiscalita/deloitte-ch-private-client-services-GES-2020.pdf) | [Deloitte - Private Clients (2020)](https://www.deloitte.com/ch/en/services/tax/services/private-client-mobility-ges.html) |
-| [fiscalita/estv_steuerstatistik_2025.pdf](data/raw/fiscalita/estv_steuerstatistik_2025.pdf) | [ESTV Steuerstatistik 2025](https://www.estv.admin.ch/de/faltblatt-steuerstatistik-estv) |
-| [fiscalita/kpmg_clarity_swiss_taxes_2026.pdf](data/raw/fiscalita/kpmg_clarity_swiss_taxes_2026.pdf) | [KPMG Clarity on Swiss Taxes 2026](https://assets.kpmg.com/content/dam/kpmgsites/ch/pdf/kpmg-ch-swiss-taxes-2026-clarity.pdf.coredownload.inline.pdf) |
-| [immobiliare/e-luxury-property-focus-2026.pdf](data/raw/immobiliare/e-luxury-property-focus-2026.pdf) | [UBS Luxury Property Focus 2026](https://www.ubs.com/global/en/wealthmanagement/insights/2026/luxury-property-focus.html) |
-| [immobiliare/ref-2026-en.pdf](data/raw/immobiliare/ref-2026-en.pdf) | [UBS Real Estate Focus 2026](https://www.ubs.com/global/en/wealthmanagement/insights/2026/real-estate-focus.html) |
-| [istruzione/Scuola_ticinese_in_cifre_2025.pdf](data/raw/istruzione/Scuola_ticinese_in_cifre_2025.pdf) | [Scuola ticinese in cifre 2025](https://www4.ti.ch/tich/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=256392) |
-| [sanita/bfs_1404010100_102/2010.csv](data/raw/sanita/bfs_1404010100_102/2010.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2011.csv](data/raw/sanita/bfs_1404010100_102/2011.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2012.csv](data/raw/sanita/bfs_1404010100_102/2012.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2013.csv](data/raw/sanita/bfs_1404010100_102/2013.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2014.csv](data/raw/sanita/bfs_1404010100_102/2014.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2015.csv](data/raw/sanita/bfs_1404010100_102/2015.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2016.csv](data/raw/sanita/bfs_1404010100_102/2016.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2017.csv](data/raw/sanita/bfs_1404010100_102/2017.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2018.csv](data/raw/sanita/bfs_1404010100_102/2018.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2019.csv](data/raw/sanita/bfs_1404010100_102/2019.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2020.csv](data/raw/sanita/bfs_1404010100_102/2020.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2021.csv](data/raw/sanita/bfs_1404010100_102/2021.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2022.csv](data/raw/sanita/bfs_1404010100_102/2022.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2023.csv](data/raw/sanita/bfs_1404010100_102/2023.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/bfs_1404010100_102/2024.csv](data/raw/sanita/bfs_1404010100_102/2024.csv) | [Offre des hôpitaux selon Unité d'observation, Grande région (<<) / Canton (-), Type d'établissement et Année](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
-| [sanita/kzp24_KZ_TimeSerie.xlsx](data/raw/sanita/kzp24_KZ_TimeSerie.xlsx) | [Serie temporale delle «Cifre chiave degli ospedali svizzeri» dal 2008](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
-| [sanita/kzp24_data.xlsx](data/raw/sanita/kzp24_data.xlsx) | [Dati «Cifre chiave degli ospedali svizzeri 2024»](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
-| [sanita/kzp24_description_it.pdf](data/raw/sanita/kzp24_description_it.pdf) | [Descrizione delle cifre chiave degli ospedali svizzeri 2024](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
-| [sanita/kzp24_hospListCT.xlsx](data/raw/sanita/kzp24_hospListCT.xlsx) | [Inserimento nella lista cantonale degli ospedali dal 2008](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
-| [sanita/kzp24_publikation_it.pdf](data/raw/sanita/kzp24_publikation_it.pdf) | [Pubblicazione «Cifre chiave degli ospedali svizzeri 2024»](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
-| [wealth/Banking-barometer_2026.pdf](data/raw/wealth/Banking-barometer_2026.pdf) | [Swiss Banking - Banking Barometer 2026](https://publications.swissbanking.ch/banking-barometer-2026-en/wealth-management) |
-| [wealth/ubs_global_wealth_report_2026.pdf](data/raw/wealth/ubs_global_wealth_report_2026.pdf) | [UBS Global Wealth Report 2026](https://www.ubs.com/global/en/wealthmanagement/insights/global-wealth-report.html) |
+| [BAK Economics - Importanza economica del settore finanziario svizzero](reports/ricchezza/bak_impatto_settore_finanziario_2025_de.pdf) | [Sito originale](https://publications.swissbanking.ch/bedeutungsstudie-2025/) |
+| [BAK Economics - Economic Impact of the Swiss Financial Sector, Executive Summary](reports/ricchezza/bak_impatto_settore_finanziario_2025_sintesi_en.pdf) | [Sito originale](https://www.swissbanking.ch/en/topics/capital-markets-and-banking/the-economic-importance-of-banks) |
+| [Swiss Banking — Banking Barometer](reports/ricchezza/swissbanking_barometro_bancario_2026_en.pdf) | [Sito originale](https://publications.swissbanking.ch/banking-barometer-2026-en/wealth-management) |
+| [UBS — Global Wealth Report](reports/ricchezza/ubs_global_wealth_report_2026_en.pdf) | [Sito originale](https://www.ubs.com/global/en/wealthmanagement/insights/global-wealth-report.html) |
 
-## Portali e riferimenti aggiuntivi
+## Fiscalità e trasferimento in Svizzera
 
-I seguenti collegamenti servono per consultazioni e aggiornamenti; non implicano che ogni pagina sia stata archiviata. I calcolatori fiscali richiedono la definizione di uno scenario prima di produrre risultati.
+| Materiale scaricato | Provenienza |
+|---|---|
+| [Deloitte — Destination Switzerland: Lump-Sum Taxation](reports/fiscalita/deloitte_destination_switzerland_forfait_2025_en.pdf) | [Sito originale](https://www.deloitte.com/ch/en/services/tax/perspectives/destination-switzerland.html) |
+| [Deloitte — Destination Switzerland: Immigration](reports/fiscalita/deloitte_destination_switzerland_immigrazione_2025_en.pdf) | [Sito originale](https://www.deloitte.com/ch/en/services/tax/perspectives/destination-switzerland.html) |
+| [Deloitte — Destination Switzerland: Individual Taxation](reports/fiscalita/deloitte_destination_switzerland_tassazione_2025_en.pdf) | [Sito originale](https://www.deloitte.com/ch/en/services/tax/perspectives/destination-switzerland.html) |
+| [Deloitte — Private Clients](reports/fiscalita/deloitte_private_clients_2020_en.pdf) | [Sito originale](https://www.deloitte.com/ch/en/services/tax/services/private-client-mobility-ges.html) |
+| [ESTV - Circolare 44, imposizione secondo il dispendio](reports/fiscalita/estv_circolare_44_dispendio_2018_de.pdf) | [Sito originale](https://www.estv.admin.ch/dam/de/sd-web/pl0PXAcAAxJq/dbst-ks-2018-1-044-d-de.pdf) |
+| [ESTV — Imposta sul patrimonio delle persone fisiche](reports/fiscalita/estv_imposta_patrimonio_persone_fisiche_2026_de.pdf) | [Sito originale](https://www.estv.admin.ch/de/steuerinformationen) |
+| [ESTV — Imposta sul reddito delle persone fisiche](reports/fiscalita/estv_imposta_reddito_persone_fisiche_2025_de.pdf) | [Sito originale](https://www.estv.admin.ch/de/steuerinformationen) |
+| [ESTV — Steuerstatistik, Auf einen Blick](reports/fiscalita/estv_statistiche_fiscali_2025_de.pdf) | [Sito originale](https://www.estv.admin.ch/de/faltblatt-steuerstatistik-estv) |
+| [ESTV — Imposte sulle successioni e donazioni](reports/fiscalita/estv_successioni_donazioni_normativa_2025_de.pdf) | [Sito originale](https://www.estv.admin.ch/de/steuerinformationen) |
+| [KPMG — Clarity on Swiss Taxes](reports/fiscalita/kpmg_clarity_swiss_taxes_2026_en.pdf) | [Sito originale](https://assets.kpmg.com/content/dam/kpmgsites/ch/pdf/kpmg-ch-swiss-taxes-2026-clarity.pdf.coredownload.inline.pdf) |
 
-- [UBS Global Wealth Report 2026](https://www.ubs.com/global/it/media/display-page-ndp/it-20260630-gwr-2026.html)
-- [Swiss Banking – Banking Barometer 2026](https://publications.swissbanking.ch/banking-barometer-2026-en/wealth-management)
-- [Swiss Banking – Economic Importance of Banks](https://www.swissbanking.ch/en/topics/capital-markets-and-banking/the-economic-importance-of-banks)
-- [Ticino – Calcolatori successione e donazione](https://www4.ti.ch/dfe/dc/sportello/calcolatori-dimposta)
-- [ESTV – Steuerstatistik 2025](https://www.estv.admin.ch/de/newnsb/o233nEN7Ee-pQCrdOUUky)
-- [ESTV – Tax information](https://www.estv.admin.ch/de/steuerinformationen)
-- [Legge tributaria del Cantone Ticino](https://www3.ti.ch/CAN/RLeggi/public/index.php/index/nuovafinestra/atto/580/volume/6%20FINANZE/numLegge/640.100)
-- [Ticino – successione e donazione](https://www4.ti.ch/dfe/dc/sportello/calcolatori-dimposta/isd/)
-- [USTAT – Popolazione, bilancio demografico e nazionalità](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33)
-- [USTAT – Regioni e comuni](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33)
-- [BFS STAT-TAB – Population & migration](https://www.pxweb.bfs.admin.ch/pxweb/it/px-x-0103030000_225/-/px-x-0103030000_225.px/)
-- [UBS Luxury Property Focus 2026](https://www.ubs.com/global/en/wealthmanagement/insights/2026/luxury-property-focus.html)
-- [Federal Office of Public Health – Hospitals](https://www.bag.admin.ch/it/fatti-cifre-sugli-ospedali)
-- [BFS STAT-TAB – Hospitals by canton](https://www.pxweb.bfs.admin.ch/pxweb/en/px-x-1404010100_102/px-x-1404010100_102/px-x-1404010100_102.px/)
-- [Cantone Ticino – Scuola ticinese in cifre 2025](https://www4.ti.ch/tich/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=256392)
-- [Deloitte – Destination Switzerland](https://www.deloitte.com/ch/en/services/tax/perspectives/destination-switzerland.html)
-- [KPMG – Cross-border relocation](https://kpmg.com/ch/en/services/private-clients/cross-border-relocation.html)
-- [KPMG – Lump-sum taxation in Switzerland](https://kpmg.com/ch/en/insights/taxes/lump-sum-taxation.html)
-- [KPMG – Private Clients Switzerland](https://kpmg.com/ch/en/services/private-clients.html)
-- [KPMG – Moving to Switzerland](https://kpmg.com/ch/en/insights/taxes/moving-to-switzerland.html)
-- [Deloitte – Private Client Switzerland](https://www.deloitte.com/ch/en/services/deloitte-private/services/private-client.html)
-- [Deloitte – Private Client Mobility](https://www.deloitte.com/ch/en/services/tax/services/private-client-mobility-ges.html)
-- [Deloitte – Wealth Tax in Switzerland](https://www.deloitte.com/ch/en/services/deloitte-private/perspectives/wealth-tax-switzerland.html)
-- [ESTV – Tax statistics](https://www.estv.admin.ch/en/swiss-tax-statistics)
-- [USTAT – Dati interattivi](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive)
-- [BFS STAT-TAB – Population by canton, citizenship and country of birth](https://www.pxweb.bfs.admin.ch/pxweb/en/px-x-0103010000_499/-/px-x-0103010000_499.px/)
-- [BFS STAT-TAB – Migration by canton](https://www.pxweb.bfs.admin.ch/pxweb/en/px-x-0103010200_121/-/px-x-0103010200_121.px/)
-- [UBS Real Estate Focus 2026](https://www.ubs.com/global/en/wealthmanagement/insights/2026/real-estate-focus.html)
-- [FOPH – Facts & Figures on Hospitals](https://www.bag.admin.ch/en/facts-figures-on-hospitals)
-- [FOPH – Key Figures for Swiss Hospitals](https://www.bag.admin.ch/en/key-figures-for-swiss-hospitals)
+## Mercato immobiliare
 
-## Limiti della raccolta
+| Materiale scaricato | Provenienza |
+|---|---|
+| [UBS — Luxury Property Focus](reports/immobiliare/ubs_luxury_property_focus_2026_en.pdf) | [Sito originale](https://www.ubs.com/global/en/wealthmanagement/insights/2026/luxury-property-focus.html) |
+| [UBS — Real Estate Focus](reports/immobiliare/ubs_real_estate_focus_2026_en.pdf) | [Sito originale](https://www.ubs.com/global/en/wealthmanagement/insights/2026/real-estate-focus.html) |
 
-- La tabella BFS `1404050000_104` sui medici non è inclusa: l’esportazione API ha restituito HTTP 400. [Tabella di consultazione](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1404050000_104/px-x-1404050000_104/px-x-1404050000_104.px/).
-- I report e i documenti normativi hanno anni di riferimento diversi; la data del download non ne modifica l’edizione.
-- Le fonti demografiche misurano popolazione e migrazioni, non identificano direttamente gli HNWI.
+## Popolazione e migrazioni
+
+| Materiale scaricato | Provenienza |
+|---|---|
+| [USTAT - Come usare i cubi di dati in formato Excel](reports/demografia/ustat_guida_cubi_excel_it.pdf) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) |
+| [USTAT - Come usare i cubi di dati in formato PX](reports/demografia/ustat_guida_cubi_px_it.pdf) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) |
+| [USTAT - Segni, simboli, abbreviazioni, sigle e concetti statistici](reports/demografia/ustat_simboli_definizioni_it.pdf) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) |
+| [BFS — Domicilio un anno prima](data/raw/demografia/bfs_domicilio_anno_precedente) | [Sito originale](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103030000_225/px-x-0103030000_225.px) |
+| [BFS — Migrazioni per cantone](data/raw/demografia/bfs_migrazioni_per_cantone) | [Sito originale](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010200_121/px-x-0103010200_121.px) |
+| [BFS — Popolazione per cantone e cittadinanza](data/raw/demografia/bfs_popolazione_per_cantone) | [Sito originale](https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-0103010000_499/px-x-0103010000_499.px) |
+| [USTAT — Bilancio demografico per comune e distretto](data/raw/demografia/cubi_STATPOP_01_csv.zip) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) |
+| [USTAT — Bilancio demografico per età](data/raw/demografia/cubi_STATPOP_02_csv.zip) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive&tema=33) |
+| [USTAT — Acquisizioni della nazionalità svizzera](data/raw/demografia/ustat_acquisizioni_cittadinanza.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Bilancio demografico](data/raw/demografia/ustat_bilancio_demografico.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Economie domestiche per dimensione](data/raw/demografia/ustat_economie_domestiche_dimensione.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Movimenti migratori](data/raw/demografia/ustat_movimenti_migratori.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Movimento naturale e stato civile](data/raw/demografia/ustat_nascite_decessi_matrimoni_divorzi.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Nazionalità e statuto di residenza](data/raw/demografia/ustat_nazionalita_statuto_residenza.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Popolazione a fine e metà anno](data/raw/demografia/ustat_popolazione_fine_meta_anno.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Popolazione per nazionalità e sesso](data/raw/demografia/ustat_popolazione_nazionalita_sesso.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Popolazione per classe di età](data/raw/demografia/ustat_popolazione_per_eta.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+| [USTAT — Residenti nelle economie domestiche](data/raw/demografia/ustat_residenti_economie_domestiche.xlsx) | [Sito originale](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=dati.regioni&tema=33) |
+
+## Sanità
+
+| Materiale scaricato | Provenienza |
+|---|---|
+| [BAG — Descrizione delle cifre chiave](reports/sanita/bag_ospedali_svizzeri_2024_definizioni_it.pdf) | [Sito originale](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
+| [BAG — Cifre chiave degli ospedali svizzeri](reports/sanita/bag_ospedali_svizzeri_2024_report_it.pdf) | [Sito originale](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
+| [BAG — Indicatori degli ospedali svizzeri](data/raw/sanita/bag_ospedali_indicatori_2024.xlsx) | [Sito originale](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
+| [BAG — Liste ospedaliere cantonali](data/raw/sanita/bag_ospedali_liste_cantonali_dal_2008.xlsx) | [Sito originale](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
+| [BAG — Serie storica degli ospedali](data/raw/sanita/bag_ospedali_serie_storica_dal_2008.xlsx) | [Sito originale](https://opendata.swiss/en/dataset/kennzahlen-der-schweizer-spitaler-2024) |
+| [BFS — Offerta ospedaliera](data/raw/sanita/bfs_offerta_ospedaliera) | [Sito originale](https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1404010100_102/px-x-1404010100_102.px) |
+
+## Istruzione
+
+| Materiale scaricato | Provenienza |
+|---|---|
+| [Cantone Ticino — Scuola ticinese in cifre](reports/istruzione/ticino_scuola_in_cifre_2025_it.pdf) | [Sito originale](https://www4.ti.ch/tich/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=256392) |
+
+## Strumenti e pagine web di consultazione
+
+Queste risorse sono pagine o strumenti online: non vengono presentate come PDF originali scaricati.
+
+| Risorsa | Utilizzo |
+|---|---|
+| [Calcolatori d’imposta Ticino](https://www4.ti.ch/dfe/dc/sportello/calcolatori-dimposta) | Simulazioni da definire per comune, reddito, patrimonio e situazione familiare |
+| [Successioni e donazioni Ticino](https://www4.ti.ch/dfe/dc/sportello/calcolatori-dimposta/isd/) | Calcolo dell’imposta in base allo scenario |
+| [Legge tributaria del Ticino](https://www3.ti.ch/CAN/RLeggi/public/index.php/index/nuovafinestra/atto/580/volume/6%20FINANZE/numLegge/640.100) | Consultazione della normativa cantonale |
+| [Deloitte — Wealth Tax in Switzerland](https://www.deloitte.com/ch/en/services/deloitte-private/perspectives/wealth-tax-switzerland.html) | Approfondimento web sull’imposta patrimoniale |
+| [KPMG — Lump-sum taxation](https://kpmg.com/ch/en/insights/taxes/lump-sum-taxation.html) | Approfondimento web sul forfait fiscale |
+| [KPMG — Moving to Switzerland](https://kpmg.com/ch/en/insights/taxes/moving-to-switzerland.html) | Trasferimento in Svizzera per cittadini non UE/AELS |
+| [KPMG — Cross-border relocation](https://kpmg.com/ch/en/services/private-clients/cross-border-relocation.html) | Aspetti del trasferimento internazionale |
+| [BFS — Medici e centri ambulatoriali](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1404050000_104/px-x-1404050000_104/px-x-1404050000_104.px/) | Tabella consultabile; esportazione non inclusa (API HTTP 400) |
