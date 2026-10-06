@@ -1,6 +1,17 @@
 # Roles and responsibilities
 
-Status: template to complete; no methodology or commitments have been approved.
+## Initial benchmark research assignments
+
+| Name | Canton | Countries / cities |
+|---|---|---|
+| Luca (Person 1) | Zug | Dubai, Lisbon |
+| Elena (Person 2) | Zurich | Singapore, Monaco |
+| Nicole (Person 3) | Geneva | London, Milan |
+| Petra (Person 4) | Graubünden | Luxembourg, Ticino (baseline) |
+
+Ticino is the reference territory (baseline) for the benchmark comparison.
+
+Status: initial benchmark research assignments recorded above; the remaining sections are templates to complete. No methodology has been approved.
 
 ## Team members
 
