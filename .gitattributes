@@ -1,3 +1,2 @@
 # Preserve original downloaded bytes, including source line endings.
-data/raw/** -text
-reports/**/*.pdf -text
+03_data/raw/** -text
