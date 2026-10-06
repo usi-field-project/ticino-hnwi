@@ -1,15 +1,15 @@
 # Roles and responsibilities
 
-## Prima suddivisione della ricerca dei benchmark
+## Initial benchmark research assignments
 
-| Nome | Cantone | Stati / città |
+| Name | Canton | Countries / cities |
 |---|---|---|
-| Luca (Persona 1) | Zugo | Dubai, Lisbona |
-| Elena (Persona 2) | Zurigo | Singapore, Monaco |
-| Nicole (Persona 3) | Ginevra | Londra, Milano |
-| Petra (Persona 4) | Grigioni | Lussemburgo, Ticino (base) |
+| Luca (Person 1) | Zug | Dubai, Lisbon |
+| Elena (Person 2) | Zurich | Singapore, Monaco |
+| Nicole (Person 3) | Geneva | London, Milan |
+| Petra (Person 4) | Graubünden | Luxembourg, Ticino (baseline) |
 
-Il Ticino è il territorio di riferimento (base) per il confronto dei benchmark.
+Ticino is the reference territory (baseline) for the benchmark comparison.
 
 Status: initial benchmark research assignments recorded above; the remaining sections are templates to complete. No methodology has been approved.
 
