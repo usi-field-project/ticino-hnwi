@@ -65,19 +65,21 @@ The expanded topics define the planned research scope. A dash in Materials means
 │   ├── sources.csv
 │   └── indicators.csv
 │
-├── 04_benchmark/ (ancora da definire)
-│   ├── ticino/
-│   ├── italy_milan/
-│   ├── zurich/
-│   ├── geneva/
-│   ├── monaco/
-│   ├── dubai/
-│   ├── reference_hubs/
-│   │   ├── london/
-│   │   ├── singapore/
-│   │   └── luxembourg/
-│   └── nordic_contrast/
-│       └── sweden/
+├── 04_benchmark/
+│   ├── cantoni/
+│   │   ├── zugo/
+│   │   ├── zurigo/
+│   │   ├── ginevra/
+│   │   ├── grigioni/
+│   │   └── ticino/ (base)
+│   └── stati_citta/
+│       ├── dubai/
+│       ├── lisbona/
+│       ├── singapore/
+│       ├── monaco/
+│       ├── londra/
+│       ├── milano/
+│       └── lussemburgo/
 │
 ├── 05_interviews/
 │   ├── interview_guide.md
