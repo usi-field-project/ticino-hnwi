@@ -1,8 +1,58 @@
 # UBS Ticino HNWI Project
 
-Research materials for studying **Ticino’s attractiveness** and comparing it with other Swiss destinations: wealth, banking presence, business presence, employment, stability and institutions, quality of life, taxation, property, population, healthcare and education.
+Research materials for studying **Ticino’s attractiveness** and comparing it with other Swiss and international destinations: wealth, banking presence, business presence, employment, stability and institutions, quality of life, taxation, property, population, healthcare and education.
 
-## Start here
+## Research by destination
+
+Research is organised by destination, with **Ticino as the baseline**. Each researcher uses the shared topics below to collect comparable information for their assigned destinations.
+
+| Destination | Researcher | Research sheet |
+|---|---|---|
+| Zug | Luca | [Open sheet](04_benchmark/zug/README.md) |
+| Dubai | Luca | [Open sheet](04_benchmark/dubai/README.md) |
+| Lisbon | Luca | [Open sheet](04_benchmark/lisbon/README.md) |
+| Zurich | Elena | [Open sheet](04_benchmark/zurich/README.md) |
+| Singapore | Elena | [Open sheet](04_benchmark/reference_hubs/singapore/README.md) |
+| Monaco | Elena | [Open sheet](04_benchmark/monaco/README.md) |
+| Geneva | Nicole | [Open sheet](04_benchmark/geneva/README.md) |
+| London | Nicole | [Open sheet](04_benchmark/reference_hubs/london/README.md) |
+| Milan | Nicole | [Open sheet](04_benchmark/italy_milan/README.md) |
+| Graubünden | Petra | [Open sheet](04_benchmark/graubuenden/README.md) |
+| Luxembourg | Petra | [Open sheet](04_benchmark/reference_hubs/luxembourg/README.md) |
+| Ticino (baseline) | Petra | [Open sheet](04_benchmark/ticino/README.md) |
+
+The sheets are starting templates: complete each topic with findings, source links, reference periods and geographical coverage. Link to files already stored in `03_data/` instead of duplicating them. Mark missing information explicitly and explain limitations when figures are not directly comparable.
+
+## Shared research topics
+
+This is the proposed collection grid for every destination; the benchmark methodology remains to be completed.
+
+| Topic | Information to collect |
+|---|---|
+| **Wealth** | International wealth, private wealth and wealth distribution |
+| **Banking presence and density** | Number of banks operating in the territory; branch count and density per 100,000 residents and per km², distinguishing banks from branches |
+| **Business presence** | Number of companies present in the territory; companies per 1,000 residents and breakdown by sector, distinguishing registered companies from local establishments |
+| **Employment** | Employment level and rate, unemployment rate, and employment by sector |
+| **Stability and institutions** | Political and institutional stability, rule of law, regulatory predictability and public administration quality |
+| **Quality of life** | Safety and crime, cost of living, air pollution, noise, green spaces and access to everyday services |
+| **Taxation and relocation** | Income and wealth taxes, lump-sum taxation, inheritance and immigration |
+| **Real estate** | Residential and luxury property markets |
+| **Population and migration** | Residents, nationality, arrivals and departures; specify the geographical scope |
+| **Healthcare** | Hospitals, healthcare provision and historical series |
+| **Education** | Education system, international schools and higher education |
+
+## Sources already collected — Switzerland and Ticino
+
+The existing archive mainly supports the Swiss and Ticino research, with some international context. It does not yet provide complete coverage of every destination or topic.
+
+| Topic | Available materials |
+|---|---|
+| **Wealth** | [UBS, Swiss Banking and BAK reports](03_data/raw/reports/ricchezza/README.md) |
+| **Taxation and relocation** | [ESTV, KPMG and Deloitte reports](03_data/raw/reports/fiscalita/README.md) |
+| **Real estate** | [Original UBS reports](03_data/raw/reports/immobiliare/README.md) |
+| **Population and migration** | [USTAT/BFS tables](03_data/raw/demografia/README.md) · [USTAT guides](03_data/raw/reports/demografia/README.md) |
+| **Healthcare** | [BAG/BFS data](03_data/raw/sanita/README.md) · [Reports and definitions](03_data/raw/reports/sanita/README.md) |
+| **Education** | [Education in figures](03_data/raw/reports/istruzione/README.md) |
 
 | Looking for… | Open |
 |---|---|
@@ -12,24 +62,6 @@ Research materials for studying **Ticino’s attractiveness** and comparing it w
 | Publishers and source links | [Original sources](03_data/SOURCES.md) |
 
 **84 original files:** 22 PDFs, 13 Excel workbooks, 47 CSV files and 2 ZIP archives. Downloaded on 5 October 2026.
-
-## Browse by topic
-
-| Topic | Contents | Materials |
-|---|---|---|
-| **Wealth** | International wealth, private wealth and wealth distribution | [UBS, Swiss Banking and BAK reports](03_data/raw/reports/ricchezza/README.md) |
-| **Banking presence and density** | Number of banks operating in the territory; branch count and density per 100,000 residents and per km², distinguishing banks from branches | — |
-| **Business presence** | Number of companies present in the territory; companies per 1,000 residents and breakdown by sector, distinguishing registered companies from local establishments | — |
-| **Employment** | Employment level and rate, unemployment rate, and employment by sector | — |
-| **Stability and institutions** | Political and institutional stability, rule of law, regulatory predictability and public administration quality | — |
-| **Quality of life** | Safety and crime, cost of living, air pollution, noise, green spaces and access to everyday services | — |
-| **Taxation and relocation** | Income and wealth taxes, lump-sum taxation, inheritance and immigration | [ESTV, KPMG and Deloitte reports](03_data/raw/reports/fiscalita/README.md) |
-| **Real estate** | Residential and luxury property markets | [Original UBS reports](03_data/raw/reports/immobiliare/README.md) |
-| **Population and migration** | Residents, nationality, arrivals and departures, comparisons across cantons | [USTAT/BFS tables](03_data/raw/demografia/README.md) · [USTAT guides](03_data/raw/reports/demografia/README.md) |
-| **Healthcare** | Hospitals, healthcare provision and historical series | [BAG/BFS data](03_data/raw/sanita/README.md) · [Reports and definitions](03_data/raw/reports/sanita/README.md) |
-| **Education** | Ticino’s education system | [Education in figures](03_data/raw/reports/istruzione/README.md) |
-
-The expanded topics define the planned research scope. A dash in Materials means that supporting materials have yet to be collected; no new datasets or reports have been added for these topics.
 
 ## Three starting points
 
@@ -66,20 +98,20 @@ The expanded topics define the planned research scope. A dash in Materials means
 │   └── indicators.csv
 │
 ├── 04_benchmark/
-│   ├── cantoni/
-│   │   ├── zugo/
-│   │   ├── zurigo/
-│   │   ├── ginevra/
-│   │   ├── grigioni/
-│   │   └── ticino/ (base)
-│   └── stati_citta/
-│       ├── dubai/
-│       ├── lisbona/
-│       ├── singapore/
-│       ├── monaco/
-│       ├── londra/
-│       ├── milano/
-│       └── lussemburgo/
+│   ├── dubai/
+│   ├── geneva/
+│   ├── graubuenden/
+│   ├── italy_milan/
+│   ├── lisbon/
+│   ├── monaco/
+│   ├── nordic_contrast/ (existing background folder)
+│   ├── reference_hubs/
+│   │   ├── london/
+│   │   ├── luxembourg/
+│   │   └── singapore/
+│   ├── ticino/ (baseline)
+│   ├── zug/
+│   └── zurich/
 │
 ├── 05_interviews/
 │   ├── interview_guide.md
