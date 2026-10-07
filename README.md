@@ -59,7 +59,6 @@ Data, sources and findings will be added progressively after the team has collec
 ├── 05_interviews/
 │   ├── anonymized_transcripts/
 │   ├── coding/
-│   ├── consent_template.md
 │   ├── domande UBS.pdf
 │   ├── interview_guide.md
 │   ├── interview_summary.csv
