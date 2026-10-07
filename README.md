@@ -26,6 +26,82 @@ Data, sources and findings will be added progressively after the team has collec
 - [Milan](04_benchmark/italy_milan/README.md)
 - [Luxembourg](04_benchmark/reference_hubs/luxembourg/README.md)
 
+## Repository structure
+
+```text
+├── 01_project_management/
+│   ├── development_plan.md
+│   ├── meeting_notes/
+│   ├── roles_responsibilities.md
+│   └── timeline.md
+├── 02_methodology/
+│   ├── benchmark_methodology.md
+│   ├── interview_methodology.md
+│   ├── limitations.md
+│   ├── research_questions.md
+│   ├── scoring_methodology.md
+│   └── segmentation_framework.md
+├── 03_data/
+├── 04_benchmark/
+│   ├── dubai/
+│   │   └── README.md
+│   ├── geneva/
+│   │   └── README.md
+│   ├── graubuenden/
+│   │   └── README.md
+│   ├── italy_milan/
+│   │   └── README.md
+│   ├── lisbon/
+│   │   └── README.md
+│   ├── monaco/
+│   │   └── README.md
+│   ├── nordic_contrast/
+│   │   └── sweden/
+│   ├── reference_hubs/
+│   │   ├── london/
+│   │   │   └── README.md
+│   │   ├── luxembourg/
+│   │   │   └── README.md
+│   │   └── singapore/
+│   │       └── README.md
+│   ├── ticino/
+│   │   └── README.md
+│   ├── zug/
+│   │   └── README.md
+│   └── zurich/
+│       └── README.md
+├── 05_interviews/
+│   ├── anonymized_transcripts/
+│   ├── coding/
+│   ├── consent_template.md
+│   ├── domande UBS.pdf
+│   ├── interview_guide.md
+│   ├── interview_summary.csv
+│   ├── outreach_template.md
+│   └── transcripts/
+├── 06_analysis/
+│   ├── business_case_ubs/
+│   ├── risks_constraints/
+│   ├── scoring/
+│   ├── segmentation/
+│   └── sensitivity_analysis/
+├── 07_visualizations/
+│   ├── benchmark_heatmaps/
+│   ├── business_case/
+│   ├── interview_charts/
+│   ├── roadmap/
+│   └── segment_charts/
+├── 08_report/
+│   ├── drafts/
+│   ├── figures/
+│   ├── final/
+│   └── tables/
+└── 09_presentation/
+    ├── drafts/
+    ├── figures/
+    └── final/
+```
+
 ## Research structure
 
 The [shared research structure](02_methodology/benchmark_methodology.md#comparison-dimensions) covers:
