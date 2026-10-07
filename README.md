@@ -43,33 +43,19 @@ Data, sources and findings will be added progressively after the team has collec
 │   └── segmentation_framework.md
 ├── 03_data/
 ├── 04_benchmark/
-│   ├── dubai/
-│   │   └── README.md
-│   ├── geneva/
-│   │   └── README.md
-│   ├── graubuenden/
-│   │   └── README.md
-│   ├── italy_milan/
-│   │   └── README.md
-│   ├── lisbon/
-│   │   └── README.md
-│   ├── monaco/
-│   │   └── README.md
-│   ├── nordic_contrast/
-│   │   └── sweden/
-│   ├── reference_hubs/
-│   │   ├── london/
-│   │   │   └── README.md
-│   │   ├── luxembourg/
-│   │   │   └── README.md
-│   │   └── singapore/
-│   │       └── README.md
 │   ├── ticino/
-│   │   └── README.md
 │   ├── zug/
-│   │   └── README.md
-│   └── zurich/
-│       └── README.md
+│   ├── zurich/
+│   ├── geneva/
+│   ├── graubuenden/
+│   ├── dubai/
+│   ├── lisbon/
+│   ├── monaco/
+│   ├── italy_milan/
+│   └── reference_hubs/
+│       ├── singapore/
+│       ├── london/
+│       └── luxembourg/
 ├── 05_interviews/
 │   ├── anonymized_transcripts/
 │   ├── coding/
