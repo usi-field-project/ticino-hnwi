@@ -1,4 +1,4 @@
-# USI–UBS Field Project
+# UBS Field Project - USI
 
 This field project at Università della Svizzera italiana (USI), carried out with UBS, explores Canton Ticino’s attractiveness as a destination for High Net Worth Individuals (HNWIs) and Ultra High Net Worth Individuals (UHNWIs) through comparisons with other destinations and stakeholder interviews.
 
