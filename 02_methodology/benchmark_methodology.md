@@ -18,7 +18,7 @@ This is the proposed collection grid for every destination; the benchmark method
 | **Employment** | Employment level and rate, unemployment rate, and employment by sector |
 | **Stability and institutions** | Political and institutional stability, rule of law, regulatory predictability and public administration quality |
 | **Quality of life** | Safety and crime, cost of living, air pollution, noise, green spaces and access to everyday services |
-| **Taxation and relocation** | Income and wealth taxes, lump-sum taxation, inheritance and immigration |
+| **Taxation and relocation** | Income and wealth taxes, lump-sum taxation, inheritance taxes, and residency requirements |
 | **Real estate** | Residential and luxury property markets |
 | **Population and migration** | Residents, nationality, arrivals and departures; specify the geographical scope |
 | **Healthcare** | Hospitals, healthcare provision and historical series |
