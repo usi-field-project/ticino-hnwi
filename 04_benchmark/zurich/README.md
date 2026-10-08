@@ -1,7 +1,5 @@
 # Zurich
 
-Researcher: **Elena**.
-
 Status: research template; findings and sources to be collected.
 
 Ticino is the reference territory for the comparison.
