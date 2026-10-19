@@ -1,0 +1,1111 @@
+"jahr","gebietstyp_code","gebietstyp_name","gebiet_code","gebiet_name","steuertyp","steuerpflichtige"
+2025,1,"Kanton",1,"Kanton Zürich","juristische Personen mit ordentlicher Steuerpflicht",99989
+2025,2,"Bezirk",101,"Bezirk Affoltern","juristische Personen mit ordentlicher Steuerpflicht",2348
+2025,2,"Bezirk",102,"Bezirk Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",1499
+2025,2,"Bezirk",103,"Bezirk Bülach","juristische Personen mit ordentlicher Steuerpflicht",9184
+2025,2,"Bezirk",104,"Bezirk Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",4863
+2025,2,"Bezirk",105,"Bezirk Hinwil","juristische Personen mit ordentlicher Steuerpflicht",4463
+2025,2,"Bezirk",106,"Bezirk Horgen","juristische Personen mit ordentlicher Steuerpflicht",6559
+2025,2,"Bezirk",107,"Bezirk Meilen","juristische Personen mit ordentlicher Steuerpflicht",7362
+2025,2,"Bezirk",108,"Bezirk Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",2953
+2025,2,"Bezirk",109,"Bezirk Uster","juristische Personen mit ordentlicher Steuerpflicht",7353
+2025,2,"Bezirk",110,"Bezirk Winterthur","juristische Personen mit ordentlicher Steuerpflicht",7996
+2025,2,"Bezirk",111,"Bezirk Dietikon","juristische Personen mit ordentlicher Steuerpflicht",5719
+2025,2,"Bezirk",112,"Bezirk Zürich","juristische Personen mit ordentlicher Steuerpflicht",39690
+2025,3,"Gemeinde",1,"Aeugst am Albis","juristische Personen mit ordentlicher Steuerpflicht",72
+2025,3,"Gemeinde",2,"Affoltern am Albis","juristische Personen mit ordentlicher Steuerpflicht",625
+2025,3,"Gemeinde",3,"Bonstetten","juristische Personen mit ordentlicher Steuerpflicht",173
+2025,3,"Gemeinde",4,"Hausen am Albis","juristische Personen mit ordentlicher Steuerpflicht",161
+2025,3,"Gemeinde",5,"Hedingen","juristische Personen mit ordentlicher Steuerpflicht",140
+2025,3,"Gemeinde",6,"Kappel am Albis","juristische Personen mit ordentlicher Steuerpflicht",67
+2025,3,"Gemeinde",7,"Knonau","juristische Personen mit ordentlicher Steuerpflicht",111
+2025,3,"Gemeinde",8,"Maschwanden","juristische Personen mit ordentlicher Steuerpflicht",26
+2025,3,"Gemeinde",9,"Mettmenstetten","juristische Personen mit ordentlicher Steuerpflicht",216
+2025,3,"Gemeinde",10,"Obfelden","juristische Personen mit ordentlicher Steuerpflicht",178
+2025,3,"Gemeinde",11,"Ottenbach","juristische Personen mit ordentlicher Steuerpflicht",113
+2025,3,"Gemeinde",12,"Rifferswil","juristische Personen mit ordentlicher Steuerpflicht",55
+2025,3,"Gemeinde",13,"Stallikon","juristische Personen mit ordentlicher Steuerpflicht",170
+2025,3,"Gemeinde",14,"Wettswil am Albis","juristische Personen mit ordentlicher Steuerpflicht",241
+2025,3,"Gemeinde",22,"Benken (ZH)","juristische Personen mit ordentlicher Steuerpflicht",38
+2025,3,"Gemeinde",23,"Berg am Irchel","juristische Personen mit ordentlicher Steuerpflicht",23
+2025,3,"Gemeinde",24,"Buch am Irchel","juristische Personen mit ordentlicher Steuerpflicht",35
+2025,3,"Gemeinde",25,"Dachsen","juristische Personen mit ordentlicher Steuerpflicht",80
+2025,3,"Gemeinde",26,"Dorf","juristische Personen mit ordentlicher Steuerpflicht",30
+2025,3,"Gemeinde",27,"Feuerthalen","juristische Personen mit ordentlicher Steuerpflicht",142
+2025,3,"Gemeinde",28,"Flaach","juristische Personen mit ordentlicher Steuerpflicht",87
+2025,3,"Gemeinde",29,"Flurlingen","juristische Personen mit ordentlicher Steuerpflicht",107
+2025,3,"Gemeinde",31,"Henggart","juristische Personen mit ordentlicher Steuerpflicht",71
+2025,3,"Gemeinde",33,"Kleinandelfingen","juristische Personen mit ordentlicher Steuerpflicht",139
+2025,3,"Gemeinde",34,"Laufen-Uhwiesen","juristische Personen mit ordentlicher Steuerpflicht",71
+2025,3,"Gemeinde",35,"Marthalen","juristische Personen mit ordentlicher Steuerpflicht",132
+2025,3,"Gemeinde",37,"Ossingen","juristische Personen mit ordentlicher Steuerpflicht",67
+2025,3,"Gemeinde",38,"Rheinau","juristische Personen mit ordentlicher Steuerpflicht",46
+2025,3,"Gemeinde",39,"Thalheim an der Thur","juristische Personen mit ordentlicher Steuerpflicht",57
+2025,3,"Gemeinde",40,"Trüllikon","juristische Personen mit ordentlicher Steuerpflicht",39
+2025,3,"Gemeinde",41,"Truttikon","juristische Personen mit ordentlicher Steuerpflicht",22
+2025,3,"Gemeinde",43,"Volken","juristische Personen mit ordentlicher Steuerpflicht",15
+2025,3,"Gemeinde",51,"Bachenbülach","juristische Personen mit ordentlicher Steuerpflicht",250
+2025,3,"Gemeinde",52,"Bassersdorf","juristische Personen mit ordentlicher Steuerpflicht",555
+2025,3,"Gemeinde",53,"Bülach","juristische Personen mit ordentlicher Steuerpflicht",897
+2025,3,"Gemeinde",54,"Dietlikon","juristische Personen mit ordentlicher Steuerpflicht",568
+2025,3,"Gemeinde",55,"Eglisau","juristische Personen mit ordentlicher Steuerpflicht",193
+2025,3,"Gemeinde",56,"Embrach","juristische Personen mit ordentlicher Steuerpflicht",387
+2025,3,"Gemeinde",57,"Freienstein-Teufen","juristische Personen mit ordentlicher Steuerpflicht",86
+2025,3,"Gemeinde",58,"Glattfelden","juristische Personen mit ordentlicher Steuerpflicht",169
+2025,3,"Gemeinde",59,"Hochfelden","juristische Personen mit ordentlicher Steuerpflicht",40
+2025,3,"Gemeinde",60,"Höri","juristische Personen mit ordentlicher Steuerpflicht",201
+2025,3,"Gemeinde",61,"Hüntwangen","juristische Personen mit ordentlicher Steuerpflicht",70
+2025,3,"Gemeinde",62,"Kloten","juristische Personen mit ordentlicher Steuerpflicht",1404
+2025,3,"Gemeinde",63,"Lufingen","juristische Personen mit ordentlicher Steuerpflicht",109
+2025,3,"Gemeinde",64,"Nürensdorf","juristische Personen mit ordentlicher Steuerpflicht",276
+2025,3,"Gemeinde",65,"Oberembrach","juristische Personen mit ordentlicher Steuerpflicht",47
+2025,3,"Gemeinde",66,"Opfikon","juristische Personen mit ordentlicher Steuerpflicht",1784
+2025,3,"Gemeinde",67,"Rafz","juristische Personen mit ordentlicher Steuerpflicht",183
+2025,3,"Gemeinde",68,"Rorbas","juristische Personen mit ordentlicher Steuerpflicht",108
+2025,3,"Gemeinde",69,"Wallisellen","juristische Personen mit ordentlicher Steuerpflicht",1493
+2025,3,"Gemeinde",70,"Wasterkingen","juristische Personen mit ordentlicher Steuerpflicht",21
+2025,3,"Gemeinde",71,"Wil (ZH)","juristische Personen mit ordentlicher Steuerpflicht",79
+2025,3,"Gemeinde",72,"Winkel","juristische Personen mit ordentlicher Steuerpflicht",264
+2025,3,"Gemeinde",81,"Bachs","juristische Personen mit ordentlicher Steuerpflicht",22
+2025,3,"Gemeinde",82,"Boppelsen","juristische Personen mit ordentlicher Steuerpflicht",67
+2025,3,"Gemeinde",83,"Buchs (ZH)","juristische Personen mit ordentlicher Steuerpflicht",264
+2025,3,"Gemeinde",84,"Dällikon","juristische Personen mit ordentlicher Steuerpflicht",257
+2025,3,"Gemeinde",85,"Dänikon","juristische Personen mit ordentlicher Steuerpflicht",67
+2025,3,"Gemeinde",86,"Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",309
+2025,3,"Gemeinde",87,"Hüttikon","juristische Personen mit ordentlicher Steuerpflicht",37
+2025,3,"Gemeinde",88,"Neerach","juristische Personen mit ordentlicher Steuerpflicht",232
+2025,3,"Gemeinde",89,"Niederglatt","juristische Personen mit ordentlicher Steuerpflicht",210
+2025,3,"Gemeinde",90,"Niederhasli","juristische Personen mit ordentlicher Steuerpflicht",385
+2025,3,"Gemeinde",91,"Niederweningen","juristische Personen mit ordentlicher Steuerpflicht",106
+2025,3,"Gemeinde",92,"Oberglatt","juristische Personen mit ordentlicher Steuerpflicht",269
+2025,3,"Gemeinde",93,"Oberweningen","juristische Personen mit ordentlicher Steuerpflicht",69
+2025,3,"Gemeinde",94,"Otelfingen","juristische Personen mit ordentlicher Steuerpflicht",267
+2025,3,"Gemeinde",95,"Regensberg","juristische Personen mit ordentlicher Steuerpflicht",16
+2025,3,"Gemeinde",96,"Regensdorf","juristische Personen mit ordentlicher Steuerpflicht",1184
+2025,3,"Gemeinde",97,"Rümlang","juristische Personen mit ordentlicher Steuerpflicht",692
+2025,3,"Gemeinde",98,"Schleinikon","juristische Personen mit ordentlicher Steuerpflicht",41
+2025,3,"Gemeinde",99,"Schöfflisdorf","juristische Personen mit ordentlicher Steuerpflicht",67
+2025,3,"Gemeinde",100,"Stadel","juristische Personen mit ordentlicher Steuerpflicht",89
+2025,3,"Gemeinde",101,"Steinmaur","juristische Personen mit ordentlicher Steuerpflicht",141
+2025,3,"Gemeinde",102,"Weiach","juristische Personen mit ordentlicher Steuerpflicht",72
+2025,3,"Gemeinde",111,"Bäretswil","juristische Personen mit ordentlicher Steuerpflicht",224
+2025,3,"Gemeinde",112,"Bubikon","juristische Personen mit ordentlicher Steuerpflicht",424
+2025,3,"Gemeinde",113,"Dürnten","juristische Personen mit ordentlicher Steuerpflicht",271
+2025,3,"Gemeinde",114,"Fischenthal","juristische Personen mit ordentlicher Steuerpflicht",100
+2025,3,"Gemeinde",115,"Gossau (ZH)","juristische Personen mit ordentlicher Steuerpflicht",346
+2025,3,"Gemeinde",116,"Grüningen","juristische Personen mit ordentlicher Steuerpflicht",184
+2025,3,"Gemeinde",117,"Hinwil","juristische Personen mit ordentlicher Steuerpflicht",612
+2025,3,"Gemeinde",118,"Rüti (ZH)","juristische Personen mit ordentlicher Steuerpflicht",572
+2025,3,"Gemeinde",119,"Seegräben","juristische Personen mit ordentlicher Steuerpflicht",81
+2025,3,"Gemeinde",120,"Wald (ZH)","juristische Personen mit ordentlicher Steuerpflicht",388
+2025,3,"Gemeinde",121,"Wetzikon (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1261
+2025,3,"Gemeinde",131,"Adliswil","juristische Personen mit ordentlicher Steuerpflicht",794
+2025,3,"Gemeinde",135,"Kilchberg (ZH)","juristische Personen mit ordentlicher Steuerpflicht",665
+2025,3,"Gemeinde",136,"Langnau am Albis","juristische Personen mit ordentlicher Steuerpflicht",226
+2025,3,"Gemeinde",137,"Oberrieden","juristische Personen mit ordentlicher Steuerpflicht",202
+2025,3,"Gemeinde",138,"Richterswil","juristische Personen mit ordentlicher Steuerpflicht",562
+2025,3,"Gemeinde",139,"Rüschlikon","juristische Personen mit ordentlicher Steuerpflicht",464
+2025,3,"Gemeinde",141,"Thalwil","juristische Personen mit ordentlicher Steuerpflicht",1113
+2025,3,"Gemeinde",151,"Erlenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",478
+2025,3,"Gemeinde",152,"Herrliberg","juristische Personen mit ordentlicher Steuerpflicht",489
+2025,3,"Gemeinde",153,"Hombrechtikon","juristische Personen mit ordentlicher Steuerpflicht",418
+2025,3,"Gemeinde",154,"Küsnacht (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1364
+2025,3,"Gemeinde",155,"Männedorf","juristische Personen mit ordentlicher Steuerpflicht",534
+2025,3,"Gemeinde",156,"Meilen","juristische Personen mit ordentlicher Steuerpflicht",1023
+2025,3,"Gemeinde",157,"Oetwil am See","juristische Personen mit ordentlicher Steuerpflicht",207
+2025,3,"Gemeinde",158,"Stäfa","juristische Personen mit ordentlicher Steuerpflicht",816
+2025,3,"Gemeinde",159,"Uetikon am See","juristische Personen mit ordentlicher Steuerpflicht",343
+2025,3,"Gemeinde",160,"Zumikon","juristische Personen mit ordentlicher Steuerpflicht",378
+2025,3,"Gemeinde",161,"Zollikon","juristische Personen mit ordentlicher Steuerpflicht",1312
+2025,3,"Gemeinde",172,"Fehraltorf","juristische Personen mit ordentlicher Steuerpflicht",374
+2025,3,"Gemeinde",173,"Hittnau","juristische Personen mit ordentlicher Steuerpflicht",164
+2025,3,"Gemeinde",176,"Lindau","juristische Personen mit ordentlicher Steuerpflicht",415
+2025,3,"Gemeinde",177,"Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",578
+2025,3,"Gemeinde",178,"Russikon","juristische Personen mit ordentlicher Steuerpflicht",194
+2025,3,"Gemeinde",180,"Weisslingen","juristische Personen mit ordentlicher Steuerpflicht",123
+2025,3,"Gemeinde",181,"Wila","juristische Personen mit ordentlicher Steuerpflicht",96
+2025,3,"Gemeinde",182,"Wildberg","juristische Personen mit ordentlicher Steuerpflicht",35
+2025,3,"Gemeinde",191,"Dübendorf","juristische Personen mit ordentlicher Steuerpflicht",1906
+2025,3,"Gemeinde",192,"Egg","juristische Personen mit ordentlicher Steuerpflicht",391
+2025,3,"Gemeinde",193,"Fällanden","juristische Personen mit ordentlicher Steuerpflicht",398
+2025,3,"Gemeinde",194,"Greifensee","juristische Personen mit ordentlicher Steuerpflicht",184
+2025,3,"Gemeinde",195,"Maur","juristische Personen mit ordentlicher Steuerpflicht",592
+2025,3,"Gemeinde",196,"Mönchaltorf","juristische Personen mit ordentlicher Steuerpflicht",176
+2025,3,"Gemeinde",197,"Schwerzenbach","juristische Personen mit ordentlicher Steuerpflicht",297
+2025,3,"Gemeinde",198,"Uster","juristische Personen mit ordentlicher Steuerpflicht",1732
+2025,3,"Gemeinde",199,"Volketswil","juristische Personen mit ordentlicher Steuerpflicht",1097
+2025,3,"Gemeinde",200,"Wangen-Brüttisellen","juristische Personen mit ordentlicher Steuerpflicht",580
+2025,3,"Gemeinde",211,"Altikon","juristische Personen mit ordentlicher Steuerpflicht",27
+2025,3,"Gemeinde",213,"Brütten","juristische Personen mit ordentlicher Steuerpflicht",83
+2025,3,"Gemeinde",214,"Dägerlen","juristische Personen mit ordentlicher Steuerpflicht",39
+2025,3,"Gemeinde",215,"Dättlikon","juristische Personen mit ordentlicher Steuerpflicht",42
+2025,3,"Gemeinde",216,"Dinhard","juristische Personen mit ordentlicher Steuerpflicht",73
+2025,3,"Gemeinde",218,"Ellikon an der Thur","juristische Personen mit ordentlicher Steuerpflicht",64
+2025,3,"Gemeinde",219,"Elsau","juristische Personen mit ordentlicher Steuerpflicht",175
+2025,3,"Gemeinde",220,"Hagenbuch","juristische Personen mit ordentlicher Steuerpflicht",37
+2025,3,"Gemeinde",221,"Hettlingen","juristische Personen mit ordentlicher Steuerpflicht",132
+2025,3,"Gemeinde",223,"Neftenbach","juristische Personen mit ordentlicher Steuerpflicht",275
+2025,3,"Gemeinde",224,"Pfungen","juristische Personen mit ordentlicher Steuerpflicht",175
+2025,3,"Gemeinde",225,"Rickenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",101
+2025,3,"Gemeinde",226,"Schlatt (ZH)","juristische Personen mit ordentlicher Steuerpflicht",27
+2025,3,"Gemeinde",227,"Seuzach","juristische Personen mit ordentlicher Steuerpflicht",333
+2025,3,"Gemeinde",228,"Turbenthal","juristische Personen mit ordentlicher Steuerpflicht",213
+2025,3,"Gemeinde",230,"Winterthur","juristische Personen mit ordentlicher Steuerpflicht",5506
+2025,3,"Gemeinde",231,"Zell (ZH)","juristische Personen mit ordentlicher Steuerpflicht",213
+2025,3,"Gemeinde",241,"Aesch (ZH)","juristische Personen mit ordentlicher Steuerpflicht",84
+2025,3,"Gemeinde",242,"Birmensdorf (ZH)","juristische Personen mit ordentlicher Steuerpflicht",361
+2025,3,"Gemeinde",243,"Dietikon","juristische Personen mit ordentlicher Steuerpflicht",1707
+2025,3,"Gemeinde",244,"Geroldswil","juristische Personen mit ordentlicher Steuerpflicht",315
+2025,3,"Gemeinde",245,"Oberengstringen","juristische Personen mit ordentlicher Steuerpflicht",216
+2025,3,"Gemeinde",246,"Oetwil an der Limmat","juristische Personen mit ordentlicher Steuerpflicht",114
+2025,3,"Gemeinde",247,"Schlieren","juristische Personen mit ordentlicher Steuerpflicht",1442
+2025,3,"Gemeinde",248,"Uitikon","juristische Personen mit ordentlicher Steuerpflicht",372
+2025,3,"Gemeinde",249,"Unterengstringen","juristische Personen mit ordentlicher Steuerpflicht",264
+2025,3,"Gemeinde",250,"Urdorf","juristische Personen mit ordentlicher Steuerpflicht",606
+2025,3,"Gemeinde",251,"Weiningen (ZH)","juristische Personen mit ordentlicher Steuerpflicht",238
+2025,3,"Gemeinde",261,"Zürich","juristische Personen mit ordentlicher Steuerpflicht",39690
+2025,3,"Gemeinde",291,"Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",173
+2025,3,"Gemeinde",292,"Stammheim","juristische Personen mit ordentlicher Steuerpflicht",125
+2025,3,"Gemeinde",293,"Wädenswil","juristische Personen mit ordentlicher Steuerpflicht",1257
+2025,3,"Gemeinde",294,"Elgg","juristische Personen mit ordentlicher Steuerpflicht",214
+2025,3,"Gemeinde",295,"Horgen","juristische Personen mit ordentlicher Steuerpflicht",1276
+2025,3,"Gemeinde",296,"Illnau-Effretikon","juristische Personen mit ordentlicher Steuerpflicht",747
+2025,3,"Gemeinde",297,"Bauma","juristische Personen mit ordentlicher Steuerpflicht",227
+2025,3,"Gemeinde",298,"Wiesendangen","juristische Personen mit ordentlicher Steuerpflicht",267
+2025,6,"Raumplanungsregion",101,"Stadt Zürich","juristische Personen mit ordentlicher Steuerpflicht",39690
+2025,6,"Raumplanungsregion",102,"Glattal","juristische Personen mit ordentlicher Steuerpflicht",11826
+2025,6,"Raumplanungsregion",103,"Furttal","juristische Personen mit ordentlicher Steuerpflicht",2143
+2025,6,"Raumplanungsregion",104,"Limmattal","juristische Personen mit ordentlicher Steuerpflicht",5719
+2025,6,"Raumplanungsregion",105,"Knonaueramt","juristische Personen mit ordentlicher Steuerpflicht",2348
+2025,6,"Raumplanungsregion",106,"Zimmerberg","juristische Personen mit ordentlicher Steuerpflicht",6559
+2025,6,"Raumplanungsregion",107,"Pfannenstiel","juristische Personen mit ordentlicher Steuerpflicht",7753
+2025,6,"Raumplanungsregion",108,"Zürcher Oberland","juristische Personen mit ordentlicher Steuerpflicht",8039
+2025,6,"Raumplanungsregion",109,"Winterthur und Umgebung","juristische Personen mit ordentlicher Steuerpflicht",9281
+2025,6,"Raumplanungsregion",110,"Weinland","juristische Personen mit ordentlicher Steuerpflicht",1499
+2025,6,"Raumplanungsregion",111,"Zürcher Unterland","juristische Personen mit ordentlicher Steuerpflicht",5132
+2024,1,"Kanton",1,"Kanton Zürich","juristische Personen mit ordentlicher Steuerpflicht",97026
+2024,2,"Bezirk",101,"Bezirk Affoltern","juristische Personen mit ordentlicher Steuerpflicht",2275
+2024,2,"Bezirk",102,"Bezirk Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",1418
+2024,2,"Bezirk",103,"Bezirk Bülach","juristische Personen mit ordentlicher Steuerpflicht",8868
+2024,2,"Bezirk",104,"Bezirk Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",4711
+2024,2,"Bezirk",105,"Bezirk Hinwil","juristische Personen mit ordentlicher Steuerpflicht",4308
+2024,2,"Bezirk",106,"Bezirk Horgen","juristische Personen mit ordentlicher Steuerpflicht",6289
+2024,2,"Bezirk",107,"Bezirk Meilen","juristische Personen mit ordentlicher Steuerpflicht",7087
+2024,2,"Bezirk",108,"Bezirk Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",2837
+2024,2,"Bezirk",109,"Bezirk Uster","juristische Personen mit ordentlicher Steuerpflicht",7192
+2024,2,"Bezirk",110,"Bezirk Winterthur","juristische Personen mit ordentlicher Steuerpflicht",7785
+2024,2,"Bezirk",111,"Bezirk Dietikon","juristische Personen mit ordentlicher Steuerpflicht",5510
+2024,2,"Bezirk",112,"Bezirk Zürich","juristische Personen mit ordentlicher Steuerpflicht",38746
+2024,3,"Gemeinde",1,"Aeugst am Albis","juristische Personen mit ordentlicher Steuerpflicht",77
+2024,3,"Gemeinde",2,"Affoltern am Albis","juristische Personen mit ordentlicher Steuerpflicht",592
+2024,3,"Gemeinde",3,"Bonstetten","juristische Personen mit ordentlicher Steuerpflicht",172
+2024,3,"Gemeinde",4,"Hausen am Albis","juristische Personen mit ordentlicher Steuerpflicht",162
+2024,3,"Gemeinde",5,"Hedingen","juristische Personen mit ordentlicher Steuerpflicht",129
+2024,3,"Gemeinde",6,"Kappel am Albis","juristische Personen mit ordentlicher Steuerpflicht",66
+2024,3,"Gemeinde",7,"Knonau","juristische Personen mit ordentlicher Steuerpflicht",107
+2024,3,"Gemeinde",8,"Maschwanden","juristische Personen mit ordentlicher Steuerpflicht",24
+2024,3,"Gemeinde",9,"Mettmenstetten","juristische Personen mit ordentlicher Steuerpflicht",208
+2024,3,"Gemeinde",10,"Obfelden","juristische Personen mit ordentlicher Steuerpflicht",189
+2024,3,"Gemeinde",11,"Ottenbach","juristische Personen mit ordentlicher Steuerpflicht",108
+2024,3,"Gemeinde",12,"Rifferswil","juristische Personen mit ordentlicher Steuerpflicht",50
+2024,3,"Gemeinde",13,"Stallikon","juristische Personen mit ordentlicher Steuerpflicht",164
+2024,3,"Gemeinde",14,"Wettswil am Albis","juristische Personen mit ordentlicher Steuerpflicht",227
+2024,3,"Gemeinde",22,"Benken (ZH)","juristische Personen mit ordentlicher Steuerpflicht",31
+2024,3,"Gemeinde",23,"Berg am Irchel","juristische Personen mit ordentlicher Steuerpflicht",21
+2024,3,"Gemeinde",24,"Buch am Irchel","juristische Personen mit ordentlicher Steuerpflicht",35
+2024,3,"Gemeinde",25,"Dachsen","juristische Personen mit ordentlicher Steuerpflicht",74
+2024,3,"Gemeinde",26,"Dorf","juristische Personen mit ordentlicher Steuerpflicht",28
+2024,3,"Gemeinde",27,"Feuerthalen","juristische Personen mit ordentlicher Steuerpflicht",133
+2024,3,"Gemeinde",28,"Flaach","juristische Personen mit ordentlicher Steuerpflicht",78
+2024,3,"Gemeinde",29,"Flurlingen","juristische Personen mit ordentlicher Steuerpflicht",104
+2024,3,"Gemeinde",31,"Henggart","juristische Personen mit ordentlicher Steuerpflicht",72
+2024,3,"Gemeinde",33,"Kleinandelfingen","juristische Personen mit ordentlicher Steuerpflicht",128
+2024,3,"Gemeinde",34,"Laufen-Uhwiesen","juristische Personen mit ordentlicher Steuerpflicht",67
+2024,3,"Gemeinde",35,"Marthalen","juristische Personen mit ordentlicher Steuerpflicht",125
+2024,3,"Gemeinde",37,"Ossingen","juristische Personen mit ordentlicher Steuerpflicht",69
+2024,3,"Gemeinde",38,"Rheinau","juristische Personen mit ordentlicher Steuerpflicht",46
+2024,3,"Gemeinde",39,"Thalheim an der Thur","juristische Personen mit ordentlicher Steuerpflicht",53
+2024,3,"Gemeinde",40,"Trüllikon","juristische Personen mit ordentlicher Steuerpflicht",39
+2024,3,"Gemeinde",41,"Truttikon","juristische Personen mit ordentlicher Steuerpflicht",22
+2024,3,"Gemeinde",43,"Volken","juristische Personen mit ordentlicher Steuerpflicht",15
+2024,3,"Gemeinde",51,"Bachenbülach","juristische Personen mit ordentlicher Steuerpflicht",239
+2024,3,"Gemeinde",52,"Bassersdorf","juristische Personen mit ordentlicher Steuerpflicht",553
+2024,3,"Gemeinde",53,"Bülach","juristische Personen mit ordentlicher Steuerpflicht",868
+2024,3,"Gemeinde",54,"Dietlikon","juristische Personen mit ordentlicher Steuerpflicht",559
+2024,3,"Gemeinde",55,"Eglisau","juristische Personen mit ordentlicher Steuerpflicht",177
+2024,3,"Gemeinde",56,"Embrach","juristische Personen mit ordentlicher Steuerpflicht",357
+2024,3,"Gemeinde",57,"Freienstein-Teufen","juristische Personen mit ordentlicher Steuerpflicht",91
+2024,3,"Gemeinde",58,"Glattfelden","juristische Personen mit ordentlicher Steuerpflicht",164
+2024,3,"Gemeinde",59,"Hochfelden","juristische Personen mit ordentlicher Steuerpflicht",41
+2024,3,"Gemeinde",60,"Höri","juristische Personen mit ordentlicher Steuerpflicht",191
+2024,3,"Gemeinde",61,"Hüntwangen","juristische Personen mit ordentlicher Steuerpflicht",64
+2024,3,"Gemeinde",62,"Kloten","juristische Personen mit ordentlicher Steuerpflicht",1345
+2024,3,"Gemeinde",63,"Lufingen","juristische Personen mit ordentlicher Steuerpflicht",103
+2024,3,"Gemeinde",64,"Nürensdorf","juristische Personen mit ordentlicher Steuerpflicht",272
+2024,3,"Gemeinde",65,"Oberembrach","juristische Personen mit ordentlicher Steuerpflicht",47
+2024,3,"Gemeinde",66,"Opfikon","juristische Personen mit ordentlicher Steuerpflicht",1751
+2024,3,"Gemeinde",67,"Rafz","juristische Personen mit ordentlicher Steuerpflicht",175
+2024,3,"Gemeinde",68,"Rorbas","juristische Personen mit ordentlicher Steuerpflicht",101
+2024,3,"Gemeinde",69,"Wallisellen","juristische Personen mit ordentlicher Steuerpflicht",1430
+2024,3,"Gemeinde",70,"Wasterkingen","juristische Personen mit ordentlicher Steuerpflicht",21
+2024,3,"Gemeinde",71,"Wil (ZH)","juristische Personen mit ordentlicher Steuerpflicht",76
+2024,3,"Gemeinde",72,"Winkel","juristische Personen mit ordentlicher Steuerpflicht",243
+2024,3,"Gemeinde",81,"Bachs","juristische Personen mit ordentlicher Steuerpflicht",19
+2024,3,"Gemeinde",82,"Boppelsen","juristische Personen mit ordentlicher Steuerpflicht",68
+2024,3,"Gemeinde",83,"Buchs (ZH)","juristische Personen mit ordentlicher Steuerpflicht",250
+2024,3,"Gemeinde",84,"Dällikon","juristische Personen mit ordentlicher Steuerpflicht",262
+2024,3,"Gemeinde",85,"Dänikon","juristische Personen mit ordentlicher Steuerpflicht",69
+2024,3,"Gemeinde",86,"Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",296
+2024,3,"Gemeinde",87,"Hüttikon","juristische Personen mit ordentlicher Steuerpflicht",43
+2024,3,"Gemeinde",88,"Neerach","juristische Personen mit ordentlicher Steuerpflicht",234
+2024,3,"Gemeinde",89,"Niederglatt","juristische Personen mit ordentlicher Steuerpflicht",203
+2024,3,"Gemeinde",90,"Niederhasli","juristische Personen mit ordentlicher Steuerpflicht",367
+2024,3,"Gemeinde",91,"Niederweningen","juristische Personen mit ordentlicher Steuerpflicht",101
+2024,3,"Gemeinde",92,"Oberglatt","juristische Personen mit ordentlicher Steuerpflicht",261
+2024,3,"Gemeinde",93,"Oberweningen","juristische Personen mit ordentlicher Steuerpflicht",65
+2024,3,"Gemeinde",94,"Otelfingen","juristische Personen mit ordentlicher Steuerpflicht",243
+2024,3,"Gemeinde",95,"Regensberg","juristische Personen mit ordentlicher Steuerpflicht",16
+2024,3,"Gemeinde",96,"Regensdorf","juristische Personen mit ordentlicher Steuerpflicht",1140
+2024,3,"Gemeinde",97,"Rümlang","juristische Personen mit ordentlicher Steuerpflicht",678
+2024,3,"Gemeinde",98,"Schleinikon","juristische Personen mit ordentlicher Steuerpflicht",36
+2024,3,"Gemeinde",99,"Schöfflisdorf","juristische Personen mit ordentlicher Steuerpflicht",66
+2024,3,"Gemeinde",100,"Stadel","juristische Personen mit ordentlicher Steuerpflicht",84
+2024,3,"Gemeinde",101,"Steinmaur","juristische Personen mit ordentlicher Steuerpflicht",136
+2024,3,"Gemeinde",102,"Weiach","juristische Personen mit ordentlicher Steuerpflicht",74
+2024,3,"Gemeinde",111,"Bäretswil","juristische Personen mit ordentlicher Steuerpflicht",219
+2024,3,"Gemeinde",112,"Bubikon","juristische Personen mit ordentlicher Steuerpflicht",398
+2024,3,"Gemeinde",113,"Dürnten","juristische Personen mit ordentlicher Steuerpflicht",265
+2024,3,"Gemeinde",114,"Fischenthal","juristische Personen mit ordentlicher Steuerpflicht",100
+2024,3,"Gemeinde",115,"Gossau (ZH)","juristische Personen mit ordentlicher Steuerpflicht",349
+2024,3,"Gemeinde",116,"Grüningen","juristische Personen mit ordentlicher Steuerpflicht",164
+2024,3,"Gemeinde",117,"Hinwil","juristische Personen mit ordentlicher Steuerpflicht",582
+2024,3,"Gemeinde",118,"Rüti (ZH)","juristische Personen mit ordentlicher Steuerpflicht",569
+2024,3,"Gemeinde",119,"Seegräben","juristische Personen mit ordentlicher Steuerpflicht",67
+2024,3,"Gemeinde",120,"Wald (ZH)","juristische Personen mit ordentlicher Steuerpflicht",377
+2024,3,"Gemeinde",121,"Wetzikon (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1218
+2024,3,"Gemeinde",131,"Adliswil","juristische Personen mit ordentlicher Steuerpflicht",771
+2024,3,"Gemeinde",135,"Kilchberg (ZH)","juristische Personen mit ordentlicher Steuerpflicht",633
+2024,3,"Gemeinde",136,"Langnau am Albis","juristische Personen mit ordentlicher Steuerpflicht",234
+2024,3,"Gemeinde",137,"Oberrieden","juristische Personen mit ordentlicher Steuerpflicht",191
+2024,3,"Gemeinde",138,"Richterswil","juristische Personen mit ordentlicher Steuerpflicht",551
+2024,3,"Gemeinde",139,"Rüschlikon","juristische Personen mit ordentlicher Steuerpflicht",438
+2024,3,"Gemeinde",141,"Thalwil","juristische Personen mit ordentlicher Steuerpflicht",1043
+2024,3,"Gemeinde",151,"Erlenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",472
+2024,3,"Gemeinde",152,"Herrliberg","juristische Personen mit ordentlicher Steuerpflicht",477
+2024,3,"Gemeinde",153,"Hombrechtikon","juristische Personen mit ordentlicher Steuerpflicht",397
+2024,3,"Gemeinde",154,"Küsnacht (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1322
+2024,3,"Gemeinde",155,"Männedorf","juristische Personen mit ordentlicher Steuerpflicht",512
+2024,3,"Gemeinde",156,"Meilen","juristische Personen mit ordentlicher Steuerpflicht",955
+2024,3,"Gemeinde",157,"Oetwil am See","juristische Personen mit ordentlicher Steuerpflicht",202
+2024,3,"Gemeinde",158,"Stäfa","juristische Personen mit ordentlicher Steuerpflicht",785
+2024,3,"Gemeinde",159,"Uetikon am See","juristische Personen mit ordentlicher Steuerpflicht",334
+2024,3,"Gemeinde",160,"Zumikon","juristische Personen mit ordentlicher Steuerpflicht",358
+2024,3,"Gemeinde",161,"Zollikon","juristische Personen mit ordentlicher Steuerpflicht",1273
+2024,3,"Gemeinde",172,"Fehraltorf","juristische Personen mit ordentlicher Steuerpflicht",360
+2024,3,"Gemeinde",173,"Hittnau","juristische Personen mit ordentlicher Steuerpflicht",168
+2024,3,"Gemeinde",176,"Lindau","juristische Personen mit ordentlicher Steuerpflicht",385
+2024,3,"Gemeinde",177,"Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",554
+2024,3,"Gemeinde",178,"Russikon","juristische Personen mit ordentlicher Steuerpflicht",185
+2024,3,"Gemeinde",180,"Weisslingen","juristische Personen mit ordentlicher Steuerpflicht",123
+2024,3,"Gemeinde",181,"Wila","juristische Personen mit ordentlicher Steuerpflicht",99
+2024,3,"Gemeinde",182,"Wildberg","juristische Personen mit ordentlicher Steuerpflicht",36
+2024,3,"Gemeinde",191,"Dübendorf","juristische Personen mit ordentlicher Steuerpflicht",1822
+2024,3,"Gemeinde",192,"Egg","juristische Personen mit ordentlicher Steuerpflicht",404
+2024,3,"Gemeinde",193,"Fällanden","juristische Personen mit ordentlicher Steuerpflicht",395
+2024,3,"Gemeinde",194,"Greifensee","juristische Personen mit ordentlicher Steuerpflicht",177
+2024,3,"Gemeinde",195,"Maur","juristische Personen mit ordentlicher Steuerpflicht",570
+2024,3,"Gemeinde",196,"Mönchaltorf","juristische Personen mit ordentlicher Steuerpflicht",176
+2024,3,"Gemeinde",197,"Schwerzenbach","juristische Personen mit ordentlicher Steuerpflicht",293
+2024,3,"Gemeinde",198,"Uster","juristische Personen mit ordentlicher Steuerpflicht",1708
+2024,3,"Gemeinde",199,"Volketswil","juristische Personen mit ordentlicher Steuerpflicht",1081
+2024,3,"Gemeinde",200,"Wangen-Brüttisellen","juristische Personen mit ordentlicher Steuerpflicht",566
+2024,3,"Gemeinde",211,"Altikon","juristische Personen mit ordentlicher Steuerpflicht",28
+2024,3,"Gemeinde",213,"Brütten","juristische Personen mit ordentlicher Steuerpflicht",97
+2024,3,"Gemeinde",214,"Dägerlen","juristische Personen mit ordentlicher Steuerpflicht",35
+2024,3,"Gemeinde",215,"Dättlikon","juristische Personen mit ordentlicher Steuerpflicht",37
+2024,3,"Gemeinde",216,"Dinhard","juristische Personen mit ordentlicher Steuerpflicht",78
+2024,3,"Gemeinde",218,"Ellikon an der Thur","juristische Personen mit ordentlicher Steuerpflicht",65
+2024,3,"Gemeinde",219,"Elsau","juristische Personen mit ordentlicher Steuerpflicht",168
+2024,3,"Gemeinde",220,"Hagenbuch","juristische Personen mit ordentlicher Steuerpflicht",35
+2024,3,"Gemeinde",221,"Hettlingen","juristische Personen mit ordentlicher Steuerpflicht",134
+2024,3,"Gemeinde",223,"Neftenbach","juristische Personen mit ordentlicher Steuerpflicht",262
+2024,3,"Gemeinde",224,"Pfungen","juristische Personen mit ordentlicher Steuerpflicht",167
+2024,3,"Gemeinde",225,"Rickenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",96
+2024,3,"Gemeinde",226,"Schlatt (ZH)","juristische Personen mit ordentlicher Steuerpflicht",24
+2024,3,"Gemeinde",227,"Seuzach","juristische Personen mit ordentlicher Steuerpflicht",331
+2024,3,"Gemeinde",228,"Turbenthal","juristische Personen mit ordentlicher Steuerpflicht",202
+2024,3,"Gemeinde",230,"Winterthur","juristische Personen mit ordentlicher Steuerpflicht",5350
+2024,3,"Gemeinde",231,"Zell (ZH)","juristische Personen mit ordentlicher Steuerpflicht",202
+2024,3,"Gemeinde",241,"Aesch (ZH)","juristische Personen mit ordentlicher Steuerpflicht",83
+2024,3,"Gemeinde",242,"Birmensdorf (ZH)","juristische Personen mit ordentlicher Steuerpflicht",338
+2024,3,"Gemeinde",243,"Dietikon","juristische Personen mit ordentlicher Steuerpflicht",1655
+2024,3,"Gemeinde",244,"Geroldswil","juristische Personen mit ordentlicher Steuerpflicht",301
+2024,3,"Gemeinde",245,"Oberengstringen","juristische Personen mit ordentlicher Steuerpflicht",208
+2024,3,"Gemeinde",246,"Oetwil an der Limmat","juristische Personen mit ordentlicher Steuerpflicht",98
+2024,3,"Gemeinde",247,"Schlieren","juristische Personen mit ordentlicher Steuerpflicht",1384
+2024,3,"Gemeinde",248,"Uitikon","juristische Personen mit ordentlicher Steuerpflicht",346
+2024,3,"Gemeinde",249,"Unterengstringen","juristische Personen mit ordentlicher Steuerpflicht",266
+2024,3,"Gemeinde",250,"Urdorf","juristische Personen mit ordentlicher Steuerpflicht",597
+2024,3,"Gemeinde",251,"Weiningen (ZH)","juristische Personen mit ordentlicher Steuerpflicht",234
+2024,3,"Gemeinde",261,"Zürich","juristische Personen mit ordentlicher Steuerpflicht",38746
+2024,3,"Gemeinde",291,"Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",157
+2024,3,"Gemeinde",292,"Stammheim","juristische Personen mit ordentlicher Steuerpflicht",121
+2024,3,"Gemeinde",293,"Wädenswil","juristische Personen mit ordentlicher Steuerpflicht",1215
+2024,3,"Gemeinde",294,"Elgg","juristische Personen mit ordentlicher Steuerpflicht",209
+2024,3,"Gemeinde",295,"Horgen","juristische Personen mit ordentlicher Steuerpflicht",1213
+2024,3,"Gemeinde",296,"Illnau-Effretikon","juristische Personen mit ordentlicher Steuerpflicht",713
+2024,3,"Gemeinde",297,"Bauma","juristische Personen mit ordentlicher Steuerpflicht",214
+2024,3,"Gemeinde",298,"Wiesendangen","juristische Personen mit ordentlicher Steuerpflicht",265
+2024,6,"Raumplanungsregion",101,"Stadt Zürich","juristische Personen mit ordentlicher Steuerpflicht",38746
+2024,6,"Raumplanungsregion",102,"Glattal","juristische Personen mit ordentlicher Steuerpflicht",11492
+2024,6,"Raumplanungsregion",103,"Furttal","juristische Personen mit ordentlicher Steuerpflicht",2075
+2024,6,"Raumplanungsregion",104,"Limmattal","juristische Personen mit ordentlicher Steuerpflicht",5510
+2024,6,"Raumplanungsregion",105,"Knonaueramt","juristische Personen mit ordentlicher Steuerpflicht",2275
+2024,6,"Raumplanungsregion",106,"Zimmerberg","juristische Personen mit ordentlicher Steuerpflicht",6289
+2024,6,"Raumplanungsregion",107,"Pfannenstiel","juristische Personen mit ordentlicher Steuerpflicht",7491
+2024,6,"Raumplanungsregion",108,"Zürcher Oberland","juristische Personen mit ordentlicher Steuerpflicht",7808
+2024,6,"Raumplanungsregion",109,"Winterthur und Umgebung","juristische Personen mit ordentlicher Steuerpflicht",9006
+2024,6,"Raumplanungsregion",110,"Weinland","juristische Personen mit ordentlicher Steuerpflicht",1418
+2024,6,"Raumplanungsregion",111,"Zürcher Unterland","juristische Personen mit ordentlicher Steuerpflicht",4916
+2023,1,"Kanton",1,"Kanton Zürich","juristische Personen mit ordentlicher Steuerpflicht",94340
+2023,2,"Bezirk",101,"Bezirk Affoltern","juristische Personen mit ordentlicher Steuerpflicht",2207
+2023,2,"Bezirk",102,"Bezirk Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",1361
+2023,2,"Bezirk",103,"Bezirk Bülach","juristische Personen mit ordentlicher Steuerpflicht",8529
+2023,2,"Bezirk",104,"Bezirk Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",4611
+2023,2,"Bezirk",105,"Bezirk Hinwil","juristische Personen mit ordentlicher Steuerpflicht",4200
+2023,2,"Bezirk",106,"Bezirk Horgen","juristische Personen mit ordentlicher Steuerpflicht",6110
+2023,2,"Bezirk",107,"Bezirk Meilen","juristische Personen mit ordentlicher Steuerpflicht",6790
+2023,2,"Bezirk",108,"Bezirk Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",2746
+2023,2,"Bezirk",109,"Bezirk Uster","juristische Personen mit ordentlicher Steuerpflicht",6892
+2023,2,"Bezirk",110,"Bezirk Winterthur","juristische Personen mit ordentlicher Steuerpflicht",7597
+2023,2,"Bezirk",111,"Bezirk Dietikon","juristische Personen mit ordentlicher Steuerpflicht",5361
+2023,2,"Bezirk",112,"Bezirk Zürich","juristische Personen mit ordentlicher Steuerpflicht",37936
+2023,3,"Gemeinde",1,"Aeugst am Albis","juristische Personen mit ordentlicher Steuerpflicht",72
+2023,3,"Gemeinde",2,"Affoltern am Albis","juristische Personen mit ordentlicher Steuerpflicht",578
+2023,3,"Gemeinde",3,"Bonstetten","juristische Personen mit ordentlicher Steuerpflicht",166
+2023,3,"Gemeinde",4,"Hausen am Albis","juristische Personen mit ordentlicher Steuerpflicht",158
+2023,3,"Gemeinde",5,"Hedingen","juristische Personen mit ordentlicher Steuerpflicht",126
+2023,3,"Gemeinde",6,"Kappel am Albis","juristische Personen mit ordentlicher Steuerpflicht",61
+2023,3,"Gemeinde",7,"Knonau","juristische Personen mit ordentlicher Steuerpflicht",109
+2023,3,"Gemeinde",8,"Maschwanden","juristische Personen mit ordentlicher Steuerpflicht",23
+2023,3,"Gemeinde",9,"Mettmenstetten","juristische Personen mit ordentlicher Steuerpflicht",192
+2023,3,"Gemeinde",10,"Obfelden","juristische Personen mit ordentlicher Steuerpflicht",184
+2023,3,"Gemeinde",11,"Ottenbach","juristische Personen mit ordentlicher Steuerpflicht",111
+2023,3,"Gemeinde",12,"Rifferswil","juristische Personen mit ordentlicher Steuerpflicht",49
+2023,3,"Gemeinde",13,"Stallikon","juristische Personen mit ordentlicher Steuerpflicht",159
+2023,3,"Gemeinde",14,"Wettswil am Albis","juristische Personen mit ordentlicher Steuerpflicht",219
+2023,3,"Gemeinde",22,"Benken (ZH)","juristische Personen mit ordentlicher Steuerpflicht",33
+2023,3,"Gemeinde",23,"Berg am Irchel","juristische Personen mit ordentlicher Steuerpflicht",18
+2023,3,"Gemeinde",24,"Buch am Irchel","juristische Personen mit ordentlicher Steuerpflicht",32
+2023,3,"Gemeinde",25,"Dachsen","juristische Personen mit ordentlicher Steuerpflicht",74
+2023,3,"Gemeinde",26,"Dorf","juristische Personen mit ordentlicher Steuerpflicht",29
+2023,3,"Gemeinde",27,"Feuerthalen","juristische Personen mit ordentlicher Steuerpflicht",134
+2023,3,"Gemeinde",28,"Flaach","juristische Personen mit ordentlicher Steuerpflicht",77
+2023,3,"Gemeinde",29,"Flurlingen","juristische Personen mit ordentlicher Steuerpflicht",104
+2023,3,"Gemeinde",31,"Henggart","juristische Personen mit ordentlicher Steuerpflicht",67
+2023,3,"Gemeinde",33,"Kleinandelfingen","juristische Personen mit ordentlicher Steuerpflicht",117
+2023,3,"Gemeinde",34,"Laufen-Uhwiesen","juristische Personen mit ordentlicher Steuerpflicht",63
+2023,3,"Gemeinde",35,"Marthalen","juristische Personen mit ordentlicher Steuerpflicht",114
+2023,3,"Gemeinde",37,"Ossingen","juristische Personen mit ordentlicher Steuerpflicht",66
+2023,3,"Gemeinde",38,"Rheinau","juristische Personen mit ordentlicher Steuerpflicht",45
+2023,3,"Gemeinde",39,"Thalheim an der Thur","juristische Personen mit ordentlicher Steuerpflicht",45
+2023,3,"Gemeinde",40,"Trüllikon","juristische Personen mit ordentlicher Steuerpflicht",38
+2023,3,"Gemeinde",41,"Truttikon","juristische Personen mit ordentlicher Steuerpflicht",15
+2023,3,"Gemeinde",43,"Volken","juristische Personen mit ordentlicher Steuerpflicht",15
+2023,3,"Gemeinde",51,"Bachenbülach","juristische Personen mit ordentlicher Steuerpflicht",231
+2023,3,"Gemeinde",52,"Bassersdorf","juristische Personen mit ordentlicher Steuerpflicht",530
+2023,3,"Gemeinde",53,"Bülach","juristische Personen mit ordentlicher Steuerpflicht",817
+2023,3,"Gemeinde",54,"Dietlikon","juristische Personen mit ordentlicher Steuerpflicht",536
+2023,3,"Gemeinde",55,"Eglisau","juristische Personen mit ordentlicher Steuerpflicht",173
+2023,3,"Gemeinde",56,"Embrach","juristische Personen mit ordentlicher Steuerpflicht",346
+2023,3,"Gemeinde",57,"Freienstein-Teufen","juristische Personen mit ordentlicher Steuerpflicht",81
+2023,3,"Gemeinde",58,"Glattfelden","juristische Personen mit ordentlicher Steuerpflicht",162
+2023,3,"Gemeinde",59,"Hochfelden","juristische Personen mit ordentlicher Steuerpflicht",42
+2023,3,"Gemeinde",60,"Höri","juristische Personen mit ordentlicher Steuerpflicht",183
+2023,3,"Gemeinde",61,"Hüntwangen","juristische Personen mit ordentlicher Steuerpflicht",60
+2023,3,"Gemeinde",62,"Kloten","juristische Personen mit ordentlicher Steuerpflicht",1269
+2023,3,"Gemeinde",63,"Lufingen","juristische Personen mit ordentlicher Steuerpflicht",101
+2023,3,"Gemeinde",64,"Nürensdorf","juristische Personen mit ordentlicher Steuerpflicht",266
+2023,3,"Gemeinde",65,"Oberembrach","juristische Personen mit ordentlicher Steuerpflicht",40
+2023,3,"Gemeinde",66,"Opfikon","juristische Personen mit ordentlicher Steuerpflicht",1720
+2023,3,"Gemeinde",67,"Rafz","juristische Personen mit ordentlicher Steuerpflicht",174
+2023,3,"Gemeinde",68,"Rorbas","juristische Personen mit ordentlicher Steuerpflicht",101
+2023,3,"Gemeinde",69,"Wallisellen","juristische Personen mit ordentlicher Steuerpflicht",1357
+2023,3,"Gemeinde",70,"Wasterkingen","juristische Personen mit ordentlicher Steuerpflicht",22
+2023,3,"Gemeinde",71,"Wil (ZH)","juristische Personen mit ordentlicher Steuerpflicht",79
+2023,3,"Gemeinde",72,"Winkel","juristische Personen mit ordentlicher Steuerpflicht",239
+2023,3,"Gemeinde",81,"Bachs","juristische Personen mit ordentlicher Steuerpflicht",21
+2023,3,"Gemeinde",82,"Boppelsen","juristische Personen mit ordentlicher Steuerpflicht",67
+2023,3,"Gemeinde",83,"Buchs (ZH)","juristische Personen mit ordentlicher Steuerpflicht",249
+2023,3,"Gemeinde",84,"Dällikon","juristische Personen mit ordentlicher Steuerpflicht",262
+2023,3,"Gemeinde",85,"Dänikon","juristische Personen mit ordentlicher Steuerpflicht",68
+2023,3,"Gemeinde",86,"Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",287
+2023,3,"Gemeinde",87,"Hüttikon","juristische Personen mit ordentlicher Steuerpflicht",40
+2023,3,"Gemeinde",88,"Neerach","juristische Personen mit ordentlicher Steuerpflicht",230
+2023,3,"Gemeinde",89,"Niederglatt","juristische Personen mit ordentlicher Steuerpflicht",201
+2023,3,"Gemeinde",90,"Niederhasli","juristische Personen mit ordentlicher Steuerpflicht",349
+2023,3,"Gemeinde",91,"Niederweningen","juristische Personen mit ordentlicher Steuerpflicht",100
+2023,3,"Gemeinde",92,"Oberglatt","juristische Personen mit ordentlicher Steuerpflicht",252
+2023,3,"Gemeinde",93,"Oberweningen","juristische Personen mit ordentlicher Steuerpflicht",64
+2023,3,"Gemeinde",94,"Otelfingen","juristische Personen mit ordentlicher Steuerpflicht",239
+2023,3,"Gemeinde",95,"Regensberg","juristische Personen mit ordentlicher Steuerpflicht",17
+2023,3,"Gemeinde",96,"Regensdorf","juristische Personen mit ordentlicher Steuerpflicht",1102
+2023,3,"Gemeinde",97,"Rümlang","juristische Personen mit ordentlicher Steuerpflicht",686
+2023,3,"Gemeinde",98,"Schleinikon","juristische Personen mit ordentlicher Steuerpflicht",36
+2023,3,"Gemeinde",99,"Schöfflisdorf","juristische Personen mit ordentlicher Steuerpflicht",61
+2023,3,"Gemeinde",100,"Stadel","juristische Personen mit ordentlicher Steuerpflicht",81
+2023,3,"Gemeinde",101,"Steinmaur","juristische Personen mit ordentlicher Steuerpflicht",127
+2023,3,"Gemeinde",102,"Weiach","juristische Personen mit ordentlicher Steuerpflicht",72
+2023,3,"Gemeinde",111,"Bäretswil","juristische Personen mit ordentlicher Steuerpflicht",221
+2023,3,"Gemeinde",112,"Bubikon","juristische Personen mit ordentlicher Steuerpflicht",388
+2023,3,"Gemeinde",113,"Dürnten","juristische Personen mit ordentlicher Steuerpflicht",246
+2023,3,"Gemeinde",114,"Fischenthal","juristische Personen mit ordentlicher Steuerpflicht",97
+2023,3,"Gemeinde",115,"Gossau (ZH)","juristische Personen mit ordentlicher Steuerpflicht",357
+2023,3,"Gemeinde",116,"Grüningen","juristische Personen mit ordentlicher Steuerpflicht",155
+2023,3,"Gemeinde",117,"Hinwil","juristische Personen mit ordentlicher Steuerpflicht",554
+2023,3,"Gemeinde",118,"Rüti (ZH)","juristische Personen mit ordentlicher Steuerpflicht",557
+2023,3,"Gemeinde",119,"Seegräben","juristische Personen mit ordentlicher Steuerpflicht",65
+2023,3,"Gemeinde",120,"Wald (ZH)","juristische Personen mit ordentlicher Steuerpflicht",366
+2023,3,"Gemeinde",121,"Wetzikon (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1194
+2023,3,"Gemeinde",131,"Adliswil","juristische Personen mit ordentlicher Steuerpflicht",731
+2023,3,"Gemeinde",135,"Kilchberg (ZH)","juristische Personen mit ordentlicher Steuerpflicht",602
+2023,3,"Gemeinde",136,"Langnau am Albis","juristische Personen mit ordentlicher Steuerpflicht",233
+2023,3,"Gemeinde",137,"Oberrieden","juristische Personen mit ordentlicher Steuerpflicht",176
+2023,3,"Gemeinde",138,"Richterswil","juristische Personen mit ordentlicher Steuerpflicht",530
+2023,3,"Gemeinde",139,"Rüschlikon","juristische Personen mit ordentlicher Steuerpflicht",444
+2023,3,"Gemeinde",141,"Thalwil","juristische Personen mit ordentlicher Steuerpflicht",1030
+2023,3,"Gemeinde",151,"Erlenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",461
+2023,3,"Gemeinde",152,"Herrliberg","juristische Personen mit ordentlicher Steuerpflicht",466
+2023,3,"Gemeinde",153,"Hombrechtikon","juristische Personen mit ordentlicher Steuerpflicht",372
+2023,3,"Gemeinde",154,"Küsnacht (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1290
+2023,3,"Gemeinde",155,"Männedorf","juristische Personen mit ordentlicher Steuerpflicht",483
+2023,3,"Gemeinde",156,"Meilen","juristische Personen mit ordentlicher Steuerpflicht",941
+2023,3,"Gemeinde",157,"Oetwil am See","juristische Personen mit ordentlicher Steuerpflicht",185
+2023,3,"Gemeinde",158,"Stäfa","juristische Personen mit ordentlicher Steuerpflicht",741
+2023,3,"Gemeinde",159,"Uetikon am See","juristische Personen mit ordentlicher Steuerpflicht",298
+2023,3,"Gemeinde",160,"Zumikon","juristische Personen mit ordentlicher Steuerpflicht",333
+2023,3,"Gemeinde",161,"Zollikon","juristische Personen mit ordentlicher Steuerpflicht",1220
+2023,3,"Gemeinde",172,"Fehraltorf","juristische Personen mit ordentlicher Steuerpflicht",360
+2023,3,"Gemeinde",173,"Hittnau","juristische Personen mit ordentlicher Steuerpflicht",153
+2023,3,"Gemeinde",176,"Lindau","juristische Personen mit ordentlicher Steuerpflicht",370
+2023,3,"Gemeinde",177,"Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",553
+2023,3,"Gemeinde",178,"Russikon","juristische Personen mit ordentlicher Steuerpflicht",169
+2023,3,"Gemeinde",180,"Weisslingen","juristische Personen mit ordentlicher Steuerpflicht",123
+2023,3,"Gemeinde",181,"Wila","juristische Personen mit ordentlicher Steuerpflicht",94
+2023,3,"Gemeinde",182,"Wildberg","juristische Personen mit ordentlicher Steuerpflicht",34
+2023,3,"Gemeinde",191,"Dübendorf","juristische Personen mit ordentlicher Steuerpflicht",1729
+2023,3,"Gemeinde",192,"Egg","juristische Personen mit ordentlicher Steuerpflicht",386
+2023,3,"Gemeinde",193,"Fällanden","juristische Personen mit ordentlicher Steuerpflicht",375
+2023,3,"Gemeinde",194,"Greifensee","juristische Personen mit ordentlicher Steuerpflicht",163
+2023,3,"Gemeinde",195,"Maur","juristische Personen mit ordentlicher Steuerpflicht",545
+2023,3,"Gemeinde",196,"Mönchaltorf","juristische Personen mit ordentlicher Steuerpflicht",170
+2023,3,"Gemeinde",197,"Schwerzenbach","juristische Personen mit ordentlicher Steuerpflicht",283
+2023,3,"Gemeinde",198,"Uster","juristische Personen mit ordentlicher Steuerpflicht",1651
+2023,3,"Gemeinde",199,"Volketswil","juristische Personen mit ordentlicher Steuerpflicht",1051
+2023,3,"Gemeinde",200,"Wangen-Brüttisellen","juristische Personen mit ordentlicher Steuerpflicht",539
+2023,3,"Gemeinde",211,"Altikon","juristische Personen mit ordentlicher Steuerpflicht",25
+2023,3,"Gemeinde",213,"Brütten","juristische Personen mit ordentlicher Steuerpflicht",93
+2023,3,"Gemeinde",214,"Dägerlen","juristische Personen mit ordentlicher Steuerpflicht",34
+2023,3,"Gemeinde",215,"Dättlikon","juristische Personen mit ordentlicher Steuerpflicht",36
+2023,3,"Gemeinde",216,"Dinhard","juristische Personen mit ordentlicher Steuerpflicht",72
+2023,3,"Gemeinde",218,"Ellikon an der Thur","juristische Personen mit ordentlicher Steuerpflicht",66
+2023,3,"Gemeinde",219,"Elsau","juristische Personen mit ordentlicher Steuerpflicht",163
+2023,3,"Gemeinde",220,"Hagenbuch","juristische Personen mit ordentlicher Steuerpflicht",34
+2023,3,"Gemeinde",221,"Hettlingen","juristische Personen mit ordentlicher Steuerpflicht",134
+2023,3,"Gemeinde",223,"Neftenbach","juristische Personen mit ordentlicher Steuerpflicht",242
+2023,3,"Gemeinde",224,"Pfungen","juristische Personen mit ordentlicher Steuerpflicht",163
+2023,3,"Gemeinde",225,"Rickenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",92
+2023,3,"Gemeinde",226,"Schlatt (ZH)","juristische Personen mit ordentlicher Steuerpflicht",23
+2023,3,"Gemeinde",227,"Seuzach","juristische Personen mit ordentlicher Steuerpflicht",324
+2023,3,"Gemeinde",228,"Turbenthal","juristische Personen mit ordentlicher Steuerpflicht",195
+2023,3,"Gemeinde",230,"Winterthur","juristische Personen mit ordentlicher Steuerpflicht",5264
+2023,3,"Gemeinde",231,"Zell (ZH)","juristische Personen mit ordentlicher Steuerpflicht",197
+2023,3,"Gemeinde",241,"Aesch (ZH)","juristische Personen mit ordentlicher Steuerpflicht",84
+2023,3,"Gemeinde",242,"Birmensdorf (ZH)","juristische Personen mit ordentlicher Steuerpflicht",325
+2023,3,"Gemeinde",243,"Dietikon","juristische Personen mit ordentlicher Steuerpflicht",1611
+2023,3,"Gemeinde",244,"Geroldswil","juristische Personen mit ordentlicher Steuerpflicht",297
+2023,3,"Gemeinde",245,"Oberengstringen","juristische Personen mit ordentlicher Steuerpflicht",199
+2023,3,"Gemeinde",246,"Oetwil an der Limmat","juristische Personen mit ordentlicher Steuerpflicht",89
+2023,3,"Gemeinde",247,"Schlieren","juristische Personen mit ordentlicher Steuerpflicht",1330
+2023,3,"Gemeinde",248,"Uitikon","juristische Personen mit ordentlicher Steuerpflicht",323
+2023,3,"Gemeinde",249,"Unterengstringen","juristische Personen mit ordentlicher Steuerpflicht",269
+2023,3,"Gemeinde",250,"Urdorf","juristische Personen mit ordentlicher Steuerpflicht",602
+2023,3,"Gemeinde",251,"Weiningen (ZH)","juristische Personen mit ordentlicher Steuerpflicht",232
+2023,3,"Gemeinde",261,"Zürich","juristische Personen mit ordentlicher Steuerpflicht",37936
+2023,3,"Gemeinde",291,"Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",152
+2023,3,"Gemeinde",292,"Stammheim","juristische Personen mit ordentlicher Steuerpflicht",123
+2023,3,"Gemeinde",293,"Wädenswil","juristische Personen mit ordentlicher Steuerpflicht",1189
+2023,3,"Gemeinde",294,"Elgg","juristische Personen mit ordentlicher Steuerpflicht",202
+2023,3,"Gemeinde",295,"Horgen","juristische Personen mit ordentlicher Steuerpflicht",1175
+2023,3,"Gemeinde",296,"Illnau-Effretikon","juristische Personen mit ordentlicher Steuerpflicht",690
+2023,3,"Gemeinde",297,"Bauma","juristische Personen mit ordentlicher Steuerpflicht",200
+2023,3,"Gemeinde",298,"Wiesendangen","juristische Personen mit ordentlicher Steuerpflicht",238
+2023,6,"Raumplanungsregion",101,"Stadt Zürich","juristische Personen mit ordentlicher Steuerpflicht",37936
+2023,6,"Raumplanungsregion",102,"Glattal","juristische Personen mit ordentlicher Steuerpflicht",11049
+2023,6,"Raumplanungsregion",103,"Furttal","juristische Personen mit ordentlicher Steuerpflicht",2027
+2023,6,"Raumplanungsregion",104,"Limmattal","juristische Personen mit ordentlicher Steuerpflicht",5361
+2023,6,"Raumplanungsregion",105,"Knonaueramt","juristische Personen mit ordentlicher Steuerpflicht",2207
+2023,6,"Raumplanungsregion",106,"Zimmerberg","juristische Personen mit ordentlicher Steuerpflicht",6110
+2023,6,"Raumplanungsregion",107,"Pfannenstiel","juristische Personen mit ordentlicher Steuerpflicht",7176
+2023,6,"Raumplanungsregion",108,"Zürcher Oberland","juristische Personen mit ordentlicher Steuerpflicht",7584
+2023,6,"Raumplanungsregion",109,"Winterthur und Umgebung","juristische Personen mit ordentlicher Steuerpflicht",8780
+2023,6,"Raumplanungsregion",110,"Weinland","juristische Personen mit ordentlicher Steuerpflicht",1361
+2023,6,"Raumplanungsregion",111,"Zürcher Unterland","juristische Personen mit ordentlicher Steuerpflicht",4749
+2022,1,"Kanton",1,"Kanton Zürich","juristische Personen mit ordentlicher Steuerpflicht",91743
+2022,2,"Bezirk",101,"Bezirk Affoltern","juristische Personen mit ordentlicher Steuerpflicht",2158
+2022,2,"Bezirk",102,"Bezirk Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",1331
+2022,2,"Bezirk",103,"Bezirk Bülach","juristische Personen mit ordentlicher Steuerpflicht",8240
+2022,2,"Bezirk",104,"Bezirk Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",4500
+2022,2,"Bezirk",105,"Bezirk Hinwil","juristische Personen mit ordentlicher Steuerpflicht",4099
+2022,2,"Bezirk",106,"Bezirk Horgen","juristische Personen mit ordentlicher Steuerpflicht",5899
+2022,2,"Bezirk",107,"Bezirk Meilen","juristische Personen mit ordentlicher Steuerpflicht",6526
+2022,2,"Bezirk",108,"Bezirk Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",2636
+2022,2,"Bezirk",109,"Bezirk Uster","juristische Personen mit ordentlicher Steuerpflicht",6648
+2022,2,"Bezirk",110,"Bezirk Winterthur","juristische Personen mit ordentlicher Steuerpflicht",7407
+2022,2,"Bezirk",111,"Bezirk Dietikon","juristische Personen mit ordentlicher Steuerpflicht",5255
+2022,2,"Bezirk",112,"Bezirk Zürich","juristische Personen mit ordentlicher Steuerpflicht",37044
+2022,3,"Gemeinde",1,"Aeugst am Albis","juristische Personen mit ordentlicher Steuerpflicht",76
+2022,3,"Gemeinde",2,"Affoltern am Albis","juristische Personen mit ordentlicher Steuerpflicht",555
+2022,3,"Gemeinde",3,"Bonstetten","juristische Personen mit ordentlicher Steuerpflicht",162
+2022,3,"Gemeinde",4,"Hausen am Albis","juristische Personen mit ordentlicher Steuerpflicht",153
+2022,3,"Gemeinde",5,"Hedingen","juristische Personen mit ordentlicher Steuerpflicht",123
+2022,3,"Gemeinde",6,"Kappel am Albis","juristische Personen mit ordentlicher Steuerpflicht",58
+2022,3,"Gemeinde",7,"Knonau","juristische Personen mit ordentlicher Steuerpflicht",111
+2022,3,"Gemeinde",8,"Maschwanden","juristische Personen mit ordentlicher Steuerpflicht",21
+2022,3,"Gemeinde",9,"Mettmenstetten","juristische Personen mit ordentlicher Steuerpflicht",183
+2022,3,"Gemeinde",10,"Obfelden","juristische Personen mit ordentlicher Steuerpflicht",176
+2022,3,"Gemeinde",11,"Ottenbach","juristische Personen mit ordentlicher Steuerpflicht",112
+2022,3,"Gemeinde",12,"Rifferswil","juristische Personen mit ordentlicher Steuerpflicht",48
+2022,3,"Gemeinde",13,"Stallikon","juristische Personen mit ordentlicher Steuerpflicht",160
+2022,3,"Gemeinde",14,"Wettswil am Albis","juristische Personen mit ordentlicher Steuerpflicht",220
+2022,3,"Gemeinde",21,"Adlikon (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",18
+2022,3,"Gemeinde",22,"Benken (ZH)","juristische Personen mit ordentlicher Steuerpflicht",34
+2022,3,"Gemeinde",23,"Berg am Irchel","juristische Personen mit ordentlicher Steuerpflicht",18
+2022,3,"Gemeinde",24,"Buch am Irchel","juristische Personen mit ordentlicher Steuerpflicht",33
+2022,3,"Gemeinde",25,"Dachsen","juristische Personen mit ordentlicher Steuerpflicht",69
+2022,3,"Gemeinde",26,"Dorf","juristische Personen mit ordentlicher Steuerpflicht",25
+2022,3,"Gemeinde",27,"Feuerthalen","juristische Personen mit ordentlicher Steuerpflicht",135
+2022,3,"Gemeinde",28,"Flaach","juristische Personen mit ordentlicher Steuerpflicht",76
+2022,3,"Gemeinde",29,"Flurlingen","juristische Personen mit ordentlicher Steuerpflicht",110
+2022,3,"Gemeinde",30,"Andelfingen (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",114
+2022,3,"Gemeinde",31,"Henggart","juristische Personen mit ordentlicher Steuerpflicht",65
+2022,3,"Gemeinde",32,"Humlikon (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",20
+2022,3,"Gemeinde",33,"Kleinandelfingen","juristische Personen mit ordentlicher Steuerpflicht",112
+2022,3,"Gemeinde",34,"Laufen-Uhwiesen","juristische Personen mit ordentlicher Steuerpflicht",58
+2022,3,"Gemeinde",35,"Marthalen","juristische Personen mit ordentlicher Steuerpflicht",114
+2022,3,"Gemeinde",37,"Ossingen","juristische Personen mit ordentlicher Steuerpflicht",65
+2022,3,"Gemeinde",38,"Rheinau","juristische Personen mit ordentlicher Steuerpflicht",44
+2022,3,"Gemeinde",39,"Thalheim an der Thur","juristische Personen mit ordentlicher Steuerpflicht",44
+2022,3,"Gemeinde",40,"Trüllikon","juristische Personen mit ordentlicher Steuerpflicht",31
+2022,3,"Gemeinde",41,"Truttikon","juristische Personen mit ordentlicher Steuerpflicht",13
+2022,3,"Gemeinde",43,"Volken","juristische Personen mit ordentlicher Steuerpflicht",14
+2022,3,"Gemeinde",51,"Bachenbülach","juristische Personen mit ordentlicher Steuerpflicht",223
+2022,3,"Gemeinde",52,"Bassersdorf","juristische Personen mit ordentlicher Steuerpflicht",500
+2022,3,"Gemeinde",53,"Bülach","juristische Personen mit ordentlicher Steuerpflicht",797
+2022,3,"Gemeinde",54,"Dietlikon","juristische Personen mit ordentlicher Steuerpflicht",515
+2022,3,"Gemeinde",55,"Eglisau","juristische Personen mit ordentlicher Steuerpflicht",163
+2022,3,"Gemeinde",56,"Embrach","juristische Personen mit ordentlicher Steuerpflicht",329
+2022,3,"Gemeinde",57,"Freienstein-Teufen","juristische Personen mit ordentlicher Steuerpflicht",73
+2022,3,"Gemeinde",58,"Glattfelden","juristische Personen mit ordentlicher Steuerpflicht",148
+2022,3,"Gemeinde",59,"Hochfelden","juristische Personen mit ordentlicher Steuerpflicht",42
+2022,3,"Gemeinde",60,"Höri","juristische Personen mit ordentlicher Steuerpflicht",179
+2022,3,"Gemeinde",61,"Hüntwangen","juristische Personen mit ordentlicher Steuerpflicht",51
+2022,3,"Gemeinde",62,"Kloten","juristische Personen mit ordentlicher Steuerpflicht",1254
+2022,3,"Gemeinde",63,"Lufingen","juristische Personen mit ordentlicher Steuerpflicht",102
+2022,3,"Gemeinde",64,"Nürensdorf","juristische Personen mit ordentlicher Steuerpflicht",259
+2022,3,"Gemeinde",65,"Oberembrach","juristische Personen mit ordentlicher Steuerpflicht",40
+2022,3,"Gemeinde",66,"Opfikon","juristische Personen mit ordentlicher Steuerpflicht",1684
+2022,3,"Gemeinde",67,"Rafz","juristische Personen mit ordentlicher Steuerpflicht",161
+2022,3,"Gemeinde",68,"Rorbas","juristische Personen mit ordentlicher Steuerpflicht",97
+2022,3,"Gemeinde",69,"Wallisellen","juristische Personen mit ordentlicher Steuerpflicht",1301
+2022,3,"Gemeinde",70,"Wasterkingen","juristische Personen mit ordentlicher Steuerpflicht",16
+2022,3,"Gemeinde",71,"Wil (ZH)","juristische Personen mit ordentlicher Steuerpflicht",67
+2022,3,"Gemeinde",72,"Winkel","juristische Personen mit ordentlicher Steuerpflicht",239
+2022,3,"Gemeinde",81,"Bachs","juristische Personen mit ordentlicher Steuerpflicht",21
+2022,3,"Gemeinde",82,"Boppelsen","juristische Personen mit ordentlicher Steuerpflicht",70
+2022,3,"Gemeinde",83,"Buchs (ZH)","juristische Personen mit ordentlicher Steuerpflicht",243
+2022,3,"Gemeinde",84,"Dällikon","juristische Personen mit ordentlicher Steuerpflicht",262
+2022,3,"Gemeinde",85,"Dänikon","juristische Personen mit ordentlicher Steuerpflicht",65
+2022,3,"Gemeinde",86,"Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",272
+2022,3,"Gemeinde",87,"Hüttikon","juristische Personen mit ordentlicher Steuerpflicht",31
+2022,3,"Gemeinde",88,"Neerach","juristische Personen mit ordentlicher Steuerpflicht",225
+2022,3,"Gemeinde",89,"Niederglatt","juristische Personen mit ordentlicher Steuerpflicht",186
+2022,3,"Gemeinde",90,"Niederhasli","juristische Personen mit ordentlicher Steuerpflicht",321
+2022,3,"Gemeinde",91,"Niederweningen","juristische Personen mit ordentlicher Steuerpflicht",91
+2022,3,"Gemeinde",92,"Oberglatt","juristische Personen mit ordentlicher Steuerpflicht",256
+2022,3,"Gemeinde",93,"Oberweningen","juristische Personen mit ordentlicher Steuerpflicht",64
+2022,3,"Gemeinde",94,"Otelfingen","juristische Personen mit ordentlicher Steuerpflicht",245
+2022,3,"Gemeinde",95,"Regensberg","juristische Personen mit ordentlicher Steuerpflicht",15
+2022,3,"Gemeinde",96,"Regensdorf","juristische Personen mit ordentlicher Steuerpflicht",1081
+2022,3,"Gemeinde",97,"Rümlang","juristische Personen mit ordentlicher Steuerpflicht",685
+2022,3,"Gemeinde",98,"Schleinikon","juristische Personen mit ordentlicher Steuerpflicht",38
+2022,3,"Gemeinde",99,"Schöfflisdorf","juristische Personen mit ordentlicher Steuerpflicht",59
+2022,3,"Gemeinde",100,"Stadel","juristische Personen mit ordentlicher Steuerpflicht",80
+2022,3,"Gemeinde",101,"Steinmaur","juristische Personen mit ordentlicher Steuerpflicht",125
+2022,3,"Gemeinde",102,"Weiach","juristische Personen mit ordentlicher Steuerpflicht",65
+2022,3,"Gemeinde",111,"Bäretswil","juristische Personen mit ordentlicher Steuerpflicht",215
+2022,3,"Gemeinde",112,"Bubikon","juristische Personen mit ordentlicher Steuerpflicht",372
+2022,3,"Gemeinde",113,"Dürnten","juristische Personen mit ordentlicher Steuerpflicht",235
+2022,3,"Gemeinde",114,"Fischenthal","juristische Personen mit ordentlicher Steuerpflicht",91
+2022,3,"Gemeinde",115,"Gossau (ZH)","juristische Personen mit ordentlicher Steuerpflicht",351
+2022,3,"Gemeinde",116,"Grüningen","juristische Personen mit ordentlicher Steuerpflicht",160
+2022,3,"Gemeinde",117,"Hinwil","juristische Personen mit ordentlicher Steuerpflicht",530
+2022,3,"Gemeinde",118,"Rüti (ZH)","juristische Personen mit ordentlicher Steuerpflicht",547
+2022,3,"Gemeinde",119,"Seegräben","juristische Personen mit ordentlicher Steuerpflicht",64
+2022,3,"Gemeinde",120,"Wald (ZH)","juristische Personen mit ordentlicher Steuerpflicht",362
+2022,3,"Gemeinde",121,"Wetzikon (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1172
+2022,3,"Gemeinde",131,"Adliswil","juristische Personen mit ordentlicher Steuerpflicht",707
+2022,3,"Gemeinde",135,"Kilchberg (ZH)","juristische Personen mit ordentlicher Steuerpflicht",569
+2022,3,"Gemeinde",136,"Langnau am Albis","juristische Personen mit ordentlicher Steuerpflicht",234
+2022,3,"Gemeinde",137,"Oberrieden","juristische Personen mit ordentlicher Steuerpflicht",162
+2022,3,"Gemeinde",138,"Richterswil","juristische Personen mit ordentlicher Steuerpflicht",520
+2022,3,"Gemeinde",139,"Rüschlikon","juristische Personen mit ordentlicher Steuerpflicht",439
+2022,3,"Gemeinde",141,"Thalwil","juristische Personen mit ordentlicher Steuerpflicht",991
+2022,3,"Gemeinde",151,"Erlenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",444
+2022,3,"Gemeinde",152,"Herrliberg","juristische Personen mit ordentlicher Steuerpflicht",441
+2022,3,"Gemeinde",153,"Hombrechtikon","juristische Personen mit ordentlicher Steuerpflicht",368
+2022,3,"Gemeinde",154,"Küsnacht (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1256
+2022,3,"Gemeinde",155,"Männedorf","juristische Personen mit ordentlicher Steuerpflicht",453
+2022,3,"Gemeinde",156,"Meilen","juristische Personen mit ordentlicher Steuerpflicht",895
+2022,3,"Gemeinde",157,"Oetwil am See","juristische Personen mit ordentlicher Steuerpflicht",184
+2022,3,"Gemeinde",158,"Stäfa","juristische Personen mit ordentlicher Steuerpflicht",734
+2022,3,"Gemeinde",159,"Uetikon am See","juristische Personen mit ordentlicher Steuerpflicht",281
+2022,3,"Gemeinde",160,"Zumikon","juristische Personen mit ordentlicher Steuerpflicht",320
+2022,3,"Gemeinde",161,"Zollikon","juristische Personen mit ordentlicher Steuerpflicht",1150
+2022,3,"Gemeinde",172,"Fehraltorf","juristische Personen mit ordentlicher Steuerpflicht",354
+2022,3,"Gemeinde",173,"Hittnau","juristische Personen mit ordentlicher Steuerpflicht",149
+2022,3,"Gemeinde",176,"Lindau","juristische Personen mit ordentlicher Steuerpflicht",350
+2022,3,"Gemeinde",177,"Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",535
+2022,3,"Gemeinde",178,"Russikon","juristische Personen mit ordentlicher Steuerpflicht",156
+2022,3,"Gemeinde",180,"Weisslingen","juristische Personen mit ordentlicher Steuerpflicht",115
+2022,3,"Gemeinde",181,"Wila","juristische Personen mit ordentlicher Steuerpflicht",93
+2022,3,"Gemeinde",182,"Wildberg","juristische Personen mit ordentlicher Steuerpflicht",32
+2022,3,"Gemeinde",191,"Dübendorf","juristische Personen mit ordentlicher Steuerpflicht",1708
+2022,3,"Gemeinde",192,"Egg","juristische Personen mit ordentlicher Steuerpflicht",360
+2022,3,"Gemeinde",193,"Fällanden","juristische Personen mit ordentlicher Steuerpflicht",366
+2022,3,"Gemeinde",194,"Greifensee","juristische Personen mit ordentlicher Steuerpflicht",147
+2022,3,"Gemeinde",195,"Maur","juristische Personen mit ordentlicher Steuerpflicht",528
+2022,3,"Gemeinde",196,"Mönchaltorf","juristische Personen mit ordentlicher Steuerpflicht",156
+2022,3,"Gemeinde",197,"Schwerzenbach","juristische Personen mit ordentlicher Steuerpflicht",268
+2022,3,"Gemeinde",198,"Uster","juristische Personen mit ordentlicher Steuerpflicht",1574
+2022,3,"Gemeinde",199,"Volketswil","juristische Personen mit ordentlicher Steuerpflicht",1006
+2022,3,"Gemeinde",200,"Wangen-Brüttisellen","juristische Personen mit ordentlicher Steuerpflicht",535
+2022,3,"Gemeinde",211,"Altikon","juristische Personen mit ordentlicher Steuerpflicht",21
+2022,3,"Gemeinde",213,"Brütten","juristische Personen mit ordentlicher Steuerpflicht",89
+2022,3,"Gemeinde",214,"Dägerlen","juristische Personen mit ordentlicher Steuerpflicht",28
+2022,3,"Gemeinde",215,"Dättlikon","juristische Personen mit ordentlicher Steuerpflicht",30
+2022,3,"Gemeinde",216,"Dinhard","juristische Personen mit ordentlicher Steuerpflicht",69
+2022,3,"Gemeinde",218,"Ellikon an der Thur","juristische Personen mit ordentlicher Steuerpflicht",68
+2022,3,"Gemeinde",219,"Elsau","juristische Personen mit ordentlicher Steuerpflicht",161
+2022,3,"Gemeinde",220,"Hagenbuch","juristische Personen mit ordentlicher Steuerpflicht",37
+2022,3,"Gemeinde",221,"Hettlingen","juristische Personen mit ordentlicher Steuerpflicht",139
+2022,3,"Gemeinde",223,"Neftenbach","juristische Personen mit ordentlicher Steuerpflicht",233
+2022,3,"Gemeinde",224,"Pfungen","juristische Personen mit ordentlicher Steuerpflicht",157
+2022,3,"Gemeinde",225,"Rickenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",96
+2022,3,"Gemeinde",226,"Schlatt (ZH)","juristische Personen mit ordentlicher Steuerpflicht",21
+2022,3,"Gemeinde",227,"Seuzach","juristische Personen mit ordentlicher Steuerpflicht",308
+2022,3,"Gemeinde",228,"Turbenthal","juristische Personen mit ordentlicher Steuerpflicht",181
+2022,3,"Gemeinde",230,"Winterthur","juristische Personen mit ordentlicher Steuerpflicht",5166
+2022,3,"Gemeinde",231,"Zell (ZH)","juristische Personen mit ordentlicher Steuerpflicht",197
+2022,3,"Gemeinde",241,"Aesch (ZH)","juristische Personen mit ordentlicher Steuerpflicht",81
+2022,3,"Gemeinde",242,"Birmensdorf (ZH)","juristische Personen mit ordentlicher Steuerpflicht",327
+2022,3,"Gemeinde",243,"Dietikon","juristische Personen mit ordentlicher Steuerpflicht",1574
+2022,3,"Gemeinde",244,"Geroldswil","juristische Personen mit ordentlicher Steuerpflicht",300
+2022,3,"Gemeinde",245,"Oberengstringen","juristische Personen mit ordentlicher Steuerpflicht",192
+2022,3,"Gemeinde",246,"Oetwil an der Limmat","juristische Personen mit ordentlicher Steuerpflicht",93
+2022,3,"Gemeinde",247,"Schlieren","juristische Personen mit ordentlicher Steuerpflicht",1300
+2022,3,"Gemeinde",248,"Uitikon","juristische Personen mit ordentlicher Steuerpflicht",307
+2022,3,"Gemeinde",249,"Unterengstringen","juristische Personen mit ordentlicher Steuerpflicht",259
+2022,3,"Gemeinde",250,"Urdorf","juristische Personen mit ordentlicher Steuerpflicht",594
+2022,3,"Gemeinde",251,"Weiningen (ZH)","juristische Personen mit ordentlicher Steuerpflicht",228
+2022,3,"Gemeinde",261,"Zürich","juristische Personen mit ordentlicher Steuerpflicht",37044
+2022,3,"Gemeinde",292,"Stammheim","juristische Personen mit ordentlicher Steuerpflicht",119
+2022,3,"Gemeinde",293,"Wädenswil","juristische Personen mit ordentlicher Steuerpflicht",1161
+2022,3,"Gemeinde",294,"Elgg","juristische Personen mit ordentlicher Steuerpflicht",182
+2022,3,"Gemeinde",295,"Horgen","juristische Personen mit ordentlicher Steuerpflicht",1116
+2022,3,"Gemeinde",296,"Illnau-Effretikon","juristische Personen mit ordentlicher Steuerpflicht",669
+2022,3,"Gemeinde",297,"Bauma","juristische Personen mit ordentlicher Steuerpflicht",183
+2022,3,"Gemeinde",298,"Wiesendangen","juristische Personen mit ordentlicher Steuerpflicht",224
+2022,6,"Raumplanungsregion",101,"Stadt Zürich","juristische Personen mit ordentlicher Steuerpflicht",37044
+2022,6,"Raumplanungsregion",102,"Glattal","juristische Personen mit ordentlicher Steuerpflicht",10756
+2022,6,"Raumplanungsregion",103,"Furttal","juristische Personen mit ordentlicher Steuerpflicht",1997
+2022,6,"Raumplanungsregion",104,"Limmattal","juristische Personen mit ordentlicher Steuerpflicht",5255
+2022,6,"Raumplanungsregion",105,"Knonaueramt","juristische Personen mit ordentlicher Steuerpflicht",2158
+2022,6,"Raumplanungsregion",106,"Zimmerberg","juristische Personen mit ordentlicher Steuerpflicht",5899
+2022,6,"Raumplanungsregion",107,"Pfannenstiel","juristische Personen mit ordentlicher Steuerpflicht",6886
+2022,6,"Raumplanungsregion",108,"Zürcher Oberland","juristische Personen mit ordentlicher Steuerpflicht",7331
+2022,6,"Raumplanungsregion",109,"Winterthur und Umgebung","juristische Personen mit ordentlicher Steuerpflicht",8541
+2022,6,"Raumplanungsregion",110,"Weinland","juristische Personen mit ordentlicher Steuerpflicht",1331
+2022,6,"Raumplanungsregion",111,"Zürcher Unterland","juristische Personen mit ordentlicher Steuerpflicht",4545
+2021,1,"Kanton",1,"Kanton Zürich","juristische Personen mit ordentlicher Steuerpflicht",89111
+2021,2,"Bezirk",101,"Bezirk Affoltern","juristische Personen mit ordentlicher Steuerpflicht",2096
+2021,2,"Bezirk",102,"Bezirk Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",1294
+2021,2,"Bezirk",103,"Bezirk Bülach","juristische Personen mit ordentlicher Steuerpflicht",7973
+2021,2,"Bezirk",104,"Bezirk Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",4349
+2021,2,"Bezirk",105,"Bezirk Hinwil","juristische Personen mit ordentlicher Steuerpflicht",3982
+2021,2,"Bezirk",106,"Bezirk Horgen","juristische Personen mit ordentlicher Steuerpflicht",5697
+2021,2,"Bezirk",107,"Bezirk Meilen","juristische Personen mit ordentlicher Steuerpflicht",6355
+2021,2,"Bezirk",108,"Bezirk Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",2531
+2021,2,"Bezirk",109,"Bezirk Uster","juristische Personen mit ordentlicher Steuerpflicht",6391
+2021,2,"Bezirk",110,"Bezirk Winterthur","juristische Personen mit ordentlicher Steuerpflicht",7164
+2021,2,"Bezirk",111,"Bezirk Dietikon","juristische Personen mit ordentlicher Steuerpflicht",5024
+2021,2,"Bezirk",112,"Bezirk Zürich","juristische Personen mit ordentlicher Steuerpflicht",36255
+2021,3,"Gemeinde",1,"Aeugst am Albis","juristische Personen mit ordentlicher Steuerpflicht",77
+2021,3,"Gemeinde",2,"Affoltern am Albis","juristische Personen mit ordentlicher Steuerpflicht",557
+2021,3,"Gemeinde",3,"Bonstetten","juristische Personen mit ordentlicher Steuerpflicht",153
+2021,3,"Gemeinde",4,"Hausen am Albis","juristische Personen mit ordentlicher Steuerpflicht",146
+2021,3,"Gemeinde",5,"Hedingen","juristische Personen mit ordentlicher Steuerpflicht",118
+2021,3,"Gemeinde",6,"Kappel am Albis","juristische Personen mit ordentlicher Steuerpflicht",58
+2021,3,"Gemeinde",7,"Knonau","juristische Personen mit ordentlicher Steuerpflicht",101
+2021,3,"Gemeinde",8,"Maschwanden","juristische Personen mit ordentlicher Steuerpflicht",22
+2021,3,"Gemeinde",9,"Mettmenstetten","juristische Personen mit ordentlicher Steuerpflicht",165
+2021,3,"Gemeinde",10,"Obfelden","juristische Personen mit ordentlicher Steuerpflicht",175
+2021,3,"Gemeinde",11,"Ottenbach","juristische Personen mit ordentlicher Steuerpflicht",104
+2021,3,"Gemeinde",12,"Rifferswil","juristische Personen mit ordentlicher Steuerpflicht",45
+2021,3,"Gemeinde",13,"Stallikon","juristische Personen mit ordentlicher Steuerpflicht",152
+2021,3,"Gemeinde",14,"Wettswil am Albis","juristische Personen mit ordentlicher Steuerpflicht",223
+2021,3,"Gemeinde",21,"Adlikon (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",17
+2021,3,"Gemeinde",22,"Benken (ZH)","juristische Personen mit ordentlicher Steuerpflicht",32
+2021,3,"Gemeinde",23,"Berg am Irchel","juristische Personen mit ordentlicher Steuerpflicht",20
+2021,3,"Gemeinde",24,"Buch am Irchel","juristische Personen mit ordentlicher Steuerpflicht",34
+2021,3,"Gemeinde",25,"Dachsen","juristische Personen mit ordentlicher Steuerpflicht",64
+2021,3,"Gemeinde",26,"Dorf","juristische Personen mit ordentlicher Steuerpflicht",23
+2021,3,"Gemeinde",27,"Feuerthalen","juristische Personen mit ordentlicher Steuerpflicht",135
+2021,3,"Gemeinde",28,"Flaach","juristische Personen mit ordentlicher Steuerpflicht",77
+2021,3,"Gemeinde",29,"Flurlingen","juristische Personen mit ordentlicher Steuerpflicht",104
+2021,3,"Gemeinde",30,"Andelfingen (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",111
+2021,3,"Gemeinde",31,"Henggart","juristische Personen mit ordentlicher Steuerpflicht",64
+2021,3,"Gemeinde",32,"Humlikon (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",17
+2021,3,"Gemeinde",33,"Kleinandelfingen","juristische Personen mit ordentlicher Steuerpflicht",105
+2021,3,"Gemeinde",34,"Laufen-Uhwiesen","juristische Personen mit ordentlicher Steuerpflicht",56
+2021,3,"Gemeinde",35,"Marthalen","juristische Personen mit ordentlicher Steuerpflicht",115
+2021,3,"Gemeinde",37,"Ossingen","juristische Personen mit ordentlicher Steuerpflicht",59
+2021,3,"Gemeinde",38,"Rheinau","juristische Personen mit ordentlicher Steuerpflicht",39
+2021,3,"Gemeinde",39,"Thalheim an der Thur","juristische Personen mit ordentlicher Steuerpflicht",43
+2021,3,"Gemeinde",40,"Trüllikon","juristische Personen mit ordentlicher Steuerpflicht",34
+2021,3,"Gemeinde",41,"Truttikon","juristische Personen mit ordentlicher Steuerpflicht",13
+2021,3,"Gemeinde",43,"Volken","juristische Personen mit ordentlicher Steuerpflicht",15
+2021,3,"Gemeinde",51,"Bachenbülach","juristische Personen mit ordentlicher Steuerpflicht",210
+2021,3,"Gemeinde",52,"Bassersdorf","juristische Personen mit ordentlicher Steuerpflicht",507
+2021,3,"Gemeinde",53,"Bülach","juristische Personen mit ordentlicher Steuerpflicht",774
+2021,3,"Gemeinde",54,"Dietlikon","juristische Personen mit ordentlicher Steuerpflicht",498
+2021,3,"Gemeinde",55,"Eglisau","juristische Personen mit ordentlicher Steuerpflicht",154
+2021,3,"Gemeinde",56,"Embrach","juristische Personen mit ordentlicher Steuerpflicht",328
+2021,3,"Gemeinde",57,"Freienstein-Teufen","juristische Personen mit ordentlicher Steuerpflicht",67
+2021,3,"Gemeinde",58,"Glattfelden","juristische Personen mit ordentlicher Steuerpflicht",149
+2021,3,"Gemeinde",59,"Hochfelden","juristische Personen mit ordentlicher Steuerpflicht",43
+2021,3,"Gemeinde",60,"Höri","juristische Personen mit ordentlicher Steuerpflicht",179
+2021,3,"Gemeinde",61,"Hüntwangen","juristische Personen mit ordentlicher Steuerpflicht",45
+2021,3,"Gemeinde",62,"Kloten","juristische Personen mit ordentlicher Steuerpflicht",1217
+2021,3,"Gemeinde",63,"Lufingen","juristische Personen mit ordentlicher Steuerpflicht",105
+2021,3,"Gemeinde",64,"Nürensdorf","juristische Personen mit ordentlicher Steuerpflicht",250
+2021,3,"Gemeinde",65,"Oberembrach","juristische Personen mit ordentlicher Steuerpflicht",30
+2021,3,"Gemeinde",66,"Opfikon","juristische Personen mit ordentlicher Steuerpflicht",1612
+2021,3,"Gemeinde",67,"Rafz","juristische Personen mit ordentlicher Steuerpflicht",153
+2021,3,"Gemeinde",68,"Rorbas","juristische Personen mit ordentlicher Steuerpflicht",99
+2021,3,"Gemeinde",69,"Wallisellen","juristische Personen mit ordentlicher Steuerpflicht",1239
+2021,3,"Gemeinde",70,"Wasterkingen","juristische Personen mit ordentlicher Steuerpflicht",15
+2021,3,"Gemeinde",71,"Wil (ZH)","juristische Personen mit ordentlicher Steuerpflicht",60
+2021,3,"Gemeinde",72,"Winkel","juristische Personen mit ordentlicher Steuerpflicht",239
+2021,3,"Gemeinde",81,"Bachs","juristische Personen mit ordentlicher Steuerpflicht",18
+2021,3,"Gemeinde",82,"Boppelsen","juristische Personen mit ordentlicher Steuerpflicht",68
+2021,3,"Gemeinde",83,"Buchs (ZH)","juristische Personen mit ordentlicher Steuerpflicht",227
+2021,3,"Gemeinde",84,"Dällikon","juristische Personen mit ordentlicher Steuerpflicht",255
+2021,3,"Gemeinde",85,"Dänikon","juristische Personen mit ordentlicher Steuerpflicht",64
+2021,3,"Gemeinde",86,"Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",270
+2021,3,"Gemeinde",87,"Hüttikon","juristische Personen mit ordentlicher Steuerpflicht",32
+2021,3,"Gemeinde",88,"Neerach","juristische Personen mit ordentlicher Steuerpflicht",212
+2021,3,"Gemeinde",89,"Niederglatt","juristische Personen mit ordentlicher Steuerpflicht",170
+2021,3,"Gemeinde",90,"Niederhasli","juristische Personen mit ordentlicher Steuerpflicht",316
+2021,3,"Gemeinde",91,"Niederweningen","juristische Personen mit ordentlicher Steuerpflicht",93
+2021,3,"Gemeinde",92,"Oberglatt","juristische Personen mit ordentlicher Steuerpflicht",247
+2021,3,"Gemeinde",93,"Oberweningen","juristische Personen mit ordentlicher Steuerpflicht",62
+2021,3,"Gemeinde",94,"Otelfingen","juristische Personen mit ordentlicher Steuerpflicht",234
+2021,3,"Gemeinde",95,"Regensberg","juristische Personen mit ordentlicher Steuerpflicht",15
+2021,3,"Gemeinde",96,"Regensdorf","juristische Personen mit ordentlicher Steuerpflicht",1063
+2021,3,"Gemeinde",97,"Rümlang","juristische Personen mit ordentlicher Steuerpflicht",661
+2021,3,"Gemeinde",98,"Schleinikon","juristische Personen mit ordentlicher Steuerpflicht",36
+2021,3,"Gemeinde",99,"Schöfflisdorf","juristische Personen mit ordentlicher Steuerpflicht",55
+2021,3,"Gemeinde",100,"Stadel","juristische Personen mit ordentlicher Steuerpflicht",69
+2021,3,"Gemeinde",101,"Steinmaur","juristische Personen mit ordentlicher Steuerpflicht",125
+2021,3,"Gemeinde",102,"Weiach","juristische Personen mit ordentlicher Steuerpflicht",57
+2021,3,"Gemeinde",111,"Bäretswil","juristische Personen mit ordentlicher Steuerpflicht",203
+2021,3,"Gemeinde",112,"Bubikon","juristische Personen mit ordentlicher Steuerpflicht",358
+2021,3,"Gemeinde",113,"Dürnten","juristische Personen mit ordentlicher Steuerpflicht",234
+2021,3,"Gemeinde",114,"Fischenthal","juristische Personen mit ordentlicher Steuerpflicht",84
+2021,3,"Gemeinde",115,"Gossau (ZH)","juristische Personen mit ordentlicher Steuerpflicht",359
+2021,3,"Gemeinde",116,"Grüningen","juristische Personen mit ordentlicher Steuerpflicht",151
+2021,3,"Gemeinde",117,"Hinwil","juristische Personen mit ordentlicher Steuerpflicht",530
+2021,3,"Gemeinde",118,"Rüti (ZH)","juristische Personen mit ordentlicher Steuerpflicht",537
+2021,3,"Gemeinde",119,"Seegräben","juristische Personen mit ordentlicher Steuerpflicht",59
+2021,3,"Gemeinde",120,"Wald (ZH)","juristische Personen mit ordentlicher Steuerpflicht",353
+2021,3,"Gemeinde",121,"Wetzikon (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1114
+2021,3,"Gemeinde",131,"Adliswil","juristische Personen mit ordentlicher Steuerpflicht",655
+2021,3,"Gemeinde",135,"Kilchberg (ZH)","juristische Personen mit ordentlicher Steuerpflicht",555
+2021,3,"Gemeinde",136,"Langnau am Albis","juristische Personen mit ordentlicher Steuerpflicht",229
+2021,3,"Gemeinde",137,"Oberrieden","juristische Personen mit ordentlicher Steuerpflicht",169
+2021,3,"Gemeinde",138,"Richterswil","juristische Personen mit ordentlicher Steuerpflicht",507
+2021,3,"Gemeinde",139,"Rüschlikon","juristische Personen mit ordentlicher Steuerpflicht",412
+2021,3,"Gemeinde",141,"Thalwil","juristische Personen mit ordentlicher Steuerpflicht",959
+2021,3,"Gemeinde",151,"Erlenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",427
+2021,3,"Gemeinde",152,"Herrliberg","juristische Personen mit ordentlicher Steuerpflicht",425
+2021,3,"Gemeinde",153,"Hombrechtikon","juristische Personen mit ordentlicher Steuerpflicht",355
+2021,3,"Gemeinde",154,"Küsnacht (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1224
+2021,3,"Gemeinde",155,"Männedorf","juristische Personen mit ordentlicher Steuerpflicht",432
+2021,3,"Gemeinde",156,"Meilen","juristische Personen mit ordentlicher Steuerpflicht",875
+2021,3,"Gemeinde",157,"Oetwil am See","juristische Personen mit ordentlicher Steuerpflicht",183
+2021,3,"Gemeinde",158,"Stäfa","juristische Personen mit ordentlicher Steuerpflicht",711
+2021,3,"Gemeinde",159,"Uetikon am See","juristische Personen mit ordentlicher Steuerpflicht",262
+2021,3,"Gemeinde",160,"Zumikon","juristische Personen mit ordentlicher Steuerpflicht",319
+2021,3,"Gemeinde",161,"Zollikon","juristische Personen mit ordentlicher Steuerpflicht",1142
+2021,3,"Gemeinde",172,"Fehraltorf","juristische Personen mit ordentlicher Steuerpflicht",333
+2021,3,"Gemeinde",173,"Hittnau","juristische Personen mit ordentlicher Steuerpflicht",142
+2021,3,"Gemeinde",176,"Lindau","juristische Personen mit ordentlicher Steuerpflicht",323
+2021,3,"Gemeinde",177,"Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",507
+2021,3,"Gemeinde",178,"Russikon","juristische Personen mit ordentlicher Steuerpflicht",152
+2021,3,"Gemeinde",180,"Weisslingen","juristische Personen mit ordentlicher Steuerpflicht",124
+2021,3,"Gemeinde",181,"Wila","juristische Personen mit ordentlicher Steuerpflicht",89
+2021,3,"Gemeinde",182,"Wildberg","juristische Personen mit ordentlicher Steuerpflicht",32
+2021,3,"Gemeinde",191,"Dübendorf","juristische Personen mit ordentlicher Steuerpflicht",1647
+2021,3,"Gemeinde",192,"Egg","juristische Personen mit ordentlicher Steuerpflicht",343
+2021,3,"Gemeinde",193,"Fällanden","juristische Personen mit ordentlicher Steuerpflicht",352
+2021,3,"Gemeinde",194,"Greifensee","juristische Personen mit ordentlicher Steuerpflicht",143
+2021,3,"Gemeinde",195,"Maur","juristische Personen mit ordentlicher Steuerpflicht",496
+2021,3,"Gemeinde",196,"Mönchaltorf","juristische Personen mit ordentlicher Steuerpflicht",154
+2021,3,"Gemeinde",197,"Schwerzenbach","juristische Personen mit ordentlicher Steuerpflicht",254
+2021,3,"Gemeinde",198,"Uster","juristische Personen mit ordentlicher Steuerpflicht",1495
+2021,3,"Gemeinde",199,"Volketswil","juristische Personen mit ordentlicher Steuerpflicht",988
+2021,3,"Gemeinde",200,"Wangen-Brüttisellen","juristische Personen mit ordentlicher Steuerpflicht",519
+2021,3,"Gemeinde",211,"Altikon","juristische Personen mit ordentlicher Steuerpflicht",19
+2021,3,"Gemeinde",213,"Brütten","juristische Personen mit ordentlicher Steuerpflicht",79
+2021,3,"Gemeinde",214,"Dägerlen","juristische Personen mit ordentlicher Steuerpflicht",27
+2021,3,"Gemeinde",215,"Dättlikon","juristische Personen mit ordentlicher Steuerpflicht",28
+2021,3,"Gemeinde",216,"Dinhard","juristische Personen mit ordentlicher Steuerpflicht",72
+2021,3,"Gemeinde",218,"Ellikon an der Thur","juristische Personen mit ordentlicher Steuerpflicht",46
+2021,3,"Gemeinde",219,"Elsau","juristische Personen mit ordentlicher Steuerpflicht",151
+2021,3,"Gemeinde",220,"Hagenbuch","juristische Personen mit ordentlicher Steuerpflicht",35
+2021,3,"Gemeinde",221,"Hettlingen","juristische Personen mit ordentlicher Steuerpflicht",128
+2021,3,"Gemeinde",223,"Neftenbach","juristische Personen mit ordentlicher Steuerpflicht",237
+2021,3,"Gemeinde",224,"Pfungen","juristische Personen mit ordentlicher Steuerpflicht",152
+2021,3,"Gemeinde",225,"Rickenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",96
+2021,3,"Gemeinde",226,"Schlatt (ZH)","juristische Personen mit ordentlicher Steuerpflicht",20
+2021,3,"Gemeinde",227,"Seuzach","juristische Personen mit ordentlicher Steuerpflicht",299
+2021,3,"Gemeinde",228,"Turbenthal","juristische Personen mit ordentlicher Steuerpflicht",176
+2021,3,"Gemeinde",230,"Winterthur","juristische Personen mit ordentlicher Steuerpflicht",5010
+2021,3,"Gemeinde",231,"Zell (ZH)","juristische Personen mit ordentlicher Steuerpflicht",186
+2021,3,"Gemeinde",241,"Aesch (ZH)","juristische Personen mit ordentlicher Steuerpflicht",69
+2021,3,"Gemeinde",242,"Birmensdorf (ZH)","juristische Personen mit ordentlicher Steuerpflicht",324
+2021,3,"Gemeinde",243,"Dietikon","juristische Personen mit ordentlicher Steuerpflicht",1505
+2021,3,"Gemeinde",244,"Geroldswil","juristische Personen mit ordentlicher Steuerpflicht",290
+2021,3,"Gemeinde",245,"Oberengstringen","juristische Personen mit ordentlicher Steuerpflicht",194
+2021,3,"Gemeinde",246,"Oetwil an der Limmat","juristische Personen mit ordentlicher Steuerpflicht",86
+2021,3,"Gemeinde",247,"Schlieren","juristische Personen mit ordentlicher Steuerpflicht",1221
+2021,3,"Gemeinde",248,"Uitikon","juristische Personen mit ordentlicher Steuerpflicht",291
+2021,3,"Gemeinde",249,"Unterengstringen","juristische Personen mit ordentlicher Steuerpflicht",250
+2021,3,"Gemeinde",250,"Urdorf","juristische Personen mit ordentlicher Steuerpflicht",573
+2021,3,"Gemeinde",251,"Weiningen (ZH)","juristische Personen mit ordentlicher Steuerpflicht",221
+2021,3,"Gemeinde",261,"Zürich","juristische Personen mit ordentlicher Steuerpflicht",36255
+2021,3,"Gemeinde",292,"Stammheim","juristische Personen mit ordentlicher Steuerpflicht",117
+2021,3,"Gemeinde",293,"Wädenswil","juristische Personen mit ordentlicher Steuerpflicht",1144
+2021,3,"Gemeinde",294,"Elgg","juristische Personen mit ordentlicher Steuerpflicht",184
+2021,3,"Gemeinde",295,"Horgen","juristische Personen mit ordentlicher Steuerpflicht",1067
+2021,3,"Gemeinde",296,"Illnau-Effretikon","juristische Personen mit ordentlicher Steuerpflicht",645
+2021,3,"Gemeinde",297,"Bauma","juristische Personen mit ordentlicher Steuerpflicht",184
+2021,3,"Gemeinde",298,"Wiesendangen","juristische Personen mit ordentlicher Steuerpflicht",219
+2021,6,"Raumplanungsregion",101,"Stadt Zürich","juristische Personen mit ordentlicher Steuerpflicht",36255
+2021,6,"Raumplanungsregion",102,"Glattal","juristische Personen mit ordentlicher Steuerpflicht",10383
+2021,6,"Raumplanungsregion",103,"Furttal","juristische Personen mit ordentlicher Steuerpflicht",1943
+2021,6,"Raumplanungsregion",104,"Limmattal","juristische Personen mit ordentlicher Steuerpflicht",5024
+2021,6,"Raumplanungsregion",105,"Knonaueramt","juristische Personen mit ordentlicher Steuerpflicht",2096
+2021,6,"Raumplanungsregion",106,"Zimmerberg","juristische Personen mit ordentlicher Steuerpflicht",5697
+2021,6,"Raumplanungsregion",107,"Pfannenstiel","juristische Personen mit ordentlicher Steuerpflicht",6698
+2021,6,"Raumplanungsregion",108,"Zürcher Oberland","juristische Personen mit ordentlicher Steuerpflicht",7070
+2021,6,"Raumplanungsregion",109,"Winterthur und Umgebung","juristische Personen mit ordentlicher Steuerpflicht",8256
+2021,6,"Raumplanungsregion",110,"Weinland","juristische Personen mit ordentlicher Steuerpflicht",1294
+2021,6,"Raumplanungsregion",111,"Zürcher Unterland","juristische Personen mit ordentlicher Steuerpflicht",4395
+2020,1,"Kanton",1,"Kanton Zürich","juristische Personen mit ordentlicher Steuerpflicht",86465
+2020,2,"Bezirk",101,"Bezirk Affoltern","juristische Personen mit ordentlicher Steuerpflicht",2179
+2020,2,"Bezirk",102,"Bezirk Andelfingen","juristische Personen mit ordentlicher Steuerpflicht",1231
+2020,2,"Bezirk",103,"Bezirk Bülach","juristische Personen mit ordentlicher Steuerpflicht",7635
+2020,2,"Bezirk",104,"Bezirk Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",4172
+2020,2,"Bezirk",105,"Bezirk Hinwil","juristische Personen mit ordentlicher Steuerpflicht",3863
+2020,2,"Bezirk",106,"Bezirk Horgen","juristische Personen mit ordentlicher Steuerpflicht",5479
+2020,2,"Bezirk",107,"Bezirk Meilen","juristische Personen mit ordentlicher Steuerpflicht",6128
+2020,2,"Bezirk",108,"Bezirk Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",2451
+2020,2,"Bezirk",109,"Bezirk Uster","juristische Personen mit ordentlicher Steuerpflicht",6205
+2020,2,"Bezirk",110,"Bezirk Winterthur","juristische Personen mit ordentlicher Steuerpflicht",6930
+2020,2,"Bezirk",111,"Bezirk Dietikon","juristische Personen mit ordentlicher Steuerpflicht",4853
+2020,2,"Bezirk",112,"Bezirk Zürich","juristische Personen mit ordentlicher Steuerpflicht",35339
+2020,3,"Gemeinde",1,"Aeugst am Albis","juristische Personen mit ordentlicher Steuerpflicht",68
+2020,3,"Gemeinde",2,"Affoltern am Albis","juristische Personen mit ordentlicher Steuerpflicht",725
+2020,3,"Gemeinde",3,"Bonstetten","juristische Personen mit ordentlicher Steuerpflicht",146
+2020,3,"Gemeinde",4,"Hausen am Albis","juristische Personen mit ordentlicher Steuerpflicht",141
+2020,3,"Gemeinde",5,"Hedingen","juristische Personen mit ordentlicher Steuerpflicht",96
+2020,3,"Gemeinde",6,"Kappel am Albis","juristische Personen mit ordentlicher Steuerpflicht",55
+2020,3,"Gemeinde",7,"Knonau","juristische Personen mit ordentlicher Steuerpflicht",101
+2020,3,"Gemeinde",8,"Maschwanden","juristische Personen mit ordentlicher Steuerpflicht",20
+2020,3,"Gemeinde",9,"Mettmenstetten","juristische Personen mit ordentlicher Steuerpflicht",145
+2020,3,"Gemeinde",10,"Obfelden","juristische Personen mit ordentlicher Steuerpflicht",173
+2020,3,"Gemeinde",11,"Ottenbach","juristische Personen mit ordentlicher Steuerpflicht",103
+2020,3,"Gemeinde",12,"Rifferswil","juristische Personen mit ordentlicher Steuerpflicht",43
+2020,3,"Gemeinde",13,"Stallikon","juristische Personen mit ordentlicher Steuerpflicht",144
+2020,3,"Gemeinde",14,"Wettswil am Albis","juristische Personen mit ordentlicher Steuerpflicht",219
+2020,3,"Gemeinde",21,"Adlikon (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",17
+2020,3,"Gemeinde",22,"Benken (ZH)","juristische Personen mit ordentlicher Steuerpflicht",28
+2020,3,"Gemeinde",23,"Berg am Irchel","juristische Personen mit ordentlicher Steuerpflicht",21
+2020,3,"Gemeinde",24,"Buch am Irchel","juristische Personen mit ordentlicher Steuerpflicht",32
+2020,3,"Gemeinde",25,"Dachsen","juristische Personen mit ordentlicher Steuerpflicht",61
+2020,3,"Gemeinde",26,"Dorf","juristische Personen mit ordentlicher Steuerpflicht",23
+2020,3,"Gemeinde",27,"Feuerthalen","juristische Personen mit ordentlicher Steuerpflicht",131
+2020,3,"Gemeinde",28,"Flaach","juristische Personen mit ordentlicher Steuerpflicht",76
+2020,3,"Gemeinde",29,"Flurlingen","juristische Personen mit ordentlicher Steuerpflicht",95
+2020,3,"Gemeinde",30,"Andelfingen (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",111
+2020,3,"Gemeinde",31,"Henggart","juristische Personen mit ordentlicher Steuerpflicht",67
+2020,3,"Gemeinde",32,"Humlikon (bis 2022)","juristische Personen mit ordentlicher Steuerpflicht",16
+2020,3,"Gemeinde",33,"Kleinandelfingen","juristische Personen mit ordentlicher Steuerpflicht",93
+2020,3,"Gemeinde",34,"Laufen-Uhwiesen","juristische Personen mit ordentlicher Steuerpflicht",55
+2020,3,"Gemeinde",35,"Marthalen","juristische Personen mit ordentlicher Steuerpflicht",114
+2020,3,"Gemeinde",37,"Ossingen","juristische Personen mit ordentlicher Steuerpflicht",52
+2020,3,"Gemeinde",38,"Rheinau","juristische Personen mit ordentlicher Steuerpflicht",35
+2020,3,"Gemeinde",39,"Thalheim an der Thur","juristische Personen mit ordentlicher Steuerpflicht",40
+2020,3,"Gemeinde",40,"Trüllikon","juristische Personen mit ordentlicher Steuerpflicht",34
+2020,3,"Gemeinde",41,"Truttikon","juristische Personen mit ordentlicher Steuerpflicht",11
+2020,3,"Gemeinde",43,"Volken","juristische Personen mit ordentlicher Steuerpflicht",16
+2020,3,"Gemeinde",51,"Bachenbülach","juristische Personen mit ordentlicher Steuerpflicht",205
+2020,3,"Gemeinde",52,"Bassersdorf","juristische Personen mit ordentlicher Steuerpflicht",499
+2020,3,"Gemeinde",53,"Bülach","juristische Personen mit ordentlicher Steuerpflicht",734
+2020,3,"Gemeinde",54,"Dietlikon","juristische Personen mit ordentlicher Steuerpflicht",490
+2020,3,"Gemeinde",55,"Eglisau","juristische Personen mit ordentlicher Steuerpflicht",149
+2020,3,"Gemeinde",56,"Embrach","juristische Personen mit ordentlicher Steuerpflicht",322
+2020,3,"Gemeinde",57,"Freienstein-Teufen","juristische Personen mit ordentlicher Steuerpflicht",64
+2020,3,"Gemeinde",58,"Glattfelden","juristische Personen mit ordentlicher Steuerpflicht",148
+2020,3,"Gemeinde",59,"Hochfelden","juristische Personen mit ordentlicher Steuerpflicht",41
+2020,3,"Gemeinde",60,"Höri","juristische Personen mit ordentlicher Steuerpflicht",173
+2020,3,"Gemeinde",61,"Hüntwangen","juristische Personen mit ordentlicher Steuerpflicht",40
+2020,3,"Gemeinde",62,"Kloten","juristische Personen mit ordentlicher Steuerpflicht",1187
+2020,3,"Gemeinde",63,"Lufingen","juristische Personen mit ordentlicher Steuerpflicht",96
+2020,3,"Gemeinde",64,"Nürensdorf","juristische Personen mit ordentlicher Steuerpflicht",239
+2020,3,"Gemeinde",65,"Oberembrach","juristische Personen mit ordentlicher Steuerpflicht",28
+2020,3,"Gemeinde",66,"Opfikon","juristische Personen mit ordentlicher Steuerpflicht",1512
+2020,3,"Gemeinde",67,"Rafz","juristische Personen mit ordentlicher Steuerpflicht",149
+2020,3,"Gemeinde",68,"Rorbas","juristische Personen mit ordentlicher Steuerpflicht",94
+2020,3,"Gemeinde",69,"Wallisellen","juristische Personen mit ordentlicher Steuerpflicht",1171
+2020,3,"Gemeinde",70,"Wasterkingen","juristische Personen mit ordentlicher Steuerpflicht",14
+2020,3,"Gemeinde",71,"Wil (ZH)","juristische Personen mit ordentlicher Steuerpflicht",61
+2020,3,"Gemeinde",72,"Winkel","juristische Personen mit ordentlicher Steuerpflicht",219
+2020,3,"Gemeinde",81,"Bachs","juristische Personen mit ordentlicher Steuerpflicht",18
+2020,3,"Gemeinde",82,"Boppelsen","juristische Personen mit ordentlicher Steuerpflicht",63
+2020,3,"Gemeinde",83,"Buchs (ZH)","juristische Personen mit ordentlicher Steuerpflicht",228
+2020,3,"Gemeinde",84,"Dällikon","juristische Personen mit ordentlicher Steuerpflicht",246
+2020,3,"Gemeinde",85,"Dänikon","juristische Personen mit ordentlicher Steuerpflicht",68
+2020,3,"Gemeinde",86,"Dielsdorf","juristische Personen mit ordentlicher Steuerpflicht",263
+2020,3,"Gemeinde",87,"Hüttikon","juristische Personen mit ordentlicher Steuerpflicht",31
+2020,3,"Gemeinde",88,"Neerach","juristische Personen mit ordentlicher Steuerpflicht",191
+2020,3,"Gemeinde",89,"Niederglatt","juristische Personen mit ordentlicher Steuerpflicht",156
+2020,3,"Gemeinde",90,"Niederhasli","juristische Personen mit ordentlicher Steuerpflicht",297
+2020,3,"Gemeinde",91,"Niederweningen","juristische Personen mit ordentlicher Steuerpflicht",87
+2020,3,"Gemeinde",92,"Oberglatt","juristische Personen mit ordentlicher Steuerpflicht",222
+2020,3,"Gemeinde",93,"Oberweningen","juristische Personen mit ordentlicher Steuerpflicht",59
+2020,3,"Gemeinde",94,"Otelfingen","juristische Personen mit ordentlicher Steuerpflicht",223
+2020,3,"Gemeinde",95,"Regensberg","juristische Personen mit ordentlicher Steuerpflicht",14
+2020,3,"Gemeinde",96,"Regensdorf","juristische Personen mit ordentlicher Steuerpflicht",1034
+2020,3,"Gemeinde",97,"Rümlang","juristische Personen mit ordentlicher Steuerpflicht",646
+2020,3,"Gemeinde",98,"Schleinikon","juristische Personen mit ordentlicher Steuerpflicht",33
+2020,3,"Gemeinde",99,"Schöfflisdorf","juristische Personen mit ordentlicher Steuerpflicht",51
+2020,3,"Gemeinde",100,"Stadel","juristische Personen mit ordentlicher Steuerpflicht",63
+2020,3,"Gemeinde",101,"Steinmaur","juristische Personen mit ordentlicher Steuerpflicht",123
+2020,3,"Gemeinde",102,"Weiach","juristische Personen mit ordentlicher Steuerpflicht",56
+2020,3,"Gemeinde",111,"Bäretswil","juristische Personen mit ordentlicher Steuerpflicht",197
+2020,3,"Gemeinde",112,"Bubikon","juristische Personen mit ordentlicher Steuerpflicht",351
+2020,3,"Gemeinde",113,"Dürnten","juristische Personen mit ordentlicher Steuerpflicht",222
+2020,3,"Gemeinde",114,"Fischenthal","juristische Personen mit ordentlicher Steuerpflicht",76
+2020,3,"Gemeinde",115,"Gossau (ZH)","juristische Personen mit ordentlicher Steuerpflicht",361
+2020,3,"Gemeinde",116,"Grüningen","juristische Personen mit ordentlicher Steuerpflicht",145
+2020,3,"Gemeinde",117,"Hinwil","juristische Personen mit ordentlicher Steuerpflicht",537
+2020,3,"Gemeinde",118,"Rüti (ZH)","juristische Personen mit ordentlicher Steuerpflicht",499
+2020,3,"Gemeinde",119,"Seegräben","juristische Personen mit ordentlicher Steuerpflicht",60
+2020,3,"Gemeinde",120,"Wald (ZH)","juristische Personen mit ordentlicher Steuerpflicht",330
+2020,3,"Gemeinde",121,"Wetzikon (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1085
+2020,3,"Gemeinde",131,"Adliswil","juristische Personen mit ordentlicher Steuerpflicht",622
+2020,3,"Gemeinde",135,"Kilchberg (ZH)","juristische Personen mit ordentlicher Steuerpflicht",525
+2020,3,"Gemeinde",136,"Langnau am Albis","juristische Personen mit ordentlicher Steuerpflicht",222
+2020,3,"Gemeinde",137,"Oberrieden","juristische Personen mit ordentlicher Steuerpflicht",173
+2020,3,"Gemeinde",138,"Richterswil","juristische Personen mit ordentlicher Steuerpflicht",483
+2020,3,"Gemeinde",139,"Rüschlikon","juristische Personen mit ordentlicher Steuerpflicht",404
+2020,3,"Gemeinde",141,"Thalwil","juristische Personen mit ordentlicher Steuerpflicht",928
+2020,3,"Gemeinde",151,"Erlenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",419
+2020,3,"Gemeinde",152,"Herrliberg","juristische Personen mit ordentlicher Steuerpflicht",409
+2020,3,"Gemeinde",153,"Hombrechtikon","juristische Personen mit ordentlicher Steuerpflicht",341
+2020,3,"Gemeinde",154,"Küsnacht (ZH)","juristische Personen mit ordentlicher Steuerpflicht",1159
+2020,3,"Gemeinde",155,"Männedorf","juristische Personen mit ordentlicher Steuerpflicht",422
+2020,3,"Gemeinde",156,"Meilen","juristische Personen mit ordentlicher Steuerpflicht",837
+2020,3,"Gemeinde",157,"Oetwil am See","juristische Personen mit ordentlicher Steuerpflicht",177
+2020,3,"Gemeinde",158,"Stäfa","juristische Personen mit ordentlicher Steuerpflicht",679
+2020,3,"Gemeinde",159,"Uetikon am See","juristische Personen mit ordentlicher Steuerpflicht",254
+2020,3,"Gemeinde",160,"Zumikon","juristische Personen mit ordentlicher Steuerpflicht",318
+2020,3,"Gemeinde",161,"Zollikon","juristische Personen mit ordentlicher Steuerpflicht",1113
+2020,3,"Gemeinde",172,"Fehraltorf","juristische Personen mit ordentlicher Steuerpflicht",322
+2020,3,"Gemeinde",173,"Hittnau","juristische Personen mit ordentlicher Steuerpflicht",138
+2020,3,"Gemeinde",176,"Lindau","juristische Personen mit ordentlicher Steuerpflicht",293
+2020,3,"Gemeinde",177,"Pfäffikon","juristische Personen mit ordentlicher Steuerpflicht",489
+2020,3,"Gemeinde",178,"Russikon","juristische Personen mit ordentlicher Steuerpflicht",155
+2020,3,"Gemeinde",180,"Weisslingen","juristische Personen mit ordentlicher Steuerpflicht",128
+2020,3,"Gemeinde",181,"Wila","juristische Personen mit ordentlicher Steuerpflicht",79
+2020,3,"Gemeinde",182,"Wildberg","juristische Personen mit ordentlicher Steuerpflicht",31
+2020,3,"Gemeinde",191,"Dübendorf","juristische Personen mit ordentlicher Steuerpflicht",1602
+2020,3,"Gemeinde",192,"Egg","juristische Personen mit ordentlicher Steuerpflicht",348
+2020,3,"Gemeinde",193,"Fällanden","juristische Personen mit ordentlicher Steuerpflicht",347
+2020,3,"Gemeinde",194,"Greifensee","juristische Personen mit ordentlicher Steuerpflicht",144
+2020,3,"Gemeinde",195,"Maur","juristische Personen mit ordentlicher Steuerpflicht",481
+2020,3,"Gemeinde",196,"Mönchaltorf","juristische Personen mit ordentlicher Steuerpflicht",146
+2020,3,"Gemeinde",197,"Schwerzenbach","juristische Personen mit ordentlicher Steuerpflicht",238
+2020,3,"Gemeinde",198,"Uster","juristische Personen mit ordentlicher Steuerpflicht",1434
+2020,3,"Gemeinde",199,"Volketswil","juristische Personen mit ordentlicher Steuerpflicht",966
+2020,3,"Gemeinde",200,"Wangen-Brüttisellen","juristische Personen mit ordentlicher Steuerpflicht",499
+2020,3,"Gemeinde",211,"Altikon","juristische Personen mit ordentlicher Steuerpflicht",19
+2020,3,"Gemeinde",213,"Brütten","juristische Personen mit ordentlicher Steuerpflicht",76
+2020,3,"Gemeinde",214,"Dägerlen","juristische Personen mit ordentlicher Steuerpflicht",27
+2020,3,"Gemeinde",215,"Dättlikon","juristische Personen mit ordentlicher Steuerpflicht",27
+2020,3,"Gemeinde",216,"Dinhard","juristische Personen mit ordentlicher Steuerpflicht",69
+2020,3,"Gemeinde",218,"Ellikon an der Thur","juristische Personen mit ordentlicher Steuerpflicht",46
+2020,3,"Gemeinde",219,"Elsau","juristische Personen mit ordentlicher Steuerpflicht",151
+2020,3,"Gemeinde",220,"Hagenbuch","juristische Personen mit ordentlicher Steuerpflicht",35
+2020,3,"Gemeinde",221,"Hettlingen","juristische Personen mit ordentlicher Steuerpflicht",119
+2020,3,"Gemeinde",223,"Neftenbach","juristische Personen mit ordentlicher Steuerpflicht",230
+2020,3,"Gemeinde",224,"Pfungen","juristische Personen mit ordentlicher Steuerpflicht",133
+2020,3,"Gemeinde",225,"Rickenbach (ZH)","juristische Personen mit ordentlicher Steuerpflicht",86
+2020,3,"Gemeinde",226,"Schlatt (ZH)","juristische Personen mit ordentlicher Steuerpflicht",18
+2020,3,"Gemeinde",227,"Seuzach","juristische Personen mit ordentlicher Steuerpflicht",290
+2020,3,"Gemeinde",228,"Turbenthal","juristische Personen mit ordentlicher Steuerpflicht",168
+2020,3,"Gemeinde",230,"Winterthur","juristische Personen mit ordentlicher Steuerpflicht",4848
+2020,3,"Gemeinde",231,"Zell (ZH)","juristische Personen mit ordentlicher Steuerpflicht",179
+2020,3,"Gemeinde",241,"Aesch (ZH)","juristische Personen mit ordentlicher Steuerpflicht",67
+2020,3,"Gemeinde",242,"Birmensdorf (ZH)","juristische Personen mit ordentlicher Steuerpflicht",303
+2020,3,"Gemeinde",243,"Dietikon","juristische Personen mit ordentlicher Steuerpflicht",1432
+2020,3,"Gemeinde",244,"Geroldswil","juristische Personen mit ordentlicher Steuerpflicht",276
+2020,3,"Gemeinde",245,"Oberengstringen","juristische Personen mit ordentlicher Steuerpflicht",190
+2020,3,"Gemeinde",246,"Oetwil an der Limmat","juristische Personen mit ordentlicher Steuerpflicht",89
+2020,3,"Gemeinde",247,"Schlieren","juristische Personen mit ordentlicher Steuerpflicht",1198
+2020,3,"Gemeinde",248,"Uitikon","juristische Personen mit ordentlicher Steuerpflicht",279
+2020,3,"Gemeinde",249,"Unterengstringen","juristische Personen mit ordentlicher Steuerpflicht",249
+2020,3,"Gemeinde",250,"Urdorf","juristische Personen mit ordentlicher Steuerpflicht",550
+2020,3,"Gemeinde",251,"Weiningen (ZH)","juristische Personen mit ordentlicher Steuerpflicht",220
+2020,3,"Gemeinde",261,"Zürich","juristische Personen mit ordentlicher Steuerpflicht",35339
+2020,3,"Gemeinde",292,"Stammheim","juristische Personen mit ordentlicher Steuerpflicht",103
+2020,3,"Gemeinde",293,"Wädenswil","juristische Personen mit ordentlicher Steuerpflicht",1105
+2020,3,"Gemeinde",294,"Elgg","juristische Personen mit ordentlicher Steuerpflicht",180
+2020,3,"Gemeinde",295,"Horgen","juristische Personen mit ordentlicher Steuerpflicht",1017
+2020,3,"Gemeinde",296,"Illnau-Effretikon","juristische Personen mit ordentlicher Steuerpflicht",642
+2020,3,"Gemeinde",297,"Bauma","juristische Personen mit ordentlicher Steuerpflicht",174
+2020,3,"Gemeinde",298,"Wiesendangen","juristische Personen mit ordentlicher Steuerpflicht",229
+2020,6,"Raumplanungsregion",101,"Stadt Zürich","juristische Personen mit ordentlicher Steuerpflicht",35339
+2020,6,"Raumplanungsregion",102,"Glattal","juristische Personen mit ordentlicher Steuerpflicht",10021
+2020,6,"Raumplanungsregion",103,"Furttal","juristische Personen mit ordentlicher Steuerpflicht",1893
+2020,6,"Raumplanungsregion",104,"Limmattal","juristische Personen mit ordentlicher Steuerpflicht",4853
+2020,6,"Raumplanungsregion",105,"Knonaueramt","juristische Personen mit ordentlicher Steuerpflicht",2179
+2020,6,"Raumplanungsregion",106,"Zimmerberg","juristische Personen mit ordentlicher Steuerpflicht",5479
+2020,6,"Raumplanungsregion",107,"Pfannenstiel","juristische Personen mit ordentlicher Steuerpflicht",6476
+2020,6,"Raumplanungsregion",108,"Zürcher Oberland","juristische Personen mit ordentlicher Steuerpflicht",6831
+2020,6,"Raumplanungsregion",109,"Winterthur und Umgebung","juristische Personen mit ordentlicher Steuerpflicht",7993
+2020,6,"Raumplanungsregion",110,"Weinland","juristische Personen mit ordentlicher Steuerpflicht",1231
+2020,6,"Raumplanungsregion",111,"Zürcher Unterland","juristische Personen mit ordentlicher Steuerpflicht",4170

@@ -1,0 +1,662 @@
+jahr,wanderung,noga08_code,branche,arbeitsstaetten,beschaeftigte,vzae
+2012,bestand,A,"Land- und Forstwirtschaft, Fischerei",4017,12501,8194.4
+2012,bestand,B,Bergbau und Gewinnung von Steinen und Erden,35,652,595.3
+2012,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5778,84413,76036.4
+2012,bestand,D,Energieversorgung,89,3388,2931.6
+2012,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,266,3200,2885
+2012,bestand,F,Baugewerbe/Bau,7052,54145,49415.2
+2012,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,15747,125392,103119.2
+2012,bestand,H,Verkehr und Lagerei,3496,49122,40585.9
+2012,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4391,45384,33002.7
+2012,bestand,J,Information und Kommunikation,5708,53737,45506.8
+2012,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3805,93224,82473.5
+2012,bestand,L,Grundstücks- und Wohnungswesen,2619,15021,8913.8
+2012,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",19825,95499,76388.9
+2012,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5146,65417,44057.8
+2012,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",957,30243,23824.2
+2012,bestand,P,Erziehung und Unterricht,6035,78370,45266.1
+2012,bestand,Q,Gesundheits- und Sozialwesen,12227,112967,78090.1
+2012,bestand,R,"Kunst, Unterhaltung und Erholung",4143,18662,10630.5
+2012,bestand,S,Erbringung von sonstigen Dienstleistungen,8272,29883,19214.5
+2012,wegzug,A,"Land- und Forstwirtschaft, Fischerei",3,4,NA
+2012,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,22,138,122.5
+2012,wegzug,F,Baugewerbe/Bau,28,194,177.1
+2012,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,88,362,293.1
+2012,wegzug,H,Verkehr und Lagerei,10,30,25.3
+2012,wegzug,J,Information und Kommunikation,63,202,175.4
+2012,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,36,76,57.4
+2012,wegzug,L,Grundstücks- und Wohnungswesen,13,36,24.8
+2012,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",133,303,236
+2012,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,23,102,66
+2012,wegzug,P,Erziehung und Unterricht,8,8,4.5
+2012,wegzug,Q,Gesundheits- und Sozialwesen,30,69,40.3
+2012,wegzug,R,"Kunst, Unterhaltung und Erholung",20,53,23.6
+2012,wegzug,S,Erbringung von sonstigen Dienstleistungen,23,30,16.9
+2012,zuzug,A,"Land- und Forstwirtschaft, Fischerei",4,7,NA
+2012,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,17,33,26.2
+2012,zuzug,F,Baugewerbe/Bau,29,119,105.4
+2012,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,58,270,222.6
+2012,zuzug,H,Verkehr und Lagerei,5,173,161
+2012,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,4,5,NA
+2012,zuzug,J,Information und Kommunikation,50,180,149.5
+2012,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,26,61,48.6
+2012,zuzug,L,Grundstücks- und Wohnungswesen,10,16,8.6
+2012,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",119,392,312.4
+2012,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,11,57,37.8
+2012,zuzug,P,Erziehung und Unterricht,13,28,14.4
+2012,zuzug,Q,Gesundheits- und Sozialwesen,49,89,59.1
+2012,zuzug,R,"Kunst, Unterhaltung und Erholung",26,34,21.7
+2012,zuzug,S,Erbringung von sonstigen Dienstleistungen,25,58,36
+2013,bestand,A,"Land- und Forstwirtschaft, Fischerei",3906,12088,7985.2
+2013,bestand,B,Bergbau und Gewinnung von Steinen und Erden,38,675,616.2
+2013,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5840,83944,75701.1
+2013,bestand,D,Energieversorgung,91,3300,2954.7
+2013,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,271,3283,2969.6
+2013,bestand,F,Baugewerbe/Bau,7066,55040,50355.6
+2013,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,15882,123705,101776.9
+2013,bestand,H,Verkehr und Lagerei,3525,48565,39902
+2013,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4407,45558,33088
+2013,bestand,J,Information und Kommunikation,5912,55694,47212.2
+2013,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3809,92454,81698.4
+2013,bestand,L,Grundstücks- und Wohnungswesen,2691,15202,9144.7
+2013,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",20659,98660,78722.5
+2013,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5283,67661,45348.5
+2013,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",943,30906,24255.8
+2013,bestand,P,Erziehung und Unterricht,6225,79684,45764
+2013,bestand,Q,Gesundheits- und Sozialwesen,12934,117206,80986.2
+2013,bestand,R,"Kunst, Unterhaltung und Erholung",4477,19757,11304.4
+2013,bestand,S,Erbringung von sonstigen Dienstleistungen,8581,30657,19611.6
+2013,wegzug,A,"Land- und Forstwirtschaft, Fischerei",3,6,4
+2013,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,7,86,77.5
+2013,wegzug,D,Energieversorgung,NA,NA,NA
+2013,wegzug,F,Baugewerbe/Bau,16,43,36.9
+2013,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,34,192,158.8
+2013,wegzug,H,Verkehr und Lagerei,NA,NA,NA
+2013,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,NA,4,NA
+2013,wegzug,J,Information und Kommunikation,27,48,39.1
+2013,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,15,80,72
+2013,wegzug,L,Grundstücks- und Wohnungswesen,9,12,8
+2013,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",78,195,159.5
+2013,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,12,159,80.6
+2013,wegzug,P,Erziehung und Unterricht,5,13,9
+2013,wegzug,Q,Gesundheits- und Sozialwesen,23,58,38.3
+2013,wegzug,R,"Kunst, Unterhaltung und Erholung",11,43,31.8
+2013,wegzug,S,Erbringung von sonstigen Dienstleistungen,13,30,19.9
+2013,zuzug,A,"Land- und Forstwirtschaft, Fischerei",NA,6,4.8
+2013,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,13,98,85.4
+2013,zuzug,F,Baugewerbe/Bau,14,65,59.3
+2013,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,37,212,174.2
+2013,zuzug,H,Verkehr und Lagerei,5,36,18.5
+2013,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,NA,NA,NA
+2013,zuzug,J,Information und Kommunikation,22,123,101.3
+2013,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,20,101,87.3
+2013,zuzug,L,Grundstücks- und Wohnungswesen,9,22,13.1
+2013,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",41,95,71.3
+2013,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,11,39,30.5
+2013,zuzug,P,Erziehung und Unterricht,5,5,NA
+2013,zuzug,Q,Gesundheits- und Sozialwesen,31,79,50.1
+2013,zuzug,R,"Kunst, Unterhaltung und Erholung",11,11,7.9
+2013,zuzug,S,Erbringung von sonstigen Dienstleistungen,24,79,54.5
+2014,bestand,A,"Land- und Forstwirtschaft, Fischerei",3863,12138,8013.5
+2014,bestand,B,Bergbau und Gewinnung von Steinen und Erden,37,648,588.5
+2014,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5895,83456,75229.2
+2014,bestand,D,Energieversorgung,96,3402,3033.6
+2014,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,274,3398,3082.6
+2014,bestand,F,Baugewerbe/Bau,7160,55317,50532
+2014,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,16054,124988,102710.8
+2014,bestand,H,Verkehr und Lagerei,3571,48025,39320.1
+2014,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4401,46405,33898.4
+2014,bestand,J,Information und Kommunikation,6156,58301,49508
+2014,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3835,92659,81963.9
+2014,bestand,L,Grundstücks- und Wohnungswesen,2771,15185,9233.1
+2014,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",21706,100897,80474.1
+2014,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5445,67658,45135.3
+2014,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",920,30089,24266.1
+2014,bestand,P,Erziehung und Unterricht,6598,81050,46659.3
+2014,bestand,Q,Gesundheits- und Sozialwesen,13707,122233,84672.9
+2014,bestand,R,"Kunst, Unterhaltung und Erholung",4893,20263,11442.4
+2014,bestand,S,Erbringung von sonstigen Dienstleistungen,9012,31372,20069.9
+2014,wegzug,A,"Land- und Forstwirtschaft, Fischerei",3,6,NA
+2014,wegzug,B,Bergbau und Gewinnung von Steinen und Erden,NA,25,25
+2014,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,28,154,129.6
+2014,wegzug,F,Baugewerbe/Bau,28,75,65.6
+2014,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,80,326,253.6
+2014,wegzug,H,Verkehr und Lagerei,7,13,10.5
+2014,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,NA,NA,NA
+2014,wegzug,J,Information und Kommunikation,51,148,123.8
+2014,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,34,124,103.9
+2014,wegzug,L,Grundstücks- und Wohnungswesen,18,36,21.9
+2014,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",123,390,290
+2014,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,22,57,32.8
+2014,wegzug,P,Erziehung und Unterricht,13,21,9.8
+2014,wegzug,Q,Gesundheits- und Sozialwesen,38,66,43.4
+2014,wegzug,R,"Kunst, Unterhaltung und Erholung",24,42,21.8
+2014,wegzug,S,Erbringung von sonstigen Dienstleistungen,21,116,74.2
+2014,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,12,52,41.5
+2014,zuzug,F,Baugewerbe/Bau,21,110,100.3
+2014,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,29,146,124.9
+2014,zuzug,H,Verkehr und Lagerei,5,15,11.3
+2014,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,NA,NA,NA
+2014,zuzug,J,Information und Kommunikation,46,206,171.6
+2014,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,24,82,68.1
+2014,zuzug,L,Grundstücks- und Wohnungswesen,15,49,33
+2014,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",104,189,134.7
+2014,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,14,53,35
+2014,zuzug,P,Erziehung und Unterricht,9,19,11.6
+2014,zuzug,Q,Gesundheits- und Sozialwesen,38,84,53.2
+2014,zuzug,R,"Kunst, Unterhaltung und Erholung",16,28,18.7
+2014,zuzug,S,Erbringung von sonstigen Dienstleistungen,19,41,26
+2015,bestand,A,"Land- und Forstwirtschaft, Fischerei",3810,12051,8009.7
+2015,bestand,B,Bergbau und Gewinnung von Steinen und Erden,32,630,573.3
+2015,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5835,81112,72950.8
+2015,bestand,D,Energieversorgung,91,3224,2934.8
+2015,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,279,3499,3160.2
+2015,bestand,F,Baugewerbe/Bau,7116,55060,50235.6
+2015,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,15868,123274,101269.3
+2015,bestand,H,Verkehr und Lagerei,3588,48439,39594.9
+2015,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4410,46493,34058.1
+2015,bestand,J,Information und Kommunikation,6263,59197,50326.9
+2015,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3894,93286,82478.5
+2015,bestand,L,Grundstücks- und Wohnungswesen,2837,15649,9517.8
+2015,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",22016,103611,82476.7
+2015,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5502,67929,45396.2
+2015,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",920,30846,24601.5
+2015,bestand,P,Erziehung und Unterricht,6715,82121,47645.6
+2015,bestand,Q,Gesundheits- und Sozialwesen,14081,125866,87511.8
+2015,bestand,R,"Kunst, Unterhaltung und Erholung",4977,21028,11825.2
+2015,bestand,S,Erbringung von sonstigen Dienstleistungen,9383,32276,20412.8
+2015,wegzug,A,"Land- und Forstwirtschaft, Fischerei",3,7,5.7
+2015,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,34,306,278.5
+2015,wegzug,D,Energieversorgung,NA,7,6
+2015,wegzug,F,Baugewerbe/Bau,32,122,109.8
+2015,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,74,494,437.2
+2015,wegzug,H,Verkehr und Lagerei,15,84,76.1
+2015,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,7,20,17.2
+2015,wegzug,J,Information und Kommunikation,62,212,168.9
+2015,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,46,245,204.2
+2015,wegzug,L,Grundstücks- und Wohnungswesen,16,39,25
+2015,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",179,432,332.5
+2015,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,27,109,72.6
+2015,wegzug,P,Erziehung und Unterricht,16,86,33.2
+2015,wegzug,Q,Gesundheits- und Sozialwesen,44,100,56.7
+2015,wegzug,R,"Kunst, Unterhaltung und Erholung",39,120,85.3
+2015,wegzug,S,Erbringung von sonstigen Dienstleistungen,32,74,43
+2015,zuzug,A,"Land- und Forstwirtschaft, Fischerei",NA,NA,NA
+2015,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,20,69,57.4
+2015,zuzug,F,Baugewerbe/Bau,27,132,112.1
+2015,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,61,351,307.4
+2015,zuzug,H,Verkehr und Lagerei,6,18,15.8
+2015,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,8,206,168
+2015,zuzug,J,Information und Kommunikation,42,172,143.9
+2015,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,30,78,66.7
+2015,zuzug,L,Grundstücks- und Wohnungswesen,13,42,29.2
+2015,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",103,481,411.4
+2015,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,29,427,215.7
+2015,zuzug,P,Erziehung und Unterricht,14,28,14.8
+2015,zuzug,Q,Gesundheits- und Sozialwesen,49,110,71.4
+2015,zuzug,R,"Kunst, Unterhaltung und Erholung",30,41,23.6
+2015,zuzug,S,Erbringung von sonstigen Dienstleistungen,44,370,163.4
+2016,bestand,A,"Land- und Forstwirtschaft, Fischerei",3714,11874,7899.8
+2016,bestand,B,Bergbau und Gewinnung von Steinen und Erden,28,612,568.8
+2016,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5684,79234,71041.8
+2016,bestand,D,Energieversorgung,97,3084,2770.3
+2016,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,283,3428,3063.1
+2016,bestand,F,Baugewerbe/Bau,7118,54358,49447.1
+2016,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,15686,121909,100543.4
+2016,bestand,H,Verkehr und Lagerei,3547,49322,40380.7
+2016,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4468,47859,34932.7
+2016,bestand,J,Information und Kommunikation,6294,59869,51150.6
+2016,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3959,92167,81776.3
+2016,bestand,L,Grundstücks- und Wohnungswesen,2904,15988,9637.3
+2016,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",22188,107352,85786.2
+2016,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5567,69583,46394.3
+2016,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",934,30777,24907.2
+2016,bestand,P,Erziehung und Unterricht,6923,85287,49749
+2016,bestand,Q,Gesundheits- und Sozialwesen,14448,129196,89951.8
+2016,bestand,R,"Kunst, Unterhaltung und Erholung",5067,20895,11527.4
+2016,bestand,S,Erbringung von sonstigen Dienstleistungen,9514,33115,21093.8
+2016,wegzug,A,"Land- und Forstwirtschaft, Fischerei",6,29,21.5
+2016,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,21,174,160.7
+2016,wegzug,D,Energieversorgung,NA,40,35.8
+2016,wegzug,F,Baugewerbe/Bau,45,253,234.1
+2016,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,105,635,521.7
+2016,wegzug,H,Verkehr und Lagerei,15,49,38.1
+2016,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,6,16,13.9
+2016,wegzug,J,Information und Kommunikation,73,197,158.9
+2016,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,42,148,121.5
+2016,wegzug,L,Grundstücks- und Wohnungswesen,18,39,24.1
+2016,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",188,468,348.4
+2016,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,34,298,192.5
+2016,wegzug,P,Erziehung und Unterricht,21,56,24.8
+2016,wegzug,Q,Gesundheits- und Sozialwesen,62,212,124
+2016,wegzug,R,"Kunst, Unterhaltung und Erholung",31,46,32.6
+2016,wegzug,S,Erbringung von sonstigen Dienstleistungen,34,75,49.5
+2016,zuzug,A,"Land- und Forstwirtschaft, Fischerei",4,7,NA
+2016,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,20,144,120.9
+2016,zuzug,D,Energieversorgung,3,12,8.6
+2016,zuzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,NA,NA
+2016,zuzug,F,Baugewerbe/Bau,22,63,52.7
+2016,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,81,298,253.8
+2016,zuzug,H,Verkehr und Lagerei,11,121,110.3
+2016,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,NA,44,29.3
+2016,zuzug,J,Information und Kommunikation,53,247,213.9
+2016,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,36,372,334.1
+2016,zuzug,L,Grundstücks- und Wohnungswesen,13,32,19.2
+2016,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",149,504,410.2
+2016,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,26,208,111.5
+2016,zuzug,P,Erziehung und Unterricht,18,61,35.9
+2016,zuzug,Q,Gesundheits- und Sozialwesen,50,93,62.3
+2016,zuzug,R,"Kunst, Unterhaltung und Erholung",35,66,45.6
+2016,zuzug,S,Erbringung von sonstigen Dienstleistungen,31,133,86.1
+2017,bestand,A,"Land- und Forstwirtschaft, Fischerei",3675,11681,7723.9
+2017,bestand,B,Bergbau und Gewinnung von Steinen und Erden,29,613,571.3
+2017,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5695,78211,70700.5
+2017,bestand,D,Energieversorgung,101,2849,2552.7
+2017,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,286,3526,3176.4
+2017,bestand,F,Baugewerbe/Bau,7117,54327,49552.5
+2017,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,15363,120788,98949.8
+2017,bestand,H,Verkehr und Lagerei,3460,49696,40449.7
+2017,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4435,48093,34790.3
+2017,bestand,J,Information und Kommunikation,6375,61711,52504.8
+2017,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3896,84388,74489.2
+2017,bestand,L,Grundstücks- und Wohnungswesen,2982,16335,9768.3
+2017,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",22519,117913,95359.6
+2017,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5558,71177,47984
+2017,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",948,31517,25296
+2017,bestand,P,Erziehung und Unterricht,7060,87535,51086.2
+2017,bestand,Q,Gesundheits- und Sozialwesen,14718,132394,92217.6
+2017,bestand,R,"Kunst, Unterhaltung und Erholung",5072,21721,12313.2
+2017,bestand,S,Erbringung von sonstigen Dienstleistungen,9560,33470,21077.6
+2017,wegzug,A,"Land- und Forstwirtschaft, Fischerei",NA,5,NA
+2017,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,17,107,89.1
+2017,wegzug,D,Energieversorgung,NA,269,256.6
+2017,wegzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,14,10.1
+2017,wegzug,F,Baugewerbe/Bau,29,100,92.4
+2017,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,72,422,369.8
+2017,wegzug,H,Verkehr und Lagerei,8,87,76.9
+2017,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,3,53,35.6
+2017,wegzug,J,Information und Kommunikation,47,254,223.3
+2017,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,36,98,77.4
+2017,wegzug,L,Grundstücks- und Wohnungswesen,16,39,25.2
+2017,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",144,438,359.6
+2017,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,27,303,185.9
+2017,wegzug,P,Erziehung und Unterricht,9,12,7.9
+2017,wegzug,Q,Gesundheits- und Sozialwesen,44,103,61.8
+2017,wegzug,R,"Kunst, Unterhaltung und Erholung",21,40,26.5
+2017,wegzug,S,Erbringung von sonstigen Dienstleistungen,13,30,18.3
+2017,zuzug,A,"Land- und Forstwirtschaft, Fischerei",3,4,NA
+2017,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,14,121,110.1
+2017,zuzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,NA,NA
+2017,zuzug,F,Baugewerbe/Bau,28,91,80.9
+2017,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,52,251,204.6
+2017,zuzug,H,Verkehr und Lagerei,4,7,5.7
+2017,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,NA,NA,NA
+2017,zuzug,J,Information und Kommunikation,48,183,146.5
+2017,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,17,91,74.2
+2017,zuzug,L,Grundstücks- und Wohnungswesen,15,42,27.8
+2017,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",118,322,265.7
+2017,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,16,89,71.7
+2017,zuzug,P,Erziehung und Unterricht,16,105,53
+2017,zuzug,Q,Gesundheits- und Sozialwesen,54,159,94.5
+2017,zuzug,R,"Kunst, Unterhaltung und Erholung",19,49,28.9
+2017,zuzug,S,Erbringung von sonstigen Dienstleistungen,37,69,36.8
+2018,bestand,A,"Land- und Forstwirtschaft, Fischerei",3599,11333,7670.5
+2018,bestand,B,Bergbau und Gewinnung von Steinen und Erden,30,630,591
+2018,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5609,78845,71296.1
+2018,bestand,D,Energieversorgung,107,2872,2585.3
+2018,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,299,3596,3187.2
+2018,bestand,F,Baugewerbe/Bau,7200,55180,50727.9
+2018,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,15073,120328,98812.9
+2018,bestand,H,Verkehr und Lagerei,3458,50397,40556.9
+2018,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4445,48533,35566.5
+2018,bestand,J,Information und Kommunikation,6561,64753,55518.1
+2018,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3925,84673,74458.2
+2018,bestand,L,Grundstücks- und Wohnungswesen,2981,16107,9898.9
+2018,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",22883,121573,99278.5
+2018,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5655,73175,49219.6
+2018,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",958,32122,25765.2
+2018,bestand,P,Erziehung und Unterricht,7236,91457,53551.7
+2018,bestand,Q,Gesundheits- und Sozialwesen,14939,134808,94249.6
+2018,bestand,R,"Kunst, Unterhaltung und Erholung",5200,22435,12588.7
+2018,bestand,S,Erbringung von sonstigen Dienstleistungen,9714,33872,21683.8
+2018,wegzug,A,"Land- und Forstwirtschaft, Fischerei",NA,6,4.9
+2018,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,18,110,97.3
+2018,wegzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,7,5.6
+2018,wegzug,F,Baugewerbe/Bau,20,54,45.2
+2018,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,69,287,235.6
+2018,wegzug,H,Verkehr und Lagerei,12,69,56.3
+2018,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,3,4,NA
+2018,wegzug,J,Information und Kommunikation,43,120,94.8
+2018,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,38,137,114.8
+2018,wegzug,L,Grundstücks- und Wohnungswesen,13,25,10
+2018,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",135,473,354.4
+2018,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,25,64,48.5
+2018,wegzug,P,Erziehung und Unterricht,21,36,26
+2018,wegzug,Q,Gesundheits- und Sozialwesen,46,83,53.7
+2018,wegzug,R,"Kunst, Unterhaltung und Erholung",20,74,48.6
+2018,wegzug,S,Erbringung von sonstigen Dienstleistungen,26,172,87.2
+2018,zuzug,A,"Land- und Forstwirtschaft, Fischerei",5,11,7.5
+2018,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,16,100,85.4
+2018,zuzug,D,Energieversorgung,NA,4,NA
+2018,zuzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,15,13.4
+2018,zuzug,F,Baugewerbe/Bau,22,88,73.3
+2018,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,63,222,179.8
+2018,zuzug,H,Verkehr und Lagerei,13,23,18.1
+2018,zuzug,J,Information und Kommunikation,41,162,139.8
+2018,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,22,97,77.6
+2018,zuzug,L,Grundstücks- und Wohnungswesen,15,37,22.9
+2018,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",119,803,648.7
+2018,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,23,62,46.7
+2018,zuzug,P,Erziehung und Unterricht,17,80,19.1
+2018,zuzug,Q,Gesundheits- und Sozialwesen,52,81,48
+2018,zuzug,R,"Kunst, Unterhaltung und Erholung",36,42,21.7
+2018,zuzug,S,Erbringung von sonstigen Dienstleistungen,37,91,49.5
+2019,bestand,A,"Land- und Forstwirtschaft, Fischerei",3516,11204,7575.9
+2019,bestand,B,Bergbau und Gewinnung von Steinen und Erden,31,640,588.1
+2019,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5624,79108,71544.4
+2019,bestand,D,Energieversorgung,104,2958,2608.7
+2019,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,286,3629,3216.7
+2019,bestand,F,Baugewerbe/Bau,7208,55092,50470.6
+2019,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,15054,119557,98449.9
+2019,bestand,H,Verkehr und Lagerei,3496,51301,41744.7
+2019,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4555,49223,36006.2
+2019,bestand,J,Information und Kommunikation,6733,66749,57667.3
+2019,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3912,85453,74561.9
+2019,bestand,L,Grundstücks- und Wohnungswesen,3053,16416,10128.4
+2019,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",23341,124005,101423.7
+2019,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5761,76206,50509
+2019,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",954,32991,26249.4
+2019,bestand,P,Erziehung und Unterricht,7561,95160,54863.1
+2019,bestand,Q,Gesundheits- und Sozialwesen,15366,137482,96271.6
+2019,bestand,R,"Kunst, Unterhaltung und Erholung",5414,23632,12836.4
+2019,bestand,S,Erbringung von sonstigen Dienstleistungen,10002,34809,22251.6
+2019,wegzug,A,"Land- und Forstwirtschaft, Fischerei",NA,4,NA
+2019,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,24,166,142.6
+2019,wegzug,D,Energieversorgung,NA,NA,NA
+2019,wegzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,3,18,13.1
+2019,wegzug,F,Baugewerbe/Bau,46,226,203.6
+2019,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,68,267,213.1
+2019,wegzug,H,Verkehr und Lagerei,5,29,22.5
+2019,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,4,9,7.5
+2019,wegzug,J,Information und Kommunikation,60,387,338.8
+2019,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,40,102,71.2
+2019,wegzug,L,Grundstücks- und Wohnungswesen,15,65,42.1
+2019,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",151,351,272.8
+2019,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,41,530,240.8
+2019,wegzug,P,Erziehung und Unterricht,16,54,28.5
+2019,wegzug,Q,Gesundheits- und Sozialwesen,54,69,43.8
+2019,wegzug,R,"Kunst, Unterhaltung und Erholung",20,25,15.9
+2019,wegzug,S,Erbringung von sonstigen Dienstleistungen,36,81,48.5
+2019,zuzug,A,"Land- und Forstwirtschaft, Fischerei",NA,NA,NA
+2019,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,15,71,61.9
+2019,zuzug,D,Energieversorgung,NA,NA,NA
+2019,zuzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,23,21.7
+2019,zuzug,F,Baugewerbe/Bau,29,209,194.8
+2019,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,61,403,340.5
+2019,zuzug,H,Verkehr und Lagerei,9,72,51.1
+2019,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,6,15,8.3
+2019,zuzug,J,Information und Kommunikation,40,163,133.9
+2019,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,23,176,143.4
+2019,zuzug,L,Grundstücks- und Wohnungswesen,14,33,22.1
+2019,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",114,425,346.2
+2019,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,19,234,194.3
+2019,zuzug,P,Erziehung und Unterricht,16,23,15.4
+2019,zuzug,Q,Gesundheits- und Sozialwesen,67,130,85.4
+2019,zuzug,R,"Kunst, Unterhaltung und Erholung",19,21,12.8
+2019,zuzug,S,Erbringung von sonstigen Dienstleistungen,22,87,59.3
+2020,bestand,A,"Land- und Forstwirtschaft, Fischerei",3485,11346,7540.9
+2020,bestand,B,Bergbau und Gewinnung von Steinen und Erden,32,660,606.3
+2020,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5560,77464,70156.4
+2020,bestand,D,Energieversorgung,105,3039,2705.1
+2020,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,292,3654,3239.6
+2020,bestand,F,Baugewerbe/Bau,7239,54475,50177
+2020,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,14888,118425,97781.9
+2020,bestand,H,Verkehr und Lagerei,3340,48908,40733
+2020,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4502,42576,31685.7
+2020,bestand,J,Information und Kommunikation,6781,67900,58922
+2020,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3929,86662,76308.6
+2020,bestand,L,Grundstücks- und Wohnungswesen,3128,16423,10318.7
+2020,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",23370,125011,103465.6
+2020,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5729,73706,49281.2
+2020,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",972,34343,27407.8
+2020,bestand,P,Erziehung und Unterricht,7569,96330,56049.8
+2020,bestand,Q,Gesundheits- und Sozialwesen,15339,141805,99684
+2020,bestand,R,"Kunst, Unterhaltung und Erholung",5281,22666,13036.8
+2020,bestand,S,Erbringung von sonstigen Dienstleistungen,10048,34226,21931.3
+2020,wegzug,A,"Land- und Forstwirtschaft, Fischerei",5,27,18.3
+2020,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,21,56,49.2
+2020,wegzug,D,Energieversorgung,NA,10,8.7
+2020,wegzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,29,26
+2020,wegzug,F,Baugewerbe/Bau,46,129,112.8
+2020,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,87,360,300.3
+2020,wegzug,H,Verkehr und Lagerei,18,196,151.1
+2020,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,5,6,5
+2020,wegzug,J,Information und Kommunikation,63,249,216.3
+2020,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,30,61,47.9
+2020,wegzug,L,Grundstücks- und Wohnungswesen,14,30,16.4
+2020,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",186,385,289.5
+2020,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,30,54,36.9
+2020,wegzug,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",NA,NA,NA
+2020,wegzug,P,Erziehung und Unterricht,39,71,35.8
+2020,wegzug,Q,Gesundheits- und Sozialwesen,71,138,82.9
+2020,wegzug,R,"Kunst, Unterhaltung und Erholung",47,71,38.3
+2020,wegzug,S,Erbringung von sonstigen Dienstleistungen,65,232,100.5
+2020,zuzug,A,"Land- und Forstwirtschaft, Fischerei",4,17,9.1
+2020,zuzug,B,Bergbau und Gewinnung von Steinen und Erden,NA,4,NA
+2020,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,27,173,147
+2020,zuzug,D,Energieversorgung,NA,13,9.6
+2020,zuzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,8,7.2
+2020,zuzug,F,Baugewerbe/Bau,30,102,92.4
+2020,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,63,273,220.3
+2020,zuzug,H,Verkehr und Lagerei,11,32,26.7
+2020,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,9,31,21.7
+2020,zuzug,J,Information und Kommunikation,63,369,327.7
+2020,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,39,155,118.7
+2020,zuzug,L,Grundstücks- und Wohnungswesen,19,50,35.4
+2020,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",134,335,269.1
+2020,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,16,147,126
+2020,zuzug,P,Erziehung und Unterricht,22,38,20.5
+2020,zuzug,Q,Gesundheits- und Sozialwesen,81,216,139.3
+2020,zuzug,R,"Kunst, Unterhaltung und Erholung",38,54,34
+2020,zuzug,S,Erbringung von sonstigen Dienstleistungen,40,75,42.3
+2021,bestand,A,"Land- und Forstwirtschaft, Fischerei",3423,11640,7780.1
+2021,bestand,B,Bergbau und Gewinnung von Steinen und Erden,33,790,728.8
+2021,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5521,77480,70316.3
+2021,bestand,D,Energieversorgung,102,3073,2732.7
+2021,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,299,3673,3260.6
+2021,bestand,F,Baugewerbe/Bau,7232,54192,50065.6
+2021,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,14824,119163,97758.2
+2021,bestand,H,Verkehr und Lagerei,3269,47198,39278.6
+2021,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4559,44307,33299.1
+2021,bestand,J,Information und Kommunikation,6921,71921,62393.8
+2021,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3924,86284,76410.4
+2021,bestand,L,Grundstücks- und Wohnungswesen,3150,16671,10816.6
+2021,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",23730,131175,108406.8
+2021,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5739,82440,54456.2
+2021,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",961,34182,27514.7
+2021,bestand,P,Erziehung und Unterricht,7589,99520,57688.4
+2021,bestand,Q,Gesundheits- und Sozialwesen,15606,143518,99672.2
+2021,bestand,R,"Kunst, Unterhaltung und Erholung",5426,23181,13372
+2021,bestand,S,Erbringung von sonstigen Dienstleistungen,10303,35608,21918.1
+2021,wegzug,A,"Land- und Forstwirtschaft, Fischerei",NA,NA,NA
+2021,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,31,439,399.6
+2021,wegzug,D,Energieversorgung,NA,6,4.1
+2021,wegzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,NA,NA
+2021,wegzug,F,Baugewerbe/Bau,51,218,199
+2021,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,84,371,307.5
+2021,wegzug,H,Verkehr und Lagerei,14,39,34.4
+2021,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,9,32,18.8
+2021,wegzug,J,Information und Kommunikation,79,229,183.2
+2021,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,57,174,135.9
+2021,wegzug,L,Grundstücks- und Wohnungswesen,24,56,35.5
+2021,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",208,498,388.2
+2021,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,31,231,199.7
+2021,wegzug,P,Erziehung und Unterricht,41,112,35.1
+2021,wegzug,Q,Gesundheits- und Sozialwesen,101,138,85.6
+2021,wegzug,R,"Kunst, Unterhaltung und Erholung",42,69,43.8
+2021,wegzug,S,Erbringung von sonstigen Dienstleistungen,67,97,56.9
+2021,zuzug,A,"Land- und Forstwirtschaft, Fischerei",5,10,7.4
+2021,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,14,36,30
+2021,zuzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,19,12.6
+2021,zuzug,F,Baugewerbe/Bau,29,248,233.6
+2021,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,44,322,275.2
+2021,zuzug,H,Verkehr und Lagerei,10,21,15.6
+2021,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,NA,NA,NA
+2021,zuzug,J,Information und Kommunikation,39,179,154.1
+2021,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,35,138,104.7
+2021,zuzug,L,Grundstücks- und Wohnungswesen,19,48,30.3
+2021,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",117,271,206.1
+2021,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,18,46,33.1
+2021,zuzug,P,Erziehung und Unterricht,20,141,88.4
+2021,zuzug,Q,Gesundheits- und Sozialwesen,72,117,76.6
+2021,zuzug,R,"Kunst, Unterhaltung und Erholung",27,54,28.1
+2021,zuzug,S,Erbringung von sonstigen Dienstleistungen,49,116,66.4
+2022,bestand,A,"Land- und Forstwirtschaft, Fischerei",3343,11778,7915.7
+2022,bestand,B,Bergbau und Gewinnung von Steinen und Erden,33,797,737.7
+2022,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5470,79145,71837.1
+2022,bestand,D,Energieversorgung,108,3381,3016.8
+2022,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,298,3718,3311.3
+2022,bestand,F,Baugewerbe/Bau,7338,54263,49878.4
+2022,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,14736,120407,98910.4
+2022,bestand,H,Verkehr und Lagerei,3318,48919,40285.2
+2022,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4579,48432,36019.4
+2022,bestand,J,Information und Kommunikation,7135,75575,65754
+2022,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3918,89322,78806.9
+2022,bestand,L,Grundstücks- und Wohnungswesen,3203,16493,10334
+2022,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",23945,135738,111200.1
+2022,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5817,88969,57383.6
+2022,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",951,33977,27342.3
+2022,bestand,P,Erziehung und Unterricht,7673,102145,58544.8
+2022,bestand,Q,Gesundheits- und Sozialwesen,15884,147037,102609
+2022,bestand,R,"Kunst, Unterhaltung und Erholung",5625,24113,13560.8
+2022,bestand,S,Erbringung von sonstigen Dienstleistungen,10615,36995,23096.8
+2022,wegzug,A,"Land- und Forstwirtschaft, Fischerei",NA,5,NA
+2022,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,19,184,162.7
+2022,wegzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,NA,NA
+2022,wegzug,F,Baugewerbe/Bau,41,183,167.8
+2022,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,80,631,552.3
+2022,wegzug,H,Verkehr und Lagerei,25,62,55.5
+2022,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,6,27,20.1
+2022,wegzug,J,Information und Kommunikation,79,199,164.4
+2022,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,46,220,183.6
+2022,wegzug,L,Grundstücks- und Wohnungswesen,16,25,17
+2022,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",210,525,415
+2022,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,32,89,65.1
+2022,wegzug,P,Erziehung und Unterricht,45,91,45.7
+2022,wegzug,Q,Gesundheits- und Sozialwesen,96,164,106.6
+2022,wegzug,R,"Kunst, Unterhaltung und Erholung",53,133,87.3
+2022,wegzug,S,Erbringung von sonstigen Dienstleistungen,39,158,105.3
+2022,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,18,67,59.4
+2022,zuzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,4,4
+2022,zuzug,F,Baugewerbe/Bau,28,170,160.3
+2022,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,41,412,372.9
+2022,zuzug,H,Verkehr und Lagerei,15,69,56.7
+2022,zuzug,J,Information und Kommunikation,60,231,199.9
+2022,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,33,183,163.5
+2022,zuzug,L,Grundstücks- und Wohnungswesen,20,48,29.7
+2022,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",133,377,305.2
+2022,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,22,88,54.7
+2022,zuzug,P,Erziehung und Unterricht,35,291,233.1
+2022,zuzug,Q,Gesundheits- und Sozialwesen,70,109,66.3
+2022,zuzug,R,"Kunst, Unterhaltung und Erholung",43,57,35.4
+2022,zuzug,S,Erbringung von sonstigen Dienstleistungen,65,111,71.5
+2023,bestand,A,"Land- und Forstwirtschaft, Fischerei",3268,11669,7916.2
+2023,bestand,B,Bergbau und Gewinnung von Steinen und Erden,31,854,795.3
+2023,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5445,79658,72226.2
+2023,bestand,D,Energieversorgung,114,3745,3362
+2023,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,296,3797,3390.1
+2023,bestand,F,Baugewerbe/Bau,7362,54458,50036
+2023,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,14452,119276,98291
+2023,bestand,H,Verkehr und Lagerei,3407,50986,42317.9
+2023,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4568,49239,36529.8
+2023,bestand,J,Information und Kommunikation,7365,75705,65952
+2023,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3873,90928,80685.9
+2023,bestand,L,Grundstücks- und Wohnungswesen,3243,16589,10508.4
+2023,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",24290,138755,113876.6
+2023,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,5908,87783,57317.5
+2023,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",943,35638,28473.7
+2023,bestand,P,Erziehung und Unterricht,7787,106528,60382.8
+2023,bestand,Q,Gesundheits- und Sozialwesen,16567,153844,106928.7
+2023,bestand,R,"Kunst, Unterhaltung und Erholung",5751,25391,13717.4
+2023,bestand,S,Erbringung von sonstigen Dienstleistungen,10823,37060,23157.4
+2023,wegzug,A,"Land- und Forstwirtschaft, Fischerei",3,8,4.1
+2023,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,28,76,63.2
+2023,wegzug,F,Baugewerbe/Bau,59,267,239.9
+2023,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,65,727,611.7
+2023,wegzug,H,Verkehr und Lagerei,15,75,61.4
+2023,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,4,4,NA
+2023,wegzug,J,Information und Kommunikation,70,180,138.4
+2023,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,36,113,87.8
+2023,wegzug,L,Grundstücks- und Wohnungswesen,19,46,29
+2023,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",212,624,443.4
+2023,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,38,503,383.7
+2023,wegzug,P,Erziehung und Unterricht,44,81,35.7
+2023,wegzug,Q,Gesundheits- und Sozialwesen,95,137,83.7
+2023,wegzug,R,"Kunst, Unterhaltung und Erholung",45,67,39
+2023,wegzug,S,Erbringung von sonstigen Dienstleistungen,57,189,143.4
+2023,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,19,66,50.8
+2023,zuzug,F,Baugewerbe/Bau,30,114,103.3
+2023,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,51,130,102.5
+2023,zuzug,H,Verkehr und Lagerei,12,25,18.1
+2023,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,8,41,23.1
+2023,zuzug,J,Information und Kommunikation,66,448,389.4
+2023,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,32,116,98.2
+2023,zuzug,L,Grundstücks- und Wohnungswesen,22,88,46.7
+2023,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",139,501,374.2
+2023,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,20,91,74
+2023,zuzug,P,Erziehung und Unterricht,28,54,28.3
+2023,zuzug,Q,Gesundheits- und Sozialwesen,57,258,161
+2023,zuzug,R,"Kunst, Unterhaltung und Erholung",37,57,33.5
+2023,zuzug,S,Erbringung von sonstigen Dienstleistungen,51,104,65.1
+2024,bestand,A,"Land- und Forstwirtschaft, Fischerei",3273,12011,8145.8
+2024,bestand,B,Bergbau und Gewinnung von Steinen und Erden,32,811,749.8
+2024,bestand,C,Verarbeitendes Gewerbe/Herstellung von Waren,5402,79914,72420.5
+2024,bestand,D,Energieversorgung,123,3902,3515.9
+2024,bestand,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,299,3911,3493.6
+2024,bestand,F,Baugewerbe/Bau,7394,54845,50334
+2024,bestand,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,14262,115635,95474.2
+2024,bestand,H,Verkehr und Lagerei,3441,53763,44097.5
+2024,bestand,I,Gastgewerbe/Beherbergung und Gastronomie,4592,49406,36301.9
+2024,bestand,J,Information und Kommunikation,7396,74016,64584
+2024,bestand,K,Erbringung von Finanz- und Versicherungsdienstleistungen,3826,90993,81183.4
+2024,bestand,L,Grundstücks- und Wohnungswesen,3363,16618,10633
+2024,bestand,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",24574,140362,116683.6
+2024,bestand,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,6017,87633,58762.6
+2024,bestand,O,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",945,36865,29427.1
+2024,bestand,P,Erziehung und Unterricht,7887,108063,61208.5
+2024,bestand,Q,Gesundheits- und Sozialwesen,16917,158390,112011.1
+2024,bestand,R,"Kunst, Unterhaltung und Erholung",5987,25812,14301.3
+2024,bestand,S,Erbringung von sonstigen Dienstleistungen,11054,36916,23475.8
+2024,wegzug,A,"Land- und Forstwirtschaft, Fischerei",3,10,8
+2024,wegzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,44,249,212.5
+2024,wegzug,D,Energieversorgung,NA,NA,NA
+2024,wegzug,E,Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen,NA,6,5.8
+2024,wegzug,F,Baugewerbe/Bau,60,291,257.5
+2024,wegzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,77,484,390.3
+2024,wegzug,H,Verkehr und Lagerei,13,42,33.2
+2024,wegzug,I,Gastgewerbe/Beherbergung und Gastronomie,10,18,11
+2024,wegzug,J,Information und Kommunikation,92,237,195.3
+2024,wegzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,40,96,68.6
+2024,wegzug,L,Grundstücks- und Wohnungswesen,24,45,28.2
+2024,wegzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",250,658,515
+2024,wegzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,50,454,347.5
+2024,wegzug,P,Erziehung und Unterricht,43,132,52
+2024,wegzug,Q,Gesundheits- und Sozialwesen,93,137,81
+2024,wegzug,R,"Kunst, Unterhaltung und Erholung",41,57,28.5
+2024,wegzug,S,Erbringung von sonstigen Dienstleistungen,70,307,199
+2024,zuzug,A,"Land- und Forstwirtschaft, Fischerei",NA,NA,NA
+2024,zuzug,C,Verarbeitendes Gewerbe/Herstellung von Waren,28,69,59.3
+2024,zuzug,D,Energieversorgung,NA,18,17.9
+2024,zuzug,F,Baugewerbe/Bau,36,142,126.7
+2024,zuzug,G,Handel; Instandhaltung und Reparatur von Motorfahrzeuge,42,110,82.8
+2024,zuzug,H,Verkehr und Lagerei,6,8,5.9
+2024,zuzug,I,Gastgewerbe/Beherbergung und Gastronomie,4,87,71.3
+2024,zuzug,J,Information und Kommunikation,62,538,484.2
+2024,zuzug,K,Erbringung von Finanz- und Versicherungsdienstleistungen,38,171,147.9
+2024,zuzug,L,Grundstücks- und Wohnungswesen,16,44,26.3
+2024,zuzug,M,"Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen",151,370,297.6
+2024,zuzug,N,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,17,56,45.3
+2024,zuzug,P,Erziehung und Unterricht,28,43,26.4
+2024,zuzug,Q,Gesundheits- und Sozialwesen,68,124,79.4
+2024,zuzug,R,"Kunst, Unterhaltung und Erholung",48,62,34.3
+2024,zuzug,S,Erbringung von sonstigen Dienstleistungen,47,77,45.4
