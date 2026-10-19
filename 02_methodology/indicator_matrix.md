@@ -64,7 +64,7 @@ How it fits the data register:
 ## Open points for the team
 
 1. **Accessibility**: here it sits under *Quality of life* (Q4–Q5) to keep the 11-topic grid, but some contributor folders already use a separate `12_accessibilità`. Decide whether to make it a 12th dimension (would need updating the destination sheets and the `topic` values).
-2. **Reference tax case** for T1–T2: agree income, wealth and family status (proposal: single person, CHF 1m taxable income, CHF 10m net wealth) in the reference municipalities of `geographies.csv`.
+2. **Reference tax case** for T1–T2: agree income, wealth and family status (proposal: single person, CHF 1m taxable income, CHF 10m net wealth) in the reference municipalities of `geographies.csv`. Decided on 19.10.2026: Lugano for Ticino.
 3. **`ctx` indicators** (cost of living, wages, property prices, population): leave unscored or score by client segment.
 4. **National indicators** (S1–S4) do not differentiate the Swiss destinations: decide whether to give them lower weight in the Swiss-only comparison.
 5. **Coverage check**: once values are in `observations.csv`, drop any `opt` indicator missing for more than a few destinations, and any indicator that only reaches grade C.

@@ -1,8 +1,8 @@
 geo_id,destination,name,level,is_benchmark_unit,parent_geo_id,notes
 CH,Switzerland (national),Switzerland,country,no,,National level for Swiss regime and national indicators
 TI,Ticino,Canton of Ticino,canton,yes,CH,Baseline territory
-TI-LUG,Ticino,Lugano,municipality,no,TI,Proposed reference municipality for tax profiles
-TI-BEL,Ticino,Bellinzona,municipality,no,TI,Cantonal capital; ESTV tax-burden statistics cover cantonal capitals only
+TI-LUG,Ticino,Lugano,municipality,no,TI,Reference municipality for tax profiles (agreed 19.10.2026)
+TI-BEL,Ticino,Bellinzona,municipality,no,TI,Cantonal capital; context only (Lugano is the reference municipality)
 TI-CHI,Ticino,Chiasso,municipality,no,TI,Air-quality monitoring station
 ZH,Zurich,Canton of Zurich,canton,yes,CH,
 ZH-ZRH,Zurich,City of Zurich,municipality,no,ZH,Context only; proposed reference municipality for tax profiles
