@@ -1,0 +1,30 @@
+indicator_id,topic,label,definition,unit,scope,direction,notes
+population,Population and migration,Resident population,Permanent resident population at year end (state the national definition in comparability_note),persons,local,neutral,Denominator for all per-capita ratios; record one value per year
+area_km2,Population and migration,Surface area,Total surface area; state in comparability_note whether lakes or reclaimed land are included,km2,local,neutral,Denominator for per-km2 ratios
+foreign_residents_share,Population and migration,Share of foreign residents,Residents without the country's citizenship as share of residents,%,local,neutral,
+net_migration,Population and migration,Net migration,Arrivals minus departures in the year (international + domestic unless stated),persons,local,higher_better,State whether domestic moves are included
+millionaires,Wealth,Resident millionaires,Residents with USD 1m+ liquid investable wealth,persons,local,higher_better,Henley & Partners definition; check geography used by Henley
+centimillionaires,Wealth,Resident centi-millionaires,Residents with USD 100m+ liquid investable wealth,persons,local,higher_better,Henley & Partners definition
+taxable_wealth_total,Wealth,Total taxable net wealth of individuals,Sum of declared taxable net wealth of natural persons,currency (million),local,higher_better,Exists only where a wealth tax exists (Swiss cantons); not comparable abroad
+bank_offices,Banking presence and density,Bank offices (head offices + branches),All domestic offices of licensed banks located in the territory,count,local,higher_better,Swiss source: SNB Geschäftsstellen; keep banks separate from branches
+banks_headquartered,Banking presence and density,Banks headquartered,Licensed banks with registered office in the territory,count,local,higher_better,
+credit_institutions,Banking presence and density,Licensed credit institutions,Credit institutions authorised by the supervisor (includes foreign branches),count,local,higher_better,Different definition from bank_offices: do not mix
+bank_branches_per_100k_adults,Banking presence and density,Commercial bank branches per 100k adults,As published by IMF Financial Access Survey (adults = 15+),per 100k adults,national,higher_better,Published ratio; national only; not the same as offices per 100k residents
+wealth_managers,Banking presence and density,Wealth and asset management firms,Authorised wealth or asset managers,count,local,higher_better,Check licence type in comparability_note
+establishments,Business presence,Local establishments (workplaces),Local units of enterprises located in the territory,count,local,higher_better,BFS STATENT 'Arbeitsstätten'; not the same as registered companies
+registered_companies,Business presence,Registered companies,Legal entities registered in the commercial register,count,local,higher_better,
+employment,Employment,Persons employed,Persons employed in the territory (workplace-based unless stated),persons,local,higher_better,State workplace vs residence basis
+unemployment_rate,Employment,Unemployment rate,Registered or ILO unemployment rate (state which),%,local,lower_better,Registered (SECO) and ILO rates are not comparable
+median_wage,Employment,Median gross monthly wage,Median gross monthly wage full-time equivalent,currency per month,local,neutral,
+wgi_rule_of_law,Stability and institutions,WGI Rule of Law,World Bank Worldwide Governance Indicators estimate,score (-2.5 to 2.5),national,higher_better,Identical for all Swiss cantons
+wgi_political_stability,Stability and institutions,WGI Political Stability,World Bank Worldwide Governance Indicators estimate,score (-2.5 to 2.5),national,higher_better,Identical for all Swiss cantons
+crime_rate,Quality of life,Recorded offences per 1000 residents,Offences recorded by police (state the legal basis),per 1000 residents,local,lower_better,Legal definitions differ by country: usually grade B across countries
+pm25_annual,Quality of life,PM2.5 annual mean,Annual mean concentration of PM2.5,µg/m3,local,lower_better,State station type (urban background vs traffic)
+top_income_tax_rate,Taxation and relocation,Top marginal income tax rate,Combined top marginal rate on employment income for the reference municipality,%,regime,lower_better,Swiss: federal + cantonal + municipal for the reference municipality
+wealth_tax_rate,Taxation and relocation,Wealth tax rate,Top marginal wealth tax rate for the reference municipality,%,regime,lower_better,
+lump_sum_taxation,Taxation and relocation,Lump-sum taxation available,Availability of expenditure-based / flat-tax regime for new residents,yes/no,regime,neutral,Record minimum base or flat amount as a separate row if needed
+inheritance_tax_direct,Taxation and relocation,Inheritance tax for direct descendants,Tax rate on inheritance to children,%,regime,lower_better,
+residential_price_m2,Real estate,Residential price per m2,Average or median transaction price per m2 of residential property (state which),currency per m2,local,neutral,Asking prices and transaction prices are not comparable
+prime_price_m2,Real estate,Prime residential price per m2,Price per m2 of prime/luxury residential property,currency per m2,local,neutral,Usually from Knight Frank or UBS; state the source definition of prime
+hospital_beds,Healthcare,Hospital beds,Hospital beds in the territory,count,local,higher_better,Normalise by population in the analysis
+international_schools,Education,International schools,Schools offering an international curriculum (IB or foreign national),count,local,higher_better,State the list used

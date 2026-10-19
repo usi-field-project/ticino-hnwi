@@ -1,0 +1,29 @@
+geo_id,destination,name,level,is_benchmark_unit,parent_geo_id,notes
+CH,Switzerland (national),Switzerland,country,no,,National level for Swiss regime and national indicators
+TI,Ticino,Canton of Ticino,canton,yes,CH,Baseline territory
+TI-LUG,Ticino,Lugano,municipality,no,TI,Proposed reference municipality for tax profiles
+ZH,Zurich,Canton of Zurich,canton,yes,CH,
+ZH-ZRH,Zurich,City of Zurich,municipality,no,ZH,Context only; proposed reference municipality for tax profiles
+ZG,Zug,Canton of Zug,canton,yes,CH,
+ZG-ZUG,Zug,City of Zug,municipality,no,ZG,Proposed reference municipality for tax profiles
+GE,Geneva,Canton of Geneva,canton,yes,CH,
+GE-GVA,Geneva,City of Geneva,municipality,no,GE,Context only; proposed reference municipality for tax profiles
+GR,Graubünden,Canton of Graubünden,canton,yes,CH,
+GR-CHU,Graubünden,Chur,municipality,no,GR,Proposed reference municipality for tax profiles
+GR-STM,Graubünden,St. Moritz,municipality,no,GR,Proposed sensitivity case for tax profiles
+MC,Monaco,Principality of Monaco,city_state,yes,,
+SG,Singapore,Republic of Singapore,city_state,yes,,
+LU,Luxembourg,Grand Duchy of Luxembourg,country,yes,,
+LU-LUX,Luxembourg,Luxembourg City,municipality,no,LU,Context only
+AE,Dubai,United Arab Emirates,country,no,,National level for Dubai regime and national indicators
+AE-DXB,Dubai,Emirate of Dubai,emirate,yes,AE,
+AE-DIFC,Dubai,Dubai International Financial Centre (DIFC),free_zone,no,AE-DXB,Financial free zone; subset of Dubai
+GB,London,United Kingdom,country,no,,National level for London regime and national indicators
+GB-LDN,London,Greater London,metropolitan_region,yes,GB,
+GB-COL,London,City of London,municipality,no,GB-LDN,Context only (financial district)
+IT,Milan,Italy,country,no,,National level for Milan regime and national indicators
+IT-MI,Milan,Metropolitan City of Milan (NUTS 3),metropolitan_area,yes,IT,
+IT-MI-COM,Milan,Comune di Milano,municipality,no,IT-MI,Context only
+PT,Lisbon,Portugal,country,no,,National level for Lisbon regime and national indicators
+PT-GL,Lisbon,Grande Lisboa (NUTS 3),metropolitan_area,yes,PT,9 municipalities north of the Tagus; NUTS 2 and NUTS 3 coincide since 2024
+PT-LIS,Lisbon,Lisbon municipality,municipality,no,PT-GL,Context only
