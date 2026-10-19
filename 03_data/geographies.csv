@@ -2,10 +2,13 @@ geo_id,destination,name,level,is_benchmark_unit,parent_geo_id,notes
 CH,Switzerland (national),Switzerland,country,no,,National level for Swiss regime and national indicators
 TI,Ticino,Canton of Ticino,canton,yes,CH,Baseline territory
 TI-LUG,Ticino,Lugano,municipality,no,TI,Proposed reference municipality for tax profiles
+TI-BEL,Ticino,Bellinzona,municipality,no,TI,Cantonal capital; ESTV tax-burden statistics cover cantonal capitals only
+TI-CHI,Ticino,Chiasso,municipality,no,TI,Air-quality monitoring station
 ZH,Zurich,Canton of Zurich,canton,yes,CH,
 ZH-ZRH,Zurich,City of Zurich,municipality,no,ZH,Context only; proposed reference municipality for tax profiles
 ZG,Zug,Canton of Zug,canton,yes,CH,
 ZG-ZUG,Zug,City of Zug,municipality,no,ZG,Proposed reference municipality for tax profiles
+CH-ZS,Zug,"Central Switzerland (NUTS 2: LU, UR, SZ, OW, NW, ZG)",nuts2_region,no,CH,Used for Eurostat regional values (e.g. life expectancy) covering Zug
 GE,Geneva,Canton of Geneva,canton,yes,CH,
 GE-GVA,Geneva,City of Geneva,municipality,no,GE,Context only; proposed reference municipality for tax profiles
 GR,Graubünden,Canton of Graubünden,canton,yes,CH,
@@ -27,7 +30,4 @@ IT-MI-COM,Milan,Comune di Milano,municipality,no,IT-MI,Context only
 PT,Lisbon,Portugal,country,no,,National level for Lisbon regime and national indicators
 PT-GL,Lisbon,Grande Lisboa (NUTS 3),metropolitan_area,yes,PT,9 municipalities north of the Tagus; NUTS 2 and NUTS 3 coincide since 2024
 PT-LIS,Lisbon,Lisbon municipality,municipality,no,PT-GL,Context only
-CH-ZS,Zug,"Central Switzerland (NUTS 2: LU, UR, SZ, OW, NW, ZG)",nuts2_region,no,CH,Used for Eurostat regional values (e.g. life expectancy) covering Zug
-TI-BEL,Ticino,Bellinzona,municipality,no,TI,Cantonal capital; ESTV tax-burden statistics cover cantonal capitals only
-TI-CHI,Ticino,Chiasso,municipality,no,TI,Air-quality monitoring station
 PT-LIS-UA,Lisbon,"Lisboa (greater city, Urban Audit)",urban_audit_city,no,PT-GL,EEA city air-quality data
