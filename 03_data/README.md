@@ -56,4 +56,9 @@ Swiss cantons use the official two-letter codes (`TI`, `ZH`, `ZG`, `GE`, `GR`); 
 ## Open points found in the example rows
 
 - **SNB bank offices**: Ticino and Zurich (EX-001, EX-002) come from cube `bastdagsua` (parent company perspective), Zug (EX-003) from cube `BSTA@SNB.JAHR_U.STK.GST` (company level). The team should pick one table for all Swiss cantons.
-- **Bank offices abroad**: Lisbon (EX-009) counts branches only, Swiss figures include registered offices, Monaco (EX-007) counts credit institutions. These are three different indicators.
+- **Bank offices abroad**: see the warning below.
+
+> [!WARNING]
+> **Banking data: three different indicators, not one.**
+> Lisbon (EX-009) counts **branches only**, the Swiss cantons count **registered offices plus branches**, Monaco (EX-007) counts **credit institutions**.
+> These are three different indicators and **must not be put in the same column** or compared directly in the benchmark table.
