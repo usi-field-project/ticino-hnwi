@@ -27,3 +27,7 @@ IT-MI-COM,Milan,Comune di Milano,municipality,no,IT-MI,Context only
 PT,Lisbon,Portugal,country,no,,National level for Lisbon regime and national indicators
 PT-GL,Lisbon,Grande Lisboa (NUTS 3),metropolitan_area,yes,PT,9 municipalities north of the Tagus; NUTS 2 and NUTS 3 coincide since 2024
 PT-LIS,Lisbon,Lisbon municipality,municipality,no,PT-GL,Context only
+CH-ZS,Zug,"Central Switzerland (NUTS 2: LU, UR, SZ, OW, NW, ZG)",nuts2_region,no,CH,Used for Eurostat regional values (e.g. life expectancy) covering Zug
+TI-BEL,Ticino,Bellinzona,municipality,no,TI,Cantonal capital; ESTV tax-burden statistics cover cantonal capitals only
+TI-CHI,Ticino,Chiasso,municipality,no,TI,Air-quality monitoring station
+PT-LIS-UA,Lisbon,"Lisboa (greater city, Urban Audit)",urban_audit_city,no,PT-GL,EEA city air-quality data
