@@ -11,6 +11,7 @@ The rules behind this register (benchmark unit, reference year, comparability gr
 | [geographies.csv](geographies.csv) | Every territory that can appear in a source, with its level and whether it is the benchmark unit of its destination | Add a row when a source uses a new territory |
 | [indicators.csv](indicators.csv) | Catalogue of indicators: definition, unit, scope (local, regime, national), direction | Add a row before recording a new indicator; agree changes as a team |
 | [observations.csv](observations.csv) | One row per value: territory, period, unit, source, comparability | Each researcher adds their own values |
+| [coverage.csv](coverage.csv) | Working check: for each destination and indicator of the [indicator matrix](../02_methodology/indicator_matrix.md), whether a value is already in the contributor files and where; summary in [coverage.md](../04_benchmark/coverage.md) | Update the `status` when a value is copied into `observations.csv` |
 | [validate_register.py](validate_register.py) | Checks required fields and comparability rules | Run before every commit: `python 03_data/validate_register.py` |
 
 Each researcher can keep working in their own folder or workbook; values that will be used in the benchmark are copied into `observations.csv`, one row per value.
