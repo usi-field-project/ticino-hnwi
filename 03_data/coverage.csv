@@ -1,0 +1,445 @@
+destination,code,indicator_id,topic,indicator,status,found,where,owner
+Ticino,W1,gdp_nominal,Wealth,GDP per capita,-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,W1,gdp_nominal,Wealth,GDP per capita,-,solo quota settore finanziario sul PIL,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,W1,gdp_nominal,Wealth,GDP per capita,-,non trovato,elena/zurigo/,Elena
+Geneva,W1,gdp_nominal,Wealth,GDP per capita,P,"PIL per abitante CHF 108.371, anno 2018 (grado C)",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,W1,gdp_nominal,Wealth,GDP per capita,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,W1,gdp_nominal,Wealth,GDP per capita,F,World Bank Data360 (PIL pro capite) e PIL 2024 in 01 e 03,elena/monaco/,Elena
+Singapore,W1,gdp_nominal,Wealth,GDP per capita,-,non trovato (solo reddito famiglie),elena/singapore/,Elena
+Luxembourg,W1,gdp_nominal,Wealth,GDP per capita,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,W1,gdp_nominal,Wealth,GDP per capita,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,W1,gdp_nominal,Wealth,GDP per capita,P,"reddito disponibile famiglie in PPS 2023, non PIL",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,W1,gdp_nominal,Wealth,GDP per capita,V,PIL per abitante £69.100 (2023),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,W1,gdp_nominal,Wealth,GDP per capita,P,"valore aggiunto per abitante €65.721 (provincia 2024), non PIL",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,W2,millionaires,Wealth,"Millionaires per 1,000 residents",-,solo quote di ricchezza (top 10%),petra/Ticino_Metrics.xlsx,Petra
+Zug,W2,millionaires,Wealth,"Millionaires per 1,000 residents",P,"contribuenti con sostanza >1 mio CHF 15,6% (fiscale); milionari USD solo Svizzera",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,W2,millionaires,Wealth,"Millionaires per 1,000 residents",F,Henley/Knight Frank e statistica patrimonio ESTV in 01,elena/zurigo/,Elena
+Geneva,W2,millionaires,Wealth,"Millionaires per 1,000 residents",V,70.200 milionari nel cantone (≈132 per 1.000),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,W2,millionaires,Wealth,"Millionaires per 1,000 residents",P,"solo classi di sostanza fiscale (0,5–2 mio; 2–10 mio; >10 mio)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,W2,millionaires,Wealth,"Millionaires per 1,000 residents",F,Henley e Julius Baer in 01,elena/monaco/,Elena
+Singapore,W2,millionaires,Wealth,"Millionaires per 1,000 residents",F,"UBS, Henley e Julius Baer in 01",elena/singapore/,Elena
+Luxembourg,W2,millionaires,Wealth,"Millionaires per 1,000 residents",-,solo ricchezza delle famiglie (media e mediana),petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,W2,millionaires,Wealth,"Millionaires per 1,000 residents",V,81.200 milionari residenti a Dubai (2024),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,W2,millionaires,Wealth,"Millionaires per 1,000 residents",P,"181.000 milionari, dato nazionale",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,W2,millionaires,Wealth,"Millionaires per 1,000 residents",V,215.700,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,W2,millionaires,Wealth,"Millionaires per 1,000 residents",V,115.000,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,W3,centimillionaires,Wealth,Resident centi-millionaires,-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,W3,centimillionaires,Wealth,Resident centi-millionaires,V,45 (2024),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,W3,centimillionaires,Wealth,Resident centi-millionaires,F,rapporti internazionali in 01,elena/zurigo/,Elena
+Geneva,W3,centimillionaires,Wealth,Resident centi-millionaires,V,215,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,W3,centimillionaires,Wealth,Resident centi-millionaires,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,W3,centimillionaires,Wealth,Resident centi-millionaires,F,Henley in 01,elena/monaco/,Elena
+Singapore,W3,centimillionaires,Wealth,Resident centi-millionaires,F,Henley in 01,elena/singapore/,Elena
+Luxembourg,W3,centimillionaires,Wealth,Resident centi-millionaires,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,W3,centimillionaires,Wealth,Resident centi-millionaires,V,237 (2024),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,W3,centimillionaires,Wealth,Resident centi-millionaires,P,"45, città di Lisbona (non Grande Lisboa)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,W3,centimillionaires,Wealth,Resident centi-millionaires,V,352,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,W3,centimillionaires,Wealth,Resident centi-millionaires,V,182,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,B1,banks_headquartered,Banking presence and density,Banks headquartered,V,12 banche con sede (2023),petra/Ticino_Metrics.xlsx,Petra
+Zug,B1,banks_headquartered,Banking presence and density,Banks headquartered,V,3 (2025),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,B1,banks_headquartered,Banking presence and density,Banks headquartered,F,elenchi FINMA in 02,elena/zurigo/,Elena
+Geneva,B1,banks_headquartered,Banking presence and density,Banks headquartered,P,"80 banche (Fondation Genève Place Financière), non solo con sede",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,B1,banks_headquartered,Banking presence and density,Banks headquartered,-,non stabilito nel workbook,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,B1,banks_headquartered,Banking presence and density,Banks headquartered,P,24 istituti di credito CCAF (incl. 12 succursali estere): credit_institutions,elena/monaco/,Elena
+Singapore,B1,banks_headquartered,Banking presence and density,Banks headquartered,F,numero di istituti SingStat in 02,elena/singapore/,Elena
+Luxembourg,B1,banks_headquartered,Banking presence and density,Banks headquartered,P,116 banche (incl. succursali estere): credit_institutions,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,B1,banks_headquartered,Banking presence and density,Banks headquartered,P,"290 banche e istituti dei mercati dei capitali, solo DIFC",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,B1,banks_headquartered,Banking presence and density,Banks headquartered,P,"136 istituti di credito, dato nazionale",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,B1,banks_headquartered,Banking presence and density,Banks headquartered,P,250–300 banche autorizzate (intervallo),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,B1,banks_headquartered,Banking presence and density,Banks headquartered,P,50–60 gruppi bancari,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",V,"155 sedi (BNS bastdagsua, EX-001); 159 sportelli nel workbook (2023)",petra/Ticino_Metrics.xlsx,Petra
+Zug,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",V,"35 sedi (2025, EX-003)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",V,"344 sedi (2025, EX-002)",elena/zurigo/,Elena
+Geneva,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",-,non calcolato nel workbook,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",-,"solo istituti, nessun dato sugli sportelli",elena/monaco/,Elena
+Singapore,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",P,sportelli banche commerciali per 100k adulti (FMI) in 02,elena/singapore/,Elena
+Luxembourg,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",P,"7,24 sportelli per 100k adulti, dato UAE",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",P,"686 sportelli (solo filiali, definizione diversa)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,B2,bank_offices,Banking presence and density,"Bank offices per 100,000 residents",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,P,addetti bancari 5.584 + finanziari non bancari 2.866 (non NOGA K completo),petra/Ticino_Metrics.xlsx,Petra
+Zug,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,V,addetti NOGA K 10.023 (2024),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,F,STATENT per settore NOGA in 03,elena/zurigo/,Elena
+Geneva,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,P,≈38.000 incl. servizi professionali collegati,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,F,occupazione per settore in 04,elena/monaco/,Elena
+Singapore,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,F,occupazione per settore SingStat in 04,elena/singapore/,Elena
+Luxembourg,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,V,≈55.000 finanza e assicurazioni,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,P,50.200 solo DIFC,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,-,solo addetti imprese non finanziarie,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,P,≈751.000 incl. servizi professionali,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,B3,financial_sector_employment,Banking presence and density,Financial-sector employment share,P,100.000–110.000 (intervallo),nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,E1,establishments,Business presence,"Local establishments per 1,000 residents",V,"40.590 sedi 2024 (file STATENT di Elena, tutti i cantoni)",petra/Ticino_Metrics.xlsx,Petra
+Zug,E1,establishments,Business presence,"Local establishments per 1,000 residents",V,20.801 stabilimenti (2024),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,E1,establishments,Business presence,"Local establishments per 1,000 residents",V,"126.784 sedi (2024, STATENT)",elena/zurigo/,Elena
+Geneva,E1,establishments,Business presence,"Local establishments per 1,000 residents",V,45.503 stabilimenti (STATENT 2023),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,E1,establishments,Business presence,"Local establishments per 1,000 residents",V,21.235 (2024),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,E1,establishments,Business presence,"Local establishments per 1,000 residents",F,Cap. 4 Economia in 03,elena/monaco/,Elena
+Singapore,E1,establishments,Business presence,"Local establishments per 1,000 residents",P,imprese attive ACRA (entità giuridiche),elena/singapore/,Elena
+Luxembourg,E1,establishments,Business presence,"Local establishments per 1,000 residents",P,"48.813 imprese attive (2023), non stabilimenti",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,E1,establishments,Business presence,"Local establishments per 1,000 residents",P,292.486 aziende iscritte alla Camera di commercio,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,E1,establishments,Business presence,"Local establishments per 1,000 residents",P,376.509 imprese non finanziarie,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,E1,establishments,Business presence,"Local establishments per 1,000 residents",P,≈538.000 imprese VAT/PAYE,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,E1,establishments,Business presence,"Local establishments per 1,000 residents",P,≈389.500 imprese registrate,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,E2,new_companies,Business presence,"New companies per 1,000 residents",-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,E2,new_companies,Business presence,"New companies per 1,000 residents",-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,E2,new_companies,Business presence,"New companies per 1,000 residents",F,registro di commercio in 03,elena/zurigo/,Elena
+Geneva,E2,new_companies,Business presence,"New companies per 1,000 residents",P,3.200–3.500 iscrizioni (intervallo),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,E2,new_companies,Business presence,"New companies per 1,000 residents",P,nuove imprese 2023 solo settori secondario e terziario,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,E2,new_companies,Business presence,"New companies per 1,000 residents",-,non trovato,elena/monaco/,Elena
+Singapore,E2,new_companies,Business presence,"New companies per 1,000 residents",F,Formation_1Oct2026.xlsx (ACRA) in 03,elena/singapore/,Elena
+Luxembourg,E2,new_companies,Business presence,"New companies per 1,000 residents",-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,E2,new_companies,Business presence,"New companies per 1,000 residents",V,71.830 (2025),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,E2,new_companies,Business presence,"New companies per 1,000 residents",-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,E2,new_companies,Business presence,"New companies per 1,000 residents",P,≈90.000 (arrotondato),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,E2,new_companies,Business presence,"New companies per 1,000 residents",V,26.262 iscrizioni (2025),nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,L1,employment_rate_15_64,Employment,Employment rate 15–64,P,solo tasso di attività standardizzato,petra/Ticino_Metrics.xlsx,Petra
+Zug,L1,employment_rate_15_64,Employment,Employment rate 15–64,V,"77,6% (2024)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,L1,employment_rate_15_64,Employment,Employment rate 15–64,F,occupati e salari in 04,elena/zurigo/,Elena
+Geneva,L1,employment_rate_15_64,Employment,Employment rate 15–64,-,solo numero di occupati,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,L1,employment_rate_15_64,Employment,Employment rate 15–64,P,"tasso standardizzato 63,9% (15+)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,L1,employment_rate_15_64,Employment,Employment rate 15–64,-,non trovato,elena/monaco/,Elena
+Singapore,L1,employment_rate_15_64,Employment,Employment rate 15–64,P,tasso 25–64 (file in 04),elena/singapore/,Elena
+Luxembourg,L1,employment_rate_15_64,Employment,Employment rate 15–64,P,"83,5% fascia 20–64",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,L1,employment_rate_15_64,Employment,Employment rate 15–64,P,"tasso di partecipazione 15+, dato UAE",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,L1,employment_rate_15_64,Employment,Employment rate 15–64,V,"75,8% (2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,L1,employment_rate_15_64,Employment,Employment rate 15–64,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,L1,employment_rate_15_64,Employment,Employment rate 15–64,P,"57,1% per un gruppo non chiaro, da verificare",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,L2,unemployment_rate,Employment,Unemployment rate (ILO),V,tasso ILO (anno da esplicitare),petra/Ticino_Metrics.xlsx,Petra
+Zug,L2,unemployment_rate,Employment,Unemployment rate (ILO),V,"4,6% ILO (2024)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,L2,unemployment_rate,Employment,Unemployment rate (ILO),F,disoccupazione 2010–2026 in 04 (verificare ILO o SECO),elena/zurigo/,Elena
+Geneva,L2,unemployment_rate,Employment,Unemployment rate (ILO),-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,L2,unemployment_rate,Employment,Unemployment rate (ILO),P,"1,4% registrato SECO",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,L2,unemployment_rate,Employment,Unemployment rate (ILO),F,Cap. 3 Occupazione,elena/monaco/,Elena
+Singapore,L2,unemployment_rate,Employment,Unemployment rate (ILO),F,disoccupazione residenti in 04,elena/singapore/,Elena
+Luxembourg,L2,unemployment_rate,Employment,Unemployment rate (ILO),V,"5,7% (2025)",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,L2,unemployment_rate,Employment,Unemployment rate (ILO),P,"2,17%, dato UAE",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,L2,unemployment_rate,Employment,Unemployment rate (ILO),V,"6,4% ILO (2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,L2,unemployment_rate,Employment,Unemployment rate (ILO),-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,L2,unemployment_rate,Employment,Unemployment rate (ILO),-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,L3,median_wage,Employment,Median gross monthly wage,V,"5.708 CHF regione Ticino, LSE 2024 (file di Elena in zurigo/04)",petra/Ticino_Metrics.xlsx,Petra
+Zug,L3,median_wage,Employment,Median gross monthly wage,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,L3,median_wage,Employment,Median gross monthly wage,V,"7.502 CHF regione Zurigo, LSE 2024",elena/zurigo/,Elena
+Geneva,L3,median_wage,Employment,Median gross monthly wage,V,7.893 CHF (2024),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,L3,median_wage,Employment,Median gross monthly wage,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,L3,median_wage,Employment,Median gross monthly wage,F,salari in 04,elena/monaco/,Elena
+Singapore,L3,median_wage,Employment,Median gross monthly wage,-,non trovato,elena/singapore/,Elena
+Luxembourg,L3,median_wage,Employment,Median gross monthly wage,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,L3,median_wage,Employment,Median gross monthly wage,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,L3,median_wage,Employment,Median gross monthly wage,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,L3,median_wage,Employment,Median gross monthly wage,P,£835 lordi settimanali (ASHE 2025),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,L3,median_wage,Employment,Median gross monthly wage,P,€34.343 media annua dipendenti privati,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"dato Svizzera 87,3 (fogli di Zugo e Grigioni)",petra/Ticino_Metrics.xlsx,Petra
+Zug,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"87,3 (CH 2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"87,3 (CH; file WGI in 05)",elena/zurigo/,Elena
+Geneva,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"87,3 (dato Svizzera)",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"87,3 (CH 2025)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,F,file WGI in 05,elena/monaco/,Elena
+Singapore,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,F,file WGI in 05,elena/singapore/,Elena
+Luxembourg,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"86,8",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"67,6 (UAE 2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,V,"75,9 (PT 2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,F,dataset WGI di Elena (tutti i paesi),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,S1,wgi_rule_of_law,Stability and institutions,WGI Rule of Law,F,dataset WGI di Elena (tutti i paesi),nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,V,"dato Svizzera 85,2",petra/Ticino_Metrics.xlsx,Petra
+Zug,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,V,"85,2 (CH 2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,V,"85,2 (CH)",elena/zurigo/,Elena
+Geneva,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,V,"85,2 (dato Svizzera)",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,V,"85,2 (CH 2025)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,F,file WGI in 05,elena/monaco/,Elena
+Singapore,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,F,file WGI in 05,elena/singapore/,Elena
+Luxembourg,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,F,workbook senza questo indicatore; dataset WGI di Elena,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,V,"80,1 (UAE 2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,V,"77,9 (PT 2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,F,dataset WGI di Elena,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,S2,wgi_political_stability,Stability and institutions,WGI Political Stability,F,dataset WGI di Elena,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato (rating sovrano CH),petra/Ticino_Metrics.xlsx,Petra
+Zug,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,rating cantonale n.d.; manca il sovrano CH,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,P,rating S&P/Fitch del cantone in 05 (non sovrano),elena/zurigo/,Elena
+Geneva,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,elena/monaco/,Elena
+Singapore,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,elena/singapore/,Elena
+Luxembourg,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,V,Aa2 / AA (UAE 2026),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,S3,sovereign_rating,Stability and institutions,Sovereign credit rating,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,elena/zurigo/,Elena
+Geneva,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,S4,basel_aml_index,Stability and institutions,Basel AML Index,P,solo GAFI/MONEYVAL e lista grigia (qualitativo),elena/monaco/,Elena
+Singapore,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,elena/singapore/,Elena
+Luxembourg,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,S4,basel_aml_index,Stability and institutions,Basel AML Index,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",V,reati registrati 2024 (conteggio),petra/Ticino_Metrics.xlsx,Petra
+Zug,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",V,"42,6 per 1.000 (2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",F,statistiche criminalità (KTZH) in 06,elena/zurigo/,Elena
+Geneva,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",P,solo Safety Index Numbeo (percezione),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",V,10.508 reati Codice penale (2025),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",F,Cap. 5 giustizia e sicurezza,elena/monaco/,Elena
+Singapore,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",F,criminalità 2025 in 06,elena/singapore/,Elena
+Luxembourg,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",V,5.996 per 100.000 (2023),petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",P,"solo omicidi, dato UAE",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",V,"31,7 per 1.000 (2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",P,solo Safety Index Numbeo,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,Q1,crime_rate,Quality of life,"Recorded offences per 1,000 residents",P,solo Safety Index Numbeo,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,Q2,pm25_annual,Quality of life,PM2.5 annual mean,V,"PM2,5 Chiasso (2024)",petra/Ticino_Metrics.xlsx,Petra
+Zug,Q2,pm25_annual,Quality of life,PM2.5 annual mean,-,solo dato qualitativo,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,Q2,pm25_annual,Quality of life,PM2.5 annual mean,F,serie aria città di Zurigo 2013–2026 in 06,elena/zurigo/,Elena
+Geneva,Q2,pm25_annual,Quality of life,PM2.5 annual mean,P,solo Pollution Index Numbeo,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,Q2,pm25_annual,Quality of life,PM2.5 annual mean,P,6–15 µg/m³ (intervallo tra stazioni),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,Q2,pm25_annual,Quality of life,PM2.5 annual mean,F,Cap. 1 Territorio e ambiente,elena/monaco/,Elena
+Singapore,Q2,pm25_annual,Quality of life,PM2.5 annual mean,F,aria in 06,elena/singapore/,Elena
+Luxembourg,Q2,pm25_annual,Quality of life,PM2.5 annual mean,P,solo 'tutte le stazioni sotto il limite UE',petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,Q2,pm25_annual,Quality of life,PM2.5 annual mean,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,Q2,pm25_annual,Quality of life,PM2.5 annual mean,V,"7,2 µg/m³ (2024)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,Q2,pm25_annual,Quality of life,PM2.5 annual mean,P,solo Pollution Index Numbeo,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,Q2,pm25_annual,Quality of life,PM2.5 annual mean,P,solo Pollution Index Numbeo,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,Q3,cost_of_living_index,Quality of life,Cost of living,-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,Q3,cost_of_living_index,Quality of life,Cost of living,P,solo affitti,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,Q3,cost_of_living_index,Quality of life,Cost of living,-,non trovato,elena/zurigo/,Elena
+Geneva,Q3,cost_of_living_index,Quality of life,Cost of living,V,"Numbeo 113,35",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,Q3,cost_of_living_index,Quality of life,Cost of living,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,Q3,cost_of_living_index,Quality of life,Cost of living,-,non trovato,elena/monaco/,Elena
+Singapore,Q3,cost_of_living_index,Quality of life,Cost of living,P,"solo CPI (variazione, non livello)",elena/singapore/,Elena
+Luxembourg,Q3,cost_of_living_index,Quality of life,Cost of living,P,livello prezzi 133% della media UE,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,Q3,cost_of_living_index,Quality of life,Cost of living,P,solo affitti,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,Q3,cost_of_living_index,Quality of life,Cost of living,P,solo affitti,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,Q3,cost_of_living_index,Quality of life,Cost of living,V,"Numbeo 90,05",nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,Q3,cost_of_living_index,Quality of life,Cost of living,V,"Numbeo 75,78",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,F,statistiche aeroporto di Zurigo in 12,elena/zurigo/,Elena
+Geneva,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,P,aeroporto di Nizza: solo passeggeri,elena/monaco/,Elena
+Singapore,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,V,oltre 170 città collegate (Changi 2025),elena/singapore/,Elena
+Luxembourg,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,Q4,air_destinations_direct,Quality of life,Direct international destinations from main airport,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,P,"Bellinzona–Zurigo e Bellinzona–Milano in treno (città, non aeroporto)",petra/Ticino_Metrics.xlsx,Petra
+Zug,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,elena/zurigo/,Elena
+Geneva,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,P,collegamento ferroviario con l'aeroporto di Zurigo (qualitativo),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,elena/monaco/,Elena
+Singapore,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,elena/singapore/,Elena
+Luxembourg,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,P,"aeroporto a circa 6 km (distanza, non tempo)",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,Q5,travel_time_hub_airport,Quality of life,Travel time to nearest intercontinental hub,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",P,aliquota effettiva massima (2026); caso di riferimento calcolabile dai file ESTV di Elena,petra/Ticino_Metrics.xlsx,Petra
+Zug,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",V,"21,7% capoluogo (2026)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",F,file ESTV onere reddito (tutti i capoluoghi) in 07,elena/zurigo/,Elena
+Geneva,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",F,dai file ESTV di Elena (capoluoghi),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",P,"onere effettivo PwC 17,05 / 25,63 / 31,30% (casi non chiari)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",F,fisco in 07 (nessuna imposta sul reddito),elena/monaco/,Elena
+Singapore,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",F,calcolatore IRAS YA2026 in 07,elena/singapore/,Elena
+Luxembourg,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",P,"aliquota marginale massima 45,78%",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",V,0% (2026),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",V,"51,0% su €1 mio (2026)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,T1,income_tax_effective_ref,Taxation and relocation,"Effective income tax, reference case",-,non trovato (solo regime flat tax),nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",P,aliquota di sintesi 2026; caso di riferimento calcolabile dai file ESTV,petra/Ticino_Metrics.xlsx,Petra
+Zug,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",V,"0,213% capoluogo (2026)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",F,file ESTV onere sostanza in 07,elena/zurigo/,Elena
+Geneva,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",F,dai file ESTV di Elena (capoluoghi),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",P,"0,09–0,17% (intervallo)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",F,fisco in 07 (nessuna imposta sul patrimonio),elena/monaco/,Elena
+Singapore,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",F,fisco in 07 (nessuna imposta sul patrimonio),elena/singapore/,Elena
+Luxembourg,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",-,non registrato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",V,0%,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",V,0%,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",V,nessuna imposta generale sul patrimonio (0),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,T2,wealth_tax_effective_ref,Taxation and relocation,"Effective wealth tax, reference case",P,nessuna imposta generale; verificare IVAFE sulle attività estere,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",V,esenzione per discendenti (2026),petra/Ticino_Metrics.xlsx,Petra
+Zug,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",V,0% esenti (2026),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",F,tariffa successioni ZH in 07,elena/zurigo/,Elena
+Geneva,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",P,5% / 15% (da chiarire a chi si applica),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",F,fisco in 07,elena/monaco/,Elena
+Singapore,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",V,0% (abolita nel 2008),elena/singapore/,Elena
+Luxembourg,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",V,0% entro la quota legittima,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",V,0%,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",V,0%,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,T3,inheritance_tax_direct,Taxation and relocation,"Inheritance tax, direct descendants",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,V,"forfait, base minima (periodo 2025)",petra/Ticino_Metrics.xlsx,Petra
+Zug,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,V,"forfait, base minima CHF 500.000 (2026)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,F,forfait abolito (RRB-2010 in 07): valore 'no',elena/zurigo/,Elena
+Geneva,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,P,"forfait disponibile, base minima non riportata",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,P,"forfait 'potenzialmente disponibile', base non riportata",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,F,fisco in 07 (nessuna imposta sul reddito: regime non necessario),elena/monaco/,Elena
+Singapore,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,-,non trovato (GIP è un regime di residenza),elena/singapore/,Elena
+Luxembourg,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,P,solo regime per lavoratori impatriati,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,V,non applicabile (nessuna imposta sul reddito),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,V,IFICI 20%,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,V,regime FIG dal 2025,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,T4,lump_sum_taxation,Taxation and relocation,Special regime for new residents,V,flat tax €300.000/anno dal 2026,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,V,regole UE/AELS ed extra-UE descritte,petra/Ticino_Metrics.xlsx,Petra
+Zug,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,V,via fiscale per cittadini di Paesi terzi,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,F,permessi di residenza in 07,elena/zurigo/,Elena
+Geneva,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,V,valutazione individuale per extra-UE,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,F,residenza in 07,elena/monaco/,Elena
+Singapore,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,F,Global Investor Programme in 07,elena/singapore/,Elena
+Luxembourg,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,V,Golden Visa (2 mio AED),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,V,Golden Visa (€500.000),luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,T5,investor_residence_route,Taxation and relocation,Investor or financially independent residence route,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,R1,prime_price_m2,Real estate,Prime residential price per m²,P,solo transazioni ≥ CHF 2 mio (variazioni) e valore medio,petra/Ticino_Metrics.xlsx,Petra
+Zug,R1,prime_price_m2,Real estate,Prime residential price per m²,P,prezzo richiesto case 17.900 CHF/m² (non prime); lusso da chiedere a UBS,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,R1,prime_price_m2,Real estate,Prime residential price per m²,F,lusso (UBS) in 08,elena/zurigo/,Elena
+Geneva,R1,prime_price_m2,Real estate,Prime residential price per m²,V,prime implicito ≈ USD 35.800/m² (Q4 2025),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,R1,prime_price_m2,Real estate,Prime residential price per m²,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,R1,prime_price_m2,Real estate,Prime residential price per m²,F,Knight Frank 2025 e osservatorio IMSEE in 08,elena/monaco/,Elena
+Singapore,R1,prime_price_m2,Real estate,Prime residential price per m²,F,Knight Frank PGCI Q1 2026 in 08,elena/singapore/,Elena
+Luxembourg,R1,prime_price_m2,Real estate,Prime residential price per m²,P,"appartamenti esistenti €7.795/m² (media, non prime)",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,R1,prime_price_m2,Real estate,Prime residential price per m²,V,"lusso 9.371 CHF/m² (vendite > USD 5 mio, Q1 2026)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,R1,prime_price_m2,Real estate,Prime residential price per m²,P,mediana €3.836/m²; lusso da chiedere a UBS,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,R1,prime_price_m2,Real estate,Prime residential price per m²,V,prime implicito ≈ USD 30.400/m²,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,R1,prime_price_m2,Real estate,Prime residential price per m²,V,prime implicito ≈ USD 21.800/m²,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,variazione transazioni ≥ CHF 2 mio (Q4 2025),petra/Ticino_Metrics.xlsx,Petra
+Zug,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,+7% appartamenti in proprietà (non prime),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,R2,prime_price_change_yoy,Real estate,Prime price change y/y,F,lusso (UBS) in 08,elena/zurigo/,Elena
+Geneva,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,"+4,1% su 5 anni, non annuale",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,"+3,8% proprietà (non prime)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,R2,prime_price_change_yoy,Real estate,Prime price change y/y,F,Knight Frank in 08,elena/monaco/,Elena
+Singapore,R2,prime_price_change_yoy,Real estate,Prime price change y/y,F,Knight Frank PGCI e indice URA in 08,elena/singapore/,Elena
+Luxembourg,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,"−2,2% indice generale",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,"+1,9% residenziale generale",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,"+20,5% transazioni generali",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,−5% su 5 anni,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,R2,prime_price_change_yoy,Real estate,Prime price change y/y,P,"+36,2% su 5 anni",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,P,regola federale (Lex Koller) da riprendere; quote cantonali da verificare,petra/Ticino_Metrics.xlsx,Petra
+Zug,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,V,abitazione principale libera; residenze secondarie non previste,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,F,Lex Koller in 08,elena/zurigo/,Elena
+Geneva,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,P,regola federale; da verificare per il cantone,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,P,regola federale; da verificare (molte residenze secondarie),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,-,non trovato,elena/monaco/,Elena
+Singapore,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,F,ABSD in 08,elena/singapore/,Elena
+Luxembourg,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,V,libero nelle zone freehold,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,V,libero,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,R3,foreign_buyer_restrictions,Real estate,Restrictions on foreign buyers,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,P1,population,Population and migration,Resident population,V,31.12.2024,petra/Ticino_Metrics.xlsx,Petra
+Zug,P1,population,Population and migration,Resident population,V,"135.018 (2025, EX-004)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,P1,population,Population and migration,Resident population,F,crescita e densità in 09,elena/zurigo/,Elena
+Geneva,P1,population,Population and migration,Resident population,V,530.246 (fine 2024),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,P1,population,Population and migration,Resident population,V,207.400 (fine 2025),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,P1,population,Population and migration,Resident population,F,censimento 2025 in 09,elena/monaco/,Elena
+Singapore,P1,population,Population and migration,Resident population,F,Population in Brief 2026 in 09,elena/singapore/,Elena
+Luxembourg,P1,population,Population and migration,Resident population,V,690.959 (1.1.2026),petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,P1,population,Population and migration,Resident population,V,4.580.000 (2025),luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,P1,population,Population and migration,Resident population,V,2.415.261 (2025),luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,P1,population,Population and migration,Resident population,V,"≈9,1 milioni (2024)",nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,P1,population,Population and migration,Resident population,P,"1.407.044 Comune, non Città metropolitana",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,P2,foreign_residents_share,Population and migration,Share of foreign residents,V,stranieri al 31.12.2024,petra/Ticino_Metrics.xlsx,Petra
+Zug,P2,foreign_residents_share,Population and migration,Share of foreign residents,V,"30,6% (2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,P2,foreign_residents_share,Population and migration,Share of foreign residents,F,migrazione e stranieri in 09,elena/zurigo/,Elena
+Geneva,P2,foreign_residents_share,Population and migration,Share of foreign residents,V,"41,5% (cittadinanza)",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,P2,foreign_residents_share,Population and migration,Share of foreign residents,V,"21,0% (fine 2024)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,P2,foreign_residents_share,Population and migration,Share of foreign residents,F,censimento 2025 (nazionalità) in 09,elena/monaco/,Elena
+Singapore,P2,foreign_residents_share,Population and migration,Share of foreign residents,F,Population in Brief in 09,elena/singapore/,Elena
+Luxembourg,P2,foreign_residents_share,Population and migration,Share of foreign residents,V,"46,6% (2026)",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,P2,foreign_residents_share,Population and migration,Share of foreign residents,V,92%,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,P2,foreign_residents_share,Population and migration,Share of foreign residents,P,541.290 stranieri in 7 dei 9 comuni,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,P2,foreign_residents_share,Population and migration,Share of foreign residents,P,≈41% nati all'estero (concetto diverso),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,P2,foreign_residents_share,Population and migration,Share of foreign residents,P,"15,1% provincia",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",V,saldo migratorio internazionale 2024,petra/Ticino_Metrics.xlsx,Petra
+Zug,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",V,"4,87 per 1.000 (2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",F,migrazione e stranieri in 09,elena/zurigo/,Elena
+Geneva,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",P,+4.185 (non chiaro se solo internazionale),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",P,"≈+2.000 totale, di cui +200 intercantonale",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",-,non trovato,elena/monaco/,Elena
+Singapore,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",F,Population Trends 2026 in 09,elena/singapore/,Elena
+Luxembourg,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",V,+7.844 (2025),petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",P,+56.492 saldo totale,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",V,+163.000 dall'estero (2024),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,P3,net_international_migration,Population and migration,"Net international migration per 1,000 residents",P,+1.507 (concetto non chiaro),nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",V,555 medici in attività (2025),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",F,medici FMH in 10,elena/zurigo/,Elena
+Geneva,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",F,Cap. 6.4 sanità,elena/monaco/,Elena
+Singapore,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",-,non trovato (solo strutture e posti letto),elena/singapore/,Elena
+Luxembourg,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",P,"2,99 per 1.000, dato UAE",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",V,17.168 (2023),luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,H1,physicians,Healthcare,"Practising physicians per 100,000 residents",-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",-,solo attività ospedaliera storica,petra/Ticino_Metrics.xlsx,Petra
+Zug,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",V,568 letti (2024),luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",F,ospedali UFSP in 10,elena/zurigo/,Elena
+Geneva,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",V,"4,2 per 1.000",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",P,'vicino alla media nazionale' (qualitativo),petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",P,"835 letti, solo l'ospedale pubblico CHPG",elena/monaco/,Elena
+Singapore,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",F,posti letto 2006–2025 in 10,elena/singapore/,Elena
+Luxembourg,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",V,2.686 letti (2025),petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",P,"1,87 per 1.000, dato UAE",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",V,9.056 letti (2024),luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",V,"2,1–2,3 per 1.000",nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,H2,hospital_beds,Healthcare,"Hospital beds per 1,000 residents",V,"3,8–4 per 1.000",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,H3,life_expectancy,Healthcare,Life expectancy at birth,-,non trovato,petra/Ticino_Metrics.xlsx,Petra
+Zug,H3,life_expectancy,Healthcare,Life expectancy at birth,P,"84,6, Svizzera centrale (NUTS 2)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,H3,life_expectancy,Healthcare,Life expectancy at birth,-,non trovato,elena/zurigo/,Elena
+Geneva,H3,life_expectancy,Healthcare,Life expectancy at birth,P,"solo per sesso, 2020–2022",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,H3,life_expectancy,Healthcare,Life expectancy at birth,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,H3,life_expectancy,Healthcare,Life expectancy at birth,F,Cap. 6.4 sanità,elena/monaco/,Elena
+Singapore,H3,life_expectancy,Healthcare,Life expectancy at birth,F,speranza di vita 1957–2025 in 10,elena/singapore/,Elena
+Luxembourg,H3,life_expectancy,Healthcare,Life expectancy at birth,V,"83,5 (2024)",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,H3,life_expectancy,Healthcare,Life expectancy at birth,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,H3,life_expectancy,Healthcare,Life expectancy at birth,V,"82,9 (2024)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,H3,life_expectancy,Healthcare,Life expectancy at birth,P,solo per sesso (2023–25),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,H3,life_expectancy,Healthcare,Life expectancy at birth,V,"84,7 (stima 2024)",nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,D1,international_schools,Education,International schools,P,"solo TASIS (iscritti), nessun conteggio",petra/Ticino_Metrics.xlsx,Petra
+Zug,D1,international_schools,Education,International schools,V,3 scuole internazionali con percorso completo,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,D1,international_schools,Education,International schools,F,scuole internazionali in 11,elena/zurigo/,Elena
+Geneva,D1,international_schools,Education,International schools,P,"18 o 33 secondo la fonte, da verificare",nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,D1,international_schools,Education,International schools,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,D1,international_schools,Education,International schools,F,International School of Monaco in 11,elena/monaco/,Elena
+Singapore,D1,international_schools,Education,International schools,F,elenchi scuole internazionali in 11 (parziali),elena/singapore/,Elena
+Luxembourg,D1,international_schools,Education,International schools,P,"quota di allievi in scuole internazionali, nessun conteggio",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,D1,international_schools,Education,International schools,P,"227 scuole private, 17 curricula (non solo internazionali)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,D1,international_schools,Education,International schools,V,6 scuole IB,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,D1,international_schools,Education,International schools,P,90–100 (intervallo),nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,D1,international_schools,Education,International schools,V,17 con curriculum completo in inglese,nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,D2,universities_ranked,Education,Universities in global rankings,-,non trovato (serve la classifica QS 2027 completa),petra/Ticino_Metrics.xlsx,Petra
+Zug,D2,universities_ranked,Education,Universities in global rankings,P,nessuna università nel cantone; ETH e UZH entro 1 h da contare,luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,D2,universities_ranked,Education,Universities in global rankings,F,QS 2027 in 11,elena/zurigo/,Elena
+Geneva,D2,universities_ranked,Education,Universities in global rankings,V,Università di Ginevra 155ª (QS 2026),nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,D2,universities_ranked,Education,Universities in global rankings,-,non trovato,petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,D2,universities_ranked,Education,Universities in global rankings,-,non trovato,elena/monaco/,Elena
+Singapore,D2,universities_ranked,Education,Universities in global rankings,F,NUS nella top 10 QS 2027 in 11,elena/singapore/,Elena
+Luxembourg,D2,universities_ranked,Education,Universities in global rankings,-,non trovato,petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,D2,universities_ranked,Education,Universities in global rankings,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,D2,universities_ranked,Education,Universities in global rankings,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,D2,universities_ranked,Education,Universities in global rankings,V,4 nella top 60 QS 2026,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,D2,universities_ranked,Education,Universities in global rankings,V,Politecnico 98° (QS 2026),nicole/Milano_Ginevra_Londra.docx,Nicole
+Ticino,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,solo tassi di maturità,petra/Ticino_Metrics.xlsx,Petra
+Zug,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,P,"54,6% popolazione 25+",luca/Zugo_Dubai_Lisbona_finale.xlsx (Zugo),Luca
+Zurich,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,non trovato,elena/zurigo/,Elena
+Geneva,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Graubünden,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,P,"17,3% con titolo universitario (definizione più stretta)",petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,Petra
+Monaco,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,non trovato,elena/monaco/,Elena
+Singapore,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,non trovato,elena/singapore/,Elena
+Luxembourg,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,P,"63,8% fascia 25–34",petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,Petra
+Dubai,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,non trovato,luca/Zugo_Dubai_Lisbona_finale.xlsx (Dubai),Luca
+Lisbon,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,V,"43,3% (2025)",luca/Zugo_Dubai_Lisbona_finale.xlsx (Lisbona),Luca
+London,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
+Milan,D3,tertiary_education_share,Education,Tertiary-educated population 25–64,-,non trovato,nicole/Milano_Ginevra_Londra.docx,Nicole
