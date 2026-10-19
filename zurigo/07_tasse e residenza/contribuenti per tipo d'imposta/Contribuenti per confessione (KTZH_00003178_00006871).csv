@@ -1,0 +1,2917 @@
+"jahr","gebietstyp_code","gebietstyp_name","gebiet_code","gebiet_name","konfession","steuerpflichtige"
+2025,1,"Kanton",1,"Kanton Zürich","christkatholisch",2979
+2025,1,"Kanton",1,"Kanton Zürich","evangelisch-reformiert",311466
+2025,1,"Kanton",1,"Kanton Zürich","römisch-katholisch",298163
+2025,3,"Gemeinde",1,"Aeugst am Albis","christkatholisch",
+2025,3,"Gemeinde",1,"Aeugst am Albis","evangelisch-reformiert",513
+2025,3,"Gemeinde",1,"Aeugst am Albis","römisch-katholisch",258
+2025,3,"Gemeinde",2,"Affoltern am Albis","christkatholisch",23
+2025,3,"Gemeinde",2,"Affoltern am Albis","evangelisch-reformiert",2387
+2025,3,"Gemeinde",2,"Affoltern am Albis","römisch-katholisch",2574
+2025,3,"Gemeinde",3,"Bonstetten","christkatholisch",
+2025,3,"Gemeinde",3,"Bonstetten","evangelisch-reformiert",1213
+2025,3,"Gemeinde",3,"Bonstetten","römisch-katholisch",928
+2025,3,"Gemeinde",4,"Hausen am Albis","christkatholisch",5
+2025,3,"Gemeinde",4,"Hausen am Albis","evangelisch-reformiert",978
+2025,3,"Gemeinde",4,"Hausen am Albis","römisch-katholisch",803
+2025,3,"Gemeinde",5,"Hedingen","christkatholisch",11
+2025,3,"Gemeinde",5,"Hedingen","evangelisch-reformiert",1066
+2025,3,"Gemeinde",5,"Hedingen","römisch-katholisch",728
+2025,3,"Gemeinde",6,"Kappel am Albis","christkatholisch",
+2025,3,"Gemeinde",6,"Kappel am Albis","evangelisch-reformiert",313
+2025,3,"Gemeinde",6,"Kappel am Albis","römisch-katholisch",207
+2025,3,"Gemeinde",7,"Knonau","christkatholisch",6
+2025,3,"Gemeinde",7,"Knonau","evangelisch-reformiert",519
+2025,3,"Gemeinde",7,"Knonau","römisch-katholisch",577
+2025,3,"Gemeinde",8,"Maschwanden","christkatholisch",7
+2025,3,"Gemeinde",8,"Maschwanden","evangelisch-reformiert",209
+2025,3,"Gemeinde",8,"Maschwanden","römisch-katholisch",125
+2025,3,"Gemeinde",9,"Mettmenstetten","christkatholisch",8
+2025,3,"Gemeinde",9,"Mettmenstetten","evangelisch-reformiert",1482
+2025,3,"Gemeinde",9,"Mettmenstetten","römisch-katholisch",1077
+2025,3,"Gemeinde",10,"Obfelden","christkatholisch",5
+2025,3,"Gemeinde",10,"Obfelden","evangelisch-reformiert",1189
+2025,3,"Gemeinde",10,"Obfelden","römisch-katholisch",1151
+2025,3,"Gemeinde",11,"Ottenbach","christkatholisch",7
+2025,3,"Gemeinde",11,"Ottenbach","evangelisch-reformiert",717
+2025,3,"Gemeinde",11,"Ottenbach","römisch-katholisch",571
+2025,3,"Gemeinde",12,"Rifferswil","christkatholisch",
+2025,3,"Gemeinde",12,"Rifferswil","evangelisch-reformiert",365
+2025,3,"Gemeinde",12,"Rifferswil","römisch-katholisch",175
+2025,3,"Gemeinde",13,"Stallikon","christkatholisch",14
+2025,3,"Gemeinde",13,"Stallikon","evangelisch-reformiert",793
+2025,3,"Gemeinde",13,"Stallikon","römisch-katholisch",601
+2025,3,"Gemeinde",14,"Wettswil am Albis","christkatholisch",11
+2025,3,"Gemeinde",14,"Wettswil am Albis","evangelisch-reformiert",1130
+2025,3,"Gemeinde",14,"Wettswil am Albis","römisch-katholisch",936
+2025,3,"Gemeinde",22,"Benken (ZH)","christkatholisch",
+2025,3,"Gemeinde",22,"Benken (ZH)","evangelisch-reformiert",295
+2025,3,"Gemeinde",22,"Benken (ZH)","römisch-katholisch",105
+2025,3,"Gemeinde",23,"Berg am Irchel","christkatholisch",0
+2025,3,"Gemeinde",23,"Berg am Irchel","evangelisch-reformiert",266
+2025,3,"Gemeinde",23,"Berg am Irchel","römisch-katholisch",42
+2025,3,"Gemeinde",24,"Buch am Irchel","christkatholisch",0
+2025,3,"Gemeinde",24,"Buch am Irchel","evangelisch-reformiert",415
+2025,3,"Gemeinde",24,"Buch am Irchel","römisch-katholisch",94
+2025,3,"Gemeinde",25,"Dachsen","christkatholisch",0
+2025,3,"Gemeinde",25,"Dachsen","evangelisch-reformiert",631
+2025,3,"Gemeinde",25,"Dachsen","römisch-katholisch",319
+2025,3,"Gemeinde",26,"Dorf","christkatholisch",
+2025,3,"Gemeinde",26,"Dorf","evangelisch-reformiert",268
+2025,3,"Gemeinde",26,"Dorf","römisch-katholisch",85
+2025,3,"Gemeinde",27,"Feuerthalen","christkatholisch",8
+2025,3,"Gemeinde",27,"Feuerthalen","evangelisch-reformiert",938
+2025,3,"Gemeinde",27,"Feuerthalen","römisch-katholisch",691
+2025,3,"Gemeinde",28,"Flaach","christkatholisch",
+2025,3,"Gemeinde",28,"Flaach","evangelisch-reformiert",556
+2025,3,"Gemeinde",28,"Flaach","römisch-katholisch",196
+2025,3,"Gemeinde",29,"Flurlingen","christkatholisch",4
+2025,3,"Gemeinde",29,"Flurlingen","evangelisch-reformiert",459
+2025,3,"Gemeinde",29,"Flurlingen","römisch-katholisch",212
+2025,3,"Gemeinde",31,"Henggart","christkatholisch",
+2025,3,"Gemeinde",31,"Henggart","evangelisch-reformiert",852
+2025,3,"Gemeinde",31,"Henggart","römisch-katholisch",332
+2025,3,"Gemeinde",33,"Kleinandelfingen","christkatholisch",0
+2025,3,"Gemeinde",33,"Kleinandelfingen","evangelisch-reformiert",844
+2025,3,"Gemeinde",33,"Kleinandelfingen","römisch-katholisch",309
+2025,3,"Gemeinde",34,"Laufen-Uhwiesen","christkatholisch",0
+2025,3,"Gemeinde",34,"Laufen-Uhwiesen","evangelisch-reformiert",656
+2025,3,"Gemeinde",34,"Laufen-Uhwiesen","römisch-katholisch",266
+2025,3,"Gemeinde",35,"Marthalen","christkatholisch",6
+2025,3,"Gemeinde",35,"Marthalen","evangelisch-reformiert",847
+2025,3,"Gemeinde",35,"Marthalen","römisch-katholisch",212
+2025,3,"Gemeinde",37,"Ossingen","christkatholisch",
+2025,3,"Gemeinde",37,"Ossingen","evangelisch-reformiert",684
+2025,3,"Gemeinde",37,"Ossingen","römisch-katholisch",236
+2025,3,"Gemeinde",38,"Rheinau","christkatholisch",
+2025,3,"Gemeinde",38,"Rheinau","evangelisch-reformiert",340
+2025,3,"Gemeinde",38,"Rheinau","römisch-katholisch",322
+2025,3,"Gemeinde",39,"Thalheim an der Thur","christkatholisch",0
+2025,3,"Gemeinde",39,"Thalheim an der Thur","evangelisch-reformiert",320
+2025,3,"Gemeinde",39,"Thalheim an der Thur","römisch-katholisch",88
+2025,3,"Gemeinde",40,"Trüllikon","christkatholisch",0
+2025,3,"Gemeinde",40,"Trüllikon","evangelisch-reformiert",5
+2025,3,"Gemeinde",40,"Trüllikon","römisch-katholisch",123
+2025,3,"Gemeinde",41,"Truttikon","christkatholisch",0
+2025,3,"Gemeinde",41,"Truttikon","evangelisch-reformiert",193
+2025,3,"Gemeinde",41,"Truttikon","römisch-katholisch",47
+2025,3,"Gemeinde",43,"Volken","christkatholisch",0
+2025,3,"Gemeinde",43,"Volken","evangelisch-reformiert",135
+2025,3,"Gemeinde",43,"Volken","römisch-katholisch",35
+2025,3,"Gemeinde",51,"Bachenbülach","christkatholisch",7
+2025,3,"Gemeinde",51,"Bachenbülach","evangelisch-reformiert",873
+2025,3,"Gemeinde",51,"Bachenbülach","römisch-katholisch",786
+2025,3,"Gemeinde",52,"Bassersdorf","christkatholisch",11
+2025,3,"Gemeinde",52,"Bassersdorf","evangelisch-reformiert",2259
+2025,3,"Gemeinde",52,"Bassersdorf","römisch-katholisch",2246
+2025,3,"Gemeinde",53,"Bülach","christkatholisch",53
+2025,3,"Gemeinde",53,"Bülach","evangelisch-reformiert",4471
+2025,3,"Gemeinde",53,"Bülach","römisch-katholisch",4626
+2025,3,"Gemeinde",54,"Dietlikon","christkatholisch",8
+2025,3,"Gemeinde",54,"Dietlikon","evangelisch-reformiert",1561
+2025,3,"Gemeinde",54,"Dietlikon","römisch-katholisch",1595
+2025,3,"Gemeinde",55,"Eglisau","christkatholisch",12
+2025,3,"Gemeinde",55,"Eglisau","evangelisch-reformiert",1360
+2025,3,"Gemeinde",55,"Eglisau","römisch-katholisch",844
+2025,3,"Gemeinde",56,"Embrach","christkatholisch",43
+2025,3,"Gemeinde",56,"Embrach","evangelisch-reformiert",2115
+2025,3,"Gemeinde",56,"Embrach","römisch-katholisch",1879
+2025,3,"Gemeinde",57,"Freienstein-Teufen","christkatholisch",6
+2025,3,"Gemeinde",57,"Freienstein-Teufen","evangelisch-reformiert",752
+2025,3,"Gemeinde",57,"Freienstein-Teufen","römisch-katholisch",371
+2025,3,"Gemeinde",58,"Glattfelden","christkatholisch",4
+2025,3,"Gemeinde",58,"Glattfelden","evangelisch-reformiert",1243
+2025,3,"Gemeinde",58,"Glattfelden","römisch-katholisch",918
+2025,3,"Gemeinde",59,"Hochfelden","christkatholisch",
+2025,3,"Gemeinde",59,"Hochfelden","evangelisch-reformiert",565
+2025,3,"Gemeinde",59,"Hochfelden","römisch-katholisch",380
+2025,3,"Gemeinde",60,"Höri","christkatholisch",20
+2025,3,"Gemeinde",60,"Höri","evangelisch-reformiert",546
+2025,3,"Gemeinde",60,"Höri","römisch-katholisch",748
+2025,3,"Gemeinde",61,"Hüntwangen","christkatholisch",0
+2025,3,"Gemeinde",61,"Hüntwangen","evangelisch-reformiert",311
+2025,3,"Gemeinde",61,"Hüntwangen","römisch-katholisch",153
+2025,3,"Gemeinde",62,"Kloten","christkatholisch",89
+2025,3,"Gemeinde",62,"Kloten","evangelisch-reformiert",3444
+2025,3,"Gemeinde",62,"Kloten","römisch-katholisch",4626
+2025,3,"Gemeinde",63,"Lufingen","christkatholisch",0
+2025,3,"Gemeinde",63,"Lufingen","evangelisch-reformiert",550
+2025,3,"Gemeinde",63,"Lufingen","römisch-katholisch",469
+2025,3,"Gemeinde",64,"Nürensdorf","christkatholisch",7
+2025,3,"Gemeinde",64,"Nürensdorf","evangelisch-reformiert",1454
+2025,3,"Gemeinde",64,"Nürensdorf","römisch-katholisch",1062
+2025,3,"Gemeinde",65,"Oberembrach","christkatholisch",
+2025,3,"Gemeinde",65,"Oberembrach","evangelisch-reformiert",378
+2025,3,"Gemeinde",65,"Oberembrach","römisch-katholisch",140
+2025,3,"Gemeinde",66,"Opfikon","christkatholisch",119
+2025,3,"Gemeinde",66,"Opfikon","evangelisch-reformiert",1945
+2025,3,"Gemeinde",66,"Opfikon","römisch-katholisch",3944
+2025,3,"Gemeinde",67,"Rafz","christkatholisch",7
+2025,3,"Gemeinde",67,"Rafz","evangelisch-reformiert",1238
+2025,3,"Gemeinde",67,"Rafz","römisch-katholisch",766
+2025,3,"Gemeinde",68,"Rorbas","christkatholisch",
+2025,3,"Gemeinde",68,"Rorbas","evangelisch-reformiert",647
+2025,3,"Gemeinde",68,"Rorbas","römisch-katholisch",493
+2025,3,"Gemeinde",69,"Wallisellen","christkatholisch",17
+2025,3,"Gemeinde",69,"Wallisellen","evangelisch-reformiert",2746
+2025,3,"Gemeinde",69,"Wallisellen","römisch-katholisch",3420
+2025,3,"Gemeinde",70,"Wasterkingen","christkatholisch",0
+2025,3,"Gemeinde",70,"Wasterkingen","evangelisch-reformiert",215
+2025,3,"Gemeinde",70,"Wasterkingen","römisch-katholisch",77
+2025,3,"Gemeinde",71,"Wil (ZH)","christkatholisch",4
+2025,3,"Gemeinde",71,"Wil (ZH)","evangelisch-reformiert",529
+2025,3,"Gemeinde",71,"Wil (ZH)","römisch-katholisch",182
+2025,3,"Gemeinde",72,"Winkel","christkatholisch",5
+2025,3,"Gemeinde",72,"Winkel","evangelisch-reformiert",1106
+2025,3,"Gemeinde",72,"Winkel","römisch-katholisch",810
+2025,3,"Gemeinde",81,"Bachs","christkatholisch",0
+2025,3,"Gemeinde",81,"Bachs","evangelisch-reformiert",233
+2025,3,"Gemeinde",81,"Bachs","römisch-katholisch",94
+2025,3,"Gemeinde",82,"Boppelsen","christkatholisch",4
+2025,3,"Gemeinde",82,"Boppelsen","evangelisch-reformiert",386
+2025,3,"Gemeinde",82,"Boppelsen","römisch-katholisch",211
+2025,3,"Gemeinde",83,"Buchs (ZH)","christkatholisch",35
+2025,3,"Gemeinde",83,"Buchs (ZH)","evangelisch-reformiert",1305
+2025,3,"Gemeinde",83,"Buchs (ZH)","römisch-katholisch",1336
+2025,3,"Gemeinde",84,"Dällikon","christkatholisch",4
+2025,3,"Gemeinde",84,"Dällikon","evangelisch-reformiert",675
+2025,3,"Gemeinde",84,"Dällikon","römisch-katholisch",1014
+2025,3,"Gemeinde",85,"Dänikon","christkatholisch",
+2025,3,"Gemeinde",85,"Dänikon","evangelisch-reformiert",351
+2025,3,"Gemeinde",85,"Dänikon","römisch-katholisch",385
+2025,3,"Gemeinde",86,"Dielsdorf","christkatholisch",9
+2025,3,"Gemeinde",86,"Dielsdorf","evangelisch-reformiert",1191
+2025,3,"Gemeinde",86,"Dielsdorf","römisch-katholisch",1403
+2025,3,"Gemeinde",87,"Hüttikon","christkatholisch",0
+2025,3,"Gemeinde",87,"Hüttikon","evangelisch-reformiert",198
+2025,3,"Gemeinde",87,"Hüttikon","römisch-katholisch",202
+2025,3,"Gemeinde",88,"Neerach","christkatholisch",
+2025,3,"Gemeinde",88,"Neerach","evangelisch-reformiert",800
+2025,3,"Gemeinde",88,"Neerach","römisch-katholisch",454
+2025,3,"Gemeinde",89,"Niederglatt","christkatholisch",13
+2025,3,"Gemeinde",89,"Niederglatt","evangelisch-reformiert",1103
+2025,3,"Gemeinde",89,"Niederglatt","römisch-katholisch",1099
+2025,3,"Gemeinde",90,"Niederhasli","christkatholisch",13
+2025,3,"Gemeinde",90,"Niederhasli","evangelisch-reformiert",1759
+2025,3,"Gemeinde",90,"Niederhasli","römisch-katholisch",1888
+2025,3,"Gemeinde",91,"Niederweningen","christkatholisch",0
+2025,3,"Gemeinde",91,"Niederweningen","evangelisch-reformiert",774
+2025,3,"Gemeinde",91,"Niederweningen","römisch-katholisch",547
+2025,3,"Gemeinde",92,"Oberglatt","christkatholisch",13
+2025,3,"Gemeinde",92,"Oberglatt","evangelisch-reformiert",918
+2025,3,"Gemeinde",92,"Oberglatt","römisch-katholisch",1427
+2025,3,"Gemeinde",93,"Oberweningen","christkatholisch",
+2025,3,"Gemeinde",93,"Oberweningen","evangelisch-reformiert",470
+2025,3,"Gemeinde",93,"Oberweningen","römisch-katholisch",300
+2025,3,"Gemeinde",94,"Otelfingen","christkatholisch",19
+2025,3,"Gemeinde",94,"Otelfingen","evangelisch-reformiert",712
+2025,3,"Gemeinde",94,"Otelfingen","römisch-katholisch",751
+2025,3,"Gemeinde",95,"Regensberg","christkatholisch",
+2025,3,"Gemeinde",95,"Regensberg","evangelisch-reformiert",165
+2025,3,"Gemeinde",95,"Regensberg","römisch-katholisch",51
+2025,3,"Gemeinde",96,"Regensdorf","christkatholisch",35
+2025,3,"Gemeinde",96,"Regensdorf","evangelisch-reformiert",2974
+2025,3,"Gemeinde",96,"Regensdorf","römisch-katholisch",4069
+2025,3,"Gemeinde",97,"Rümlang","christkatholisch",8
+2025,3,"Gemeinde",97,"Rümlang","evangelisch-reformiert",1320
+2025,3,"Gemeinde",97,"Rümlang","römisch-katholisch",1693
+2025,3,"Gemeinde",98,"Schleinikon","christkatholisch",5
+2025,3,"Gemeinde",98,"Schleinikon","evangelisch-reformiert",295
+2025,3,"Gemeinde",98,"Schleinikon","römisch-katholisch",120
+2025,3,"Gemeinde",99,"Schöfflisdorf","christkatholisch",7
+2025,3,"Gemeinde",99,"Schöfflisdorf","evangelisch-reformiert",384
+2025,3,"Gemeinde",99,"Schöfflisdorf","römisch-katholisch",226
+2025,3,"Gemeinde",100,"Stadel","christkatholisch",7
+2025,3,"Gemeinde",100,"Stadel","evangelisch-reformiert",769
+2025,3,"Gemeinde",100,"Stadel","römisch-katholisch",317
+2025,3,"Gemeinde",101,"Steinmaur","christkatholisch",7
+2025,3,"Gemeinde",101,"Steinmaur","evangelisch-reformiert",900
+2025,3,"Gemeinde",101,"Steinmaur","römisch-katholisch",721
+2025,3,"Gemeinde",102,"Weiach","christkatholisch",15
+2025,3,"Gemeinde",102,"Weiach","evangelisch-reformiert",450
+2025,3,"Gemeinde",102,"Weiach","römisch-katholisch",238
+2025,3,"Gemeinde",111,"Bäretswil","christkatholisch",0
+2025,3,"Gemeinde",111,"Bäretswil","evangelisch-reformiert",1645
+2025,3,"Gemeinde",111,"Bäretswil","römisch-katholisch",687
+2025,3,"Gemeinde",112,"Bubikon","christkatholisch",9
+2025,3,"Gemeinde",112,"Bubikon","evangelisch-reformiert",2189
+2025,3,"Gemeinde",112,"Bubikon","römisch-katholisch",1315
+2025,3,"Gemeinde",113,"Dürnten","christkatholisch",8
+2025,3,"Gemeinde",113,"Dürnten","evangelisch-reformiert",1963
+2025,3,"Gemeinde",113,"Dürnten","römisch-katholisch",1522
+2025,3,"Gemeinde",114,"Fischenthal","christkatholisch",
+2025,3,"Gemeinde",114,"Fischenthal","evangelisch-reformiert",874
+2025,3,"Gemeinde",114,"Fischenthal","römisch-katholisch",399
+2025,3,"Gemeinde",115,"Gossau (ZH)","christkatholisch",7
+2025,3,"Gemeinde",115,"Gossau (ZH)","evangelisch-reformiert",3003
+2025,3,"Gemeinde",115,"Gossau (ZH)","römisch-katholisch",1815
+2025,3,"Gemeinde",116,"Grüningen","christkatholisch",
+2025,3,"Gemeinde",116,"Grüningen","evangelisch-reformiert",1143
+2025,3,"Gemeinde",116,"Grüningen","römisch-katholisch",599
+2025,3,"Gemeinde",117,"Hinwil","christkatholisch",8
+2025,3,"Gemeinde",117,"Hinwil","evangelisch-reformiert",3058
+2025,3,"Gemeinde",117,"Hinwil","römisch-katholisch",2063
+2025,3,"Gemeinde",118,"Rüti (ZH)","christkatholisch",19
+2025,3,"Gemeinde",118,"Rüti (ZH)","evangelisch-reformiert",2463
+2025,3,"Gemeinde",118,"Rüti (ZH)","römisch-katholisch",2784
+2025,3,"Gemeinde",119,"Seegräben","christkatholisch",4
+2025,3,"Gemeinde",119,"Seegräben","evangelisch-reformiert",423
+2025,3,"Gemeinde",119,"Seegräben","römisch-katholisch",217
+2025,3,"Gemeinde",120,"Wald (ZH)","christkatholisch",8
+2025,3,"Gemeinde",120,"Wald (ZH)","evangelisch-reformiert",2317
+2025,3,"Gemeinde",120,"Wald (ZH)","römisch-katholisch",2260
+2025,3,"Gemeinde",121,"Wetzikon (ZH)","christkatholisch",23
+2025,3,"Gemeinde",121,"Wetzikon (ZH)","evangelisch-reformiert",4969
+2025,3,"Gemeinde",121,"Wetzikon (ZH)","römisch-katholisch",5386
+2025,3,"Gemeinde",131,"Adliswil","christkatholisch",57
+2025,3,"Gemeinde",131,"Adliswil","evangelisch-reformiert",2799
+2025,3,"Gemeinde",131,"Adliswil","römisch-katholisch",4043
+2025,3,"Gemeinde",135,"Kilchberg (ZH)","christkatholisch",9
+2025,3,"Gemeinde",135,"Kilchberg (ZH)","evangelisch-reformiert",1646
+2025,3,"Gemeinde",135,"Kilchberg (ZH)","römisch-katholisch",1544
+2025,3,"Gemeinde",136,"Langnau am Albis","christkatholisch",15
+2025,3,"Gemeinde",136,"Langnau am Albis","evangelisch-reformiert",1512
+2025,3,"Gemeinde",136,"Langnau am Albis","römisch-katholisch",1701
+2025,3,"Gemeinde",137,"Oberrieden","christkatholisch",4
+2025,3,"Gemeinde",137,"Oberrieden","evangelisch-reformiert",1297
+2025,3,"Gemeinde",137,"Oberrieden","römisch-katholisch",999
+2025,3,"Gemeinde",138,"Richterswil","christkatholisch",8
+2025,3,"Gemeinde",138,"Richterswil","evangelisch-reformiert",3109
+2025,3,"Gemeinde",138,"Richterswil","römisch-katholisch",2960
+2025,3,"Gemeinde",139,"Rüschlikon","christkatholisch",10
+2025,3,"Gemeinde",139,"Rüschlikon","evangelisch-reformiert",1070
+2025,3,"Gemeinde",139,"Rüschlikon","römisch-katholisch",1042
+2025,3,"Gemeinde",141,"Thalwil","christkatholisch",15
+2025,3,"Gemeinde",141,"Thalwil","evangelisch-reformiert",3407
+2025,3,"Gemeinde",141,"Thalwil","römisch-katholisch",3676
+2025,3,"Gemeinde",151,"Erlenbach (ZH)","christkatholisch",15
+2025,3,"Gemeinde",151,"Erlenbach (ZH)","evangelisch-reformiert",1391
+2025,3,"Gemeinde",151,"Erlenbach (ZH)","römisch-katholisch",1076
+2025,3,"Gemeinde",152,"Herrliberg","christkatholisch",7
+2025,3,"Gemeinde",152,"Herrliberg","evangelisch-reformiert",1542
+2025,3,"Gemeinde",152,"Herrliberg","römisch-katholisch",1167
+2025,3,"Gemeinde",153,"Hombrechtikon","christkatholisch",17
+2025,3,"Gemeinde",153,"Hombrechtikon","evangelisch-reformiert",2246
+2025,3,"Gemeinde",153,"Hombrechtikon","römisch-katholisch",1911
+2025,3,"Gemeinde",154,"Küsnacht (ZH)","christkatholisch",20
+2025,3,"Gemeinde",154,"Küsnacht (ZH)","evangelisch-reformiert",3458
+2025,3,"Gemeinde",154,"Küsnacht (ZH)","römisch-katholisch",2726
+2025,3,"Gemeinde",155,"Männedorf","christkatholisch",20
+2025,3,"Gemeinde",155,"Männedorf","evangelisch-reformiert",2607
+2025,3,"Gemeinde",155,"Männedorf","römisch-katholisch",2088
+2025,3,"Gemeinde",156,"Meilen","christkatholisch",28
+2025,3,"Gemeinde",156,"Meilen","evangelisch-reformiert",3539
+2025,3,"Gemeinde",156,"Meilen","römisch-katholisch",2569
+2025,3,"Gemeinde",157,"Oetwil am See","christkatholisch",
+2025,3,"Gemeinde",157,"Oetwil am See","evangelisch-reformiert",1015
+2025,3,"Gemeinde",157,"Oetwil am See","römisch-katholisch",995
+2025,3,"Gemeinde",158,"Stäfa","christkatholisch",5
+2025,3,"Gemeinde",158,"Stäfa","evangelisch-reformiert",3927
+2025,3,"Gemeinde",158,"Stäfa","römisch-katholisch",2559
+2025,3,"Gemeinde",159,"Uetikon am See","christkatholisch",8
+2025,3,"Gemeinde",159,"Uetikon am See","evangelisch-reformiert",1615
+2025,3,"Gemeinde",159,"Uetikon am See","römisch-katholisch",1182
+2025,3,"Gemeinde",160,"Zumikon","christkatholisch",10
+2025,3,"Gemeinde",160,"Zumikon","evangelisch-reformiert",1378
+2025,3,"Gemeinde",160,"Zumikon","römisch-katholisch",1035
+2025,3,"Gemeinde",161,"Zollikon","christkatholisch",17
+2025,3,"Gemeinde",161,"Zollikon","evangelisch-reformiert",2934
+2025,3,"Gemeinde",161,"Zollikon","römisch-katholisch",2287
+2025,3,"Gemeinde",172,"Fehraltorf","christkatholisch",22
+2025,3,"Gemeinde",172,"Fehraltorf","evangelisch-reformiert",1660
+2025,3,"Gemeinde",172,"Fehraltorf","römisch-katholisch",1196
+2025,3,"Gemeinde",173,"Hittnau","christkatholisch",4
+2025,3,"Gemeinde",173,"Hittnau","evangelisch-reformiert",1254
+2025,3,"Gemeinde",173,"Hittnau","römisch-katholisch",563
+2025,3,"Gemeinde",176,"Lindau","christkatholisch",4
+2025,3,"Gemeinde",176,"Lindau","evangelisch-reformiert",1343
+2025,3,"Gemeinde",176,"Lindau","römisch-katholisch",990
+2025,3,"Gemeinde",177,"Pfäffikon","christkatholisch",6
+2025,3,"Gemeinde",177,"Pfäffikon","evangelisch-reformiert",3431
+2025,3,"Gemeinde",177,"Pfäffikon","römisch-katholisch",2122
+2025,3,"Gemeinde",178,"Russikon","christkatholisch",11
+2025,3,"Gemeinde",178,"Russikon","evangelisch-reformiert",1312
+2025,3,"Gemeinde",178,"Russikon","römisch-katholisch",643
+2025,3,"Gemeinde",180,"Weisslingen","christkatholisch",0
+2025,3,"Gemeinde",180,"Weisslingen","evangelisch-reformiert",1163
+2025,3,"Gemeinde",180,"Weisslingen","römisch-katholisch",430
+2025,3,"Gemeinde",181,"Wila","christkatholisch",
+2025,3,"Gemeinde",181,"Wila","evangelisch-reformiert",673
+2025,3,"Gemeinde",181,"Wila","römisch-katholisch",269
+2025,3,"Gemeinde",182,"Wildberg","christkatholisch",0
+2025,3,"Gemeinde",182,"Wildberg","evangelisch-reformiert",381
+2025,3,"Gemeinde",182,"Wildberg","römisch-katholisch",93
+2025,3,"Gemeinde",191,"Dübendorf","christkatholisch",88
+2025,3,"Gemeinde",191,"Dübendorf","evangelisch-reformiert",5036
+2025,3,"Gemeinde",191,"Dübendorf","römisch-katholisch",6760
+2025,3,"Gemeinde",192,"Egg","christkatholisch",5
+2025,3,"Gemeinde",192,"Egg","evangelisch-reformiert",2153
+2025,3,"Gemeinde",192,"Egg","römisch-katholisch",1709
+2025,3,"Gemeinde",193,"Fällanden","christkatholisch",23
+2025,3,"Gemeinde",193,"Fällanden","evangelisch-reformiert",1604
+2025,3,"Gemeinde",193,"Fällanden","römisch-katholisch",1689
+2025,3,"Gemeinde",194,"Greifensee","christkatholisch",9
+2025,3,"Gemeinde",194,"Greifensee","evangelisch-reformiert",1221
+2025,3,"Gemeinde",194,"Greifensee","römisch-katholisch",957
+2025,3,"Gemeinde",195,"Maur","christkatholisch",12
+2025,3,"Gemeinde",195,"Maur","evangelisch-reformiert",2631
+2025,3,"Gemeinde",195,"Maur","römisch-katholisch",1838
+2025,3,"Gemeinde",196,"Mönchaltorf","christkatholisch",14
+2025,3,"Gemeinde",196,"Mönchaltorf","evangelisch-reformiert",1102
+2025,3,"Gemeinde",196,"Mönchaltorf","römisch-katholisch",703
+2025,3,"Gemeinde",197,"Schwerzenbach","christkatholisch",6
+2025,3,"Gemeinde",197,"Schwerzenbach","evangelisch-reformiert",960
+2025,3,"Gemeinde",197,"Schwerzenbach","römisch-katholisch",1088
+2025,3,"Gemeinde",198,"Uster","christkatholisch",50
+2025,3,"Gemeinde",198,"Uster","evangelisch-reformiert",7886
+2025,3,"Gemeinde",198,"Uster","römisch-katholisch",6662
+2025,3,"Gemeinde",199,"Volketswil","christkatholisch",19
+2025,3,"Gemeinde",199,"Volketswil","evangelisch-reformiert",3654
+2025,3,"Gemeinde",199,"Volketswil","römisch-katholisch",3460
+2025,3,"Gemeinde",200,"Wangen-Brüttisellen","christkatholisch",9
+2025,3,"Gemeinde",200,"Wangen-Brüttisellen","evangelisch-reformiert",1342
+2025,3,"Gemeinde",200,"Wangen-Brüttisellen","römisch-katholisch",1518
+2025,3,"Gemeinde",211,"Altikon","christkatholisch",
+2025,3,"Gemeinde",211,"Altikon","evangelisch-reformiert",330
+2025,3,"Gemeinde",211,"Altikon","römisch-katholisch",63
+2025,3,"Gemeinde",213,"Brütten","christkatholisch",
+2025,3,"Gemeinde",213,"Brütten","evangelisch-reformiert",746
+2025,3,"Gemeinde",213,"Brütten","römisch-katholisch",277
+2025,3,"Gemeinde",214,"Dägerlen","christkatholisch",0
+2025,3,"Gemeinde",214,"Dägerlen","evangelisch-reformiert",491
+2025,3,"Gemeinde",214,"Dägerlen","römisch-katholisch",114
+2025,3,"Gemeinde",215,"Dättlikon","christkatholisch",0
+2025,3,"Gemeinde",215,"Dättlikon","evangelisch-reformiert",274
+2025,3,"Gemeinde",215,"Dättlikon","römisch-katholisch",88
+2025,3,"Gemeinde",216,"Dinhard","christkatholisch",0
+2025,3,"Gemeinde",216,"Dinhard","evangelisch-reformiert",645
+2025,3,"Gemeinde",216,"Dinhard","römisch-katholisch",218
+2025,3,"Gemeinde",218,"Ellikon an der Thur","christkatholisch",
+2025,3,"Gemeinde",218,"Ellikon an der Thur","evangelisch-reformiert",365
+2025,3,"Gemeinde",218,"Ellikon an der Thur","römisch-katholisch",156
+2025,3,"Gemeinde",219,"Elsau","christkatholisch",7
+2025,3,"Gemeinde",219,"Elsau","evangelisch-reformiert",1008
+2025,3,"Gemeinde",219,"Elsau","römisch-katholisch",654
+2025,3,"Gemeinde",220,"Hagenbuch","christkatholisch",0
+2025,3,"Gemeinde",220,"Hagenbuch","evangelisch-reformiert",375
+2025,3,"Gemeinde",220,"Hagenbuch","römisch-katholisch",165
+2025,3,"Gemeinde",221,"Hettlingen","christkatholisch",7
+2025,3,"Gemeinde",221,"Hettlingen","evangelisch-reformiert",1145
+2025,3,"Gemeinde",221,"Hettlingen","römisch-katholisch",478
+2025,3,"Gemeinde",223,"Neftenbach","christkatholisch",
+2025,3,"Gemeinde",223,"Neftenbach","evangelisch-reformiert",1811
+2025,3,"Gemeinde",223,"Neftenbach","römisch-katholisch",745
+2025,3,"Gemeinde",224,"Pfungen","christkatholisch",4
+2025,3,"Gemeinde",224,"Pfungen","evangelisch-reformiert",881
+2025,3,"Gemeinde",224,"Pfungen","römisch-katholisch",640
+2025,3,"Gemeinde",225,"Rickenbach (ZH)","christkatholisch",
+2025,3,"Gemeinde",225,"Rickenbach (ZH)","evangelisch-reformiert",835
+2025,3,"Gemeinde",225,"Rickenbach (ZH)","römisch-katholisch",447
+2025,3,"Gemeinde",226,"Schlatt (ZH)","christkatholisch",0
+2025,3,"Gemeinde",226,"Schlatt (ZH)","evangelisch-reformiert",292
+2025,3,"Gemeinde",226,"Schlatt (ZH)","römisch-katholisch",71
+2025,3,"Gemeinde",227,"Seuzach","christkatholisch",
+2025,3,"Gemeinde",227,"Seuzach","evangelisch-reformiert",2391
+2025,3,"Gemeinde",227,"Seuzach","römisch-katholisch",1509
+2025,3,"Gemeinde",228,"Turbenthal","christkatholisch",
+2025,3,"Gemeinde",228,"Turbenthal","evangelisch-reformiert",1485
+2025,3,"Gemeinde",228,"Turbenthal","römisch-katholisch",739
+2025,3,"Gemeinde",230,"Winterthur","christkatholisch",155
+2025,3,"Gemeinde",230,"Winterthur","evangelisch-reformiert",24609
+2025,3,"Gemeinde",230,"Winterthur","römisch-katholisch",18790
+2025,3,"Gemeinde",231,"Zell (ZH)","christkatholisch",4
+2025,3,"Gemeinde",231,"Zell (ZH)","evangelisch-reformiert",1555
+2025,3,"Gemeinde",231,"Zell (ZH)","römisch-katholisch",1086
+2025,3,"Gemeinde",241,"Aesch (ZH)","christkatholisch",9
+2025,3,"Gemeinde",241,"Aesch (ZH)","evangelisch-reformiert",415
+2025,3,"Gemeinde",241,"Aesch (ZH)","römisch-katholisch",284
+2025,3,"Gemeinde",242,"Birmensdorf (ZH)","christkatholisch",18
+2025,3,"Gemeinde",242,"Birmensdorf (ZH)","evangelisch-reformiert",1462
+2025,3,"Gemeinde",242,"Birmensdorf (ZH)","römisch-katholisch",1353
+2025,3,"Gemeinde",243,"Dietikon","christkatholisch",63
+2025,3,"Gemeinde",243,"Dietikon","evangelisch-reformiert",2768
+2025,3,"Gemeinde",243,"Dietikon","römisch-katholisch",6612
+2025,3,"Gemeinde",244,"Geroldswil","christkatholisch",8
+2025,3,"Gemeinde",244,"Geroldswil","evangelisch-reformiert",783
+2025,3,"Gemeinde",244,"Geroldswil","römisch-katholisch",1171
+2025,3,"Gemeinde",245,"Oberengstringen","christkatholisch",10
+2025,3,"Gemeinde",245,"Oberengstringen","evangelisch-reformiert",1033
+2025,3,"Gemeinde",245,"Oberengstringen","römisch-katholisch",1449
+2025,3,"Gemeinde",246,"Oetwil an der Limmat","christkatholisch",4
+2025,3,"Gemeinde",246,"Oetwil an der Limmat","evangelisch-reformiert",459
+2025,3,"Gemeinde",246,"Oetwil an der Limmat","römisch-katholisch",556
+2025,3,"Gemeinde",247,"Schlieren","christkatholisch",52
+2025,3,"Gemeinde",247,"Schlieren","evangelisch-reformiert",1959
+2025,3,"Gemeinde",247,"Schlieren","römisch-katholisch",5124
+2025,3,"Gemeinde",248,"Uitikon","christkatholisch",24
+2025,3,"Gemeinde",248,"Uitikon","evangelisch-reformiert",1173
+2025,3,"Gemeinde",248,"Uitikon","römisch-katholisch",938
+2025,3,"Gemeinde",249,"Unterengstringen","christkatholisch",7
+2025,3,"Gemeinde",249,"Unterengstringen","evangelisch-reformiert",726
+2025,3,"Gemeinde",249,"Unterengstringen","römisch-katholisch",874
+2025,3,"Gemeinde",250,"Urdorf","christkatholisch",25
+2025,3,"Gemeinde",250,"Urdorf","evangelisch-reformiert",1971
+2025,3,"Gemeinde",250,"Urdorf","römisch-katholisch",2581
+2025,3,"Gemeinde",251,"Weiningen (ZH)","christkatholisch",6
+2025,3,"Gemeinde",251,"Weiningen (ZH)","evangelisch-reformiert",837
+2025,3,"Gemeinde",251,"Weiningen (ZH)","römisch-katholisch",1040
+2025,3,"Gemeinde",261,"Zürich","christkatholisch",1074
+2025,3,"Gemeinde",261,"Zürich","evangelisch-reformiert",62606
+2025,3,"Gemeinde",261,"Zürich","römisch-katholisch",82578
+2025,3,"Gemeinde",291,"Andelfingen","christkatholisch",
+2025,3,"Gemeinde",291,"Andelfingen","evangelisch-reformiert",1386
+2025,3,"Gemeinde",291,"Andelfingen","römisch-katholisch",463
+2025,3,"Gemeinde",292,"Stammheim","christkatholisch",
+2025,3,"Gemeinde",292,"Stammheim","evangelisch-reformiert",1374
+2025,3,"Gemeinde",292,"Stammheim","römisch-katholisch",347
+2025,3,"Gemeinde",293,"Wädenswil","christkatholisch",22
+2025,3,"Gemeinde",293,"Wädenswil","evangelisch-reformiert",5947
+2025,3,"Gemeinde",293,"Wädenswil","römisch-katholisch",5297
+2025,3,"Gemeinde",294,"Elgg","christkatholisch",11
+2025,3,"Gemeinde",294,"Elgg","evangelisch-reformiert",1654
+2025,3,"Gemeinde",294,"Elgg","römisch-katholisch",760
+2025,3,"Gemeinde",295,"Horgen","christkatholisch",28
+2025,3,"Gemeinde",295,"Horgen","evangelisch-reformiert",4676
+2025,3,"Gemeinde",295,"Horgen","römisch-katholisch",4975
+2025,3,"Gemeinde",296,"Illnau-Effretikon","christkatholisch",16
+2025,3,"Gemeinde",296,"Illnau-Effretikon","evangelisch-reformiert",3731
+2025,3,"Gemeinde",296,"Illnau-Effretikon","römisch-katholisch",2906
+2025,3,"Gemeinde",297,"Bauma","christkatholisch",
+2025,3,"Gemeinde",297,"Bauma","evangelisch-reformiert",1650
+2025,3,"Gemeinde",297,"Bauma","römisch-katholisch",735
+2025,3,"Gemeinde",298,"Wiesendangen","christkatholisch",7
+2025,3,"Gemeinde",298,"Wiesendangen","evangelisch-reformiert",2255
+2025,3,"Gemeinde",298,"Wiesendangen","römisch-katholisch",1077
+2024,1,"Kanton",1,"Kanton Zürich","christkatholisch",2824
+2024,1,"Kanton",1,"Kanton Zürich","evangelisch-reformiert",321078
+2024,1,"Kanton",1,"Kanton Zürich","römisch-katholisch",305196
+2024,3,"Gemeinde",1,"Aeugst am Albis","christkatholisch",
+2024,3,"Gemeinde",1,"Aeugst am Albis","evangelisch-reformiert",535
+2024,3,"Gemeinde",1,"Aeugst am Albis","römisch-katholisch",272
+2024,3,"Gemeinde",2,"Affoltern am Albis","christkatholisch",33
+2024,3,"Gemeinde",2,"Affoltern am Albis","evangelisch-reformiert",2534
+2024,3,"Gemeinde",2,"Affoltern am Albis","römisch-katholisch",2705
+2024,3,"Gemeinde",3,"Bonstetten","christkatholisch",
+2024,3,"Gemeinde",3,"Bonstetten","evangelisch-reformiert",1257
+2024,3,"Gemeinde",3,"Bonstetten","römisch-katholisch",976
+2024,3,"Gemeinde",4,"Hausen am Albis","christkatholisch",4
+2024,3,"Gemeinde",4,"Hausen am Albis","evangelisch-reformiert",1009
+2024,3,"Gemeinde",4,"Hausen am Albis","römisch-katholisch",850
+2024,3,"Gemeinde",5,"Hedingen","christkatholisch",13
+2024,3,"Gemeinde",5,"Hedingen","evangelisch-reformiert",1098
+2024,3,"Gemeinde",5,"Hedingen","römisch-katholisch",756
+2024,3,"Gemeinde",6,"Kappel am Albis","christkatholisch",
+2024,3,"Gemeinde",6,"Kappel am Albis","evangelisch-reformiert",333
+2024,3,"Gemeinde",6,"Kappel am Albis","römisch-katholisch",224
+2024,3,"Gemeinde",7,"Knonau","christkatholisch",5
+2024,3,"Gemeinde",7,"Knonau","evangelisch-reformiert",509
+2024,3,"Gemeinde",7,"Knonau","römisch-katholisch",578
+2024,3,"Gemeinde",8,"Maschwanden","christkatholisch",4
+2024,3,"Gemeinde",8,"Maschwanden","evangelisch-reformiert",216
+2024,3,"Gemeinde",8,"Maschwanden","römisch-katholisch",127
+2024,3,"Gemeinde",9,"Mettmenstetten","christkatholisch",14
+2024,3,"Gemeinde",9,"Mettmenstetten","evangelisch-reformiert",1534
+2024,3,"Gemeinde",9,"Mettmenstetten","römisch-katholisch",1111
+2024,3,"Gemeinde",10,"Obfelden","christkatholisch",5
+2024,3,"Gemeinde",10,"Obfelden","evangelisch-reformiert",1259
+2024,3,"Gemeinde",10,"Obfelden","römisch-katholisch",1222
+2024,3,"Gemeinde",11,"Ottenbach","christkatholisch",8
+2024,3,"Gemeinde",11,"Ottenbach","evangelisch-reformiert",725
+2024,3,"Gemeinde",11,"Ottenbach","römisch-katholisch",558
+2024,3,"Gemeinde",12,"Rifferswil","christkatholisch",
+2024,3,"Gemeinde",12,"Rifferswil","evangelisch-reformiert",375
+2024,3,"Gemeinde",12,"Rifferswil","römisch-katholisch",163
+2024,3,"Gemeinde",13,"Stallikon","christkatholisch",13
+2024,3,"Gemeinde",13,"Stallikon","evangelisch-reformiert",822
+2024,3,"Gemeinde",13,"Stallikon","römisch-katholisch",612
+2024,3,"Gemeinde",14,"Wettswil am Albis","christkatholisch",10
+2024,3,"Gemeinde",14,"Wettswil am Albis","evangelisch-reformiert",1169
+2024,3,"Gemeinde",14,"Wettswil am Albis","römisch-katholisch",936
+2024,3,"Gemeinde",22,"Benken (ZH)","christkatholisch",
+2024,3,"Gemeinde",22,"Benken (ZH)","evangelisch-reformiert",309
+2024,3,"Gemeinde",22,"Benken (ZH)","römisch-katholisch",107
+2024,3,"Gemeinde",23,"Berg am Irchel","christkatholisch",0
+2024,3,"Gemeinde",23,"Berg am Irchel","evangelisch-reformiert",274
+2024,3,"Gemeinde",23,"Berg am Irchel","römisch-katholisch",48
+2024,3,"Gemeinde",24,"Buch am Irchel","christkatholisch",0
+2024,3,"Gemeinde",24,"Buch am Irchel","evangelisch-reformiert",426
+2024,3,"Gemeinde",24,"Buch am Irchel","römisch-katholisch",86
+2024,3,"Gemeinde",25,"Dachsen","christkatholisch",0
+2024,3,"Gemeinde",25,"Dachsen","evangelisch-reformiert",666
+2024,3,"Gemeinde",25,"Dachsen","römisch-katholisch",316
+2024,3,"Gemeinde",26,"Dorf","christkatholisch",
+2024,3,"Gemeinde",26,"Dorf","evangelisch-reformiert",265
+2024,3,"Gemeinde",26,"Dorf","römisch-katholisch",87
+2024,3,"Gemeinde",27,"Feuerthalen","christkatholisch",6
+2024,3,"Gemeinde",27,"Feuerthalen","evangelisch-reformiert",939
+2024,3,"Gemeinde",27,"Feuerthalen","römisch-katholisch",701
+2024,3,"Gemeinde",28,"Flaach","christkatholisch",
+2024,3,"Gemeinde",28,"Flaach","evangelisch-reformiert",568
+2024,3,"Gemeinde",28,"Flaach","römisch-katholisch",195
+2024,3,"Gemeinde",29,"Flurlingen","christkatholisch",
+2024,3,"Gemeinde",29,"Flurlingen","evangelisch-reformiert",485
+2024,3,"Gemeinde",29,"Flurlingen","römisch-katholisch",226
+2024,3,"Gemeinde",31,"Henggart","christkatholisch",
+2024,3,"Gemeinde",31,"Henggart","evangelisch-reformiert",880
+2024,3,"Gemeinde",31,"Henggart","römisch-katholisch",334
+2024,3,"Gemeinde",33,"Kleinandelfingen","christkatholisch",0
+2024,3,"Gemeinde",33,"Kleinandelfingen","evangelisch-reformiert",833
+2024,3,"Gemeinde",33,"Kleinandelfingen","römisch-katholisch",324
+2024,3,"Gemeinde",34,"Laufen-Uhwiesen","christkatholisch",0
+2024,3,"Gemeinde",34,"Laufen-Uhwiesen","evangelisch-reformiert",653
+2024,3,"Gemeinde",34,"Laufen-Uhwiesen","römisch-katholisch",261
+2024,3,"Gemeinde",35,"Marthalen","christkatholisch",6
+2024,3,"Gemeinde",35,"Marthalen","evangelisch-reformiert",856
+2024,3,"Gemeinde",35,"Marthalen","römisch-katholisch",215
+2024,3,"Gemeinde",37,"Ossingen","christkatholisch",
+2024,3,"Gemeinde",37,"Ossingen","evangelisch-reformiert",693
+2024,3,"Gemeinde",37,"Ossingen","römisch-katholisch",235
+2024,3,"Gemeinde",38,"Rheinau","christkatholisch",
+2024,3,"Gemeinde",38,"Rheinau","evangelisch-reformiert",344
+2024,3,"Gemeinde",38,"Rheinau","römisch-katholisch",325
+2024,3,"Gemeinde",39,"Thalheim an der Thur","christkatholisch",0
+2024,3,"Gemeinde",39,"Thalheim an der Thur","evangelisch-reformiert",329
+2024,3,"Gemeinde",39,"Thalheim an der Thur","römisch-katholisch",84
+2024,3,"Gemeinde",40,"Trüllikon","christkatholisch",0
+2024,3,"Gemeinde",40,"Trüllikon","evangelisch-reformiert",471
+2024,3,"Gemeinde",40,"Trüllikon","römisch-katholisch",119
+2024,3,"Gemeinde",41,"Truttikon","christkatholisch",0
+2024,3,"Gemeinde",41,"Truttikon","evangelisch-reformiert",197
+2024,3,"Gemeinde",41,"Truttikon","römisch-katholisch",46
+2024,3,"Gemeinde",43,"Volken","christkatholisch",0
+2024,3,"Gemeinde",43,"Volken","evangelisch-reformiert",141
+2024,3,"Gemeinde",43,"Volken","römisch-katholisch",33
+2024,3,"Gemeinde",51,"Bachenbülach","christkatholisch",9
+2024,3,"Gemeinde",51,"Bachenbülach","evangelisch-reformiert",902
+2024,3,"Gemeinde",51,"Bachenbülach","römisch-katholisch",798
+2024,3,"Gemeinde",52,"Bassersdorf","christkatholisch",8
+2024,3,"Gemeinde",52,"Bassersdorf","evangelisch-reformiert",2346
+2024,3,"Gemeinde",52,"Bassersdorf","römisch-katholisch",2297
+2024,3,"Gemeinde",53,"Bülach","christkatholisch",52
+2024,3,"Gemeinde",53,"Bülach","evangelisch-reformiert",4615
+2024,3,"Gemeinde",53,"Bülach","römisch-katholisch",4722
+2024,3,"Gemeinde",54,"Dietlikon","christkatholisch",9
+2024,3,"Gemeinde",54,"Dietlikon","evangelisch-reformiert",1622
+2024,3,"Gemeinde",54,"Dietlikon","römisch-katholisch",1639
+2024,3,"Gemeinde",55,"Eglisau","christkatholisch",13
+2024,3,"Gemeinde",55,"Eglisau","evangelisch-reformiert",1358
+2024,3,"Gemeinde",55,"Eglisau","römisch-katholisch",874
+2024,3,"Gemeinde",56,"Embrach","christkatholisch",31
+2024,3,"Gemeinde",56,"Embrach","evangelisch-reformiert",2179
+2024,3,"Gemeinde",56,"Embrach","römisch-katholisch",1878
+2024,3,"Gemeinde",57,"Freienstein-Teufen","christkatholisch",5
+2024,3,"Gemeinde",57,"Freienstein-Teufen","evangelisch-reformiert",778
+2024,3,"Gemeinde",57,"Freienstein-Teufen","römisch-katholisch",397
+2024,3,"Gemeinde",58,"Glattfelden","christkatholisch",
+2024,3,"Gemeinde",58,"Glattfelden","evangelisch-reformiert",1245
+2024,3,"Gemeinde",58,"Glattfelden","römisch-katholisch",915
+2024,3,"Gemeinde",59,"Hochfelden","christkatholisch",
+2024,3,"Gemeinde",59,"Hochfelden","evangelisch-reformiert",584
+2024,3,"Gemeinde",59,"Hochfelden","römisch-katholisch",393
+2024,3,"Gemeinde",60,"Höri","christkatholisch",16
+2024,3,"Gemeinde",60,"Höri","evangelisch-reformiert",553
+2024,3,"Gemeinde",60,"Höri","römisch-katholisch",750
+2024,3,"Gemeinde",61,"Hüntwangen","christkatholisch",0
+2024,3,"Gemeinde",61,"Hüntwangen","evangelisch-reformiert",308
+2024,3,"Gemeinde",61,"Hüntwangen","römisch-katholisch",141
+2024,3,"Gemeinde",62,"Kloten","christkatholisch",95
+2024,3,"Gemeinde",62,"Kloten","evangelisch-reformiert",3622
+2024,3,"Gemeinde",62,"Kloten","römisch-katholisch",4854
+2024,3,"Gemeinde",63,"Lufingen","christkatholisch",
+2024,3,"Gemeinde",63,"Lufingen","evangelisch-reformiert",545
+2024,3,"Gemeinde",63,"Lufingen","römisch-katholisch",497
+2024,3,"Gemeinde",64,"Nürensdorf","christkatholisch",7
+2024,3,"Gemeinde",64,"Nürensdorf","evangelisch-reformiert",1518
+2024,3,"Gemeinde",64,"Nürensdorf","römisch-katholisch",1074
+2024,3,"Gemeinde",65,"Oberembrach","christkatholisch",0
+2024,3,"Gemeinde",65,"Oberembrach","evangelisch-reformiert",391
+2024,3,"Gemeinde",65,"Oberembrach","römisch-katholisch",143
+2024,3,"Gemeinde",66,"Opfikon","christkatholisch",113
+2024,3,"Gemeinde",66,"Opfikon","evangelisch-reformiert",2087
+2024,3,"Gemeinde",66,"Opfikon","römisch-katholisch",4150
+2024,3,"Gemeinde",67,"Rafz","christkatholisch",8
+2024,3,"Gemeinde",67,"Rafz","evangelisch-reformiert",1310
+2024,3,"Gemeinde",67,"Rafz","römisch-katholisch",811
+2024,3,"Gemeinde",68,"Rorbas","christkatholisch",
+2024,3,"Gemeinde",68,"Rorbas","evangelisch-reformiert",666
+2024,3,"Gemeinde",68,"Rorbas","römisch-katholisch",503
+2024,3,"Gemeinde",69,"Wallisellen","christkatholisch",20
+2024,3,"Gemeinde",69,"Wallisellen","evangelisch-reformiert",2872
+2024,3,"Gemeinde",69,"Wallisellen","römisch-katholisch",3522
+2024,3,"Gemeinde",70,"Wasterkingen","christkatholisch",0
+2024,3,"Gemeinde",70,"Wasterkingen","evangelisch-reformiert",214
+2024,3,"Gemeinde",70,"Wasterkingen","römisch-katholisch",72
+2024,3,"Gemeinde",71,"Wil (ZH)","christkatholisch",
+2024,3,"Gemeinde",71,"Wil (ZH)","evangelisch-reformiert",529
+2024,3,"Gemeinde",71,"Wil (ZH)","römisch-katholisch",175
+2024,3,"Gemeinde",72,"Winkel","christkatholisch",8
+2024,3,"Gemeinde",72,"Winkel","evangelisch-reformiert",1142
+2024,3,"Gemeinde",72,"Winkel","römisch-katholisch",833
+2024,3,"Gemeinde",81,"Bachs","christkatholisch",0
+2024,3,"Gemeinde",81,"Bachs","evangelisch-reformiert",240
+2024,3,"Gemeinde",81,"Bachs","römisch-katholisch",93
+2024,3,"Gemeinde",82,"Boppelsen","christkatholisch",4
+2024,3,"Gemeinde",82,"Boppelsen","evangelisch-reformiert",414
+2024,3,"Gemeinde",82,"Boppelsen","römisch-katholisch",223
+2024,3,"Gemeinde",83,"Buchs (ZH)","christkatholisch",36
+2024,3,"Gemeinde",83,"Buchs (ZH)","evangelisch-reformiert",1308
+2024,3,"Gemeinde",83,"Buchs (ZH)","römisch-katholisch",1371
+2024,3,"Gemeinde",84,"Dällikon","christkatholisch",5
+2024,3,"Gemeinde",84,"Dällikon","evangelisch-reformiert",721
+2024,3,"Gemeinde",84,"Dällikon","römisch-katholisch",1061
+2024,3,"Gemeinde",85,"Dänikon","christkatholisch",
+2024,3,"Gemeinde",85,"Dänikon","evangelisch-reformiert",375
+2024,3,"Gemeinde",85,"Dänikon","römisch-katholisch",392
+2024,3,"Gemeinde",86,"Dielsdorf","christkatholisch",9
+2024,3,"Gemeinde",86,"Dielsdorf","evangelisch-reformiert",1219
+2024,3,"Gemeinde",86,"Dielsdorf","römisch-katholisch",1391
+2024,3,"Gemeinde",87,"Hüttikon","christkatholisch",0
+2024,3,"Gemeinde",87,"Hüttikon","evangelisch-reformiert",201
+2024,3,"Gemeinde",87,"Hüttikon","römisch-katholisch",207
+2024,3,"Gemeinde",88,"Neerach","christkatholisch",4
+2024,3,"Gemeinde",88,"Neerach","evangelisch-reformiert",829
+2024,3,"Gemeinde",88,"Neerach","römisch-katholisch",479
+2024,3,"Gemeinde",89,"Niederglatt","christkatholisch",14
+2024,3,"Gemeinde",89,"Niederglatt","evangelisch-reformiert",1152
+2024,3,"Gemeinde",89,"Niederglatt","römisch-katholisch",1101
+2024,3,"Gemeinde",90,"Niederhasli","christkatholisch",10
+2024,3,"Gemeinde",90,"Niederhasli","evangelisch-reformiert",1809
+2024,3,"Gemeinde",90,"Niederhasli","römisch-katholisch",1851
+2024,3,"Gemeinde",91,"Niederweningen","christkatholisch",
+2024,3,"Gemeinde",91,"Niederweningen","evangelisch-reformiert",818
+2024,3,"Gemeinde",91,"Niederweningen","römisch-katholisch",565
+2024,3,"Gemeinde",92,"Oberglatt","christkatholisch",16
+2024,3,"Gemeinde",92,"Oberglatt","evangelisch-reformiert",969
+2024,3,"Gemeinde",92,"Oberglatt","römisch-katholisch",1471
+2024,3,"Gemeinde",93,"Oberweningen","christkatholisch",
+2024,3,"Gemeinde",93,"Oberweningen","evangelisch-reformiert",498
+2024,3,"Gemeinde",93,"Oberweningen","römisch-katholisch",320
+2024,3,"Gemeinde",94,"Otelfingen","christkatholisch",23
+2024,3,"Gemeinde",94,"Otelfingen","evangelisch-reformiert",732
+2024,3,"Gemeinde",94,"Otelfingen","römisch-katholisch",800
+2024,3,"Gemeinde",95,"Regensberg","christkatholisch",
+2024,3,"Gemeinde",95,"Regensberg","evangelisch-reformiert",171
+2024,3,"Gemeinde",95,"Regensberg","römisch-katholisch",45
+2024,3,"Gemeinde",96,"Regensdorf","christkatholisch",36
+2024,3,"Gemeinde",96,"Regensdorf","evangelisch-reformiert",3083
+2024,3,"Gemeinde",96,"Regensdorf","römisch-katholisch",4089
+2024,3,"Gemeinde",97,"Rümlang","christkatholisch",11
+2024,3,"Gemeinde",97,"Rümlang","evangelisch-reformiert",1370
+2024,3,"Gemeinde",97,"Rümlang","römisch-katholisch",1709
+2024,3,"Gemeinde",98,"Schleinikon","christkatholisch",4
+2024,3,"Gemeinde",98,"Schleinikon","evangelisch-reformiert",301
+2024,3,"Gemeinde",98,"Schleinikon","römisch-katholisch",124
+2024,3,"Gemeinde",99,"Schöfflisdorf","christkatholisch",7
+2024,3,"Gemeinde",99,"Schöfflisdorf","evangelisch-reformiert",402
+2024,3,"Gemeinde",99,"Schöfflisdorf","römisch-katholisch",237
+2024,3,"Gemeinde",100,"Stadel","christkatholisch",5
+2024,3,"Gemeinde",100,"Stadel","evangelisch-reformiert",773
+2024,3,"Gemeinde",100,"Stadel","römisch-katholisch",315
+2024,3,"Gemeinde",101,"Steinmaur","christkatholisch",6
+2024,3,"Gemeinde",101,"Steinmaur","evangelisch-reformiert",919
+2024,3,"Gemeinde",101,"Steinmaur","römisch-katholisch",745
+2024,3,"Gemeinde",102,"Weiach","christkatholisch",14
+2024,3,"Gemeinde",102,"Weiach","evangelisch-reformiert",464
+2024,3,"Gemeinde",102,"Weiach","römisch-katholisch",244
+2024,3,"Gemeinde",111,"Bäretswil","christkatholisch",0
+2024,3,"Gemeinde",111,"Bäretswil","evangelisch-reformiert",1688
+2024,3,"Gemeinde",111,"Bäretswil","römisch-katholisch",703
+2024,3,"Gemeinde",112,"Bubikon","christkatholisch",9
+2024,3,"Gemeinde",112,"Bubikon","evangelisch-reformiert",2213
+2024,3,"Gemeinde",112,"Bubikon","römisch-katholisch",1350
+2024,3,"Gemeinde",113,"Dürnten","christkatholisch",8
+2024,3,"Gemeinde",113,"Dürnten","evangelisch-reformiert",1962
+2024,3,"Gemeinde",113,"Dürnten","römisch-katholisch",1550
+2024,3,"Gemeinde",114,"Fischenthal","christkatholisch",
+2024,3,"Gemeinde",114,"Fischenthal","evangelisch-reformiert",876
+2024,3,"Gemeinde",114,"Fischenthal","römisch-katholisch",403
+2024,3,"Gemeinde",115,"Gossau (ZH)","christkatholisch",5
+2024,3,"Gemeinde",115,"Gossau (ZH)","evangelisch-reformiert",3059
+2024,3,"Gemeinde",115,"Gossau (ZH)","römisch-katholisch",1866
+2024,3,"Gemeinde",116,"Grüningen","christkatholisch",
+2024,3,"Gemeinde",116,"Grüningen","evangelisch-reformiert",1191
+2024,3,"Gemeinde",116,"Grüningen","römisch-katholisch",628
+2024,3,"Gemeinde",117,"Hinwil","christkatholisch",6
+2024,3,"Gemeinde",117,"Hinwil","evangelisch-reformiert",3214
+2024,3,"Gemeinde",117,"Hinwil","römisch-katholisch",2135
+2024,3,"Gemeinde",118,"Rüti (ZH)","christkatholisch",15
+2024,3,"Gemeinde",118,"Rüti (ZH)","evangelisch-reformiert",2500
+2024,3,"Gemeinde",118,"Rüti (ZH)","römisch-katholisch",2825
+2024,3,"Gemeinde",119,"Seegräben","christkatholisch",5
+2024,3,"Gemeinde",119,"Seegräben","evangelisch-reformiert",425
+2024,3,"Gemeinde",119,"Seegräben","römisch-katholisch",213
+2024,3,"Gemeinde",120,"Wald (ZH)","christkatholisch",11
+2024,3,"Gemeinde",120,"Wald (ZH)","evangelisch-reformiert",2403
+2024,3,"Gemeinde",120,"Wald (ZH)","römisch-katholisch",2388
+2024,3,"Gemeinde",121,"Wetzikon (ZH)","christkatholisch",20
+2024,3,"Gemeinde",121,"Wetzikon (ZH)","evangelisch-reformiert",5088
+2024,3,"Gemeinde",121,"Wetzikon (ZH)","römisch-katholisch",5382
+2024,3,"Gemeinde",131,"Adliswil","christkatholisch",54
+2024,3,"Gemeinde",131,"Adliswil","evangelisch-reformiert",2909
+2024,3,"Gemeinde",131,"Adliswil","römisch-katholisch",4177
+2024,3,"Gemeinde",135,"Kilchberg (ZH)","christkatholisch",10
+2024,3,"Gemeinde",135,"Kilchberg (ZH)","evangelisch-reformiert",1735
+2024,3,"Gemeinde",135,"Kilchberg (ZH)","römisch-katholisch",1603
+2024,3,"Gemeinde",136,"Langnau am Albis","christkatholisch",13
+2024,3,"Gemeinde",136,"Langnau am Albis","evangelisch-reformiert",1584
+2024,3,"Gemeinde",136,"Langnau am Albis","römisch-katholisch",1790
+2024,3,"Gemeinde",137,"Oberrieden","christkatholisch",8
+2024,3,"Gemeinde",137,"Oberrieden","evangelisch-reformiert",1363
+2024,3,"Gemeinde",137,"Oberrieden","römisch-katholisch",1007
+2024,3,"Gemeinde",138,"Richterswil","christkatholisch",9
+2024,3,"Gemeinde",138,"Richterswil","evangelisch-reformiert",3197
+2024,3,"Gemeinde",138,"Richterswil","römisch-katholisch",3076
+2024,3,"Gemeinde",139,"Rüschlikon","christkatholisch",8
+2024,3,"Gemeinde",139,"Rüschlikon","evangelisch-reformiert",1107
+2024,3,"Gemeinde",139,"Rüschlikon","römisch-katholisch",1100
+2024,3,"Gemeinde",141,"Thalwil","christkatholisch",17
+2024,3,"Gemeinde",141,"Thalwil","evangelisch-reformiert",3518
+2024,3,"Gemeinde",141,"Thalwil","römisch-katholisch",3796
+2024,3,"Gemeinde",151,"Erlenbach (ZH)","christkatholisch",15
+2024,3,"Gemeinde",151,"Erlenbach (ZH)","evangelisch-reformiert",1393
+2024,3,"Gemeinde",151,"Erlenbach (ZH)","römisch-katholisch",1037
+2024,3,"Gemeinde",152,"Herrliberg","christkatholisch",7
+2024,3,"Gemeinde",152,"Herrliberg","evangelisch-reformiert",1603
+2024,3,"Gemeinde",152,"Herrliberg","römisch-katholisch",1276
+2024,3,"Gemeinde",153,"Hombrechtikon","christkatholisch",14
+2024,3,"Gemeinde",153,"Hombrechtikon","evangelisch-reformiert",2257
+2024,3,"Gemeinde",153,"Hombrechtikon","römisch-katholisch",1962
+2024,3,"Gemeinde",154,"Küsnacht (ZH)","christkatholisch",26
+2024,3,"Gemeinde",154,"Küsnacht (ZH)","evangelisch-reformiert",3555
+2024,3,"Gemeinde",154,"Küsnacht (ZH)","römisch-katholisch",2770
+2024,3,"Gemeinde",155,"Männedorf","christkatholisch",22
+2024,3,"Gemeinde",155,"Männedorf","evangelisch-reformiert",2732
+2024,3,"Gemeinde",155,"Männedorf","römisch-katholisch",2154
+2024,3,"Gemeinde",156,"Meilen","christkatholisch",16
+2024,3,"Gemeinde",156,"Meilen","evangelisch-reformiert",3602
+2024,3,"Gemeinde",156,"Meilen","römisch-katholisch",2613
+2024,3,"Gemeinde",157,"Oetwil am See","christkatholisch",4
+2024,3,"Gemeinde",157,"Oetwil am See","evangelisch-reformiert",1054
+2024,3,"Gemeinde",157,"Oetwil am See","römisch-katholisch",1011
+2024,3,"Gemeinde",158,"Stäfa","christkatholisch",12
+2024,3,"Gemeinde",158,"Stäfa","evangelisch-reformiert",3970
+2024,3,"Gemeinde",158,"Stäfa","römisch-katholisch",2637
+2024,3,"Gemeinde",159,"Uetikon am See","christkatholisch",
+2024,3,"Gemeinde",159,"Uetikon am See","evangelisch-reformiert",1645
+2024,3,"Gemeinde",159,"Uetikon am See","römisch-katholisch",1181
+2024,3,"Gemeinde",160,"Zumikon","christkatholisch",8
+2024,3,"Gemeinde",160,"Zumikon","evangelisch-reformiert",1401
+2024,3,"Gemeinde",160,"Zumikon","römisch-katholisch",1041
+2024,3,"Gemeinde",161,"Zollikon","christkatholisch",30
+2024,3,"Gemeinde",161,"Zollikon","evangelisch-reformiert",3065
+2024,3,"Gemeinde",161,"Zollikon","römisch-katholisch",2388
+2024,3,"Gemeinde",172,"Fehraltorf","christkatholisch",18
+2024,3,"Gemeinde",172,"Fehraltorf","evangelisch-reformiert",1705
+2024,3,"Gemeinde",172,"Fehraltorf","römisch-katholisch",1203
+2024,3,"Gemeinde",173,"Hittnau","christkatholisch",4
+2024,3,"Gemeinde",173,"Hittnau","evangelisch-reformiert",1273
+2024,3,"Gemeinde",173,"Hittnau","römisch-katholisch",566
+2024,3,"Gemeinde",176,"Lindau","christkatholisch",5
+2024,3,"Gemeinde",176,"Lindau","evangelisch-reformiert",1427
+2024,3,"Gemeinde",176,"Lindau","römisch-katholisch",1016
+2024,3,"Gemeinde",177,"Pfäffikon","christkatholisch",
+2024,3,"Gemeinde",177,"Pfäffikon","evangelisch-reformiert",3542
+2024,3,"Gemeinde",177,"Pfäffikon","römisch-katholisch",2108
+2024,3,"Gemeinde",178,"Russikon","christkatholisch",9
+2024,3,"Gemeinde",178,"Russikon","evangelisch-reformiert",1356
+2024,3,"Gemeinde",178,"Russikon","römisch-katholisch",672
+2024,3,"Gemeinde",180,"Weisslingen","christkatholisch",0
+2024,3,"Gemeinde",180,"Weisslingen","evangelisch-reformiert",1180
+2024,3,"Gemeinde",180,"Weisslingen","römisch-katholisch",447
+2024,3,"Gemeinde",181,"Wila","christkatholisch",0
+2024,3,"Gemeinde",181,"Wila","evangelisch-reformiert",700
+2024,3,"Gemeinde",181,"Wila","römisch-katholisch",283
+2024,3,"Gemeinde",182,"Wildberg","christkatholisch",0
+2024,3,"Gemeinde",182,"Wildberg","evangelisch-reformiert",387
+2024,3,"Gemeinde",182,"Wildberg","römisch-katholisch",93
+2024,3,"Gemeinde",191,"Dübendorf","christkatholisch",87
+2024,3,"Gemeinde",191,"Dübendorf","evangelisch-reformiert",5104
+2024,3,"Gemeinde",191,"Dübendorf","römisch-katholisch",6823
+2024,3,"Gemeinde",192,"Egg","christkatholisch",7
+2024,3,"Gemeinde",192,"Egg","evangelisch-reformiert",2243
+2024,3,"Gemeinde",192,"Egg","römisch-katholisch",1819
+2024,3,"Gemeinde",193,"Fällanden","christkatholisch",17
+2024,3,"Gemeinde",193,"Fällanden","evangelisch-reformiert",1682
+2024,3,"Gemeinde",193,"Fällanden","römisch-katholisch",1775
+2024,3,"Gemeinde",194,"Greifensee","christkatholisch",4
+2024,3,"Gemeinde",194,"Greifensee","evangelisch-reformiert",1232
+2024,3,"Gemeinde",194,"Greifensee","römisch-katholisch",965
+2024,3,"Gemeinde",195,"Maur","christkatholisch",13
+2024,3,"Gemeinde",195,"Maur","evangelisch-reformiert",2675
+2024,3,"Gemeinde",195,"Maur","römisch-katholisch",1867
+2024,3,"Gemeinde",196,"Mönchaltorf","christkatholisch",15
+2024,3,"Gemeinde",196,"Mönchaltorf","evangelisch-reformiert",1103
+2024,3,"Gemeinde",196,"Mönchaltorf","römisch-katholisch",684
+2024,3,"Gemeinde",197,"Schwerzenbach","christkatholisch",6
+2024,3,"Gemeinde",197,"Schwerzenbach","evangelisch-reformiert",995
+2024,3,"Gemeinde",197,"Schwerzenbach","römisch-katholisch",1068
+2024,3,"Gemeinde",198,"Uster","christkatholisch",53
+2024,3,"Gemeinde",198,"Uster","evangelisch-reformiert",8153
+2024,3,"Gemeinde",198,"Uster","römisch-katholisch",7028
+2024,3,"Gemeinde",199,"Volketswil","christkatholisch",19
+2024,3,"Gemeinde",199,"Volketswil","evangelisch-reformiert",3778
+2024,3,"Gemeinde",199,"Volketswil","römisch-katholisch",3648
+2024,3,"Gemeinde",200,"Wangen-Brüttisellen","christkatholisch",7
+2024,3,"Gemeinde",200,"Wangen-Brüttisellen","evangelisch-reformiert",1420
+2024,3,"Gemeinde",200,"Wangen-Brüttisellen","römisch-katholisch",1612
+2024,3,"Gemeinde",211,"Altikon","christkatholisch",
+2024,3,"Gemeinde",211,"Altikon","evangelisch-reformiert",337
+2024,3,"Gemeinde",211,"Altikon","römisch-katholisch",77
+2024,3,"Gemeinde",213,"Brütten","christkatholisch",
+2024,3,"Gemeinde",213,"Brütten","evangelisch-reformiert",785
+2024,3,"Gemeinde",213,"Brütten","römisch-katholisch",290
+2024,3,"Gemeinde",214,"Dägerlen","christkatholisch",0
+2024,3,"Gemeinde",214,"Dägerlen","evangelisch-reformiert",502
+2024,3,"Gemeinde",214,"Dägerlen","römisch-katholisch",109
+2024,3,"Gemeinde",215,"Dättlikon","christkatholisch",0
+2024,3,"Gemeinde",215,"Dättlikon","evangelisch-reformiert",289
+2024,3,"Gemeinde",215,"Dättlikon","römisch-katholisch",85
+2024,3,"Gemeinde",216,"Dinhard","christkatholisch",0
+2024,3,"Gemeinde",216,"Dinhard","evangelisch-reformiert",667
+2024,3,"Gemeinde",216,"Dinhard","römisch-katholisch",232
+2024,3,"Gemeinde",218,"Ellikon an der Thur","christkatholisch",
+2024,3,"Gemeinde",218,"Ellikon an der Thur","evangelisch-reformiert",373
+2024,3,"Gemeinde",218,"Ellikon an der Thur","römisch-katholisch",156
+2024,3,"Gemeinde",219,"Elsau","christkatholisch",8
+2024,3,"Gemeinde",219,"Elsau","evangelisch-reformiert",1046
+2024,3,"Gemeinde",219,"Elsau","römisch-katholisch",650
+2024,3,"Gemeinde",220,"Hagenbuch","christkatholisch",0
+2024,3,"Gemeinde",220,"Hagenbuch","evangelisch-reformiert",378
+2024,3,"Gemeinde",220,"Hagenbuch","römisch-katholisch",171
+2024,3,"Gemeinde",221,"Hettlingen","christkatholisch",5
+2024,3,"Gemeinde",221,"Hettlingen","evangelisch-reformiert",1176
+2024,3,"Gemeinde",221,"Hettlingen","römisch-katholisch",496
+2024,3,"Gemeinde",223,"Neftenbach","christkatholisch",
+2024,3,"Gemeinde",223,"Neftenbach","evangelisch-reformiert",1871
+2024,3,"Gemeinde",223,"Neftenbach","römisch-katholisch",786
+2024,3,"Gemeinde",224,"Pfungen","christkatholisch",4
+2024,3,"Gemeinde",224,"Pfungen","evangelisch-reformiert",910
+2024,3,"Gemeinde",224,"Pfungen","römisch-katholisch",643
+2024,3,"Gemeinde",225,"Rickenbach (ZH)","christkatholisch",
+2024,3,"Gemeinde",225,"Rickenbach (ZH)","evangelisch-reformiert",886
+2024,3,"Gemeinde",225,"Rickenbach (ZH)","römisch-katholisch",432
+2024,3,"Gemeinde",226,"Schlatt (ZH)","christkatholisch",
+2024,3,"Gemeinde",226,"Schlatt (ZH)","evangelisch-reformiert",297
+2024,3,"Gemeinde",226,"Schlatt (ZH)","römisch-katholisch",71
+2024,3,"Gemeinde",227,"Seuzach","christkatholisch",
+2024,3,"Gemeinde",227,"Seuzach","evangelisch-reformiert",2438
+2024,3,"Gemeinde",227,"Seuzach","römisch-katholisch",1529
+2024,3,"Gemeinde",228,"Turbenthal","christkatholisch",
+2024,3,"Gemeinde",228,"Turbenthal","evangelisch-reformiert",1511
+2024,3,"Gemeinde",228,"Turbenthal","römisch-katholisch",732
+2024,3,"Gemeinde",230,"Winterthur","christkatholisch",167
+2024,3,"Gemeinde",230,"Winterthur","evangelisch-reformiert",25678
+2024,3,"Gemeinde",230,"Winterthur","römisch-katholisch",19722
+2024,3,"Gemeinde",231,"Zell (ZH)","christkatholisch",
+2024,3,"Gemeinde",231,"Zell (ZH)","evangelisch-reformiert",1586
+2024,3,"Gemeinde",231,"Zell (ZH)","römisch-katholisch",1065
+2024,3,"Gemeinde",241,"Aesch (ZH)","christkatholisch",7
+2024,3,"Gemeinde",241,"Aesch (ZH)","evangelisch-reformiert",438
+2024,3,"Gemeinde",241,"Aesch (ZH)","römisch-katholisch",283
+2024,3,"Gemeinde",242,"Birmensdorf (ZH)","christkatholisch",14
+2024,3,"Gemeinde",242,"Birmensdorf (ZH)","evangelisch-reformiert",1517
+2024,3,"Gemeinde",242,"Birmensdorf (ZH)","römisch-katholisch",1360
+2024,3,"Gemeinde",243,"Dietikon","christkatholisch",70
+2024,3,"Gemeinde",243,"Dietikon","evangelisch-reformiert",2872
+2024,3,"Gemeinde",243,"Dietikon","römisch-katholisch",6768
+2024,3,"Gemeinde",244,"Geroldswil","christkatholisch",8
+2024,3,"Gemeinde",244,"Geroldswil","evangelisch-reformiert",828
+2024,3,"Gemeinde",244,"Geroldswil","römisch-katholisch",1181
+2024,3,"Gemeinde",245,"Oberengstringen","christkatholisch",13
+2024,3,"Gemeinde",245,"Oberengstringen","evangelisch-reformiert",1106
+2024,3,"Gemeinde",245,"Oberengstringen","römisch-katholisch",1577
+2024,3,"Gemeinde",246,"Oetwil an der Limmat","christkatholisch",4
+2024,3,"Gemeinde",246,"Oetwil an der Limmat","evangelisch-reformiert",487
+2024,3,"Gemeinde",246,"Oetwil an der Limmat","römisch-katholisch",558
+2024,3,"Gemeinde",247,"Schlieren","christkatholisch",45
+2024,3,"Gemeinde",247,"Schlieren","evangelisch-reformiert",1978
+2024,3,"Gemeinde",247,"Schlieren","römisch-katholisch",5258
+2024,3,"Gemeinde",248,"Uitikon","christkatholisch",22
+2024,3,"Gemeinde",248,"Uitikon","evangelisch-reformiert",1227
+2024,3,"Gemeinde",248,"Uitikon","römisch-katholisch",948
+2024,3,"Gemeinde",249,"Unterengstringen","christkatholisch",8
+2024,3,"Gemeinde",249,"Unterengstringen","evangelisch-reformiert",769
+2024,3,"Gemeinde",249,"Unterengstringen","römisch-katholisch",923
+2024,3,"Gemeinde",250,"Urdorf","christkatholisch",27
+2024,3,"Gemeinde",250,"Urdorf","evangelisch-reformiert",2036
+2024,3,"Gemeinde",250,"Urdorf","römisch-katholisch",2636
+2024,3,"Gemeinde",251,"Weiningen (ZH)","christkatholisch",8
+2024,3,"Gemeinde",251,"Weiningen (ZH)","evangelisch-reformiert",896
+2024,3,"Gemeinde",251,"Weiningen (ZH)","römisch-katholisch",1052
+2024,3,"Gemeinde",261,"Zürich","christkatholisch",923
+2024,3,"Gemeinde",261,"Zürich","evangelisch-reformiert",63874
+2024,3,"Gemeinde",261,"Zürich","römisch-katholisch",83636
+2024,3,"Gemeinde",291,"Andelfingen","christkatholisch",
+2024,3,"Gemeinde",291,"Andelfingen","evangelisch-reformiert",1399
+2024,3,"Gemeinde",291,"Andelfingen","römisch-katholisch",481
+2024,3,"Gemeinde",292,"Stammheim","christkatholisch",
+2024,3,"Gemeinde",292,"Stammheim","evangelisch-reformiert",1358
+2024,3,"Gemeinde",292,"Stammheim","römisch-katholisch",361
+2024,3,"Gemeinde",293,"Wädenswil","christkatholisch",25
+2024,3,"Gemeinde",293,"Wädenswil","evangelisch-reformiert",6074
+2024,3,"Gemeinde",293,"Wädenswil","römisch-katholisch",5363
+2024,3,"Gemeinde",294,"Elgg","christkatholisch",6
+2024,3,"Gemeinde",294,"Elgg","evangelisch-reformiert",1678
+2024,3,"Gemeinde",294,"Elgg","römisch-katholisch",782
+2024,3,"Gemeinde",295,"Horgen","christkatholisch",28
+2024,3,"Gemeinde",295,"Horgen","evangelisch-reformiert",4811
+2024,3,"Gemeinde",295,"Horgen","römisch-katholisch",5041
+2024,3,"Gemeinde",296,"Illnau-Effretikon","christkatholisch",21
+2024,3,"Gemeinde",296,"Illnau-Effretikon","evangelisch-reformiert",3909
+2024,3,"Gemeinde",296,"Illnau-Effretikon","römisch-katholisch",3039
+2024,3,"Gemeinde",297,"Bauma","christkatholisch",5
+2024,3,"Gemeinde",297,"Bauma","evangelisch-reformiert",1684
+2024,3,"Gemeinde",297,"Bauma","römisch-katholisch",774
+2024,3,"Gemeinde",298,"Wiesendangen","christkatholisch",7
+2024,3,"Gemeinde",298,"Wiesendangen","evangelisch-reformiert",2285
+2024,3,"Gemeinde",298,"Wiesendangen","römisch-katholisch",1087
+2023,1,"Kanton",1,"Kanton Zürich","christkatholisch",2429
+2023,1,"Kanton",1,"Kanton Zürich","evangelisch-reformiert",330295
+2023,1,"Kanton",1,"Kanton Zürich","römisch-katholisch",313271
+2023,3,"Gemeinde",1,"Aeugst am Albis","christkatholisch",
+2023,3,"Gemeinde",1,"Aeugst am Albis","evangelisch-reformiert",559
+2023,3,"Gemeinde",1,"Aeugst am Albis","römisch-katholisch",283
+2023,3,"Gemeinde",2,"Affoltern am Albis","christkatholisch",30
+2023,3,"Gemeinde",2,"Affoltern am Albis","evangelisch-reformiert",2633
+2023,3,"Gemeinde",2,"Affoltern am Albis","römisch-katholisch",2793
+2023,3,"Gemeinde",3,"Bonstetten","christkatholisch",
+2023,3,"Gemeinde",3,"Bonstetten","evangelisch-reformiert",1285
+2023,3,"Gemeinde",3,"Bonstetten","römisch-katholisch",1025
+2023,3,"Gemeinde",4,"Hausen am Albis","christkatholisch",6
+2023,3,"Gemeinde",4,"Hausen am Albis","evangelisch-reformiert",1018
+2023,3,"Gemeinde",4,"Hausen am Albis","römisch-katholisch",849
+2023,3,"Gemeinde",5,"Hedingen","christkatholisch",11
+2023,3,"Gemeinde",5,"Hedingen","evangelisch-reformiert",1119
+2023,3,"Gemeinde",5,"Hedingen","römisch-katholisch",753
+2023,3,"Gemeinde",6,"Kappel am Albis","christkatholisch",
+2023,3,"Gemeinde",6,"Kappel am Albis","evangelisch-reformiert",339
+2023,3,"Gemeinde",6,"Kappel am Albis","römisch-katholisch",219
+2023,3,"Gemeinde",7,"Knonau","christkatholisch",5
+2023,3,"Gemeinde",7,"Knonau","evangelisch-reformiert",517
+2023,3,"Gemeinde",7,"Knonau","römisch-katholisch",582
+2023,3,"Gemeinde",8,"Maschwanden","christkatholisch",
+2023,3,"Gemeinde",8,"Maschwanden","evangelisch-reformiert",219
+2023,3,"Gemeinde",8,"Maschwanden","römisch-katholisch",126
+2023,3,"Gemeinde",9,"Mettmenstetten","christkatholisch",15
+2023,3,"Gemeinde",9,"Mettmenstetten","evangelisch-reformiert",1550
+2023,3,"Gemeinde",9,"Mettmenstetten","römisch-katholisch",1118
+2023,3,"Gemeinde",10,"Obfelden","christkatholisch",5
+2023,3,"Gemeinde",10,"Obfelden","evangelisch-reformiert",1271
+2023,3,"Gemeinde",10,"Obfelden","römisch-katholisch",1251
+2023,3,"Gemeinde",11,"Ottenbach","christkatholisch",8
+2023,3,"Gemeinde",11,"Ottenbach","evangelisch-reformiert",744
+2023,3,"Gemeinde",11,"Ottenbach","römisch-katholisch",568
+2023,3,"Gemeinde",12,"Rifferswil","christkatholisch",
+2023,3,"Gemeinde",12,"Rifferswil","evangelisch-reformiert",375
+2023,3,"Gemeinde",12,"Rifferswil","römisch-katholisch",164
+2023,3,"Gemeinde",13,"Stallikon","christkatholisch",14
+2023,3,"Gemeinde",13,"Stallikon","evangelisch-reformiert",847
+2023,3,"Gemeinde",13,"Stallikon","römisch-katholisch",633
+2023,3,"Gemeinde",14,"Wettswil am Albis","christkatholisch",9
+2023,3,"Gemeinde",14,"Wettswil am Albis","evangelisch-reformiert",1235
+2023,3,"Gemeinde",14,"Wettswil am Albis","römisch-katholisch",949
+2023,3,"Gemeinde",22,"Benken (ZH)","christkatholisch",
+2023,3,"Gemeinde",22,"Benken (ZH)","evangelisch-reformiert",311
+2023,3,"Gemeinde",22,"Benken (ZH)","römisch-katholisch",106
+2023,3,"Gemeinde",23,"Berg am Irchel","christkatholisch",0
+2023,3,"Gemeinde",23,"Berg am Irchel","evangelisch-reformiert",295
+2023,3,"Gemeinde",23,"Berg am Irchel","römisch-katholisch",48
+2023,3,"Gemeinde",24,"Buch am Irchel","christkatholisch",0
+2023,3,"Gemeinde",24,"Buch am Irchel","evangelisch-reformiert",433
+2023,3,"Gemeinde",24,"Buch am Irchel","römisch-katholisch",89
+2023,3,"Gemeinde",25,"Dachsen","christkatholisch",0
+2023,3,"Gemeinde",25,"Dachsen","evangelisch-reformiert",699
+2023,3,"Gemeinde",25,"Dachsen","römisch-katholisch",322
+2023,3,"Gemeinde",26,"Dorf","christkatholisch",
+2023,3,"Gemeinde",26,"Dorf","evangelisch-reformiert",264
+2023,3,"Gemeinde",26,"Dorf","römisch-katholisch",87
+2023,3,"Gemeinde",27,"Feuerthalen","christkatholisch",5
+2023,3,"Gemeinde",27,"Feuerthalen","evangelisch-reformiert",981
+2023,3,"Gemeinde",27,"Feuerthalen","römisch-katholisch",723
+2023,3,"Gemeinde",28,"Flaach","christkatholisch",0
+2023,3,"Gemeinde",28,"Flaach","evangelisch-reformiert",563
+2023,3,"Gemeinde",28,"Flaach","römisch-katholisch",202
+2023,3,"Gemeinde",29,"Flurlingen","christkatholisch",
+2023,3,"Gemeinde",29,"Flurlingen","evangelisch-reformiert",492
+2023,3,"Gemeinde",29,"Flurlingen","römisch-katholisch",230
+2023,3,"Gemeinde",31,"Henggart","christkatholisch",
+2023,3,"Gemeinde",31,"Henggart","evangelisch-reformiert",906
+2023,3,"Gemeinde",31,"Henggart","römisch-katholisch",339
+2023,3,"Gemeinde",33,"Kleinandelfingen","christkatholisch",0
+2023,3,"Gemeinde",33,"Kleinandelfingen","evangelisch-reformiert",856
+2023,3,"Gemeinde",33,"Kleinandelfingen","römisch-katholisch",328
+2023,3,"Gemeinde",34,"Laufen-Uhwiesen","christkatholisch",
+2023,3,"Gemeinde",34,"Laufen-Uhwiesen","evangelisch-reformiert",671
+2023,3,"Gemeinde",34,"Laufen-Uhwiesen","römisch-katholisch",277
+2023,3,"Gemeinde",35,"Marthalen","christkatholisch",7
+2023,3,"Gemeinde",35,"Marthalen","evangelisch-reformiert",868
+2023,3,"Gemeinde",35,"Marthalen","römisch-katholisch",210
+2023,3,"Gemeinde",37,"Ossingen","christkatholisch",
+2023,3,"Gemeinde",37,"Ossingen","evangelisch-reformiert",695
+2023,3,"Gemeinde",37,"Ossingen","römisch-katholisch",224
+2023,3,"Gemeinde",38,"Rheinau","christkatholisch",
+2023,3,"Gemeinde",38,"Rheinau","evangelisch-reformiert",344
+2023,3,"Gemeinde",38,"Rheinau","römisch-katholisch",338
+2023,3,"Gemeinde",39,"Thalheim an der Thur","christkatholisch",0
+2023,3,"Gemeinde",39,"Thalheim an der Thur","evangelisch-reformiert",339
+2023,3,"Gemeinde",39,"Thalheim an der Thur","römisch-katholisch",93
+2023,3,"Gemeinde",40,"Trüllikon","christkatholisch",0
+2023,3,"Gemeinde",40,"Trüllikon","evangelisch-reformiert",476
+2023,3,"Gemeinde",40,"Trüllikon","römisch-katholisch",135
+2023,3,"Gemeinde",41,"Truttikon","christkatholisch",0
+2023,3,"Gemeinde",41,"Truttikon","evangelisch-reformiert",211
+2023,3,"Gemeinde",41,"Truttikon","römisch-katholisch",48
+2023,3,"Gemeinde",43,"Volken","christkatholisch",0
+2023,3,"Gemeinde",43,"Volken","evangelisch-reformiert",142
+2023,3,"Gemeinde",43,"Volken","römisch-katholisch",36
+2023,3,"Gemeinde",51,"Bachenbülach","christkatholisch",6
+2023,3,"Gemeinde",51,"Bachenbülach","evangelisch-reformiert",946
+2023,3,"Gemeinde",51,"Bachenbülach","römisch-katholisch",820
+2023,3,"Gemeinde",52,"Bassersdorf","christkatholisch",8
+2023,3,"Gemeinde",52,"Bassersdorf","evangelisch-reformiert",2409
+2023,3,"Gemeinde",52,"Bassersdorf","römisch-katholisch",2390
+2023,3,"Gemeinde",53,"Bülach","christkatholisch",54
+2023,3,"Gemeinde",53,"Bülach","evangelisch-reformiert",4744
+2023,3,"Gemeinde",53,"Bülach","römisch-katholisch",4779
+2023,3,"Gemeinde",54,"Dietlikon","christkatholisch",10
+2023,3,"Gemeinde",54,"Dietlikon","evangelisch-reformiert",1672
+2023,3,"Gemeinde",54,"Dietlikon","römisch-katholisch",1693
+2023,3,"Gemeinde",55,"Eglisau","christkatholisch",9
+2023,3,"Gemeinde",55,"Eglisau","evangelisch-reformiert",1374
+2023,3,"Gemeinde",55,"Eglisau","römisch-katholisch",896
+2023,3,"Gemeinde",56,"Embrach","christkatholisch",17
+2023,3,"Gemeinde",56,"Embrach","evangelisch-reformiert",2241
+2023,3,"Gemeinde",56,"Embrach","römisch-katholisch",1950
+2023,3,"Gemeinde",57,"Freienstein-Teufen","christkatholisch",6
+2023,3,"Gemeinde",57,"Freienstein-Teufen","evangelisch-reformiert",800
+2023,3,"Gemeinde",57,"Freienstein-Teufen","römisch-katholisch",379
+2023,3,"Gemeinde",58,"Glattfelden","christkatholisch",4
+2023,3,"Gemeinde",58,"Glattfelden","evangelisch-reformiert",1307
+2023,3,"Gemeinde",58,"Glattfelden","römisch-katholisch",924
+2023,3,"Gemeinde",59,"Hochfelden","christkatholisch",
+2023,3,"Gemeinde",59,"Hochfelden","evangelisch-reformiert",595
+2023,3,"Gemeinde",59,"Hochfelden","römisch-katholisch",405
+2023,3,"Gemeinde",60,"Höri","christkatholisch",10
+2023,3,"Gemeinde",60,"Höri","evangelisch-reformiert",561
+2023,3,"Gemeinde",60,"Höri","römisch-katholisch",742
+2023,3,"Gemeinde",61,"Hüntwangen","christkatholisch",0
+2023,3,"Gemeinde",61,"Hüntwangen","evangelisch-reformiert",325
+2023,3,"Gemeinde",61,"Hüntwangen","römisch-katholisch",145
+2023,3,"Gemeinde",62,"Kloten","christkatholisch",87
+2023,3,"Gemeinde",62,"Kloten","evangelisch-reformiert",3657
+2023,3,"Gemeinde",62,"Kloten","römisch-katholisch",4910
+2023,3,"Gemeinde",63,"Lufingen","christkatholisch",0
+2023,3,"Gemeinde",63,"Lufingen","evangelisch-reformiert",567
+2023,3,"Gemeinde",63,"Lufingen","römisch-katholisch",528
+2023,3,"Gemeinde",64,"Nürensdorf","christkatholisch",7
+2023,3,"Gemeinde",64,"Nürensdorf","evangelisch-reformiert",1539
+2023,3,"Gemeinde",64,"Nürensdorf","römisch-katholisch",1089
+2023,3,"Gemeinde",65,"Oberembrach","christkatholisch",0
+2023,3,"Gemeinde",65,"Oberembrach","evangelisch-reformiert",411
+2023,3,"Gemeinde",65,"Oberembrach","römisch-katholisch",150
+2023,3,"Gemeinde",66,"Opfikon","christkatholisch",100
+2023,3,"Gemeinde",66,"Opfikon","evangelisch-reformiert",2174
+2023,3,"Gemeinde",66,"Opfikon","römisch-katholisch",4274
+2023,3,"Gemeinde",67,"Rafz","christkatholisch",8
+2023,3,"Gemeinde",67,"Rafz","evangelisch-reformiert",1370
+2023,3,"Gemeinde",67,"Rafz","römisch-katholisch",827
+2023,3,"Gemeinde",68,"Rorbas","christkatholisch",
+2023,3,"Gemeinde",68,"Rorbas","evangelisch-reformiert",697
+2023,3,"Gemeinde",68,"Rorbas","römisch-katholisch",536
+2023,3,"Gemeinde",69,"Wallisellen","christkatholisch",17
+2023,3,"Gemeinde",69,"Wallisellen","evangelisch-reformiert",2959
+2023,3,"Gemeinde",69,"Wallisellen","römisch-katholisch",3640
+2023,3,"Gemeinde",70,"Wasterkingen","christkatholisch",0
+2023,3,"Gemeinde",70,"Wasterkingen","evangelisch-reformiert",221
+2023,3,"Gemeinde",70,"Wasterkingen","römisch-katholisch",73
+2023,3,"Gemeinde",71,"Wil (ZH)","christkatholisch",
+2023,3,"Gemeinde",71,"Wil (ZH)","evangelisch-reformiert",539
+2023,3,"Gemeinde",71,"Wil (ZH)","römisch-katholisch",182
+2023,3,"Gemeinde",72,"Winkel","christkatholisch",9
+2023,3,"Gemeinde",72,"Winkel","evangelisch-reformiert",1137
+2023,3,"Gemeinde",72,"Winkel","römisch-katholisch",839
+2023,3,"Gemeinde",81,"Bachs","christkatholisch",0
+2023,3,"Gemeinde",81,"Bachs","evangelisch-reformiert",246
+2023,3,"Gemeinde",81,"Bachs","römisch-katholisch",86
+2023,3,"Gemeinde",82,"Boppelsen","christkatholisch",4
+2023,3,"Gemeinde",82,"Boppelsen","evangelisch-reformiert",432
+2023,3,"Gemeinde",82,"Boppelsen","römisch-katholisch",233
+2023,3,"Gemeinde",83,"Buchs (ZH)","christkatholisch",35
+2023,3,"Gemeinde",83,"Buchs (ZH)","evangelisch-reformiert",1339
+2023,3,"Gemeinde",83,"Buchs (ZH)","römisch-katholisch",1392
+2023,3,"Gemeinde",84,"Dällikon","christkatholisch",9
+2023,3,"Gemeinde",84,"Dällikon","evangelisch-reformiert",760
+2023,3,"Gemeinde",84,"Dällikon","römisch-katholisch",1060
+2023,3,"Gemeinde",85,"Dänikon","christkatholisch",
+2023,3,"Gemeinde",85,"Dänikon","evangelisch-reformiert",370
+2023,3,"Gemeinde",85,"Dänikon","römisch-katholisch",387
+2023,3,"Gemeinde",86,"Dielsdorf","christkatholisch",10
+2023,3,"Gemeinde",86,"Dielsdorf","evangelisch-reformiert",1229
+2023,3,"Gemeinde",86,"Dielsdorf","römisch-katholisch",1410
+2023,3,"Gemeinde",87,"Hüttikon","christkatholisch",0
+2023,3,"Gemeinde",87,"Hüttikon","evangelisch-reformiert",206
+2023,3,"Gemeinde",87,"Hüttikon","römisch-katholisch",215
+2023,3,"Gemeinde",88,"Neerach","christkatholisch",4
+2023,3,"Gemeinde",88,"Neerach","evangelisch-reformiert",865
+2023,3,"Gemeinde",88,"Neerach","römisch-katholisch",489
+2023,3,"Gemeinde",89,"Niederglatt","christkatholisch",12
+2023,3,"Gemeinde",89,"Niederglatt","evangelisch-reformiert",1177
+2023,3,"Gemeinde",89,"Niederglatt","römisch-katholisch",1122
+2023,3,"Gemeinde",90,"Niederhasli","christkatholisch",13
+2023,3,"Gemeinde",90,"Niederhasli","evangelisch-reformiert",1920
+2023,3,"Gemeinde",90,"Niederhasli","römisch-katholisch",1883
+2023,3,"Gemeinde",91,"Niederweningen","christkatholisch",
+2023,3,"Gemeinde",91,"Niederweningen","evangelisch-reformiert",826
+2023,3,"Gemeinde",91,"Niederweningen","römisch-katholisch",559
+2023,3,"Gemeinde",92,"Oberglatt","christkatholisch",6
+2023,3,"Gemeinde",92,"Oberglatt","evangelisch-reformiert",991
+2023,3,"Gemeinde",92,"Oberglatt","römisch-katholisch",1483
+2023,3,"Gemeinde",93,"Oberweningen","christkatholisch",
+2023,3,"Gemeinde",93,"Oberweningen","evangelisch-reformiert",495
+2023,3,"Gemeinde",93,"Oberweningen","römisch-katholisch",324
+2023,3,"Gemeinde",94,"Otelfingen","christkatholisch",19
+2023,3,"Gemeinde",94,"Otelfingen","evangelisch-reformiert",770
+2023,3,"Gemeinde",94,"Otelfingen","römisch-katholisch",834
+2023,3,"Gemeinde",95,"Regensberg","christkatholisch",
+2023,3,"Gemeinde",95,"Regensberg","evangelisch-reformiert",170
+2023,3,"Gemeinde",95,"Regensberg","römisch-katholisch",43
+2023,3,"Gemeinde",96,"Regensdorf","christkatholisch",26
+2023,3,"Gemeinde",96,"Regensdorf","evangelisch-reformiert",3138
+2023,3,"Gemeinde",96,"Regensdorf","römisch-katholisch",4111
+2023,3,"Gemeinde",97,"Rümlang","christkatholisch",11
+2023,3,"Gemeinde",97,"Rümlang","evangelisch-reformiert",1424
+2023,3,"Gemeinde",97,"Rümlang","römisch-katholisch",1748
+2023,3,"Gemeinde",98,"Schleinikon","christkatholisch",
+2023,3,"Gemeinde",98,"Schleinikon","evangelisch-reformiert",302
+2023,3,"Gemeinde",98,"Schleinikon","römisch-katholisch",140
+2023,3,"Gemeinde",99,"Schöfflisdorf","christkatholisch",8
+2023,3,"Gemeinde",99,"Schöfflisdorf","evangelisch-reformiert",410
+2023,3,"Gemeinde",99,"Schöfflisdorf","römisch-katholisch",239
+2023,3,"Gemeinde",100,"Stadel","christkatholisch",6
+2023,3,"Gemeinde",100,"Stadel","evangelisch-reformiert",789
+2023,3,"Gemeinde",100,"Stadel","römisch-katholisch",308
+2023,3,"Gemeinde",101,"Steinmaur","christkatholisch",6
+2023,3,"Gemeinde",101,"Steinmaur","evangelisch-reformiert",947
+2023,3,"Gemeinde",101,"Steinmaur","römisch-katholisch",758
+2023,3,"Gemeinde",102,"Weiach","christkatholisch",12
+2023,3,"Gemeinde",102,"Weiach","evangelisch-reformiert",477
+2023,3,"Gemeinde",102,"Weiach","römisch-katholisch",259
+2023,3,"Gemeinde",111,"Bäretswil","christkatholisch",0
+2023,3,"Gemeinde",111,"Bäretswil","evangelisch-reformiert",1730
+2023,3,"Gemeinde",111,"Bäretswil","römisch-katholisch",722
+2023,3,"Gemeinde",112,"Bubikon","christkatholisch",8
+2023,3,"Gemeinde",112,"Bubikon","evangelisch-reformiert",2270
+2023,3,"Gemeinde",112,"Bubikon","römisch-katholisch",1392
+2023,3,"Gemeinde",113,"Dürnten","christkatholisch",8
+2023,3,"Gemeinde",113,"Dürnten","evangelisch-reformiert",1991
+2023,3,"Gemeinde",113,"Dürnten","römisch-katholisch",1522
+2023,3,"Gemeinde",114,"Fischenthal","christkatholisch",0
+2023,3,"Gemeinde",114,"Fischenthal","evangelisch-reformiert",900
+2023,3,"Gemeinde",114,"Fischenthal","römisch-katholisch",393
+2023,3,"Gemeinde",115,"Gossau (ZH)","christkatholisch",5
+2023,3,"Gemeinde",115,"Gossau (ZH)","evangelisch-reformiert",3152
+2023,3,"Gemeinde",115,"Gossau (ZH)","römisch-katholisch",1939
+2023,3,"Gemeinde",116,"Grüningen","christkatholisch",
+2023,3,"Gemeinde",116,"Grüningen","evangelisch-reformiert",1219
+2023,3,"Gemeinde",116,"Grüningen","römisch-katholisch",646
+2023,3,"Gemeinde",117,"Hinwil","christkatholisch",5
+2023,3,"Gemeinde",117,"Hinwil","evangelisch-reformiert",3257
+2023,3,"Gemeinde",117,"Hinwil","römisch-katholisch",2181
+2023,3,"Gemeinde",118,"Rüti (ZH)","christkatholisch",11
+2023,3,"Gemeinde",118,"Rüti (ZH)","evangelisch-reformiert",2574
+2023,3,"Gemeinde",118,"Rüti (ZH)","römisch-katholisch",2942
+2023,3,"Gemeinde",119,"Seegräben","christkatholisch",8
+2023,3,"Gemeinde",119,"Seegräben","evangelisch-reformiert",427
+2023,3,"Gemeinde",119,"Seegräben","römisch-katholisch",225
+2023,3,"Gemeinde",120,"Wald (ZH)","christkatholisch",8
+2023,3,"Gemeinde",120,"Wald (ZH)","evangelisch-reformiert",2461
+2023,3,"Gemeinde",120,"Wald (ZH)","römisch-katholisch",2422
+2023,3,"Gemeinde",121,"Wetzikon (ZH)","christkatholisch",18
+2023,3,"Gemeinde",121,"Wetzikon (ZH)","evangelisch-reformiert",5156
+2023,3,"Gemeinde",121,"Wetzikon (ZH)","römisch-katholisch",5488
+2023,3,"Gemeinde",131,"Adliswil","christkatholisch",45
+2023,3,"Gemeinde",131,"Adliswil","evangelisch-reformiert",3028
+2023,3,"Gemeinde",131,"Adliswil","römisch-katholisch",4287
+2023,3,"Gemeinde",135,"Kilchberg (ZH)","christkatholisch",8
+2023,3,"Gemeinde",135,"Kilchberg (ZH)","evangelisch-reformiert",1789
+2023,3,"Gemeinde",135,"Kilchberg (ZH)","römisch-katholisch",1633
+2023,3,"Gemeinde",136,"Langnau am Albis","christkatholisch",11
+2023,3,"Gemeinde",136,"Langnau am Albis","evangelisch-reformiert",1622
+2023,3,"Gemeinde",136,"Langnau am Albis","römisch-katholisch",1848
+2023,3,"Gemeinde",137,"Oberrieden","christkatholisch",11
+2023,3,"Gemeinde",137,"Oberrieden","evangelisch-reformiert",1409
+2023,3,"Gemeinde",137,"Oberrieden","römisch-katholisch",1028
+2023,3,"Gemeinde",138,"Richterswil","christkatholisch",7
+2023,3,"Gemeinde",138,"Richterswil","evangelisch-reformiert",3259
+2023,3,"Gemeinde",138,"Richterswil","römisch-katholisch",3128
+2023,3,"Gemeinde",139,"Rüschlikon","christkatholisch",9
+2023,3,"Gemeinde",139,"Rüschlikon","evangelisch-reformiert",1128
+2023,3,"Gemeinde",139,"Rüschlikon","römisch-katholisch",1127
+2023,3,"Gemeinde",141,"Thalwil","christkatholisch",12
+2023,3,"Gemeinde",141,"Thalwil","evangelisch-reformiert",3627
+2023,3,"Gemeinde",141,"Thalwil","römisch-katholisch",3953
+2023,3,"Gemeinde",151,"Erlenbach (ZH)","christkatholisch",14
+2023,3,"Gemeinde",151,"Erlenbach (ZH)","evangelisch-reformiert",1433
+2023,3,"Gemeinde",151,"Erlenbach (ZH)","römisch-katholisch",1061
+2023,3,"Gemeinde",152,"Herrliberg","christkatholisch",6
+2023,3,"Gemeinde",152,"Herrliberg","evangelisch-reformiert",1670
+2023,3,"Gemeinde",152,"Herrliberg","römisch-katholisch",1285
+2023,3,"Gemeinde",153,"Hombrechtikon","christkatholisch",15
+2023,3,"Gemeinde",153,"Hombrechtikon","evangelisch-reformiert",2312
+2023,3,"Gemeinde",153,"Hombrechtikon","römisch-katholisch",1982
+2023,3,"Gemeinde",154,"Küsnacht (ZH)","christkatholisch",23
+2023,3,"Gemeinde",154,"Küsnacht (ZH)","evangelisch-reformiert",3648
+2023,3,"Gemeinde",154,"Küsnacht (ZH)","römisch-katholisch",2837
+2023,3,"Gemeinde",155,"Männedorf","christkatholisch",19
+2023,3,"Gemeinde",155,"Männedorf","evangelisch-reformiert",2794
+2023,3,"Gemeinde",155,"Männedorf","römisch-katholisch",2194
+2023,3,"Gemeinde",156,"Meilen","christkatholisch",16
+2023,3,"Gemeinde",156,"Meilen","evangelisch-reformiert",3689
+2023,3,"Gemeinde",156,"Meilen","römisch-katholisch",2690
+2023,3,"Gemeinde",157,"Oetwil am See","christkatholisch",4
+2023,3,"Gemeinde",157,"Oetwil am See","evangelisch-reformiert",1086
+2023,3,"Gemeinde",157,"Oetwil am See","römisch-katholisch",1047
+2023,3,"Gemeinde",158,"Stäfa","christkatholisch",10
+2023,3,"Gemeinde",158,"Stäfa","evangelisch-reformiert",4040
+2023,3,"Gemeinde",158,"Stäfa","römisch-katholisch",2682
+2023,3,"Gemeinde",159,"Uetikon am See","christkatholisch",
+2023,3,"Gemeinde",159,"Uetikon am See","evangelisch-reformiert",1657
+2023,3,"Gemeinde",159,"Uetikon am See","römisch-katholisch",1182
+2023,3,"Gemeinde",160,"Zumikon","christkatholisch",7
+2023,3,"Gemeinde",160,"Zumikon","evangelisch-reformiert",1425
+2023,3,"Gemeinde",160,"Zumikon","römisch-katholisch",1064
+2023,3,"Gemeinde",161,"Zollikon","christkatholisch",21
+2023,3,"Gemeinde",161,"Zollikon","evangelisch-reformiert",3136
+2023,3,"Gemeinde",161,"Zollikon","römisch-katholisch",2457
+2023,3,"Gemeinde",172,"Fehraltorf","christkatholisch",15
+2023,3,"Gemeinde",172,"Fehraltorf","evangelisch-reformiert",1785
+2023,3,"Gemeinde",172,"Fehraltorf","römisch-katholisch",1208
+2023,3,"Gemeinde",173,"Hittnau","christkatholisch",
+2023,3,"Gemeinde",173,"Hittnau","evangelisch-reformiert",1313
+2023,3,"Gemeinde",173,"Hittnau","römisch-katholisch",560
+2023,3,"Gemeinde",176,"Lindau","christkatholisch",5
+2023,3,"Gemeinde",176,"Lindau","evangelisch-reformiert",1480
+2023,3,"Gemeinde",176,"Lindau","römisch-katholisch",1042
+2023,3,"Gemeinde",177,"Pfäffikon","christkatholisch",
+2023,3,"Gemeinde",177,"Pfäffikon","evangelisch-reformiert",3589
+2023,3,"Gemeinde",177,"Pfäffikon","römisch-katholisch",2119
+2023,3,"Gemeinde",178,"Russikon","christkatholisch",9
+2023,3,"Gemeinde",178,"Russikon","evangelisch-reformiert",1420
+2023,3,"Gemeinde",178,"Russikon","römisch-katholisch",698
+2023,3,"Gemeinde",180,"Weisslingen","christkatholisch",0
+2023,3,"Gemeinde",180,"Weisslingen","evangelisch-reformiert",1204
+2023,3,"Gemeinde",180,"Weisslingen","römisch-katholisch",466
+2023,3,"Gemeinde",181,"Wila","christkatholisch",0
+2023,3,"Gemeinde",181,"Wila","evangelisch-reformiert",717
+2023,3,"Gemeinde",181,"Wila","römisch-katholisch",280
+2023,3,"Gemeinde",182,"Wildberg","christkatholisch",0
+2023,3,"Gemeinde",182,"Wildberg","evangelisch-reformiert",394
+2023,3,"Gemeinde",182,"Wildberg","römisch-katholisch",100
+2023,3,"Gemeinde",191,"Dübendorf","christkatholisch",68
+2023,3,"Gemeinde",191,"Dübendorf","evangelisch-reformiert",5234
+2023,3,"Gemeinde",191,"Dübendorf","römisch-katholisch",6855
+2023,3,"Gemeinde",192,"Egg","christkatholisch",8
+2023,3,"Gemeinde",192,"Egg","evangelisch-reformiert",2297
+2023,3,"Gemeinde",192,"Egg","römisch-katholisch",1886
+2023,3,"Gemeinde",193,"Fällanden","christkatholisch",16
+2023,3,"Gemeinde",193,"Fällanden","evangelisch-reformiert",1741
+2023,3,"Gemeinde",193,"Fällanden","römisch-katholisch",1788
+2023,3,"Gemeinde",194,"Greifensee","christkatholisch",4
+2023,3,"Gemeinde",194,"Greifensee","evangelisch-reformiert",1283
+2023,3,"Gemeinde",194,"Greifensee","römisch-katholisch",981
+2023,3,"Gemeinde",195,"Maur","christkatholisch",8
+2023,3,"Gemeinde",195,"Maur","evangelisch-reformiert",2769
+2023,3,"Gemeinde",195,"Maur","römisch-katholisch",1989
+2023,3,"Gemeinde",196,"Mönchaltorf","christkatholisch",14
+2023,3,"Gemeinde",196,"Mönchaltorf","evangelisch-reformiert",1126
+2023,3,"Gemeinde",196,"Mönchaltorf","römisch-katholisch",677
+2023,3,"Gemeinde",197,"Schwerzenbach","christkatholisch",4
+2023,3,"Gemeinde",197,"Schwerzenbach","evangelisch-reformiert",1023
+2023,3,"Gemeinde",197,"Schwerzenbach","römisch-katholisch",1049
+2023,3,"Gemeinde",198,"Uster","christkatholisch",60
+2023,3,"Gemeinde",198,"Uster","evangelisch-reformiert",8422
+2023,3,"Gemeinde",198,"Uster","römisch-katholisch",7169
+2023,3,"Gemeinde",199,"Volketswil","christkatholisch",20
+2023,3,"Gemeinde",199,"Volketswil","evangelisch-reformiert",3893
+2023,3,"Gemeinde",199,"Volketswil","römisch-katholisch",3739
+2023,3,"Gemeinde",200,"Wangen-Brüttisellen","christkatholisch",10
+2023,3,"Gemeinde",200,"Wangen-Brüttisellen","evangelisch-reformiert",1473
+2023,3,"Gemeinde",200,"Wangen-Brüttisellen","römisch-katholisch",1631
+2023,3,"Gemeinde",211,"Altikon","christkatholisch",
+2023,3,"Gemeinde",211,"Altikon","evangelisch-reformiert",337
+2023,3,"Gemeinde",211,"Altikon","römisch-katholisch",77
+2023,3,"Gemeinde",213,"Brütten","christkatholisch",
+2023,3,"Gemeinde",213,"Brütten","evangelisch-reformiert",786
+2023,3,"Gemeinde",213,"Brütten","römisch-katholisch",292
+2023,3,"Gemeinde",214,"Dägerlen","christkatholisch",0
+2023,3,"Gemeinde",214,"Dägerlen","evangelisch-reformiert",507
+2023,3,"Gemeinde",214,"Dägerlen","römisch-katholisch",119
+2023,3,"Gemeinde",215,"Dättlikon","christkatholisch",0
+2023,3,"Gemeinde",215,"Dättlikon","evangelisch-reformiert",296
+2023,3,"Gemeinde",215,"Dättlikon","römisch-katholisch",88
+2023,3,"Gemeinde",216,"Dinhard","christkatholisch",
+2023,3,"Gemeinde",216,"Dinhard","evangelisch-reformiert",682
+2023,3,"Gemeinde",216,"Dinhard","römisch-katholisch",229
+2023,3,"Gemeinde",218,"Ellikon an der Thur","christkatholisch",
+2023,3,"Gemeinde",218,"Ellikon an der Thur","evangelisch-reformiert",389
+2023,3,"Gemeinde",218,"Ellikon an der Thur","römisch-katholisch",142
+2023,3,"Gemeinde",219,"Elsau","christkatholisch",5
+2023,3,"Gemeinde",219,"Elsau","evangelisch-reformiert",1055
+2023,3,"Gemeinde",219,"Elsau","römisch-katholisch",671
+2023,3,"Gemeinde",220,"Hagenbuch","christkatholisch",0
+2023,3,"Gemeinde",220,"Hagenbuch","evangelisch-reformiert",393
+2023,3,"Gemeinde",220,"Hagenbuch","römisch-katholisch",173
+2023,3,"Gemeinde",221,"Hettlingen","christkatholisch",
+2023,3,"Gemeinde",221,"Hettlingen","evangelisch-reformiert",1233
+2023,3,"Gemeinde",221,"Hettlingen","römisch-katholisch",502
+2023,3,"Gemeinde",223,"Neftenbach","christkatholisch",
+2023,3,"Gemeinde",223,"Neftenbach","evangelisch-reformiert",1918
+2023,3,"Gemeinde",223,"Neftenbach","römisch-katholisch",819
+2023,3,"Gemeinde",224,"Pfungen","christkatholisch",
+2023,3,"Gemeinde",224,"Pfungen","evangelisch-reformiert",945
+2023,3,"Gemeinde",224,"Pfungen","römisch-katholisch",644
+2023,3,"Gemeinde",225,"Rickenbach (ZH)","christkatholisch",
+2023,3,"Gemeinde",225,"Rickenbach (ZH)","evangelisch-reformiert",923
+2023,3,"Gemeinde",225,"Rickenbach (ZH)","römisch-katholisch",433
+2023,3,"Gemeinde",226,"Schlatt (ZH)","christkatholisch",
+2023,3,"Gemeinde",226,"Schlatt (ZH)","evangelisch-reformiert",304
+2023,3,"Gemeinde",226,"Schlatt (ZH)","römisch-katholisch",67
+2023,3,"Gemeinde",227,"Seuzach","christkatholisch",6
+2023,3,"Gemeinde",227,"Seuzach","evangelisch-reformiert",2508
+2023,3,"Gemeinde",227,"Seuzach","römisch-katholisch",1544
+2023,3,"Gemeinde",228,"Turbenthal","christkatholisch",
+2023,3,"Gemeinde",228,"Turbenthal","evangelisch-reformiert",1503
+2023,3,"Gemeinde",228,"Turbenthal","römisch-katholisch",742
+2023,3,"Gemeinde",230,"Winterthur","christkatholisch",146
+2023,3,"Gemeinde",230,"Winterthur","evangelisch-reformiert",26356
+2023,3,"Gemeinde",230,"Winterthur","römisch-katholisch",20272
+2023,3,"Gemeinde",231,"Zell (ZH)","christkatholisch",
+2023,3,"Gemeinde",231,"Zell (ZH)","evangelisch-reformiert",1614
+2023,3,"Gemeinde",231,"Zell (ZH)","römisch-katholisch",1058
+2023,3,"Gemeinde",241,"Aesch (ZH)","christkatholisch",9
+2023,3,"Gemeinde",241,"Aesch (ZH)","evangelisch-reformiert",439
+2023,3,"Gemeinde",241,"Aesch (ZH)","römisch-katholisch",295
+2023,3,"Gemeinde",242,"Birmensdorf (ZH)","christkatholisch",13
+2023,3,"Gemeinde",242,"Birmensdorf (ZH)","evangelisch-reformiert",1563
+2023,3,"Gemeinde",242,"Birmensdorf (ZH)","römisch-katholisch",1390
+2023,3,"Gemeinde",243,"Dietikon","christkatholisch",44
+2023,3,"Gemeinde",243,"Dietikon","evangelisch-reformiert",2992
+2023,3,"Gemeinde",243,"Dietikon","römisch-katholisch",6897
+2023,3,"Gemeinde",244,"Geroldswil","christkatholisch",9
+2023,3,"Gemeinde",244,"Geroldswil","evangelisch-reformiert",865
+2023,3,"Gemeinde",244,"Geroldswil","römisch-katholisch",1219
+2023,3,"Gemeinde",245,"Oberengstringen","christkatholisch",17
+2023,3,"Gemeinde",245,"Oberengstringen","evangelisch-reformiert",1138
+2023,3,"Gemeinde",245,"Oberengstringen","römisch-katholisch",1625
+2023,3,"Gemeinde",246,"Oetwil an der Limmat","christkatholisch",
+2023,3,"Gemeinde",246,"Oetwil an der Limmat","evangelisch-reformiert",518
+2023,3,"Gemeinde",246,"Oetwil an der Limmat","römisch-katholisch",584
+2023,3,"Gemeinde",247,"Schlieren","christkatholisch",46
+2023,3,"Gemeinde",247,"Schlieren","evangelisch-reformiert",2095
+2023,3,"Gemeinde",247,"Schlieren","römisch-katholisch",5505
+2023,3,"Gemeinde",248,"Uitikon","christkatholisch",13
+2023,3,"Gemeinde",248,"Uitikon","evangelisch-reformiert",1268
+2023,3,"Gemeinde",248,"Uitikon","römisch-katholisch",942
+2023,3,"Gemeinde",249,"Unterengstringen","christkatholisch",7
+2023,3,"Gemeinde",249,"Unterengstringen","evangelisch-reformiert",788
+2023,3,"Gemeinde",249,"Unterengstringen","römisch-katholisch",945
+2023,3,"Gemeinde",250,"Urdorf","christkatholisch",29
+2023,3,"Gemeinde",250,"Urdorf","evangelisch-reformiert",2063
+2023,3,"Gemeinde",250,"Urdorf","römisch-katholisch",2696
+2023,3,"Gemeinde",251,"Weiningen (ZH)","christkatholisch",7
+2023,3,"Gemeinde",251,"Weiningen (ZH)","evangelisch-reformiert",920
+2023,3,"Gemeinde",251,"Weiningen (ZH)","römisch-katholisch",1087
+2023,3,"Gemeinde",261,"Zürich","christkatholisch",732
+2023,3,"Gemeinde",261,"Zürich","evangelisch-reformiert",66184
+2023,3,"Gemeinde",261,"Zürich","römisch-katholisch",86819
+2023,3,"Gemeinde",291,"Andelfingen","christkatholisch",4
+2023,3,"Gemeinde",291,"Andelfingen","evangelisch-reformiert",1405
+2023,3,"Gemeinde",291,"Andelfingen","römisch-katholisch",463
+2023,3,"Gemeinde",292,"Stammheim","christkatholisch",
+2023,3,"Gemeinde",292,"Stammheim","evangelisch-reformiert",1362
+2023,3,"Gemeinde",292,"Stammheim","römisch-katholisch",374
+2023,3,"Gemeinde",293,"Wädenswil","christkatholisch",21
+2023,3,"Gemeinde",293,"Wädenswil","evangelisch-reformiert",6344
+2023,3,"Gemeinde",293,"Wädenswil","römisch-katholisch",5648
+2023,3,"Gemeinde",294,"Elgg","christkatholisch",7
+2023,3,"Gemeinde",294,"Elgg","evangelisch-reformiert",1720
+2023,3,"Gemeinde",294,"Elgg","römisch-katholisch",796
+2023,3,"Gemeinde",295,"Horgen","christkatholisch",16
+2023,3,"Gemeinde",295,"Horgen","evangelisch-reformiert",4899
+2023,3,"Gemeinde",295,"Horgen","römisch-katholisch",5130
+2023,3,"Gemeinde",296,"Illnau-Effretikon","christkatholisch",21
+2023,3,"Gemeinde",296,"Illnau-Effretikon","evangelisch-reformiert",4082
+2023,3,"Gemeinde",296,"Illnau-Effretikon","römisch-katholisch",3112
+2023,3,"Gemeinde",297,"Bauma","christkatholisch",6
+2023,3,"Gemeinde",297,"Bauma","evangelisch-reformiert",1744
+2023,3,"Gemeinde",297,"Bauma","römisch-katholisch",784
+2023,3,"Gemeinde",298,"Wiesendangen","christkatholisch",7
+2023,3,"Gemeinde",298,"Wiesendangen","evangelisch-reformiert",2320
+2023,3,"Gemeinde",298,"Wiesendangen","römisch-katholisch",1092
+2022,1,"Kanton",1,"Kanton Zürich","christkatholisch",2189
+2022,1,"Kanton",1,"Kanton Zürich","evangelisch-reformiert",340656
+2022,1,"Kanton",1,"Kanton Zürich","römisch-katholisch",324932
+2022,3,"Gemeinde",1,"Aeugst am Albis","christkatholisch",
+2022,3,"Gemeinde",1,"Aeugst am Albis","evangelisch-reformiert",578
+2022,3,"Gemeinde",1,"Aeugst am Albis","römisch-katholisch",310
+2022,3,"Gemeinde",2,"Affoltern am Albis","christkatholisch",32
+2022,3,"Gemeinde",2,"Affoltern am Albis","evangelisch-reformiert",2739
+2022,3,"Gemeinde",2,"Affoltern am Albis","römisch-katholisch",2861
+2022,3,"Gemeinde",3,"Bonstetten","christkatholisch",
+2022,3,"Gemeinde",3,"Bonstetten","evangelisch-reformiert",1343
+2022,3,"Gemeinde",3,"Bonstetten","römisch-katholisch",1083
+2022,3,"Gemeinde",4,"Hausen am Albis","christkatholisch",6
+2022,3,"Gemeinde",4,"Hausen am Albis","evangelisch-reformiert",1015
+2022,3,"Gemeinde",4,"Hausen am Albis","römisch-katholisch",859
+2022,3,"Gemeinde",5,"Hedingen","christkatholisch",10
+2022,3,"Gemeinde",5,"Hedingen","evangelisch-reformiert",1148
+2022,3,"Gemeinde",5,"Hedingen","römisch-katholisch",770
+2022,3,"Gemeinde",6,"Kappel am Albis","christkatholisch",0
+2022,3,"Gemeinde",6,"Kappel am Albis","evangelisch-reformiert",355
+2022,3,"Gemeinde",6,"Kappel am Albis","römisch-katholisch",229
+2022,3,"Gemeinde",7,"Knonau","christkatholisch",5
+2022,3,"Gemeinde",7,"Knonau","evangelisch-reformiert",532
+2022,3,"Gemeinde",7,"Knonau","römisch-katholisch",605
+2022,3,"Gemeinde",8,"Maschwanden","christkatholisch",
+2022,3,"Gemeinde",8,"Maschwanden","evangelisch-reformiert",230
+2022,3,"Gemeinde",8,"Maschwanden","römisch-katholisch",125
+2022,3,"Gemeinde",9,"Mettmenstetten","christkatholisch",13
+2022,3,"Gemeinde",9,"Mettmenstetten","evangelisch-reformiert",1586
+2022,3,"Gemeinde",9,"Mettmenstetten","römisch-katholisch",1185
+2022,3,"Gemeinde",10,"Obfelden","christkatholisch",6
+2022,3,"Gemeinde",10,"Obfelden","evangelisch-reformiert",1311
+2022,3,"Gemeinde",10,"Obfelden","römisch-katholisch",1243
+2022,3,"Gemeinde",11,"Ottenbach","christkatholisch",7
+2022,3,"Gemeinde",11,"Ottenbach","evangelisch-reformiert",759
+2022,3,"Gemeinde",11,"Ottenbach","römisch-katholisch",587
+2022,3,"Gemeinde",12,"Rifferswil","christkatholisch",
+2022,3,"Gemeinde",12,"Rifferswil","evangelisch-reformiert",370
+2022,3,"Gemeinde",12,"Rifferswil","römisch-katholisch",169
+2022,3,"Gemeinde",13,"Stallikon","christkatholisch",12
+2022,3,"Gemeinde",13,"Stallikon","evangelisch-reformiert",877
+2022,3,"Gemeinde",13,"Stallikon","römisch-katholisch",677
+2022,3,"Gemeinde",14,"Wettswil am Albis","christkatholisch",8
+2022,3,"Gemeinde",14,"Wettswil am Albis","evangelisch-reformiert",1265
+2022,3,"Gemeinde",14,"Wettswil am Albis","römisch-katholisch",996
+2022,3,"Gemeinde",21,"Adlikon (bis 2022)","christkatholisch",
+2022,3,"Gemeinde",21,"Adlikon (bis 2022)","evangelisch-reformiert",295
+2022,3,"Gemeinde",21,"Adlikon (bis 2022)","römisch-katholisch",58
+2022,3,"Gemeinde",22,"Benken (ZH)","christkatholisch",
+2022,3,"Gemeinde",22,"Benken (ZH)","evangelisch-reformiert",334
+2022,3,"Gemeinde",22,"Benken (ZH)","römisch-katholisch",111
+2022,3,"Gemeinde",23,"Berg am Irchel","christkatholisch",0
+2022,3,"Gemeinde",23,"Berg am Irchel","evangelisch-reformiert",308
+2022,3,"Gemeinde",23,"Berg am Irchel","römisch-katholisch",50
+2022,3,"Gemeinde",24,"Buch am Irchel","christkatholisch",0
+2022,3,"Gemeinde",24,"Buch am Irchel","evangelisch-reformiert",444
+2022,3,"Gemeinde",24,"Buch am Irchel","römisch-katholisch",98
+2022,3,"Gemeinde",25,"Dachsen","christkatholisch",0
+2022,3,"Gemeinde",25,"Dachsen","evangelisch-reformiert",706
+2022,3,"Gemeinde",25,"Dachsen","römisch-katholisch",351
+2022,3,"Gemeinde",26,"Dorf","christkatholisch",
+2022,3,"Gemeinde",26,"Dorf","evangelisch-reformiert",276
+2022,3,"Gemeinde",26,"Dorf","römisch-katholisch",85
+2022,3,"Gemeinde",27,"Feuerthalen","christkatholisch",5
+2022,3,"Gemeinde",27,"Feuerthalen","evangelisch-reformiert",1044
+2022,3,"Gemeinde",27,"Feuerthalen","römisch-katholisch",737
+2022,3,"Gemeinde",28,"Flaach","christkatholisch",0
+2022,3,"Gemeinde",28,"Flaach","evangelisch-reformiert",569
+2022,3,"Gemeinde",28,"Flaach","römisch-katholisch",203
+2022,3,"Gemeinde",29,"Flurlingen","christkatholisch",4
+2022,3,"Gemeinde",29,"Flurlingen","evangelisch-reformiert",518
+2022,3,"Gemeinde",29,"Flurlingen","römisch-katholisch",245
+2022,3,"Gemeinde",30,"Andelfingen (bis 2022)","christkatholisch",
+2022,3,"Gemeinde",30,"Andelfingen (bis 2022)","evangelisch-reformiert",908
+2022,3,"Gemeinde",30,"Andelfingen (bis 2022)","römisch-katholisch",345
+2022,3,"Gemeinde",31,"Henggart","christkatholisch",0
+2022,3,"Gemeinde",31,"Henggart","evangelisch-reformiert",917
+2022,3,"Gemeinde",31,"Henggart","römisch-katholisch",342
+2022,3,"Gemeinde",32,"Humlikon (bis 2022)","christkatholisch",0
+2022,3,"Gemeinde",32,"Humlikon (bis 2022)","evangelisch-reformiert",202
+2022,3,"Gemeinde",32,"Humlikon (bis 2022)","römisch-katholisch",52
+2022,3,"Gemeinde",33,"Kleinandelfingen","christkatholisch",0
+2022,3,"Gemeinde",33,"Kleinandelfingen","evangelisch-reformiert",863
+2022,3,"Gemeinde",33,"Kleinandelfingen","römisch-katholisch",337
+2022,3,"Gemeinde",34,"Laufen-Uhwiesen","christkatholisch",
+2022,3,"Gemeinde",34,"Laufen-Uhwiesen","evangelisch-reformiert",680
+2022,3,"Gemeinde",34,"Laufen-Uhwiesen","römisch-katholisch",269
+2022,3,"Gemeinde",35,"Marthalen","christkatholisch",4
+2022,3,"Gemeinde",35,"Marthalen","evangelisch-reformiert",884
+2022,3,"Gemeinde",35,"Marthalen","römisch-katholisch",222
+2022,3,"Gemeinde",37,"Ossingen","christkatholisch",
+2022,3,"Gemeinde",37,"Ossingen","evangelisch-reformiert",711
+2022,3,"Gemeinde",37,"Ossingen","römisch-katholisch",226
+2022,3,"Gemeinde",38,"Rheinau","christkatholisch",
+2022,3,"Gemeinde",38,"Rheinau","evangelisch-reformiert",342
+2022,3,"Gemeinde",38,"Rheinau","römisch-katholisch",358
+2022,3,"Gemeinde",39,"Thalheim an der Thur","christkatholisch",0
+2022,3,"Gemeinde",39,"Thalheim an der Thur","evangelisch-reformiert",354
+2022,3,"Gemeinde",39,"Thalheim an der Thur","römisch-katholisch",93
+2022,3,"Gemeinde",40,"Trüllikon","christkatholisch",0
+2022,3,"Gemeinde",40,"Trüllikon","evangelisch-reformiert",471
+2022,3,"Gemeinde",40,"Trüllikon","römisch-katholisch",123
+2022,3,"Gemeinde",41,"Truttikon","christkatholisch",0
+2022,3,"Gemeinde",41,"Truttikon","evangelisch-reformiert",212
+2022,3,"Gemeinde",41,"Truttikon","römisch-katholisch",51
+2022,3,"Gemeinde",43,"Volken","christkatholisch",0
+2022,3,"Gemeinde",43,"Volken","evangelisch-reformiert",153
+2022,3,"Gemeinde",43,"Volken","römisch-katholisch",41
+2022,3,"Gemeinde",51,"Bachenbülach","christkatholisch",5
+2022,3,"Gemeinde",51,"Bachenbülach","evangelisch-reformiert",963
+2022,3,"Gemeinde",51,"Bachenbülach","römisch-katholisch",825
+2022,3,"Gemeinde",52,"Bassersdorf","christkatholisch",8
+2022,3,"Gemeinde",52,"Bassersdorf","evangelisch-reformiert",2470
+2022,3,"Gemeinde",52,"Bassersdorf","römisch-katholisch",2512
+2022,3,"Gemeinde",53,"Bülach","christkatholisch",47
+2022,3,"Gemeinde",53,"Bülach","evangelisch-reformiert",4849
+2022,3,"Gemeinde",53,"Bülach","römisch-katholisch",4928
+2022,3,"Gemeinde",54,"Dietlikon","christkatholisch",10
+2022,3,"Gemeinde",54,"Dietlikon","evangelisch-reformiert",1707
+2022,3,"Gemeinde",54,"Dietlikon","römisch-katholisch",1717
+2022,3,"Gemeinde",55,"Eglisau","christkatholisch",8
+2022,3,"Gemeinde",55,"Eglisau","evangelisch-reformiert",1412
+2022,3,"Gemeinde",55,"Eglisau","römisch-katholisch",903
+2022,3,"Gemeinde",56,"Embrach","christkatholisch",8
+2022,3,"Gemeinde",56,"Embrach","evangelisch-reformiert",2279
+2022,3,"Gemeinde",56,"Embrach","römisch-katholisch",2010
+2022,3,"Gemeinde",57,"Freienstein-Teufen","christkatholisch",4
+2022,3,"Gemeinde",57,"Freienstein-Teufen","evangelisch-reformiert",848
+2022,3,"Gemeinde",57,"Freienstein-Teufen","römisch-katholisch",388
+2022,3,"Gemeinde",58,"Glattfelden","christkatholisch",4
+2022,3,"Gemeinde",58,"Glattfelden","evangelisch-reformiert",1350
+2022,3,"Gemeinde",58,"Glattfelden","römisch-katholisch",931
+2022,3,"Gemeinde",59,"Hochfelden","christkatholisch",
+2022,3,"Gemeinde",59,"Hochfelden","evangelisch-reformiert",612
+2022,3,"Gemeinde",59,"Hochfelden","römisch-katholisch",421
+2022,3,"Gemeinde",60,"Höri","christkatholisch",11
+2022,3,"Gemeinde",60,"Höri","evangelisch-reformiert",582
+2022,3,"Gemeinde",60,"Höri","römisch-katholisch",761
+2022,3,"Gemeinde",61,"Hüntwangen","christkatholisch",0
+2022,3,"Gemeinde",61,"Hüntwangen","evangelisch-reformiert",327
+2022,3,"Gemeinde",61,"Hüntwangen","römisch-katholisch",152
+2022,3,"Gemeinde",62,"Kloten","christkatholisch",82
+2022,3,"Gemeinde",62,"Kloten","evangelisch-reformiert",3825
+2022,3,"Gemeinde",62,"Kloten","römisch-katholisch",5052
+2022,3,"Gemeinde",63,"Lufingen","christkatholisch",
+2022,3,"Gemeinde",63,"Lufingen","evangelisch-reformiert",588
+2022,3,"Gemeinde",63,"Lufingen","römisch-katholisch",507
+2022,3,"Gemeinde",64,"Nürensdorf","christkatholisch",6
+2022,3,"Gemeinde",64,"Nürensdorf","evangelisch-reformiert",1617
+2022,3,"Gemeinde",64,"Nürensdorf","römisch-katholisch",1115
+2022,3,"Gemeinde",65,"Oberembrach","christkatholisch",0
+2022,3,"Gemeinde",65,"Oberembrach","evangelisch-reformiert",429
+2022,3,"Gemeinde",65,"Oberembrach","römisch-katholisch",155
+2022,3,"Gemeinde",66,"Opfikon","christkatholisch",74
+2022,3,"Gemeinde",66,"Opfikon","evangelisch-reformiert",2271
+2022,3,"Gemeinde",66,"Opfikon","römisch-katholisch",4406
+2022,3,"Gemeinde",67,"Rafz","christkatholisch",7
+2022,3,"Gemeinde",67,"Rafz","evangelisch-reformiert",1416
+2022,3,"Gemeinde",67,"Rafz","römisch-katholisch",853
+2022,3,"Gemeinde",68,"Rorbas","christkatholisch",
+2022,3,"Gemeinde",68,"Rorbas","evangelisch-reformiert",705
+2022,3,"Gemeinde",68,"Rorbas","römisch-katholisch",537
+2022,3,"Gemeinde",69,"Wallisellen","christkatholisch",15
+2022,3,"Gemeinde",69,"Wallisellen","evangelisch-reformiert",3084
+2022,3,"Gemeinde",69,"Wallisellen","römisch-katholisch",3762
+2022,3,"Gemeinde",70,"Wasterkingen","christkatholisch",0
+2022,3,"Gemeinde",70,"Wasterkingen","evangelisch-reformiert",231
+2022,3,"Gemeinde",70,"Wasterkingen","römisch-katholisch",76
+2022,3,"Gemeinde",71,"Wil (ZH)","christkatholisch",
+2022,3,"Gemeinde",71,"Wil (ZH)","evangelisch-reformiert",561
+2022,3,"Gemeinde",71,"Wil (ZH)","römisch-katholisch",178
+2022,3,"Gemeinde",72,"Winkel","christkatholisch",9
+2022,3,"Gemeinde",72,"Winkel","evangelisch-reformiert",1196
+2022,3,"Gemeinde",72,"Winkel","römisch-katholisch",885
+2022,3,"Gemeinde",81,"Bachs","christkatholisch",0
+2022,3,"Gemeinde",81,"Bachs","evangelisch-reformiert",244
+2022,3,"Gemeinde",81,"Bachs","römisch-katholisch",88
+2022,3,"Gemeinde",82,"Boppelsen","christkatholisch",
+2022,3,"Gemeinde",82,"Boppelsen","evangelisch-reformiert",448
+2022,3,"Gemeinde",82,"Boppelsen","römisch-katholisch",250
+2022,3,"Gemeinde",83,"Buchs (ZH)","christkatholisch",30
+2022,3,"Gemeinde",83,"Buchs (ZH)","evangelisch-reformiert",1390
+2022,3,"Gemeinde",83,"Buchs (ZH)","römisch-katholisch",1443
+2022,3,"Gemeinde",84,"Dällikon","christkatholisch",6
+2022,3,"Gemeinde",84,"Dällikon","evangelisch-reformiert",811
+2022,3,"Gemeinde",84,"Dällikon","römisch-katholisch",1083
+2022,3,"Gemeinde",85,"Dänikon","christkatholisch",
+2022,3,"Gemeinde",85,"Dänikon","evangelisch-reformiert",394
+2022,3,"Gemeinde",85,"Dänikon","römisch-katholisch",402
+2022,3,"Gemeinde",86,"Dielsdorf","christkatholisch",7
+2022,3,"Gemeinde",86,"Dielsdorf","evangelisch-reformiert",1272
+2022,3,"Gemeinde",86,"Dielsdorf","römisch-katholisch",1456
+2022,3,"Gemeinde",87,"Hüttikon","christkatholisch",0
+2022,3,"Gemeinde",87,"Hüttikon","evangelisch-reformiert",214
+2022,3,"Gemeinde",87,"Hüttikon","römisch-katholisch",211
+2022,3,"Gemeinde",88,"Neerach","christkatholisch",6
+2022,3,"Gemeinde",88,"Neerach","evangelisch-reformiert",912
+2022,3,"Gemeinde",88,"Neerach","römisch-katholisch",536
+2022,3,"Gemeinde",89,"Niederglatt","christkatholisch",7
+2022,3,"Gemeinde",89,"Niederglatt","evangelisch-reformiert",1217
+2022,3,"Gemeinde",89,"Niederglatt","römisch-katholisch",1134
+2022,3,"Gemeinde",90,"Niederhasli","christkatholisch",9
+2022,3,"Gemeinde",90,"Niederhasli","evangelisch-reformiert",1986
+2022,3,"Gemeinde",90,"Niederhasli","römisch-katholisch",1983
+2022,3,"Gemeinde",91,"Niederweningen","christkatholisch",
+2022,3,"Gemeinde",91,"Niederweningen","evangelisch-reformiert",830
+2022,3,"Gemeinde",91,"Niederweningen","römisch-katholisch",581
+2022,3,"Gemeinde",92,"Oberglatt","christkatholisch",6
+2022,3,"Gemeinde",92,"Oberglatt","evangelisch-reformiert",1062
+2022,3,"Gemeinde",92,"Oberglatt","römisch-katholisch",1531
+2022,3,"Gemeinde",93,"Oberweningen","christkatholisch",
+2022,3,"Gemeinde",93,"Oberweningen","evangelisch-reformiert",500
+2022,3,"Gemeinde",93,"Oberweningen","römisch-katholisch",319
+2022,3,"Gemeinde",94,"Otelfingen","christkatholisch",15
+2022,3,"Gemeinde",94,"Otelfingen","evangelisch-reformiert",799
+2022,3,"Gemeinde",94,"Otelfingen","römisch-katholisch",833
+2022,3,"Gemeinde",95,"Regensberg","christkatholisch",
+2022,3,"Gemeinde",95,"Regensberg","evangelisch-reformiert",175
+2022,3,"Gemeinde",95,"Regensberg","römisch-katholisch",43
+2022,3,"Gemeinde",96,"Regensdorf","christkatholisch",26
+2022,3,"Gemeinde",96,"Regensdorf","evangelisch-reformiert",3182
+2022,3,"Gemeinde",96,"Regensdorf","römisch-katholisch",4137
+2022,3,"Gemeinde",97,"Rümlang","christkatholisch",11
+2022,3,"Gemeinde",97,"Rümlang","evangelisch-reformiert",1448
+2022,3,"Gemeinde",97,"Rümlang","römisch-katholisch",1741
+2022,3,"Gemeinde",98,"Schleinikon","christkatholisch",
+2022,3,"Gemeinde",98,"Schleinikon","evangelisch-reformiert",313
+2022,3,"Gemeinde",98,"Schleinikon","römisch-katholisch",145
+2022,3,"Gemeinde",99,"Schöfflisdorf","christkatholisch",8
+2022,3,"Gemeinde",99,"Schöfflisdorf","evangelisch-reformiert",427
+2022,3,"Gemeinde",99,"Schöfflisdorf","römisch-katholisch",241
+2022,3,"Gemeinde",100,"Stadel","christkatholisch",
+2022,3,"Gemeinde",100,"Stadel","evangelisch-reformiert",831
+2022,3,"Gemeinde",100,"Stadel","römisch-katholisch",314
+2022,3,"Gemeinde",101,"Steinmaur","christkatholisch",5
+2022,3,"Gemeinde",101,"Steinmaur","evangelisch-reformiert",976
+2022,3,"Gemeinde",101,"Steinmaur","römisch-katholisch",778
+2022,3,"Gemeinde",102,"Weiach","christkatholisch",8
+2022,3,"Gemeinde",102,"Weiach","evangelisch-reformiert",493
+2022,3,"Gemeinde",102,"Weiach","römisch-katholisch",279
+2022,3,"Gemeinde",111,"Bäretswil","christkatholisch",0
+2022,3,"Gemeinde",111,"Bäretswil","evangelisch-reformiert",1765
+2022,3,"Gemeinde",111,"Bäretswil","römisch-katholisch",760
+2022,3,"Gemeinde",112,"Bubikon","christkatholisch",7
+2022,3,"Gemeinde",112,"Bubikon","evangelisch-reformiert",2307
+2022,3,"Gemeinde",112,"Bubikon","römisch-katholisch",1447
+2022,3,"Gemeinde",113,"Dürnten","christkatholisch",7
+2022,3,"Gemeinde",113,"Dürnten","evangelisch-reformiert",2044
+2022,3,"Gemeinde",113,"Dürnten","römisch-katholisch",1568
+2022,3,"Gemeinde",114,"Fischenthal","christkatholisch",0
+2022,3,"Gemeinde",114,"Fischenthal","evangelisch-reformiert",902
+2022,3,"Gemeinde",114,"Fischenthal","römisch-katholisch",413
+2022,3,"Gemeinde",115,"Gossau (ZH)","christkatholisch",6
+2022,3,"Gemeinde",115,"Gossau (ZH)","evangelisch-reformiert",3213
+2022,3,"Gemeinde",115,"Gossau (ZH)","römisch-katholisch",2013
+2022,3,"Gemeinde",116,"Grüningen","christkatholisch",
+2022,3,"Gemeinde",116,"Grüningen","evangelisch-reformiert",1250
+2022,3,"Gemeinde",116,"Grüningen","römisch-katholisch",667
+2022,3,"Gemeinde",117,"Hinwil","christkatholisch",6
+2022,3,"Gemeinde",117,"Hinwil","evangelisch-reformiert",3360
+2022,3,"Gemeinde",117,"Hinwil","römisch-katholisch",2230
+2022,3,"Gemeinde",118,"Rüti (ZH)","christkatholisch",10
+2022,3,"Gemeinde",118,"Rüti (ZH)","evangelisch-reformiert",2665
+2022,3,"Gemeinde",118,"Rüti (ZH)","römisch-katholisch",3033
+2022,3,"Gemeinde",119,"Seegräben","christkatholisch",6
+2022,3,"Gemeinde",119,"Seegräben","evangelisch-reformiert",435
+2022,3,"Gemeinde",119,"Seegräben","römisch-katholisch",234
+2022,3,"Gemeinde",120,"Wald (ZH)","christkatholisch",9
+2022,3,"Gemeinde",120,"Wald (ZH)","evangelisch-reformiert",2511
+2022,3,"Gemeinde",120,"Wald (ZH)","römisch-katholisch",2452
+2022,3,"Gemeinde",121,"Wetzikon (ZH)","christkatholisch",19
+2022,3,"Gemeinde",121,"Wetzikon (ZH)","evangelisch-reformiert",5355
+2022,3,"Gemeinde",121,"Wetzikon (ZH)","römisch-katholisch",5628
+2022,3,"Gemeinde",131,"Adliswil","christkatholisch",36
+2022,3,"Gemeinde",131,"Adliswil","evangelisch-reformiert",3158
+2022,3,"Gemeinde",131,"Adliswil","römisch-katholisch",4355
+2022,3,"Gemeinde",135,"Kilchberg (ZH)","christkatholisch",7
+2022,3,"Gemeinde",135,"Kilchberg (ZH)","evangelisch-reformiert",1849
+2022,3,"Gemeinde",135,"Kilchberg (ZH)","römisch-katholisch",1690
+2022,3,"Gemeinde",136,"Langnau am Albis","christkatholisch",14
+2022,3,"Gemeinde",136,"Langnau am Albis","evangelisch-reformiert",1671
+2022,3,"Gemeinde",136,"Langnau am Albis","römisch-katholisch",1897
+2022,3,"Gemeinde",137,"Oberrieden","christkatholisch",8
+2022,3,"Gemeinde",137,"Oberrieden","evangelisch-reformiert",1420
+2022,3,"Gemeinde",137,"Oberrieden","römisch-katholisch",1076
+2022,3,"Gemeinde",138,"Richterswil","christkatholisch",7
+2022,3,"Gemeinde",138,"Richterswil","evangelisch-reformiert",3312
+2022,3,"Gemeinde",138,"Richterswil","römisch-katholisch",3228
+2022,3,"Gemeinde",139,"Rüschlikon","christkatholisch",7
+2022,3,"Gemeinde",139,"Rüschlikon","evangelisch-reformiert",1165
+2022,3,"Gemeinde",139,"Rüschlikon","römisch-katholisch",1206
+2022,3,"Gemeinde",141,"Thalwil","christkatholisch",13
+2022,3,"Gemeinde",141,"Thalwil","evangelisch-reformiert",3810
+2022,3,"Gemeinde",141,"Thalwil","römisch-katholisch",4118
+2022,3,"Gemeinde",151,"Erlenbach (ZH)","christkatholisch",13
+2022,3,"Gemeinde",151,"Erlenbach (ZH)","evangelisch-reformiert",1471
+2022,3,"Gemeinde",151,"Erlenbach (ZH)","römisch-katholisch",1148
+2022,3,"Gemeinde",152,"Herrliberg","christkatholisch",6
+2022,3,"Gemeinde",152,"Herrliberg","evangelisch-reformiert",1758
+2022,3,"Gemeinde",152,"Herrliberg","römisch-katholisch",1345
+2022,3,"Gemeinde",153,"Hombrechtikon","christkatholisch",8
+2022,3,"Gemeinde",153,"Hombrechtikon","evangelisch-reformiert",2390
+2022,3,"Gemeinde",153,"Hombrechtikon","römisch-katholisch",2039
+2022,3,"Gemeinde",154,"Küsnacht (ZH)","christkatholisch",24
+2022,3,"Gemeinde",154,"Küsnacht (ZH)","evangelisch-reformiert",3718
+2022,3,"Gemeinde",154,"Küsnacht (ZH)","römisch-katholisch",2891
+2022,3,"Gemeinde",155,"Männedorf","christkatholisch",16
+2022,3,"Gemeinde",155,"Männedorf","evangelisch-reformiert",2912
+2022,3,"Gemeinde",155,"Männedorf","römisch-katholisch",2268
+2022,3,"Gemeinde",156,"Meilen","christkatholisch",18
+2022,3,"Gemeinde",156,"Meilen","evangelisch-reformiert",3833
+2022,3,"Gemeinde",156,"Meilen","römisch-katholisch",2801
+2022,3,"Gemeinde",157,"Oetwil am See","christkatholisch",4
+2022,3,"Gemeinde",157,"Oetwil am See","evangelisch-reformiert",1106
+2022,3,"Gemeinde",157,"Oetwil am See","römisch-katholisch",1066
+2022,3,"Gemeinde",158,"Stäfa","christkatholisch",9
+2022,3,"Gemeinde",158,"Stäfa","evangelisch-reformiert",4159
+2022,3,"Gemeinde",158,"Stäfa","römisch-katholisch",2822
+2022,3,"Gemeinde",159,"Uetikon am See","christkatholisch",
+2022,3,"Gemeinde",159,"Uetikon am See","evangelisch-reformiert",1689
+2022,3,"Gemeinde",159,"Uetikon am See","römisch-katholisch",1244
+2022,3,"Gemeinde",160,"Zumikon","christkatholisch",4
+2022,3,"Gemeinde",160,"Zumikon","evangelisch-reformiert",1446
+2022,3,"Gemeinde",160,"Zumikon","römisch-katholisch",1083
+2022,3,"Gemeinde",161,"Zollikon","christkatholisch",16
+2022,3,"Gemeinde",161,"Zollikon","evangelisch-reformiert",3170
+2022,3,"Gemeinde",161,"Zollikon","römisch-katholisch",2580
+2022,3,"Gemeinde",172,"Fehraltorf","christkatholisch",14
+2022,3,"Gemeinde",172,"Fehraltorf","evangelisch-reformiert",1826
+2022,3,"Gemeinde",172,"Fehraltorf","römisch-katholisch",1271
+2022,3,"Gemeinde",173,"Hittnau","christkatholisch",
+2022,3,"Gemeinde",173,"Hittnau","evangelisch-reformiert",1320
+2022,3,"Gemeinde",173,"Hittnau","römisch-katholisch",564
+2022,3,"Gemeinde",176,"Lindau","christkatholisch",5
+2022,3,"Gemeinde",176,"Lindau","evangelisch-reformiert",1512
+2022,3,"Gemeinde",176,"Lindau","römisch-katholisch",1081
+2022,3,"Gemeinde",177,"Pfäffikon","christkatholisch",
+2022,3,"Gemeinde",177,"Pfäffikon","evangelisch-reformiert",3696
+2022,3,"Gemeinde",177,"Pfäffikon","römisch-katholisch",2195
+2022,3,"Gemeinde",178,"Russikon","christkatholisch",13
+2022,3,"Gemeinde",178,"Russikon","evangelisch-reformiert",1462
+2022,3,"Gemeinde",178,"Russikon","römisch-katholisch",738
+2022,3,"Gemeinde",180,"Weisslingen","christkatholisch",0
+2022,3,"Gemeinde",180,"Weisslingen","evangelisch-reformiert",1230
+2022,3,"Gemeinde",180,"Weisslingen","römisch-katholisch",499
+2022,3,"Gemeinde",181,"Wila","christkatholisch",0
+2022,3,"Gemeinde",181,"Wila","evangelisch-reformiert",742
+2022,3,"Gemeinde",181,"Wila","römisch-katholisch",296
+2022,3,"Gemeinde",182,"Wildberg","christkatholisch",
+2022,3,"Gemeinde",182,"Wildberg","evangelisch-reformiert",413
+2022,3,"Gemeinde",182,"Wildberg","römisch-katholisch",110
+2022,3,"Gemeinde",191,"Dübendorf","christkatholisch",61
+2022,3,"Gemeinde",191,"Dübendorf","evangelisch-reformiert",5380
+2022,3,"Gemeinde",191,"Dübendorf","römisch-katholisch",7035
+2022,3,"Gemeinde",192,"Egg","christkatholisch",7
+2022,3,"Gemeinde",192,"Egg","evangelisch-reformiert",2369
+2022,3,"Gemeinde",192,"Egg","römisch-katholisch",1951
+2022,3,"Gemeinde",193,"Fällanden","christkatholisch",19
+2022,3,"Gemeinde",193,"Fällanden","evangelisch-reformiert",1789
+2022,3,"Gemeinde",193,"Fällanden","römisch-katholisch",1841
+2022,3,"Gemeinde",194,"Greifensee","christkatholisch",
+2022,3,"Gemeinde",194,"Greifensee","evangelisch-reformiert",1318
+2022,3,"Gemeinde",194,"Greifensee","römisch-katholisch",1024
+2022,3,"Gemeinde",195,"Maur","christkatholisch",11
+2022,3,"Gemeinde",195,"Maur","evangelisch-reformiert",2854
+2022,3,"Gemeinde",195,"Maur","römisch-katholisch",2015
+2022,3,"Gemeinde",196,"Mönchaltorf","christkatholisch",11
+2022,3,"Gemeinde",196,"Mönchaltorf","evangelisch-reformiert",1155
+2022,3,"Gemeinde",196,"Mönchaltorf","römisch-katholisch",689
+2022,3,"Gemeinde",197,"Schwerzenbach","christkatholisch",4
+2022,3,"Gemeinde",197,"Schwerzenbach","evangelisch-reformiert",1069
+2022,3,"Gemeinde",197,"Schwerzenbach","römisch-katholisch",1099
+2022,3,"Gemeinde",198,"Uster","christkatholisch",45
+2022,3,"Gemeinde",198,"Uster","evangelisch-reformiert",8608
+2022,3,"Gemeinde",198,"Uster","römisch-katholisch",7595
+2022,3,"Gemeinde",199,"Volketswil","christkatholisch",17
+2022,3,"Gemeinde",199,"Volketswil","evangelisch-reformiert",4003
+2022,3,"Gemeinde",199,"Volketswil","römisch-katholisch",3903
+2022,3,"Gemeinde",200,"Wangen-Brüttisellen","christkatholisch",8
+2022,3,"Gemeinde",200,"Wangen-Brüttisellen","evangelisch-reformiert",1530
+2022,3,"Gemeinde",200,"Wangen-Brüttisellen","römisch-katholisch",1717
+2022,3,"Gemeinde",211,"Altikon","christkatholisch",
+2022,3,"Gemeinde",211,"Altikon","evangelisch-reformiert",336
+2022,3,"Gemeinde",211,"Altikon","römisch-katholisch",79
+2022,3,"Gemeinde",213,"Brütten","christkatholisch",0
+2022,3,"Gemeinde",213,"Brütten","evangelisch-reformiert",787
+2022,3,"Gemeinde",213,"Brütten","römisch-katholisch",313
+2022,3,"Gemeinde",214,"Dägerlen","christkatholisch",0
+2022,3,"Gemeinde",214,"Dägerlen","evangelisch-reformiert",491
+2022,3,"Gemeinde",214,"Dägerlen","römisch-katholisch",122
+2022,3,"Gemeinde",215,"Dättlikon","christkatholisch",
+2022,3,"Gemeinde",215,"Dättlikon","evangelisch-reformiert",297
+2022,3,"Gemeinde",215,"Dättlikon","römisch-katholisch",93
+2022,3,"Gemeinde",216,"Dinhard","christkatholisch",
+2022,3,"Gemeinde",216,"Dinhard","evangelisch-reformiert",696
+2022,3,"Gemeinde",216,"Dinhard","römisch-katholisch",239
+2022,3,"Gemeinde",218,"Ellikon an der Thur","christkatholisch",
+2022,3,"Gemeinde",218,"Ellikon an der Thur","evangelisch-reformiert",401
+2022,3,"Gemeinde",218,"Ellikon an der Thur","römisch-katholisch",152
+2022,3,"Gemeinde",219,"Elsau","christkatholisch",5
+2022,3,"Gemeinde",219,"Elsau","evangelisch-reformiert",1097
+2022,3,"Gemeinde",219,"Elsau","römisch-katholisch",695
+2022,3,"Gemeinde",220,"Hagenbuch","christkatholisch",
+2022,3,"Gemeinde",220,"Hagenbuch","evangelisch-reformiert",404
+2022,3,"Gemeinde",220,"Hagenbuch","römisch-katholisch",189
+2022,3,"Gemeinde",221,"Hettlingen","christkatholisch",
+2022,3,"Gemeinde",221,"Hettlingen","evangelisch-reformiert",1239
+2022,3,"Gemeinde",221,"Hettlingen","römisch-katholisch",495
+2022,3,"Gemeinde",223,"Neftenbach","christkatholisch",
+2022,3,"Gemeinde",223,"Neftenbach","evangelisch-reformiert",2007
+2022,3,"Gemeinde",223,"Neftenbach","römisch-katholisch",862
+2022,3,"Gemeinde",224,"Pfungen","christkatholisch",0
+2022,3,"Gemeinde",224,"Pfungen","evangelisch-reformiert",977
+2022,3,"Gemeinde",224,"Pfungen","römisch-katholisch",662
+2022,3,"Gemeinde",225,"Rickenbach (ZH)","christkatholisch",
+2022,3,"Gemeinde",225,"Rickenbach (ZH)","evangelisch-reformiert",922
+2022,3,"Gemeinde",225,"Rickenbach (ZH)","römisch-katholisch",455
+2022,3,"Gemeinde",226,"Schlatt (ZH)","christkatholisch",
+2022,3,"Gemeinde",226,"Schlatt (ZH)","evangelisch-reformiert",306
+2022,3,"Gemeinde",226,"Schlatt (ZH)","römisch-katholisch",77
+2022,3,"Gemeinde",227,"Seuzach","christkatholisch",6
+2022,3,"Gemeinde",227,"Seuzach","evangelisch-reformiert",2576
+2022,3,"Gemeinde",227,"Seuzach","römisch-katholisch",1613
+2022,3,"Gemeinde",228,"Turbenthal","christkatholisch",
+2022,3,"Gemeinde",228,"Turbenthal","evangelisch-reformiert",1557
+2022,3,"Gemeinde",228,"Turbenthal","römisch-katholisch",774
+2022,3,"Gemeinde",230,"Winterthur","christkatholisch",145
+2022,3,"Gemeinde",230,"Winterthur","evangelisch-reformiert",27180
+2022,3,"Gemeinde",230,"Winterthur","römisch-katholisch",21136
+2022,3,"Gemeinde",231,"Zell (ZH)","christkatholisch",
+2022,3,"Gemeinde",231,"Zell (ZH)","evangelisch-reformiert",1641
+2022,3,"Gemeinde",231,"Zell (ZH)","römisch-katholisch",1058
+2022,3,"Gemeinde",241,"Aesch (ZH)","christkatholisch",11
+2022,3,"Gemeinde",241,"Aesch (ZH)","evangelisch-reformiert",446
+2022,3,"Gemeinde",241,"Aesch (ZH)","römisch-katholisch",304
+2022,3,"Gemeinde",242,"Birmensdorf (ZH)","christkatholisch",17
+2022,3,"Gemeinde",242,"Birmensdorf (ZH)","evangelisch-reformiert",1582
+2022,3,"Gemeinde",242,"Birmensdorf (ZH)","römisch-katholisch",1406
+2022,3,"Gemeinde",243,"Dietikon","christkatholisch",39
+2022,3,"Gemeinde",243,"Dietikon","evangelisch-reformiert",3130
+2022,3,"Gemeinde",243,"Dietikon","römisch-katholisch",7223
+2022,3,"Gemeinde",244,"Geroldswil","christkatholisch",7
+2022,3,"Gemeinde",244,"Geroldswil","evangelisch-reformiert",907
+2022,3,"Gemeinde",244,"Geroldswil","römisch-katholisch",1262
+2022,3,"Gemeinde",245,"Oberengstringen","christkatholisch",16
+2022,3,"Gemeinde",245,"Oberengstringen","evangelisch-reformiert",1201
+2022,3,"Gemeinde",245,"Oberengstringen","römisch-katholisch",1716
+2022,3,"Gemeinde",246,"Oetwil an der Limmat","christkatholisch",
+2022,3,"Gemeinde",246,"Oetwil an der Limmat","evangelisch-reformiert",568
+2022,3,"Gemeinde",246,"Oetwil an der Limmat","römisch-katholisch",603
+2022,3,"Gemeinde",247,"Schlieren","christkatholisch",40
+2022,3,"Gemeinde",247,"Schlieren","evangelisch-reformiert",2188
+2022,3,"Gemeinde",247,"Schlieren","römisch-katholisch",5719
+2022,3,"Gemeinde",248,"Uitikon","christkatholisch",11
+2022,3,"Gemeinde",248,"Uitikon","evangelisch-reformiert",1264
+2022,3,"Gemeinde",248,"Uitikon","römisch-katholisch",937
+2022,3,"Gemeinde",249,"Unterengstringen","christkatholisch",5
+2022,3,"Gemeinde",249,"Unterengstringen","evangelisch-reformiert",791
+2022,3,"Gemeinde",249,"Unterengstringen","römisch-katholisch",946
+2022,3,"Gemeinde",250,"Urdorf","christkatholisch",32
+2022,3,"Gemeinde",250,"Urdorf","evangelisch-reformiert",2132
+2022,3,"Gemeinde",250,"Urdorf","römisch-katholisch",2796
+2022,3,"Gemeinde",251,"Weiningen (ZH)","christkatholisch",6
+2022,3,"Gemeinde",251,"Weiningen (ZH)","evangelisch-reformiert",939
+2022,3,"Gemeinde",251,"Weiningen (ZH)","römisch-katholisch",1110
+2022,3,"Gemeinde",261,"Zürich","christkatholisch",657
+2022,3,"Gemeinde",261,"Zürich","evangelisch-reformiert",68807
+2022,3,"Gemeinde",261,"Zürich","römisch-katholisch",90897
+2022,3,"Gemeinde",292,"Stammheim","christkatholisch",4
+2022,3,"Gemeinde",292,"Stammheim","evangelisch-reformiert",1394
+2022,3,"Gemeinde",292,"Stammheim","römisch-katholisch",380
+2022,3,"Gemeinde",293,"Wädenswil","christkatholisch",21
+2022,3,"Gemeinde",293,"Wädenswil","evangelisch-reformiert",6447
+2022,3,"Gemeinde",293,"Wädenswil","römisch-katholisch",5724
+2022,3,"Gemeinde",294,"Elgg","christkatholisch",7
+2022,3,"Gemeinde",294,"Elgg","evangelisch-reformiert",1757
+2022,3,"Gemeinde",294,"Elgg","römisch-katholisch",822
+2022,3,"Gemeinde",295,"Horgen","christkatholisch",16
+2022,3,"Gemeinde",295,"Horgen","evangelisch-reformiert",5049
+2022,3,"Gemeinde",295,"Horgen","römisch-katholisch",5271
+2022,3,"Gemeinde",296,"Illnau-Effretikon","christkatholisch",14
+2022,3,"Gemeinde",296,"Illnau-Effretikon","evangelisch-reformiert",4275
+2022,3,"Gemeinde",296,"Illnau-Effretikon","römisch-katholisch",3249
+2022,3,"Gemeinde",297,"Bauma","christkatholisch",4
+2022,3,"Gemeinde",297,"Bauma","evangelisch-reformiert",1786
+2022,3,"Gemeinde",297,"Bauma","römisch-katholisch",786
+2022,3,"Gemeinde",298,"Wiesendangen","christkatholisch",8
+2022,3,"Gemeinde",298,"Wiesendangen","evangelisch-reformiert",2414
+2022,3,"Gemeinde",298,"Wiesendangen","römisch-katholisch",1144
+2021,1,"Kanton",1,"Kanton Zürich","christkatholisch",2024
+2021,1,"Kanton",1,"Kanton Zürich","evangelisch-reformiert",349059
+2021,1,"Kanton",1,"Kanton Zürich","römisch-katholisch",329506
+2021,3,"Gemeinde",1,"Aeugst am Albis","christkatholisch",
+2021,3,"Gemeinde",1,"Aeugst am Albis","evangelisch-reformiert",591
+2021,3,"Gemeinde",1,"Aeugst am Albis","römisch-katholisch",322
+2021,3,"Gemeinde",2,"Affoltern am Albis","christkatholisch",19
+2021,3,"Gemeinde",2,"Affoltern am Albis","evangelisch-reformiert",2822
+2021,3,"Gemeinde",2,"Affoltern am Albis","römisch-katholisch",2881
+2021,3,"Gemeinde",3,"Bonstetten","christkatholisch",5
+2021,3,"Gemeinde",3,"Bonstetten","evangelisch-reformiert",1387
+2021,3,"Gemeinde",3,"Bonstetten","römisch-katholisch",1103
+2021,3,"Gemeinde",4,"Hausen am Albis","christkatholisch",
+2021,3,"Gemeinde",4,"Hausen am Albis","evangelisch-reformiert",1058
+2021,3,"Gemeinde",4,"Hausen am Albis","römisch-katholisch",878
+2021,3,"Gemeinde",5,"Hedingen","christkatholisch",9
+2021,3,"Gemeinde",5,"Hedingen","evangelisch-reformiert",1135
+2021,3,"Gemeinde",5,"Hedingen","römisch-katholisch",764
+2021,3,"Gemeinde",6,"Kappel am Albis","christkatholisch",0
+2021,3,"Gemeinde",6,"Kappel am Albis","evangelisch-reformiert",357
+2021,3,"Gemeinde",6,"Kappel am Albis","römisch-katholisch",229
+2021,3,"Gemeinde",7,"Knonau","christkatholisch",5
+2021,3,"Gemeinde",7,"Knonau","evangelisch-reformiert",549
+2021,3,"Gemeinde",7,"Knonau","römisch-katholisch",630
+2021,3,"Gemeinde",8,"Maschwanden","christkatholisch",
+2021,3,"Gemeinde",8,"Maschwanden","evangelisch-reformiert",232
+2021,3,"Gemeinde",8,"Maschwanden","römisch-katholisch",129
+2021,3,"Gemeinde",9,"Mettmenstetten","christkatholisch",8
+2021,3,"Gemeinde",9,"Mettmenstetten","evangelisch-reformiert",1611
+2021,3,"Gemeinde",9,"Mettmenstetten","römisch-katholisch",1198
+2021,3,"Gemeinde",10,"Obfelden","christkatholisch",0
+2021,3,"Gemeinde",10,"Obfelden","evangelisch-reformiert",1353
+2021,3,"Gemeinde",10,"Obfelden","römisch-katholisch",1270
+2021,3,"Gemeinde",11,"Ottenbach","christkatholisch",
+2021,3,"Gemeinde",11,"Ottenbach","evangelisch-reformiert",770
+2021,3,"Gemeinde",11,"Ottenbach","römisch-katholisch",584
+2021,3,"Gemeinde",12,"Rifferswil","christkatholisch",
+2021,3,"Gemeinde",12,"Rifferswil","evangelisch-reformiert",373
+2021,3,"Gemeinde",12,"Rifferswil","römisch-katholisch",162
+2021,3,"Gemeinde",13,"Stallikon","christkatholisch",10
+2021,3,"Gemeinde",13,"Stallikon","evangelisch-reformiert",901
+2021,3,"Gemeinde",13,"Stallikon","römisch-katholisch",686
+2021,3,"Gemeinde",14,"Wettswil am Albis","christkatholisch",6
+2021,3,"Gemeinde",14,"Wettswil am Albis","evangelisch-reformiert",1306
+2021,3,"Gemeinde",14,"Wettswil am Albis","römisch-katholisch",1028
+2021,3,"Gemeinde",21,"Adlikon (bis 2022)","christkatholisch",
+2021,3,"Gemeinde",21,"Adlikon (bis 2022)","evangelisch-reformiert",303
+2021,3,"Gemeinde",21,"Adlikon (bis 2022)","römisch-katholisch",58
+2021,3,"Gemeinde",22,"Benken (ZH)","christkatholisch",
+2021,3,"Gemeinde",22,"Benken (ZH)","evangelisch-reformiert",344
+2021,3,"Gemeinde",22,"Benken (ZH)","römisch-katholisch",113
+2021,3,"Gemeinde",23,"Berg am Irchel","christkatholisch",0
+2021,3,"Gemeinde",23,"Berg am Irchel","evangelisch-reformiert",312
+2021,3,"Gemeinde",23,"Berg am Irchel","römisch-katholisch",51
+2021,3,"Gemeinde",24,"Buch am Irchel","christkatholisch",0
+2021,3,"Gemeinde",24,"Buch am Irchel","evangelisch-reformiert",448
+2021,3,"Gemeinde",24,"Buch am Irchel","römisch-katholisch",101
+2021,3,"Gemeinde",25,"Dachsen","christkatholisch",0
+2021,3,"Gemeinde",25,"Dachsen","evangelisch-reformiert",693
+2021,3,"Gemeinde",25,"Dachsen","römisch-katholisch",340
+2021,3,"Gemeinde",26,"Dorf","christkatholisch",
+2021,3,"Gemeinde",26,"Dorf","evangelisch-reformiert",276
+2021,3,"Gemeinde",26,"Dorf","römisch-katholisch",77
+2021,3,"Gemeinde",27,"Feuerthalen","christkatholisch",6
+2021,3,"Gemeinde",27,"Feuerthalen","evangelisch-reformiert",1059
+2021,3,"Gemeinde",27,"Feuerthalen","römisch-katholisch",761
+2021,3,"Gemeinde",28,"Flaach","christkatholisch",0
+2021,3,"Gemeinde",28,"Flaach","evangelisch-reformiert",583
+2021,3,"Gemeinde",28,"Flaach","römisch-katholisch",195
+2021,3,"Gemeinde",29,"Flurlingen","christkatholisch",0
+2021,3,"Gemeinde",29,"Flurlingen","evangelisch-reformiert",522
+2021,3,"Gemeinde",29,"Flurlingen","römisch-katholisch",252
+2021,3,"Gemeinde",30,"Andelfingen (bis 2022)","christkatholisch",
+2021,3,"Gemeinde",30,"Andelfingen (bis 2022)","evangelisch-reformiert",922
+2021,3,"Gemeinde",30,"Andelfingen (bis 2022)","römisch-katholisch",353
+2021,3,"Gemeinde",31,"Henggart","christkatholisch",0
+2021,3,"Gemeinde",31,"Henggart","evangelisch-reformiert",972
+2021,3,"Gemeinde",31,"Henggart","römisch-katholisch",348
+2021,3,"Gemeinde",32,"Humlikon (bis 2022)","christkatholisch",0
+2021,3,"Gemeinde",32,"Humlikon (bis 2022)","evangelisch-reformiert",204
+2021,3,"Gemeinde",32,"Humlikon (bis 2022)","römisch-katholisch",57
+2021,3,"Gemeinde",33,"Kleinandelfingen","christkatholisch",0
+2021,3,"Gemeinde",33,"Kleinandelfingen","evangelisch-reformiert",878
+2021,3,"Gemeinde",33,"Kleinandelfingen","römisch-katholisch",351
+2021,3,"Gemeinde",34,"Laufen-Uhwiesen","christkatholisch",
+2021,3,"Gemeinde",34,"Laufen-Uhwiesen","evangelisch-reformiert",694
+2021,3,"Gemeinde",34,"Laufen-Uhwiesen","römisch-katholisch",257
+2021,3,"Gemeinde",35,"Marthalen","christkatholisch",4
+2021,3,"Gemeinde",35,"Marthalen","evangelisch-reformiert",884
+2021,3,"Gemeinde",35,"Marthalen","römisch-katholisch",237
+2021,3,"Gemeinde",37,"Ossingen","christkatholisch",
+2021,3,"Gemeinde",37,"Ossingen","evangelisch-reformiert",719
+2021,3,"Gemeinde",37,"Ossingen","römisch-katholisch",231
+2021,3,"Gemeinde",38,"Rheinau","christkatholisch",
+2021,3,"Gemeinde",38,"Rheinau","evangelisch-reformiert",353
+2021,3,"Gemeinde",38,"Rheinau","römisch-katholisch",359
+2021,3,"Gemeinde",39,"Thalheim an der Thur","christkatholisch",0
+2021,3,"Gemeinde",39,"Thalheim an der Thur","evangelisch-reformiert",352
+2021,3,"Gemeinde",39,"Thalheim an der Thur","römisch-katholisch",100
+2021,3,"Gemeinde",40,"Trüllikon","christkatholisch",0
+2021,3,"Gemeinde",40,"Trüllikon","evangelisch-reformiert",469
+2021,3,"Gemeinde",40,"Trüllikon","römisch-katholisch",118
+2021,3,"Gemeinde",41,"Truttikon","christkatholisch",0
+2021,3,"Gemeinde",41,"Truttikon","evangelisch-reformiert",211
+2021,3,"Gemeinde",41,"Truttikon","römisch-katholisch",47
+2021,3,"Gemeinde",43,"Volken","christkatholisch",0
+2021,3,"Gemeinde",43,"Volken","evangelisch-reformiert",143
+2021,3,"Gemeinde",43,"Volken","römisch-katholisch",41
+2021,3,"Gemeinde",51,"Bachenbülach","christkatholisch",4
+2021,3,"Gemeinde",51,"Bachenbülach","evangelisch-reformiert",999
+2021,3,"Gemeinde",51,"Bachenbülach","römisch-katholisch",873
+2021,3,"Gemeinde",52,"Bassersdorf","christkatholisch",8
+2021,3,"Gemeinde",52,"Bassersdorf","evangelisch-reformiert",2594
+2021,3,"Gemeinde",52,"Bassersdorf","römisch-katholisch",2545
+2021,3,"Gemeinde",53,"Bülach","christkatholisch",38
+2021,3,"Gemeinde",53,"Bülach","evangelisch-reformiert",4874
+2021,3,"Gemeinde",53,"Bülach","römisch-katholisch",4761
+2021,3,"Gemeinde",54,"Dietlikon","christkatholisch",10
+2021,3,"Gemeinde",54,"Dietlikon","evangelisch-reformiert",1746
+2021,3,"Gemeinde",54,"Dietlikon","römisch-katholisch",1743
+2021,3,"Gemeinde",55,"Eglisau","christkatholisch",9
+2021,3,"Gemeinde",55,"Eglisau","evangelisch-reformiert",1446
+2021,3,"Gemeinde",55,"Eglisau","römisch-katholisch",918
+2021,3,"Gemeinde",56,"Embrach","christkatholisch",8
+2021,3,"Gemeinde",56,"Embrach","evangelisch-reformiert",2334
+2021,3,"Gemeinde",56,"Embrach","römisch-katholisch",2001
+2021,3,"Gemeinde",57,"Freienstein-Teufen","christkatholisch",4
+2021,3,"Gemeinde",57,"Freienstein-Teufen","evangelisch-reformiert",867
+2021,3,"Gemeinde",57,"Freienstein-Teufen","römisch-katholisch",398
+2021,3,"Gemeinde",58,"Glattfelden","christkatholisch",0
+2021,3,"Gemeinde",58,"Glattfelden","evangelisch-reformiert",1418
+2021,3,"Gemeinde",58,"Glattfelden","römisch-katholisch",1012
+2021,3,"Gemeinde",59,"Hochfelden","christkatholisch",
+2021,3,"Gemeinde",59,"Hochfelden","evangelisch-reformiert",612
+2021,3,"Gemeinde",59,"Hochfelden","römisch-katholisch",430
+2021,3,"Gemeinde",60,"Höri","christkatholisch",11
+2021,3,"Gemeinde",60,"Höri","evangelisch-reformiert",568
+2021,3,"Gemeinde",60,"Höri","römisch-katholisch",725
+2021,3,"Gemeinde",61,"Hüntwangen","christkatholisch",0
+2021,3,"Gemeinde",61,"Hüntwangen","evangelisch-reformiert",329
+2021,3,"Gemeinde",61,"Hüntwangen","römisch-katholisch",147
+2021,3,"Gemeinde",62,"Kloten","christkatholisch",93
+2021,3,"Gemeinde",62,"Kloten","evangelisch-reformiert",3938
+2021,3,"Gemeinde",62,"Kloten","römisch-katholisch",5115
+2021,3,"Gemeinde",63,"Lufingen","christkatholisch",0
+2021,3,"Gemeinde",63,"Lufingen","evangelisch-reformiert",574
+2021,3,"Gemeinde",63,"Lufingen","römisch-katholisch",497
+2021,3,"Gemeinde",64,"Nürensdorf","christkatholisch",6
+2021,3,"Gemeinde",64,"Nürensdorf","evangelisch-reformiert",1655
+2021,3,"Gemeinde",64,"Nürensdorf","römisch-katholisch",1132
+2021,3,"Gemeinde",65,"Oberembrach","christkatholisch",0
+2021,3,"Gemeinde",65,"Oberembrach","evangelisch-reformiert",444
+2021,3,"Gemeinde",65,"Oberembrach","römisch-katholisch",153
+2021,3,"Gemeinde",66,"Opfikon","christkatholisch",71
+2021,3,"Gemeinde",66,"Opfikon","evangelisch-reformiert",2425
+2021,3,"Gemeinde",66,"Opfikon","römisch-katholisch",4546
+2021,3,"Gemeinde",67,"Rafz","christkatholisch",5
+2021,3,"Gemeinde",67,"Rafz","evangelisch-reformiert",1434
+2021,3,"Gemeinde",67,"Rafz","römisch-katholisch",830
+2021,3,"Gemeinde",68,"Rorbas","christkatholisch",
+2021,3,"Gemeinde",68,"Rorbas","evangelisch-reformiert",737
+2021,3,"Gemeinde",68,"Rorbas","römisch-katholisch",544
+2021,3,"Gemeinde",69,"Wallisellen","christkatholisch",14
+2021,3,"Gemeinde",69,"Wallisellen","evangelisch-reformiert",3258
+2021,3,"Gemeinde",69,"Wallisellen","römisch-katholisch",3814
+2021,3,"Gemeinde",70,"Wasterkingen","christkatholisch",0
+2021,3,"Gemeinde",70,"Wasterkingen","evangelisch-reformiert",229
+2021,3,"Gemeinde",70,"Wasterkingen","römisch-katholisch",75
+2021,3,"Gemeinde",71,"Wil (ZH)","christkatholisch",
+2021,3,"Gemeinde",71,"Wil (ZH)","evangelisch-reformiert",553
+2021,3,"Gemeinde",71,"Wil (ZH)","römisch-katholisch",166
+2021,3,"Gemeinde",72,"Winkel","christkatholisch",7
+2021,3,"Gemeinde",72,"Winkel","evangelisch-reformiert",1246
+2021,3,"Gemeinde",72,"Winkel","römisch-katholisch",903
+2021,3,"Gemeinde",81,"Bachs","christkatholisch",0
+2021,3,"Gemeinde",81,"Bachs","evangelisch-reformiert",261
+2021,3,"Gemeinde",81,"Bachs","römisch-katholisch",86
+2021,3,"Gemeinde",82,"Boppelsen","christkatholisch",
+2021,3,"Gemeinde",82,"Boppelsen","evangelisch-reformiert",467
+2021,3,"Gemeinde",82,"Boppelsen","römisch-katholisch",248
+2021,3,"Gemeinde",83,"Buchs (ZH)","christkatholisch",27
+2021,3,"Gemeinde",83,"Buchs (ZH)","evangelisch-reformiert",1447
+2021,3,"Gemeinde",83,"Buchs (ZH)","römisch-katholisch",1482
+2021,3,"Gemeinde",84,"Dällikon","christkatholisch",5
+2021,3,"Gemeinde",84,"Dällikon","evangelisch-reformiert",838
+2021,3,"Gemeinde",84,"Dällikon","römisch-katholisch",1112
+2021,3,"Gemeinde",85,"Dänikon","christkatholisch",
+2021,3,"Gemeinde",85,"Dänikon","evangelisch-reformiert",418
+2021,3,"Gemeinde",85,"Dänikon","römisch-katholisch",403
+2021,3,"Gemeinde",86,"Dielsdorf","christkatholisch",7
+2021,3,"Gemeinde",86,"Dielsdorf","evangelisch-reformiert",1284
+2021,3,"Gemeinde",86,"Dielsdorf","römisch-katholisch",1462
+2021,3,"Gemeinde",87,"Hüttikon","christkatholisch",0
+2021,3,"Gemeinde",87,"Hüttikon","evangelisch-reformiert",211
+2021,3,"Gemeinde",87,"Hüttikon","römisch-katholisch",208
+2021,3,"Gemeinde",88,"Neerach","christkatholisch",4
+2021,3,"Gemeinde",88,"Neerach","evangelisch-reformiert",916
+2021,3,"Gemeinde",88,"Neerach","römisch-katholisch",553
+2021,3,"Gemeinde",89,"Niederglatt","christkatholisch",4
+2021,3,"Gemeinde",89,"Niederglatt","evangelisch-reformiert",1224
+2021,3,"Gemeinde",89,"Niederglatt","römisch-katholisch",1089
+2021,3,"Gemeinde",90,"Niederhasli","christkatholisch",9
+2021,3,"Gemeinde",90,"Niederhasli","evangelisch-reformiert",2053
+2021,3,"Gemeinde",90,"Niederhasli","römisch-katholisch",2031
+2021,3,"Gemeinde",91,"Niederweningen","christkatholisch",0
+2021,3,"Gemeinde",91,"Niederweningen","evangelisch-reformiert",850
+2021,3,"Gemeinde",91,"Niederweningen","römisch-katholisch",590
+2021,3,"Gemeinde",92,"Oberglatt","christkatholisch",8
+2021,3,"Gemeinde",92,"Oberglatt","evangelisch-reformiert",1113
+2021,3,"Gemeinde",92,"Oberglatt","römisch-katholisch",1548
+2021,3,"Gemeinde",93,"Oberweningen","christkatholisch",
+2021,3,"Gemeinde",93,"Oberweningen","evangelisch-reformiert",520
+2021,3,"Gemeinde",93,"Oberweningen","römisch-katholisch",345
+2021,3,"Gemeinde",94,"Otelfingen","christkatholisch",14
+2021,3,"Gemeinde",94,"Otelfingen","evangelisch-reformiert",799
+2021,3,"Gemeinde",94,"Otelfingen","römisch-katholisch",847
+2021,3,"Gemeinde",95,"Regensberg","christkatholisch",
+2021,3,"Gemeinde",95,"Regensberg","evangelisch-reformiert",174
+2021,3,"Gemeinde",95,"Regensberg","römisch-katholisch",43
+2021,3,"Gemeinde",96,"Regensdorf","christkatholisch",27
+2021,3,"Gemeinde",96,"Regensdorf","evangelisch-reformiert",3292
+2021,3,"Gemeinde",96,"Regensdorf","römisch-katholisch",4207
+2021,3,"Gemeinde",97,"Rümlang","christkatholisch",7
+2021,3,"Gemeinde",97,"Rümlang","evangelisch-reformiert",1524
+2021,3,"Gemeinde",97,"Rümlang","römisch-katholisch",1798
+2021,3,"Gemeinde",98,"Schleinikon","christkatholisch",4
+2021,3,"Gemeinde",98,"Schleinikon","evangelisch-reformiert",325
+2021,3,"Gemeinde",98,"Schleinikon","römisch-katholisch",155
+2021,3,"Gemeinde",99,"Schöfflisdorf","christkatholisch",5
+2021,3,"Gemeinde",99,"Schöfflisdorf","evangelisch-reformiert",447
+2021,3,"Gemeinde",99,"Schöfflisdorf","römisch-katholisch",249
+2021,3,"Gemeinde",100,"Stadel","christkatholisch",
+2021,3,"Gemeinde",100,"Stadel","evangelisch-reformiert",866
+2021,3,"Gemeinde",100,"Stadel","römisch-katholisch",321
+2021,3,"Gemeinde",101,"Steinmaur","christkatholisch",6
+2021,3,"Gemeinde",101,"Steinmaur","evangelisch-reformiert",1006
+2021,3,"Gemeinde",101,"Steinmaur","römisch-katholisch",785
+2021,3,"Gemeinde",102,"Weiach","christkatholisch",6
+2021,3,"Gemeinde",102,"Weiach","evangelisch-reformiert",516
+2021,3,"Gemeinde",102,"Weiach","römisch-katholisch",275
+2021,3,"Gemeinde",111,"Bäretswil","christkatholisch",0
+2021,3,"Gemeinde",111,"Bäretswil","evangelisch-reformiert",1794
+2021,3,"Gemeinde",111,"Bäretswil","römisch-katholisch",739
+2021,3,"Gemeinde",112,"Bubikon","christkatholisch",9
+2021,3,"Gemeinde",112,"Bubikon","evangelisch-reformiert",2317
+2021,3,"Gemeinde",112,"Bubikon","römisch-katholisch",1429
+2021,3,"Gemeinde",113,"Dürnten","christkatholisch",8
+2021,3,"Gemeinde",113,"Dürnten","evangelisch-reformiert",2078
+2021,3,"Gemeinde",113,"Dürnten","römisch-katholisch",1620
+2021,3,"Gemeinde",114,"Fischenthal","christkatholisch",0
+2021,3,"Gemeinde",114,"Fischenthal","evangelisch-reformiert",928
+2021,3,"Gemeinde",114,"Fischenthal","römisch-katholisch",433
+2021,3,"Gemeinde",115,"Gossau (ZH)","christkatholisch",7
+2021,3,"Gemeinde",115,"Gossau (ZH)","evangelisch-reformiert",3271
+2021,3,"Gemeinde",115,"Gossau (ZH)","römisch-katholisch",2023
+2021,3,"Gemeinde",116,"Grüningen","christkatholisch",
+2021,3,"Gemeinde",116,"Grüningen","evangelisch-reformiert",1289
+2021,3,"Gemeinde",116,"Grüningen","römisch-katholisch",673
+2021,3,"Gemeinde",117,"Hinwil","christkatholisch",6
+2021,3,"Gemeinde",117,"Hinwil","evangelisch-reformiert",3459
+2021,3,"Gemeinde",117,"Hinwil","römisch-katholisch",2296
+2021,3,"Gemeinde",118,"Rüti (ZH)","christkatholisch",10
+2021,3,"Gemeinde",118,"Rüti (ZH)","evangelisch-reformiert",2779
+2021,3,"Gemeinde",118,"Rüti (ZH)","römisch-katholisch",3120
+2021,3,"Gemeinde",119,"Seegräben","christkatholisch",6
+2021,3,"Gemeinde",119,"Seegräben","evangelisch-reformiert",450
+2021,3,"Gemeinde",119,"Seegräben","römisch-katholisch",240
+2021,3,"Gemeinde",120,"Wald (ZH)","christkatholisch",10
+2021,3,"Gemeinde",120,"Wald (ZH)","evangelisch-reformiert",2541
+2021,3,"Gemeinde",120,"Wald (ZH)","römisch-katholisch",2499
+2021,3,"Gemeinde",121,"Wetzikon (ZH)","christkatholisch",20
+2021,3,"Gemeinde",121,"Wetzikon (ZH)","evangelisch-reformiert",5455
+2021,3,"Gemeinde",121,"Wetzikon (ZH)","römisch-katholisch",5674
+2021,3,"Gemeinde",131,"Adliswil","christkatholisch",30
+2021,3,"Gemeinde",131,"Adliswil","evangelisch-reformiert",3290
+2021,3,"Gemeinde",131,"Adliswil","römisch-katholisch",4399
+2021,3,"Gemeinde",135,"Kilchberg (ZH)","christkatholisch",6
+2021,3,"Gemeinde",135,"Kilchberg (ZH)","evangelisch-reformiert",1893
+2021,3,"Gemeinde",135,"Kilchberg (ZH)","römisch-katholisch",1737
+2021,3,"Gemeinde",136,"Langnau am Albis","christkatholisch",12
+2021,3,"Gemeinde",136,"Langnau am Albis","evangelisch-reformiert",1719
+2021,3,"Gemeinde",136,"Langnau am Albis","römisch-katholisch",1926
+2021,3,"Gemeinde",137,"Oberrieden","christkatholisch",7
+2021,3,"Gemeinde",137,"Oberrieden","evangelisch-reformiert",1447
+2021,3,"Gemeinde",137,"Oberrieden","römisch-katholisch",1052
+2021,3,"Gemeinde",138,"Richterswil","christkatholisch",7
+2021,3,"Gemeinde",138,"Richterswil","evangelisch-reformiert",3384
+2021,3,"Gemeinde",138,"Richterswil","römisch-katholisch",3227
+2021,3,"Gemeinde",139,"Rüschlikon","christkatholisch",4
+2021,3,"Gemeinde",139,"Rüschlikon","evangelisch-reformiert",1188
+2021,3,"Gemeinde",139,"Rüschlikon","römisch-katholisch",1214
+2021,3,"Gemeinde",141,"Thalwil","christkatholisch",18
+2021,3,"Gemeinde",141,"Thalwil","evangelisch-reformiert",3938
+2021,3,"Gemeinde",141,"Thalwil","römisch-katholisch",4235
+2021,3,"Gemeinde",151,"Erlenbach (ZH)","christkatholisch",13
+2021,3,"Gemeinde",151,"Erlenbach (ZH)","evangelisch-reformiert",1500
+2021,3,"Gemeinde",151,"Erlenbach (ZH)","römisch-katholisch",1153
+2021,3,"Gemeinde",152,"Herrliberg","christkatholisch",7
+2021,3,"Gemeinde",152,"Herrliberg","evangelisch-reformiert",1808
+2021,3,"Gemeinde",152,"Herrliberg","römisch-katholisch",1345
+2021,3,"Gemeinde",153,"Hombrechtikon","christkatholisch",10
+2021,3,"Gemeinde",153,"Hombrechtikon","evangelisch-reformiert",2432
+2021,3,"Gemeinde",153,"Hombrechtikon","römisch-katholisch",2012
+2021,3,"Gemeinde",154,"Küsnacht (ZH)","christkatholisch",23
+2021,3,"Gemeinde",154,"Küsnacht (ZH)","evangelisch-reformiert",3831
+2021,3,"Gemeinde",154,"Küsnacht (ZH)","römisch-katholisch",2912
+2021,3,"Gemeinde",155,"Männedorf","christkatholisch",15
+2021,3,"Gemeinde",155,"Männedorf","evangelisch-reformiert",2985
+2021,3,"Gemeinde",155,"Männedorf","römisch-katholisch",2220
+2021,3,"Gemeinde",156,"Meilen","christkatholisch",16
+2021,3,"Gemeinde",156,"Meilen","evangelisch-reformiert",3912
+2021,3,"Gemeinde",156,"Meilen","römisch-katholisch",2866
+2021,3,"Gemeinde",157,"Oetwil am See","christkatholisch",
+2021,3,"Gemeinde",157,"Oetwil am See","evangelisch-reformiert",1111
+2021,3,"Gemeinde",157,"Oetwil am See","römisch-katholisch",1070
+2021,3,"Gemeinde",158,"Stäfa","christkatholisch",11
+2021,3,"Gemeinde",158,"Stäfa","evangelisch-reformiert",4256
+2021,3,"Gemeinde",158,"Stäfa","römisch-katholisch",2903
+2021,3,"Gemeinde",159,"Uetikon am See","christkatholisch",
+2021,3,"Gemeinde",159,"Uetikon am See","evangelisch-reformiert",1732
+2021,3,"Gemeinde",159,"Uetikon am See","römisch-katholisch",1269
+2021,3,"Gemeinde",160,"Zumikon","christkatholisch",5
+2021,3,"Gemeinde",160,"Zumikon","evangelisch-reformiert",1488
+2021,3,"Gemeinde",160,"Zumikon","römisch-katholisch",1108
+2021,3,"Gemeinde",161,"Zollikon","christkatholisch",14
+2021,3,"Gemeinde",161,"Zollikon","evangelisch-reformiert",3263
+2021,3,"Gemeinde",161,"Zollikon","römisch-katholisch",2587
+2021,3,"Gemeinde",172,"Fehraltorf","christkatholisch",15
+2021,3,"Gemeinde",172,"Fehraltorf","evangelisch-reformiert",1835
+2021,3,"Gemeinde",172,"Fehraltorf","römisch-katholisch",1289
+2021,3,"Gemeinde",173,"Hittnau","christkatholisch",
+2021,3,"Gemeinde",173,"Hittnau","evangelisch-reformiert",1337
+2021,3,"Gemeinde",173,"Hittnau","römisch-katholisch",577
+2021,3,"Gemeinde",176,"Lindau","christkatholisch",5
+2021,3,"Gemeinde",176,"Lindau","evangelisch-reformiert",1527
+2021,3,"Gemeinde",176,"Lindau","römisch-katholisch",1090
+2021,3,"Gemeinde",177,"Pfäffikon","christkatholisch",
+2021,3,"Gemeinde",177,"Pfäffikon","evangelisch-reformiert",3755
+2021,3,"Gemeinde",177,"Pfäffikon","römisch-katholisch",2230
+2021,3,"Gemeinde",178,"Russikon","christkatholisch",4
+2021,3,"Gemeinde",178,"Russikon","evangelisch-reformiert",1496
+2021,3,"Gemeinde",178,"Russikon","römisch-katholisch",742
+2021,3,"Gemeinde",180,"Weisslingen","christkatholisch",0
+2021,3,"Gemeinde",180,"Weisslingen","evangelisch-reformiert",1249
+2021,3,"Gemeinde",180,"Weisslingen","römisch-katholisch",510
+2021,3,"Gemeinde",181,"Wila","christkatholisch",0
+2021,3,"Gemeinde",181,"Wila","evangelisch-reformiert",745
+2021,3,"Gemeinde",181,"Wila","römisch-katholisch",294
+2021,3,"Gemeinde",182,"Wildberg","christkatholisch",
+2021,3,"Gemeinde",182,"Wildberg","evangelisch-reformiert",439
+2021,3,"Gemeinde",182,"Wildberg","römisch-katholisch",114
+2021,3,"Gemeinde",191,"Dübendorf","christkatholisch",56
+2021,3,"Gemeinde",191,"Dübendorf","evangelisch-reformiert",5565
+2021,3,"Gemeinde",191,"Dübendorf","römisch-katholisch",7133
+2021,3,"Gemeinde",192,"Egg","christkatholisch",6
+2021,3,"Gemeinde",192,"Egg","evangelisch-reformiert",2423
+2021,3,"Gemeinde",192,"Egg","römisch-katholisch",1996
+2021,3,"Gemeinde",193,"Fällanden","christkatholisch",14
+2021,3,"Gemeinde",193,"Fällanden","evangelisch-reformiert",1858
+2021,3,"Gemeinde",193,"Fällanden","römisch-katholisch",1858
+2021,3,"Gemeinde",194,"Greifensee","christkatholisch",4
+2021,3,"Gemeinde",194,"Greifensee","evangelisch-reformiert",1343
+2021,3,"Gemeinde",194,"Greifensee","römisch-katholisch",1048
+2021,3,"Gemeinde",195,"Maur","christkatholisch",8
+2021,3,"Gemeinde",195,"Maur","evangelisch-reformiert",2943
+2021,3,"Gemeinde",195,"Maur","römisch-katholisch",2062
+2021,3,"Gemeinde",196,"Mönchaltorf","christkatholisch",6
+2021,3,"Gemeinde",196,"Mönchaltorf","evangelisch-reformiert",1193
+2021,3,"Gemeinde",196,"Mönchaltorf","römisch-katholisch",687
+2021,3,"Gemeinde",197,"Schwerzenbach","christkatholisch",5
+2021,3,"Gemeinde",197,"Schwerzenbach","evangelisch-reformiert",1130
+2021,3,"Gemeinde",197,"Schwerzenbach","römisch-katholisch",1103
+2021,3,"Gemeinde",198,"Uster","christkatholisch",42
+2021,3,"Gemeinde",198,"Uster","evangelisch-reformiert",8874
+2021,3,"Gemeinde",198,"Uster","römisch-katholisch",7743
+2021,3,"Gemeinde",199,"Volketswil","christkatholisch",17
+2021,3,"Gemeinde",199,"Volketswil","evangelisch-reformiert",4098
+2021,3,"Gemeinde",199,"Volketswil","römisch-katholisch",3880
+2021,3,"Gemeinde",200,"Wangen-Brüttisellen","christkatholisch",6
+2021,3,"Gemeinde",200,"Wangen-Brüttisellen","evangelisch-reformiert",1585
+2021,3,"Gemeinde",200,"Wangen-Brüttisellen","römisch-katholisch",1757
+2021,3,"Gemeinde",211,"Altikon","christkatholisch",
+2021,3,"Gemeinde",211,"Altikon","evangelisch-reformiert",338
+2021,3,"Gemeinde",211,"Altikon","römisch-katholisch",75
+2021,3,"Gemeinde",213,"Brütten","christkatholisch",0
+2021,3,"Gemeinde",213,"Brütten","evangelisch-reformiert",801
+2021,3,"Gemeinde",213,"Brütten","römisch-katholisch",318
+2021,3,"Gemeinde",214,"Dägerlen","christkatholisch",0
+2021,3,"Gemeinde",214,"Dägerlen","evangelisch-reformiert",485
+2021,3,"Gemeinde",214,"Dägerlen","römisch-katholisch",121
+2021,3,"Gemeinde",215,"Dättlikon","christkatholisch",
+2021,3,"Gemeinde",215,"Dättlikon","evangelisch-reformiert",275
+2021,3,"Gemeinde",215,"Dättlikon","römisch-katholisch",88
+2021,3,"Gemeinde",216,"Dinhard","christkatholisch",
+2021,3,"Gemeinde",216,"Dinhard","evangelisch-reformiert",721
+2021,3,"Gemeinde",216,"Dinhard","römisch-katholisch",235
+2021,3,"Gemeinde",218,"Ellikon an der Thur","christkatholisch",
+2021,3,"Gemeinde",218,"Ellikon an der Thur","evangelisch-reformiert",404
+2021,3,"Gemeinde",218,"Ellikon an der Thur","römisch-katholisch",160
+2021,3,"Gemeinde",219,"Elsau","christkatholisch",
+2021,3,"Gemeinde",219,"Elsau","evangelisch-reformiert",1114
+2021,3,"Gemeinde",219,"Elsau","römisch-katholisch",706
+2021,3,"Gemeinde",220,"Hagenbuch","christkatholisch",
+2021,3,"Gemeinde",220,"Hagenbuch","evangelisch-reformiert",427
+2021,3,"Gemeinde",220,"Hagenbuch","römisch-katholisch",195
+2021,3,"Gemeinde",221,"Hettlingen","christkatholisch",
+2021,3,"Gemeinde",221,"Hettlingen","evangelisch-reformiert",1248
+2021,3,"Gemeinde",221,"Hettlingen","römisch-katholisch",502
+2021,3,"Gemeinde",223,"Neftenbach","christkatholisch",
+2021,3,"Gemeinde",223,"Neftenbach","evangelisch-reformiert",2039
+2021,3,"Gemeinde",223,"Neftenbach","römisch-katholisch",874
+2021,3,"Gemeinde",224,"Pfungen","christkatholisch",0
+2021,3,"Gemeinde",224,"Pfungen","evangelisch-reformiert",982
+2021,3,"Gemeinde",224,"Pfungen","römisch-katholisch",658
+2021,3,"Gemeinde",225,"Rickenbach (ZH)","christkatholisch",
+2021,3,"Gemeinde",225,"Rickenbach (ZH)","evangelisch-reformiert",945
+2021,3,"Gemeinde",225,"Rickenbach (ZH)","römisch-katholisch",454
+2021,3,"Gemeinde",226,"Schlatt (ZH)","christkatholisch",
+2021,3,"Gemeinde",226,"Schlatt (ZH)","evangelisch-reformiert",309
+2021,3,"Gemeinde",226,"Schlatt (ZH)","römisch-katholisch",76
+2021,3,"Gemeinde",227,"Seuzach","christkatholisch",5
+2021,3,"Gemeinde",227,"Seuzach","evangelisch-reformiert",2638
+2021,3,"Gemeinde",227,"Seuzach","römisch-katholisch",1624
+2021,3,"Gemeinde",228,"Turbenthal","christkatholisch",4
+2021,3,"Gemeinde",228,"Turbenthal","evangelisch-reformiert",1567
+2021,3,"Gemeinde",228,"Turbenthal","römisch-katholisch",796
+2021,3,"Gemeinde",230,"Winterthur","christkatholisch",143
+2021,3,"Gemeinde",230,"Winterthur","evangelisch-reformiert",27604
+2021,3,"Gemeinde",230,"Winterthur","römisch-katholisch",21408
+2021,3,"Gemeinde",231,"Zell (ZH)","christkatholisch",0
+2021,3,"Gemeinde",231,"Zell (ZH)","evangelisch-reformiert",1681
+2021,3,"Gemeinde",231,"Zell (ZH)","römisch-katholisch",1057
+2021,3,"Gemeinde",241,"Aesch (ZH)","christkatholisch",8
+2021,3,"Gemeinde",241,"Aesch (ZH)","evangelisch-reformiert",465
+2021,3,"Gemeinde",241,"Aesch (ZH)","römisch-katholisch",303
+2021,3,"Gemeinde",242,"Birmensdorf (ZH)","christkatholisch",12
+2021,3,"Gemeinde",242,"Birmensdorf (ZH)","evangelisch-reformiert",1620
+2021,3,"Gemeinde",242,"Birmensdorf (ZH)","römisch-katholisch",1434
+2021,3,"Gemeinde",243,"Dietikon","christkatholisch",41
+2021,3,"Gemeinde",243,"Dietikon","evangelisch-reformiert",3275
+2021,3,"Gemeinde",243,"Dietikon","römisch-katholisch",7412
+2021,3,"Gemeinde",244,"Geroldswil","christkatholisch",9
+2021,3,"Gemeinde",244,"Geroldswil","evangelisch-reformiert",929
+2021,3,"Gemeinde",244,"Geroldswil","römisch-katholisch",1257
+2021,3,"Gemeinde",245,"Oberengstringen","christkatholisch",18
+2021,3,"Gemeinde",245,"Oberengstringen","evangelisch-reformiert",1223
+2021,3,"Gemeinde",245,"Oberengstringen","römisch-katholisch",1760
+2021,3,"Gemeinde",246,"Oetwil an der Limmat","christkatholisch",
+2021,3,"Gemeinde",246,"Oetwil an der Limmat","evangelisch-reformiert",585
+2021,3,"Gemeinde",246,"Oetwil an der Limmat","römisch-katholisch",605
+2021,3,"Gemeinde",247,"Schlieren","christkatholisch",37
+2021,3,"Gemeinde",247,"Schlieren","evangelisch-reformiert",2271
+2021,3,"Gemeinde",247,"Schlieren","römisch-katholisch",5782
+2021,3,"Gemeinde",248,"Uitikon","christkatholisch",10
+2021,3,"Gemeinde",248,"Uitikon","evangelisch-reformiert",1280
+2021,3,"Gemeinde",248,"Uitikon","römisch-katholisch",956
+2021,3,"Gemeinde",249,"Unterengstringen","christkatholisch",4
+2021,3,"Gemeinde",249,"Unterengstringen","evangelisch-reformiert",825
+2021,3,"Gemeinde",249,"Unterengstringen","römisch-katholisch",980
+2021,3,"Gemeinde",250,"Urdorf","christkatholisch",22
+2021,3,"Gemeinde",250,"Urdorf","evangelisch-reformiert",2185
+2021,3,"Gemeinde",250,"Urdorf","römisch-katholisch",2817
+2021,3,"Gemeinde",251,"Weiningen (ZH)","christkatholisch",6
+2021,3,"Gemeinde",251,"Weiningen (ZH)","evangelisch-reformiert",976
+2021,3,"Gemeinde",251,"Weiningen (ZH)","römisch-katholisch",1125
+2021,3,"Gemeinde",261,"Zürich","christkatholisch",612
+2021,3,"Gemeinde",261,"Zürich","evangelisch-reformiert",70760
+2021,3,"Gemeinde",261,"Zürich","römisch-katholisch",92606
+2021,3,"Gemeinde",292,"Stammheim","christkatholisch",4
+2021,3,"Gemeinde",292,"Stammheim","evangelisch-reformiert",1416
+2021,3,"Gemeinde",292,"Stammheim","römisch-katholisch",388
+2021,3,"Gemeinde",293,"Wädenswil","christkatholisch",18
+2021,3,"Gemeinde",293,"Wädenswil","evangelisch-reformiert",6537
+2021,3,"Gemeinde",293,"Wädenswil","römisch-katholisch",5820
+2021,3,"Gemeinde",294,"Elgg","christkatholisch",
+2021,3,"Gemeinde",294,"Elgg","evangelisch-reformiert",1779
+2021,3,"Gemeinde",294,"Elgg","römisch-katholisch",829
+2021,3,"Gemeinde",295,"Horgen","christkatholisch",22
+2021,3,"Gemeinde",295,"Horgen","evangelisch-reformiert",5137
+2021,3,"Gemeinde",295,"Horgen","römisch-katholisch",5307
+2021,3,"Gemeinde",296,"Illnau-Effretikon","christkatholisch",13
+2021,3,"Gemeinde",296,"Illnau-Effretikon","evangelisch-reformiert",4385
+2021,3,"Gemeinde",296,"Illnau-Effretikon","römisch-katholisch",3285
+2021,3,"Gemeinde",297,"Bauma","christkatholisch",5
+2021,3,"Gemeinde",297,"Bauma","evangelisch-reformiert",1820
+2021,3,"Gemeinde",297,"Bauma","römisch-katholisch",773
+2021,3,"Gemeinde",298,"Wiesendangen","christkatholisch",8
+2021,3,"Gemeinde",298,"Wiesendangen","evangelisch-reformiert",2463
+2021,3,"Gemeinde",298,"Wiesendangen","römisch-katholisch",1150
+2020,1,"Kanton",1,"Kanton Zürich","christkatholisch",2031
+2020,1,"Kanton",1,"Kanton Zürich","evangelisch-reformiert",358331
+2020,1,"Kanton",1,"Kanton Zürich","römisch-katholisch",336575
+2020,3,"Gemeinde",1,"Aeugst am Albis","christkatholisch",
+2020,3,"Gemeinde",1,"Aeugst am Albis","evangelisch-reformiert",620
+2020,3,"Gemeinde",1,"Aeugst am Albis","römisch-katholisch",335
+2020,3,"Gemeinde",2,"Affoltern am Albis","christkatholisch",20
+2020,3,"Gemeinde",2,"Affoltern am Albis","evangelisch-reformiert",3042
+2020,3,"Gemeinde",2,"Affoltern am Albis","römisch-katholisch",3002
+2020,3,"Gemeinde",3,"Bonstetten","christkatholisch",
+2020,3,"Gemeinde",3,"Bonstetten","evangelisch-reformiert",1437
+2020,3,"Gemeinde",3,"Bonstetten","römisch-katholisch",1117
+2020,3,"Gemeinde",4,"Hausen am Albis","christkatholisch",
+2020,3,"Gemeinde",4,"Hausen am Albis","evangelisch-reformiert",1065
+2020,3,"Gemeinde",4,"Hausen am Albis","römisch-katholisch",880
+2020,3,"Gemeinde",5,"Hedingen","christkatholisch",8
+2020,3,"Gemeinde",5,"Hedingen","evangelisch-reformiert",1176
+2020,3,"Gemeinde",5,"Hedingen","römisch-katholisch",780
+2020,3,"Gemeinde",6,"Kappel am Albis","christkatholisch",0
+2020,3,"Gemeinde",6,"Kappel am Albis","evangelisch-reformiert",358
+2020,3,"Gemeinde",6,"Kappel am Albis","römisch-katholisch",222
+2020,3,"Gemeinde",7,"Knonau","christkatholisch",5
+2020,3,"Gemeinde",7,"Knonau","evangelisch-reformiert",574
+2020,3,"Gemeinde",7,"Knonau","römisch-katholisch",638
+2020,3,"Gemeinde",8,"Maschwanden","christkatholisch",
+2020,3,"Gemeinde",8,"Maschwanden","evangelisch-reformiert",236
+2020,3,"Gemeinde",8,"Maschwanden","römisch-katholisch",139
+2020,3,"Gemeinde",9,"Mettmenstetten","christkatholisch",7
+2020,3,"Gemeinde",9,"Mettmenstetten","evangelisch-reformiert",1609
+2020,3,"Gemeinde",9,"Mettmenstetten","römisch-katholisch",1177
+2020,3,"Gemeinde",10,"Obfelden","christkatholisch",0
+2020,3,"Gemeinde",10,"Obfelden","evangelisch-reformiert",1399
+2020,3,"Gemeinde",10,"Obfelden","römisch-katholisch",1281
+2020,3,"Gemeinde",11,"Ottenbach","christkatholisch",
+2020,3,"Gemeinde",11,"Ottenbach","evangelisch-reformiert",772
+2020,3,"Gemeinde",11,"Ottenbach","römisch-katholisch",613
+2020,3,"Gemeinde",12,"Rifferswil","christkatholisch",
+2020,3,"Gemeinde",12,"Rifferswil","evangelisch-reformiert",384
+2020,3,"Gemeinde",12,"Rifferswil","römisch-katholisch",168
+2020,3,"Gemeinde",13,"Stallikon","christkatholisch",11
+2020,3,"Gemeinde",13,"Stallikon","evangelisch-reformiert",910
+2020,3,"Gemeinde",13,"Stallikon","römisch-katholisch",713
+2020,3,"Gemeinde",14,"Wettswil am Albis","christkatholisch",6
+2020,3,"Gemeinde",14,"Wettswil am Albis","evangelisch-reformiert",1326
+2020,3,"Gemeinde",14,"Wettswil am Albis","römisch-katholisch",1057
+2020,3,"Gemeinde",21,"Adlikon (bis 2022)","christkatholisch",
+2020,3,"Gemeinde",21,"Adlikon (bis 2022)","evangelisch-reformiert",298
+2020,3,"Gemeinde",21,"Adlikon (bis 2022)","römisch-katholisch",56
+2020,3,"Gemeinde",22,"Benken (ZH)","christkatholisch",
+2020,3,"Gemeinde",22,"Benken (ZH)","evangelisch-reformiert",353
+2020,3,"Gemeinde",22,"Benken (ZH)","römisch-katholisch",117
+2020,3,"Gemeinde",23,"Berg am Irchel","christkatholisch",0
+2020,3,"Gemeinde",23,"Berg am Irchel","evangelisch-reformiert",322
+2020,3,"Gemeinde",23,"Berg am Irchel","römisch-katholisch",58
+2020,3,"Gemeinde",24,"Buch am Irchel","christkatholisch",0
+2020,3,"Gemeinde",24,"Buch am Irchel","evangelisch-reformiert",454
+2020,3,"Gemeinde",24,"Buch am Irchel","römisch-katholisch",101
+2020,3,"Gemeinde",25,"Dachsen","christkatholisch",0
+2020,3,"Gemeinde",25,"Dachsen","evangelisch-reformiert",710
+2020,3,"Gemeinde",25,"Dachsen","römisch-katholisch",347
+2020,3,"Gemeinde",26,"Dorf","christkatholisch",
+2020,3,"Gemeinde",26,"Dorf","evangelisch-reformiert",275
+2020,3,"Gemeinde",26,"Dorf","römisch-katholisch",80
+2020,3,"Gemeinde",27,"Feuerthalen","christkatholisch",7
+2020,3,"Gemeinde",27,"Feuerthalen","evangelisch-reformiert",1058
+2020,3,"Gemeinde",27,"Feuerthalen","römisch-katholisch",766
+2020,3,"Gemeinde",28,"Flaach","christkatholisch",0
+2020,3,"Gemeinde",28,"Flaach","evangelisch-reformiert",596
+2020,3,"Gemeinde",28,"Flaach","römisch-katholisch",201
+2020,3,"Gemeinde",29,"Flurlingen","christkatholisch",0
+2020,3,"Gemeinde",29,"Flurlingen","evangelisch-reformiert",537
+2020,3,"Gemeinde",29,"Flurlingen","römisch-katholisch",257
+2020,3,"Gemeinde",30,"Andelfingen (bis 2022)","christkatholisch",
+2020,3,"Gemeinde",30,"Andelfingen (bis 2022)","evangelisch-reformiert",928
+2020,3,"Gemeinde",30,"Andelfingen (bis 2022)","römisch-katholisch",368
+2020,3,"Gemeinde",31,"Henggart","christkatholisch",0
+2020,3,"Gemeinde",31,"Henggart","evangelisch-reformiert",990
+2020,3,"Gemeinde",31,"Henggart","römisch-katholisch",348
+2020,3,"Gemeinde",32,"Humlikon (bis 2022)","christkatholisch",0
+2020,3,"Gemeinde",32,"Humlikon (bis 2022)","evangelisch-reformiert",208
+2020,3,"Gemeinde",32,"Humlikon (bis 2022)","römisch-katholisch",59
+2020,3,"Gemeinde",33,"Kleinandelfingen","christkatholisch",0
+2020,3,"Gemeinde",33,"Kleinandelfingen","evangelisch-reformiert",870
+2020,3,"Gemeinde",33,"Kleinandelfingen","römisch-katholisch",337
+2020,3,"Gemeinde",34,"Laufen-Uhwiesen","christkatholisch",
+2020,3,"Gemeinde",34,"Laufen-Uhwiesen","evangelisch-reformiert",707
+2020,3,"Gemeinde",34,"Laufen-Uhwiesen","römisch-katholisch",258
+2020,3,"Gemeinde",35,"Marthalen","christkatholisch",
+2020,3,"Gemeinde",35,"Marthalen","evangelisch-reformiert",904
+2020,3,"Gemeinde",35,"Marthalen","römisch-katholisch",233
+2020,3,"Gemeinde",37,"Ossingen","christkatholisch",
+2020,3,"Gemeinde",37,"Ossingen","evangelisch-reformiert",726
+2020,3,"Gemeinde",37,"Ossingen","römisch-katholisch",242
+2020,3,"Gemeinde",38,"Rheinau","christkatholisch",
+2020,3,"Gemeinde",38,"Rheinau","evangelisch-reformiert",354
+2020,3,"Gemeinde",38,"Rheinau","römisch-katholisch",364
+2020,3,"Gemeinde",39,"Thalheim an der Thur","christkatholisch",0
+2020,3,"Gemeinde",39,"Thalheim an der Thur","evangelisch-reformiert",351
+2020,3,"Gemeinde",39,"Thalheim an der Thur","römisch-katholisch",106
+2020,3,"Gemeinde",40,"Trüllikon","christkatholisch",0
+2020,3,"Gemeinde",40,"Trüllikon","evangelisch-reformiert",485
+2020,3,"Gemeinde",40,"Trüllikon","römisch-katholisch",136
+2020,3,"Gemeinde",41,"Truttikon","christkatholisch",0
+2020,3,"Gemeinde",41,"Truttikon","evangelisch-reformiert",209
+2020,3,"Gemeinde",41,"Truttikon","römisch-katholisch",44
+2020,3,"Gemeinde",43,"Volken","christkatholisch",0
+2020,3,"Gemeinde",43,"Volken","evangelisch-reformiert",153
+2020,3,"Gemeinde",43,"Volken","römisch-katholisch",39
+2020,3,"Gemeinde",51,"Bachenbülach","christkatholisch",7
+2020,3,"Gemeinde",51,"Bachenbülach","evangelisch-reformiert",1015
+2020,3,"Gemeinde",51,"Bachenbülach","römisch-katholisch",888
+2020,3,"Gemeinde",52,"Bassersdorf","christkatholisch",10
+2020,3,"Gemeinde",52,"Bassersdorf","evangelisch-reformiert",2696
+2020,3,"Gemeinde",52,"Bassersdorf","römisch-katholisch",2606
+2020,3,"Gemeinde",53,"Bülach","christkatholisch",47
+2020,3,"Gemeinde",53,"Bülach","evangelisch-reformiert",5061
+2020,3,"Gemeinde",53,"Bülach","römisch-katholisch",4834
+2020,3,"Gemeinde",54,"Dietlikon","christkatholisch",11
+2020,3,"Gemeinde",54,"Dietlikon","evangelisch-reformiert",1814
+2020,3,"Gemeinde",54,"Dietlikon","römisch-katholisch",1798
+2020,3,"Gemeinde",55,"Eglisau","christkatholisch",9
+2020,3,"Gemeinde",55,"Eglisau","evangelisch-reformiert",1470
+2020,3,"Gemeinde",55,"Eglisau","römisch-katholisch",927
+2020,3,"Gemeinde",56,"Embrach","christkatholisch",8
+2020,3,"Gemeinde",56,"Embrach","evangelisch-reformiert",2355
+2020,3,"Gemeinde",56,"Embrach","römisch-katholisch",2007
+2020,3,"Gemeinde",57,"Freienstein-Teufen","christkatholisch",4
+2020,3,"Gemeinde",57,"Freienstein-Teufen","evangelisch-reformiert",895
+2020,3,"Gemeinde",57,"Freienstein-Teufen","römisch-katholisch",396
+2020,3,"Gemeinde",58,"Glattfelden","christkatholisch",
+2020,3,"Gemeinde",58,"Glattfelden","evangelisch-reformiert",1449
+2020,3,"Gemeinde",58,"Glattfelden","römisch-katholisch",1028
+2020,3,"Gemeinde",59,"Hochfelden","christkatholisch",
+2020,3,"Gemeinde",59,"Hochfelden","evangelisch-reformiert",630
+2020,3,"Gemeinde",59,"Hochfelden","römisch-katholisch",435
+2020,3,"Gemeinde",60,"Höri","christkatholisch",10
+2020,3,"Gemeinde",60,"Höri","evangelisch-reformiert",573
+2020,3,"Gemeinde",60,"Höri","römisch-katholisch",708
+2020,3,"Gemeinde",61,"Hüntwangen","christkatholisch",0
+2020,3,"Gemeinde",61,"Hüntwangen","evangelisch-reformiert",337
+2020,3,"Gemeinde",61,"Hüntwangen","römisch-katholisch",130
+2020,3,"Gemeinde",62,"Kloten","christkatholisch",85
+2020,3,"Gemeinde",62,"Kloten","evangelisch-reformiert",4107
+2020,3,"Gemeinde",62,"Kloten","römisch-katholisch",5194
+2020,3,"Gemeinde",63,"Lufingen","christkatholisch",0
+2020,3,"Gemeinde",63,"Lufingen","evangelisch-reformiert",561
+2020,3,"Gemeinde",63,"Lufingen","römisch-katholisch",494
+2020,3,"Gemeinde",64,"Nürensdorf","christkatholisch",8
+2020,3,"Gemeinde",64,"Nürensdorf","evangelisch-reformiert",1660
+2020,3,"Gemeinde",64,"Nürensdorf","römisch-katholisch",1143
+2020,3,"Gemeinde",65,"Oberembrach","christkatholisch",0
+2020,3,"Gemeinde",65,"Oberembrach","evangelisch-reformiert",452
+2020,3,"Gemeinde",65,"Oberembrach","römisch-katholisch",148
+2020,3,"Gemeinde",66,"Opfikon","christkatholisch",77
+2020,3,"Gemeinde",66,"Opfikon","evangelisch-reformiert",2559
+2020,3,"Gemeinde",66,"Opfikon","römisch-katholisch",4507
+2020,3,"Gemeinde",67,"Rafz","christkatholisch",8
+2020,3,"Gemeinde",67,"Rafz","evangelisch-reformiert",1457
+2020,3,"Gemeinde",67,"Rafz","römisch-katholisch",810
+2020,3,"Gemeinde",68,"Rorbas","christkatholisch",
+2020,3,"Gemeinde",68,"Rorbas","evangelisch-reformiert",759
+2020,3,"Gemeinde",68,"Rorbas","römisch-katholisch",554
+2020,3,"Gemeinde",69,"Wallisellen","christkatholisch",11
+2020,3,"Gemeinde",69,"Wallisellen","evangelisch-reformiert",3365
+2020,3,"Gemeinde",69,"Wallisellen","römisch-katholisch",3905
+2020,3,"Gemeinde",70,"Wasterkingen","christkatholisch",0
+2020,3,"Gemeinde",70,"Wasterkingen","evangelisch-reformiert",237
+2020,3,"Gemeinde",70,"Wasterkingen","römisch-katholisch",78
+2020,3,"Gemeinde",71,"Wil (ZH)","christkatholisch",
+2020,3,"Gemeinde",71,"Wil (ZH)","evangelisch-reformiert",574
+2020,3,"Gemeinde",71,"Wil (ZH)","römisch-katholisch",180
+2020,3,"Gemeinde",72,"Winkel","christkatholisch",6
+2020,3,"Gemeinde",72,"Winkel","evangelisch-reformiert",1269
+2020,3,"Gemeinde",72,"Winkel","römisch-katholisch",871
+2020,3,"Gemeinde",81,"Bachs","christkatholisch",0
+2020,3,"Gemeinde",81,"Bachs","evangelisch-reformiert",272
+2020,3,"Gemeinde",81,"Bachs","römisch-katholisch",85
+2020,3,"Gemeinde",82,"Boppelsen","christkatholisch",
+2020,3,"Gemeinde",82,"Boppelsen","evangelisch-reformiert",472
+2020,3,"Gemeinde",82,"Boppelsen","römisch-katholisch",255
+2020,3,"Gemeinde",83,"Buchs (ZH)","christkatholisch",33
+2020,3,"Gemeinde",83,"Buchs (ZH)","evangelisch-reformiert",1483
+2020,3,"Gemeinde",83,"Buchs (ZH)","römisch-katholisch",1506
+2020,3,"Gemeinde",84,"Dällikon","christkatholisch",6
+2020,3,"Gemeinde",84,"Dällikon","evangelisch-reformiert",855
+2020,3,"Gemeinde",84,"Dällikon","römisch-katholisch",1124
+2020,3,"Gemeinde",85,"Dänikon","christkatholisch",
+2020,3,"Gemeinde",85,"Dänikon","evangelisch-reformiert",427
+2020,3,"Gemeinde",85,"Dänikon","römisch-katholisch",436
+2020,3,"Gemeinde",86,"Dielsdorf","christkatholisch",9
+2020,3,"Gemeinde",86,"Dielsdorf","evangelisch-reformiert",1318
+2020,3,"Gemeinde",86,"Dielsdorf","römisch-katholisch",1442
+2020,3,"Gemeinde",87,"Hüttikon","christkatholisch",0
+2020,3,"Gemeinde",87,"Hüttikon","evangelisch-reformiert",225
+2020,3,"Gemeinde",87,"Hüttikon","römisch-katholisch",208
+2020,3,"Gemeinde",88,"Neerach","christkatholisch",6
+2020,3,"Gemeinde",88,"Neerach","evangelisch-reformiert",960
+2020,3,"Gemeinde",88,"Neerach","römisch-katholisch",565
+2020,3,"Gemeinde",89,"Niederglatt","christkatholisch",5
+2020,3,"Gemeinde",89,"Niederglatt","evangelisch-reformiert",1247
+2020,3,"Gemeinde",89,"Niederglatt","römisch-katholisch",1090
+2020,3,"Gemeinde",90,"Niederhasli","christkatholisch",8
+2020,3,"Gemeinde",90,"Niederhasli","evangelisch-reformiert",2131
+2020,3,"Gemeinde",90,"Niederhasli","römisch-katholisch",2081
+2020,3,"Gemeinde",91,"Niederweningen","christkatholisch",0
+2020,3,"Gemeinde",91,"Niederweningen","evangelisch-reformiert",869
+2020,3,"Gemeinde",91,"Niederweningen","römisch-katholisch",613
+2020,3,"Gemeinde",92,"Oberglatt","christkatholisch",8
+2020,3,"Gemeinde",92,"Oberglatt","evangelisch-reformiert",1168
+2020,3,"Gemeinde",92,"Oberglatt","römisch-katholisch",1593
+2020,3,"Gemeinde",93,"Oberweningen","christkatholisch",
+2020,3,"Gemeinde",93,"Oberweningen","evangelisch-reformiert",528
+2020,3,"Gemeinde",93,"Oberweningen","römisch-katholisch",366
+2020,3,"Gemeinde",94,"Otelfingen","christkatholisch",17
+2020,3,"Gemeinde",94,"Otelfingen","evangelisch-reformiert",832
+2020,3,"Gemeinde",94,"Otelfingen","römisch-katholisch",864
+2020,3,"Gemeinde",95,"Regensberg","christkatholisch",
+2020,3,"Gemeinde",95,"Regensberg","evangelisch-reformiert",179
+2020,3,"Gemeinde",95,"Regensberg","römisch-katholisch",52
+2020,3,"Gemeinde",96,"Regensdorf","christkatholisch",26
+2020,3,"Gemeinde",96,"Regensdorf","evangelisch-reformiert",3400
+2020,3,"Gemeinde",96,"Regensdorf","römisch-katholisch",4362
+2020,3,"Gemeinde",97,"Rümlang","christkatholisch",7
+2020,3,"Gemeinde",97,"Rümlang","evangelisch-reformiert",1616
+2020,3,"Gemeinde",97,"Rümlang","römisch-katholisch",1872
+2020,3,"Gemeinde",98,"Schleinikon","christkatholisch",
+2020,3,"Gemeinde",98,"Schleinikon","evangelisch-reformiert",339
+2020,3,"Gemeinde",98,"Schleinikon","römisch-katholisch",159
+2020,3,"Gemeinde",99,"Schöfflisdorf","christkatholisch",5
+2020,3,"Gemeinde",99,"Schöfflisdorf","evangelisch-reformiert",457
+2020,3,"Gemeinde",99,"Schöfflisdorf","römisch-katholisch",259
+2020,3,"Gemeinde",100,"Stadel","christkatholisch",
+2020,3,"Gemeinde",100,"Stadel","evangelisch-reformiert",889
+2020,3,"Gemeinde",100,"Stadel","römisch-katholisch",306
+2020,3,"Gemeinde",101,"Steinmaur","christkatholisch",6
+2020,3,"Gemeinde",101,"Steinmaur","evangelisch-reformiert",1031
+2020,3,"Gemeinde",101,"Steinmaur","römisch-katholisch",788
+2020,3,"Gemeinde",102,"Weiach","christkatholisch",6
+2020,3,"Gemeinde",102,"Weiach","evangelisch-reformiert",509
+2020,3,"Gemeinde",102,"Weiach","römisch-katholisch",268
+2020,3,"Gemeinde",111,"Bäretswil","christkatholisch",0
+2020,3,"Gemeinde",111,"Bäretswil","evangelisch-reformiert",1840
+2020,3,"Gemeinde",111,"Bäretswil","römisch-katholisch",759
+2020,3,"Gemeinde",112,"Bubikon","christkatholisch",10
+2020,3,"Gemeinde",112,"Bubikon","evangelisch-reformiert",2369
+2020,3,"Gemeinde",112,"Bubikon","römisch-katholisch",1452
+2020,3,"Gemeinde",113,"Dürnten","christkatholisch",8
+2020,3,"Gemeinde",113,"Dürnten","evangelisch-reformiert",2135
+2020,3,"Gemeinde",113,"Dürnten","römisch-katholisch",1651
+2020,3,"Gemeinde",114,"Fischenthal","christkatholisch",0
+2020,3,"Gemeinde",114,"Fischenthal","evangelisch-reformiert",939
+2020,3,"Gemeinde",114,"Fischenthal","römisch-katholisch",421
+2020,3,"Gemeinde",115,"Gossau (ZH)","christkatholisch",9
+2020,3,"Gemeinde",115,"Gossau (ZH)","evangelisch-reformiert",3317
+2020,3,"Gemeinde",115,"Gossau (ZH)","römisch-katholisch",2072
+2020,3,"Gemeinde",116,"Grüningen","christkatholisch",
+2020,3,"Gemeinde",116,"Grüningen","evangelisch-reformiert",1300
+2020,3,"Gemeinde",116,"Grüningen","römisch-katholisch",650
+2020,3,"Gemeinde",117,"Hinwil","christkatholisch",7
+2020,3,"Gemeinde",117,"Hinwil","evangelisch-reformiert",3523
+2020,3,"Gemeinde",117,"Hinwil","römisch-katholisch",2314
+2020,3,"Gemeinde",118,"Rüti (ZH)","christkatholisch",13
+2020,3,"Gemeinde",118,"Rüti (ZH)","evangelisch-reformiert",2832
+2020,3,"Gemeinde",118,"Rüti (ZH)","römisch-katholisch",3144
+2020,3,"Gemeinde",119,"Seegräben","christkatholisch",6
+2020,3,"Gemeinde",119,"Seegräben","evangelisch-reformiert",463
+2020,3,"Gemeinde",119,"Seegräben","römisch-katholisch",243
+2020,3,"Gemeinde",120,"Wald (ZH)","christkatholisch",10
+2020,3,"Gemeinde",120,"Wald (ZH)","evangelisch-reformiert",2609
+2020,3,"Gemeinde",120,"Wald (ZH)","römisch-katholisch",2552
+2020,3,"Gemeinde",121,"Wetzikon (ZH)","christkatholisch",17
+2020,3,"Gemeinde",121,"Wetzikon (ZH)","evangelisch-reformiert",5566
+2020,3,"Gemeinde",121,"Wetzikon (ZH)","römisch-katholisch",5740
+2020,3,"Gemeinde",131,"Adliswil","christkatholisch",30
+2020,3,"Gemeinde",131,"Adliswil","evangelisch-reformiert",3412
+2020,3,"Gemeinde",131,"Adliswil","römisch-katholisch",4556
+2020,3,"Gemeinde",135,"Kilchberg (ZH)","christkatholisch",5
+2020,3,"Gemeinde",135,"Kilchberg (ZH)","evangelisch-reformiert",1968
+2020,3,"Gemeinde",135,"Kilchberg (ZH)","römisch-katholisch",1770
+2020,3,"Gemeinde",136,"Langnau am Albis","christkatholisch",13
+2020,3,"Gemeinde",136,"Langnau am Albis","evangelisch-reformiert",1749
+2020,3,"Gemeinde",136,"Langnau am Albis","römisch-katholisch",1935
+2020,3,"Gemeinde",137,"Oberrieden","christkatholisch",9
+2020,3,"Gemeinde",137,"Oberrieden","evangelisch-reformiert",1503
+2020,3,"Gemeinde",137,"Oberrieden","römisch-katholisch",1076
+2020,3,"Gemeinde",138,"Richterswil","christkatholisch",9
+2020,3,"Gemeinde",138,"Richterswil","evangelisch-reformiert",3454
+2020,3,"Gemeinde",138,"Richterswil","römisch-katholisch",3288
+2020,3,"Gemeinde",139,"Rüschlikon","christkatholisch",7
+2020,3,"Gemeinde",139,"Rüschlikon","evangelisch-reformiert",1241
+2020,3,"Gemeinde",139,"Rüschlikon","römisch-katholisch",1233
+2020,3,"Gemeinde",141,"Thalwil","christkatholisch",17
+2020,3,"Gemeinde",141,"Thalwil","evangelisch-reformiert",4061
+2020,3,"Gemeinde",141,"Thalwil","römisch-katholisch",4312
+2020,3,"Gemeinde",151,"Erlenbach (ZH)","christkatholisch",13
+2020,3,"Gemeinde",151,"Erlenbach (ZH)","evangelisch-reformiert",1551
+2020,3,"Gemeinde",151,"Erlenbach (ZH)","römisch-katholisch",1181
+2020,3,"Gemeinde",152,"Herrliberg","christkatholisch",7
+2020,3,"Gemeinde",152,"Herrliberg","evangelisch-reformiert",1840
+2020,3,"Gemeinde",152,"Herrliberg","römisch-katholisch",1360
+2020,3,"Gemeinde",153,"Hombrechtikon","christkatholisch",11
+2020,3,"Gemeinde",153,"Hombrechtikon","evangelisch-reformiert",2512
+2020,3,"Gemeinde",153,"Hombrechtikon","römisch-katholisch",2039
+2020,3,"Gemeinde",154,"Küsnacht (ZH)","christkatholisch",25
+2020,3,"Gemeinde",154,"Küsnacht (ZH)","evangelisch-reformiert",3963
+2020,3,"Gemeinde",154,"Küsnacht (ZH)","römisch-katholisch",2985
+2020,3,"Gemeinde",155,"Männedorf","christkatholisch",14
+2020,3,"Gemeinde",155,"Männedorf","evangelisch-reformiert",3090
+2020,3,"Gemeinde",155,"Männedorf","römisch-katholisch",2306
+2020,3,"Gemeinde",156,"Meilen","christkatholisch",18
+2020,3,"Gemeinde",156,"Meilen","evangelisch-reformiert",4000
+2020,3,"Gemeinde",156,"Meilen","römisch-katholisch",2896
+2020,3,"Gemeinde",157,"Oetwil am See","christkatholisch",
+2020,3,"Gemeinde",157,"Oetwil am See","evangelisch-reformiert",1120
+2020,3,"Gemeinde",157,"Oetwil am See","römisch-katholisch",1063
+2020,3,"Gemeinde",158,"Stäfa","christkatholisch",12
+2020,3,"Gemeinde",158,"Stäfa","evangelisch-reformiert",4416
+2020,3,"Gemeinde",158,"Stäfa","römisch-katholisch",2956
+2020,3,"Gemeinde",159,"Uetikon am See","christkatholisch",
+2020,3,"Gemeinde",159,"Uetikon am See","evangelisch-reformiert",1773
+2020,3,"Gemeinde",159,"Uetikon am See","römisch-katholisch",1258
+2020,3,"Gemeinde",160,"Zumikon","christkatholisch",5
+2020,3,"Gemeinde",160,"Zumikon","evangelisch-reformiert",1519
+2020,3,"Gemeinde",160,"Zumikon","römisch-katholisch",1101
+2020,3,"Gemeinde",161,"Zollikon","christkatholisch",9
+2020,3,"Gemeinde",161,"Zollikon","evangelisch-reformiert",3363
+2020,3,"Gemeinde",161,"Zollikon","römisch-katholisch",2666
+2020,3,"Gemeinde",172,"Fehraltorf","christkatholisch",12
+2020,3,"Gemeinde",172,"Fehraltorf","evangelisch-reformiert",1877
+2020,3,"Gemeinde",172,"Fehraltorf","römisch-katholisch",1293
+2020,3,"Gemeinde",173,"Hittnau","christkatholisch",
+2020,3,"Gemeinde",173,"Hittnau","evangelisch-reformiert",1343
+2020,3,"Gemeinde",173,"Hittnau","römisch-katholisch",560
+2020,3,"Gemeinde",176,"Lindau","christkatholisch",6
+2020,3,"Gemeinde",176,"Lindau","evangelisch-reformiert",1569
+2020,3,"Gemeinde",176,"Lindau","römisch-katholisch",1080
+2020,3,"Gemeinde",177,"Pfäffikon","christkatholisch",
+2020,3,"Gemeinde",177,"Pfäffikon","evangelisch-reformiert",3849
+2020,3,"Gemeinde",177,"Pfäffikon","römisch-katholisch",2239
+2020,3,"Gemeinde",178,"Russikon","christkatholisch",5
+2020,3,"Gemeinde",178,"Russikon","evangelisch-reformiert",1520
+2020,3,"Gemeinde",178,"Russikon","römisch-katholisch",754
+2020,3,"Gemeinde",180,"Weisslingen","christkatholisch",0
+2020,3,"Gemeinde",180,"Weisslingen","evangelisch-reformiert",1266
+2020,3,"Gemeinde",180,"Weisslingen","römisch-katholisch",502
+2020,3,"Gemeinde",181,"Wila","christkatholisch",0
+2020,3,"Gemeinde",181,"Wila","evangelisch-reformiert",761
+2020,3,"Gemeinde",181,"Wila","römisch-katholisch",314
+2020,3,"Gemeinde",182,"Wildberg","christkatholisch",
+2020,3,"Gemeinde",182,"Wildberg","evangelisch-reformiert",443
+2020,3,"Gemeinde",182,"Wildberg","römisch-katholisch",116
+2020,3,"Gemeinde",191,"Dübendorf","christkatholisch",55
+2020,3,"Gemeinde",191,"Dübendorf","evangelisch-reformiert",5652
+2020,3,"Gemeinde",191,"Dübendorf","römisch-katholisch",7196
+2020,3,"Gemeinde",192,"Egg","christkatholisch",6
+2020,3,"Gemeinde",192,"Egg","evangelisch-reformiert",2508
+2020,3,"Gemeinde",192,"Egg","römisch-katholisch",2046
+2020,3,"Gemeinde",193,"Fällanden","christkatholisch",13
+2020,3,"Gemeinde",193,"Fällanden","evangelisch-reformiert",1853
+2020,3,"Gemeinde",193,"Fällanden","römisch-katholisch",1817
+2020,3,"Gemeinde",194,"Greifensee","christkatholisch",
+2020,3,"Gemeinde",194,"Greifensee","evangelisch-reformiert",1366
+2020,3,"Gemeinde",194,"Greifensee","römisch-katholisch",1068
+2020,3,"Gemeinde",195,"Maur","christkatholisch",10
+2020,3,"Gemeinde",195,"Maur","evangelisch-reformiert",3007
+2020,3,"Gemeinde",195,"Maur","römisch-katholisch",2072
+2020,3,"Gemeinde",196,"Mönchaltorf","christkatholisch",7
+2020,3,"Gemeinde",196,"Mönchaltorf","evangelisch-reformiert",1215
+2020,3,"Gemeinde",196,"Mönchaltorf","römisch-katholisch",702
+2020,3,"Gemeinde",197,"Schwerzenbach","christkatholisch",
+2020,3,"Gemeinde",197,"Schwerzenbach","evangelisch-reformiert",1202
+2020,3,"Gemeinde",197,"Schwerzenbach","römisch-katholisch",1146
+2020,3,"Gemeinde",198,"Uster","christkatholisch",36
+2020,3,"Gemeinde",198,"Uster","evangelisch-reformiert",8947
+2020,3,"Gemeinde",198,"Uster","römisch-katholisch",7868
+2020,3,"Gemeinde",199,"Volketswil","christkatholisch",17
+2020,3,"Gemeinde",199,"Volketswil","evangelisch-reformiert",4208
+2020,3,"Gemeinde",199,"Volketswil","römisch-katholisch",3996
+2020,3,"Gemeinde",200,"Wangen-Brüttisellen","christkatholisch",7
+2020,3,"Gemeinde",200,"Wangen-Brüttisellen","evangelisch-reformiert",1611
+2020,3,"Gemeinde",200,"Wangen-Brüttisellen","römisch-katholisch",1806
+2020,3,"Gemeinde",211,"Altikon","christkatholisch",
+2020,3,"Gemeinde",211,"Altikon","evangelisch-reformiert",344
+2020,3,"Gemeinde",211,"Altikon","römisch-katholisch",75
+2020,3,"Gemeinde",213,"Brütten","christkatholisch",0
+2020,3,"Gemeinde",213,"Brütten","evangelisch-reformiert",810
+2020,3,"Gemeinde",213,"Brütten","römisch-katholisch",317
+2020,3,"Gemeinde",214,"Dägerlen","christkatholisch",0
+2020,3,"Gemeinde",214,"Dägerlen","evangelisch-reformiert",485
+2020,3,"Gemeinde",214,"Dägerlen","römisch-katholisch",112
+2020,3,"Gemeinde",215,"Dättlikon","christkatholisch",
+2020,3,"Gemeinde",215,"Dättlikon","evangelisch-reformiert",279
+2020,3,"Gemeinde",215,"Dättlikon","römisch-katholisch",84
+2020,3,"Gemeinde",216,"Dinhard","christkatholisch",
+2020,3,"Gemeinde",216,"Dinhard","evangelisch-reformiert",735
+2020,3,"Gemeinde",216,"Dinhard","römisch-katholisch",231
+2020,3,"Gemeinde",218,"Ellikon an der Thur","christkatholisch",
+2020,3,"Gemeinde",218,"Ellikon an der Thur","evangelisch-reformiert",382
+2020,3,"Gemeinde",218,"Ellikon an der Thur","römisch-katholisch",148
+2020,3,"Gemeinde",219,"Elsau","christkatholisch",
+2020,3,"Gemeinde",219,"Elsau","evangelisch-reformiert",1151
+2020,3,"Gemeinde",219,"Elsau","römisch-katholisch",717
+2020,3,"Gemeinde",220,"Hagenbuch","christkatholisch",
+2020,3,"Gemeinde",220,"Hagenbuch","evangelisch-reformiert",426
+2020,3,"Gemeinde",220,"Hagenbuch","römisch-katholisch",191
+2020,3,"Gemeinde",221,"Hettlingen","christkatholisch",
+2020,3,"Gemeinde",221,"Hettlingen","evangelisch-reformiert",1262
+2020,3,"Gemeinde",221,"Hettlingen","römisch-katholisch",499
+2020,3,"Gemeinde",223,"Neftenbach","christkatholisch",
+2020,3,"Gemeinde",223,"Neftenbach","evangelisch-reformiert",2081
+2020,3,"Gemeinde",223,"Neftenbach","römisch-katholisch",872
+2020,3,"Gemeinde",224,"Pfungen","christkatholisch",0
+2020,3,"Gemeinde",224,"Pfungen","evangelisch-reformiert",1027
+2020,3,"Gemeinde",224,"Pfungen","römisch-katholisch",685
+2020,3,"Gemeinde",225,"Rickenbach (ZH)","christkatholisch",0
+2020,3,"Gemeinde",225,"Rickenbach (ZH)","evangelisch-reformiert",967
+2020,3,"Gemeinde",225,"Rickenbach (ZH)","römisch-katholisch",466
+2020,3,"Gemeinde",226,"Schlatt (ZH)","christkatholisch",
+2020,3,"Gemeinde",226,"Schlatt (ZH)","evangelisch-reformiert",316
+2020,3,"Gemeinde",226,"Schlatt (ZH)","römisch-katholisch",77
+2020,3,"Gemeinde",227,"Seuzach","christkatholisch",5
+2020,3,"Gemeinde",227,"Seuzach","evangelisch-reformiert",2666
+2020,3,"Gemeinde",227,"Seuzach","römisch-katholisch",1664
+2020,3,"Gemeinde",228,"Turbenthal","christkatholisch",
+2020,3,"Gemeinde",228,"Turbenthal","evangelisch-reformiert",1613
+2020,3,"Gemeinde",228,"Turbenthal","römisch-katholisch",805
+2020,3,"Gemeinde",230,"Winterthur","christkatholisch",144
+2020,3,"Gemeinde",230,"Winterthur","evangelisch-reformiert",28260
+2020,3,"Gemeinde",230,"Winterthur","römisch-katholisch",22000
+2020,3,"Gemeinde",231,"Zell (ZH)","christkatholisch",0
+2020,3,"Gemeinde",231,"Zell (ZH)","evangelisch-reformiert",1725
+2020,3,"Gemeinde",231,"Zell (ZH)","römisch-katholisch",1093
+2020,3,"Gemeinde",241,"Aesch (ZH)","christkatholisch",8
+2020,3,"Gemeinde",241,"Aesch (ZH)","evangelisch-reformiert",469
+2020,3,"Gemeinde",241,"Aesch (ZH)","römisch-katholisch",320
+2020,3,"Gemeinde",242,"Birmensdorf (ZH)","christkatholisch",10
+2020,3,"Gemeinde",242,"Birmensdorf (ZH)","evangelisch-reformiert",1629
+2020,3,"Gemeinde",242,"Birmensdorf (ZH)","römisch-katholisch",1483
+2020,3,"Gemeinde",243,"Dietikon","christkatholisch",37
+2020,3,"Gemeinde",243,"Dietikon","evangelisch-reformiert",3449
+2020,3,"Gemeinde",243,"Dietikon","römisch-katholisch",7599
+2020,3,"Gemeinde",244,"Geroldswil","christkatholisch",10
+2020,3,"Gemeinde",244,"Geroldswil","evangelisch-reformiert",960
+2020,3,"Gemeinde",244,"Geroldswil","römisch-katholisch",1274
+2020,3,"Gemeinde",245,"Oberengstringen","christkatholisch",10
+2020,3,"Gemeinde",245,"Oberengstringen","evangelisch-reformiert",1245
+2020,3,"Gemeinde",245,"Oberengstringen","römisch-katholisch",1786
+2020,3,"Gemeinde",246,"Oetwil an der Limmat","christkatholisch",
+2020,3,"Gemeinde",246,"Oetwil an der Limmat","evangelisch-reformiert",619
+2020,3,"Gemeinde",246,"Oetwil an der Limmat","römisch-katholisch",612
+2020,3,"Gemeinde",247,"Schlieren","christkatholisch",32
+2020,3,"Gemeinde",247,"Schlieren","evangelisch-reformiert",2394
+2020,3,"Gemeinde",247,"Schlieren","römisch-katholisch",5893
+2020,3,"Gemeinde",248,"Uitikon","christkatholisch",5
+2020,3,"Gemeinde",248,"Uitikon","evangelisch-reformiert",1280
+2020,3,"Gemeinde",248,"Uitikon","römisch-katholisch",937
+2020,3,"Gemeinde",249,"Unterengstringen","christkatholisch",4
+2020,3,"Gemeinde",249,"Unterengstringen","evangelisch-reformiert",849
+2020,3,"Gemeinde",249,"Unterengstringen","römisch-katholisch",1014
+2020,3,"Gemeinde",250,"Urdorf","christkatholisch",22
+2020,3,"Gemeinde",250,"Urdorf","evangelisch-reformiert",2216
+2020,3,"Gemeinde",250,"Urdorf","römisch-katholisch",2831
+2020,3,"Gemeinde",251,"Weiningen (ZH)","christkatholisch",6
+2020,3,"Gemeinde",251,"Weiningen (ZH)","evangelisch-reformiert",998
+2020,3,"Gemeinde",251,"Weiningen (ZH)","römisch-katholisch",1155
+2020,3,"Gemeinde",261,"Zürich","christkatholisch",620
+2020,3,"Gemeinde",261,"Zürich","evangelisch-reformiert",73104
+2020,3,"Gemeinde",261,"Zürich","römisch-katholisch",95671
+2020,3,"Gemeinde",292,"Stammheim","christkatholisch",
+2020,3,"Gemeinde",292,"Stammheim","evangelisch-reformiert",1455
+2020,3,"Gemeinde",292,"Stammheim","römisch-katholisch",389
+2020,3,"Gemeinde",293,"Wädenswil","christkatholisch",18
+2020,3,"Gemeinde",293,"Wädenswil","evangelisch-reformiert",6679
+2020,3,"Gemeinde",293,"Wädenswil","römisch-katholisch",5955
+2020,3,"Gemeinde",294,"Elgg","christkatholisch",
+2020,3,"Gemeinde",294,"Elgg","evangelisch-reformiert",1814
+2020,3,"Gemeinde",294,"Elgg","römisch-katholisch",836
+2020,3,"Gemeinde",295,"Horgen","christkatholisch",23
+2020,3,"Gemeinde",295,"Horgen","evangelisch-reformiert",5248
+2020,3,"Gemeinde",295,"Horgen","römisch-katholisch",5350
+2020,3,"Gemeinde",296,"Illnau-Effretikon","christkatholisch",12
+2020,3,"Gemeinde",296,"Illnau-Effretikon","evangelisch-reformiert",4485
+2020,3,"Gemeinde",296,"Illnau-Effretikon","römisch-katholisch",3353
+2020,3,"Gemeinde",297,"Bauma","christkatholisch",5
+2020,3,"Gemeinde",297,"Bauma","evangelisch-reformiert",1869
+2020,3,"Gemeinde",297,"Bauma","römisch-katholisch",802
+2020,3,"Gemeinde",298,"Wiesendangen","christkatholisch",8
+2020,3,"Gemeinde",298,"Wiesendangen","evangelisch-reformiert",2517
+2020,3,"Gemeinde",298,"Wiesendangen","römisch-katholisch",1151

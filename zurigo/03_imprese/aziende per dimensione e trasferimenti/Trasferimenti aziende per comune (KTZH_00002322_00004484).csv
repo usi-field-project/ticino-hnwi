@@ -1,0 +1,4714 @@
+jahr,wanderung,bfsnr,gemeinde,arbeitsstaetten,beschaeftigte,vzae
+2012,bestand,1,Aeugst am Albis,137,449,303.1
+2012,wegzug,1,Aeugst am Albis,NA,NA,NA
+2012,zuzug,1,Aeugst am Albis,NA,NA,NA
+2012,bestand,2,Affoltern am Albis,871,5934,4456.7
+2012,wegzug,2,Affoltern am Albis,6,56,49.9
+2012,zuzug,2,Affoltern am Albis,5,6,5
+2012,bestand,3,Bonstetten,264,950,644.2
+2012,zuzug,3,Bonstetten,NA,NA,NA
+2012,bestand,4,Hausen am Albis,242,897,618.7
+2012,wegzug,4,Hausen am Albis,NA,NA,NA
+2012,zuzug,4,Hausen am Albis,NA,NA,NA
+2012,bestand,5,Hedingen,193,1525,1253.1
+2012,wegzug,5,Hedingen,3,12,9.5
+2012,zuzug,5,Hedingen,NA,NA,NA
+2012,bestand,6,Kappel am Albis,89,323,230.3
+2012,bestand,7,Knonau,112,456,355
+2012,wegzug,7,Knonau,4,10,7.4
+2012,bestand,8,Maschwanden,55,135,89.4
+2012,wegzug,8,Maschwanden,NA,NA,NA
+2012,bestand,9,Mettmenstetten,286,1572,1175.2
+2012,wegzug,9,Mettmenstetten,3,9,7
+2012,zuzug,9,Mettmenstetten,3,NA,NA
+2012,bestand,10,Obfelden,299,1274,917.1
+2012,wegzug,10,Obfelden,NA,4,NA
+2012,zuzug,10,Obfelden,NA,NA,NA
+2012,bestand,11,Ottenbach,161,732,501.3
+2012,wegzug,11,Ottenbach,NA,NA,NA
+2012,bestand,12,Rifferswil,77,230,168.5
+2012,bestand,13,Stallikon,196,845,661.7
+2012,bestand,14,Wettswil am Albis,270,968,719.5
+2012,zuzug,14,Wettswil am Albis,NA,NA,NA
+2012,bestand,22,Benken (ZH),70,257,187.1
+2012,bestand,23,Berg am Irchel,66,172,108
+2012,bestand,24,Buch am Irchel,65,190,129.7
+2012,bestand,25,Dachsen,96,379,276.7
+2012,wegzug,25,Dachsen,NA,NA,NA
+2012,zuzug,25,Dachsen,NA,NA,NA
+2012,bestand,26,Dorf,48,182,118.5
+2012,bestand,27,Feuerthalen,177,1076,800.3
+2012,wegzug,27,Feuerthalen,3,15,11.1
+2012,zuzug,27,Feuerthalen,NA,16,14.2
+2012,bestand,28,Flaach,139,704,515.3
+2012,zuzug,28,Flaach,NA,NA,NA
+2012,bestand,29,Flurlingen,110,510,388
+2012,wegzug,29,Flurlingen,NA,NA,NA
+2012,bestand,31,Henggart,106,566,458.2
+2012,wegzug,31,Henggart,NA,NA,NA
+2012,bestand,33,Kleinandelfingen,187,956,751.4
+2012,zuzug,33,Kleinandelfingen,NA,NA,NA
+2012,bestand,34,Laufen-Uhwiesen,95,401,291.1
+2012,wegzug,34,Laufen-Uhwiesen,NA,NA,NA
+2012,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2012,bestand,35,Marthalen,193,1036,743.6
+2012,wegzug,35,Marthalen,NA,5,4.4
+2012,bestand,37,Ossingen,104,466,332.2
+2012,bestand,38,Rheinau,73,505,336.2
+2012,bestand,39,Thalheim an der Thur,62,253,176.9
+2012,zuzug,39,Thalheim an der Thur,NA,NA,NA
+2012,bestand,40,Trüllikon,100,382,238
+2012,bestand,41,Truttikon,42,92,59.5
+2012,bestand,43,Volken,29,109,59
+2012,bestand,51,Bachenbülach,250,1816,1497.2
+2012,wegzug,51,Bachenbülach,NA,NA,NA
+2012,zuzug,51,Bachenbülach,NA,NA,NA
+2012,bestand,52,Bassersdorf,563,3837,2969
+2012,wegzug,52,Bassersdorf,4,15,13.5
+2012,zuzug,52,Bassersdorf,NA,NA,NA
+2012,bestand,53,Bülach,1160,10519,7984.6
+2012,wegzug,53,Bülach,NA,NA,NA
+2012,zuzug,53,Bülach,3,9,5.8
+2012,bestand,54,Dietlikon,509,5593,4476.5
+2012,bestand,55,Eglisau,272,1222,907.9
+2012,wegzug,55,Eglisau,NA,NA,NA
+2012,zuzug,55,Eglisau,NA,NA,NA
+2012,bestand,56,Embrach,464,3548,2865.3
+2012,wegzug,56,Embrach,3,NA,NA
+2012,zuzug,56,Embrach,3,8,5.9
+2012,bestand,57,Freienstein-Teufen,149,599,405.6
+2012,wegzug,57,Freienstein-Teufen,NA,NA,NA
+2012,zuzug,57,Freienstein-Teufen,NA,NA,NA
+2012,bestand,58,Glattfelden,213,891,658.6
+2012,bestand,59,Hochfelden,92,390,306
+2012,wegzug,59,Hochfelden,NA,NA,NA
+2012,bestand,60,Höri,181,1095,891.5
+2012,wegzug,60,Höri,NA,6,6
+2012,bestand,61,Hüntwangen,69,253,188.1
+2012,bestand,62,Kloten,1459,35862,29618.5
+2012,wegzug,62,Kloten,7,17,12.1
+2012,zuzug,62,Kloten,7,44,35
+2012,bestand,63,Lufingen,102,318,228
+2012,bestand,64,Nürensdorf,313,1004,757.9
+2012,zuzug,64,Nürensdorf,NA,5,NA
+2012,bestand,65,Oberembrach,92,262,173.9
+2012,bestand,66,Opfikon,1165,20586,16833.8
+2012,wegzug,66,Opfikon,9,30,20.6
+2012,zuzug,66,Opfikon,4,10,8.4
+2012,bestand,67,Rafz,234,1367,1063.5
+2012,zuzug,67,Rafz,NA,NA,NA
+2012,bestand,68,Rorbas,144,458,333.3
+2012,wegzug,68,Rorbas,NA,4,NA
+2012,bestand,69,Wallisellen,1277,16036,13336.4
+2012,wegzug,69,Wallisellen,9,30,24.6
+2012,zuzug,69,Wallisellen,8,142,128.7
+2012,bestand,70,Wasterkingen,34,71,48.6
+2012,bestand,71,Wil (ZH),115,471,364.5
+2012,bestand,72,Winkel,229,856,653.7
+2012,wegzug,72,Winkel,NA,NA,NA
+2012,bestand,81,Bachs,58,249,179.4
+2012,bestand,82,Boppelsen,81,305,227.9
+2012,bestand,83,Buchs (ZH),274,2222,1835.1
+2012,bestand,84,Dällikon,271,2732,2368
+2012,wegzug,84,Dällikon,NA,NA,NA
+2012,zuzug,84,Dällikon,NA,NA,NA
+2012,bestand,85,Dänikon,97,438,349.7
+2012,wegzug,85,Dänikon,NA,4,NA
+2012,bestand,86,Dielsdorf,400,3751,2940.4
+2012,bestand,87,Hüttikon,43,132,98.3
+2012,bestand,88,Neerach,234,614,439.8
+2012,zuzug,88,Neerach,NA,NA,NA
+2012,bestand,89,Niederglatt,219,1357,1086.8
+2012,bestand,90,Niederhasli,405,2015,1556.9
+2012,zuzug,90,Niederhasli,NA,NA,NA
+2012,bestand,91,Niederweningen,150,845,680.9
+2012,wegzug,91,Niederweningen,NA,NA,NA
+2012,bestand,92,Oberglatt,280,1564,1279.3
+2012,bestand,93,Oberweningen,75,266,182.5
+2012,zuzug,93,Oberweningen,NA,NA,NA
+2012,bestand,94,Otelfingen,254,2959,2404
+2012,zuzug,94,Otelfingen,NA,NA,NA
+2012,bestand,95,Regensberg,31,203,145.5
+2012,bestand,96,Regensdorf,1214,10790,8946.1
+2012,wegzug,96,Regensdorf,5,15,8.9
+2012,zuzug,96,Regensdorf,5,13,10
+2012,bestand,97,Rümlang,710,5688,4718.3
+2012,wegzug,97,Rümlang,3,7,5
+2012,zuzug,97,Rümlang,4,21,17.9
+2012,bestand,98,Schleinikon,61,140,93.7
+2012,zuzug,98,Schleinikon,NA,NA,NA
+2012,bestand,99,Schöfflisdorf,105,371,246.4
+2012,wegzug,99,Schöfflisdorf,NA,4,NA
+2012,bestand,100,Stadel,141,569,423.5
+2012,bestand,101,Steinmaur,203,744,566.8
+2012,zuzug,101,Steinmaur,NA,NA,NA
+2012,bestand,102,Weiach,84,241,190
+2012,wegzug,102,Weiach,NA,NA,NA
+2012,bestand,111,Bäretswil,393,1489,1040.1
+2012,bestand,112,Bubikon,528,3253,2541.3
+2012,wegzug,112,Bubikon,NA,NA,NA
+2012,zuzug,112,Bubikon,3,9,7.6
+2012,bestand,113,Dürnten,414,1780,1258.5
+2012,wegzug,113,Dürnten,NA,NA,NA
+2012,zuzug,113,Dürnten,NA,NA,NA
+2012,bestand,114,Fischenthal,203,740,511.6
+2012,wegzug,114,Fischenthal,4,4,NA
+2012,bestand,115,Gossau (ZH),624,2774,2073.6
+2012,wegzug,115,Gossau (ZH),NA,NA,NA
+2012,zuzug,115,Gossau (ZH),NA,NA,NA
+2012,bestand,116,Grüningen,248,1654,1307.7
+2012,wegzug,116,Grüningen,NA,NA,NA
+2012,bestand,117,Hinwil,798,6636,5393.4
+2012,wegzug,117,Hinwil,NA,NA,NA
+2012,zuzug,117,Hinwil,NA,4,NA
+2012,bestand,118,Rüti (ZH),782,4552,3446.6
+2012,wegzug,118,Rüti (ZH),7,27,21.9
+2012,zuzug,118,Rüti (ZH),NA,NA,NA
+2012,bestand,119,Seegräben,95,518,362
+2012,bestand,120,Wald (ZH),637,3208,2385.1
+2012,wegzug,120,Wald (ZH),NA,4,NA
+2012,zuzug,120,Wald (ZH),3,4,NA
+2012,bestand,121,Wetzikon (ZH),1740,13651,10009.6
+2012,wegzug,121,Wetzikon (ZH),3,8,7.2
+2012,zuzug,121,Wetzikon (ZH),3,NA,NA
+2012,bestand,131,Adliswil,993,8078,6622.9
+2012,wegzug,131,Adliswil,6,23,18
+2012,zuzug,131,Adliswil,5,6,NA
+2012,bestand,135,Kilchberg (ZH),527,3920,2981.5
+2012,wegzug,135,Kilchberg (ZH),4,8,6
+2012,zuzug,135,Kilchberg (ZH),5,10,8
+2012,bestand,136,Langnau am Albis,347,1508,1065.3
+2012,wegzug,136,Langnau am Albis,NA,NA,NA
+2012,bestand,137,Oberrieden,280,1065,738.2
+2012,bestand,138,Richterswil,708,3718,2917.3
+2012,wegzug,138,Richterswil,6,16,11.8
+2012,zuzug,138,Richterswil,5,14,11.9
+2012,bestand,139,Rüschlikon,376,2848,2241.7
+2012,wegzug,139,Rüschlikon,4,7,5
+2012,zuzug,139,Rüschlikon,NA,NA,NA
+2012,bestand,141,Thalwil,1189,6698,4650.1
+2012,wegzug,141,Thalwil,14,28,22.1
+2012,zuzug,141,Thalwil,3,4,NA
+2012,bestand,151,Erlenbach (ZH),439,2064,1549
+2012,wegzug,151,Erlenbach (ZH),NA,NA,NA
+2012,zuzug,151,Erlenbach (ZH),NA,4,NA
+2012,bestand,152,Herrliberg,395,1297,907.1
+2012,wegzug,152,Herrliberg,NA,4,NA
+2012,bestand,153,Hombrechtikon,566,2922,2196.8
+2012,wegzug,153,Hombrechtikon,4,25,22.4
+2012,zuzug,153,Hombrechtikon,NA,11,6.9
+2012,bestand,154,Küsnacht (ZH),1189,6095,4677.9
+2012,wegzug,154,Küsnacht (ZH),7,11,9.5
+2012,zuzug,154,Küsnacht (ZH),4,4,NA
+2012,bestand,155,Männedorf,670,4601,3526.8
+2012,wegzug,155,Männedorf,3,6,4
+2012,zuzug,155,Männedorf,4,6,4.3
+2012,bestand,156,Meilen,1022,5943,4456.8
+2012,wegzug,156,Meilen,4,5,NA
+2012,zuzug,156,Meilen,NA,5,NA
+2012,bestand,157,Oetwil am See,266,2191,1699.4
+2012,zuzug,157,Oetwil am See,NA,14,9.7
+2012,bestand,158,Stäfa,986,5439,4303.4
+2012,wegzug,158,Stäfa,6,14,11.5
+2012,zuzug,158,Stäfa,5,14,7.1
+2012,bestand,159,Uetikon,336,1622,1217.5
+2012,bestand,160,Zumikon,355,1663,1221.4
+2012,wegzug,160,Zumikon,NA,NA,NA
+2012,bestand,161,Zollikon,1092,6062,4475
+2012,wegzug,161,Zollikon,10,21,14.9
+2012,zuzug,161,Zollikon,3,6,NA
+2012,bestand,172,Fehraltorf,433,3854,3088
+2012,bestand,173,Hittnau,243,776,584
+2012,wegzug,173,Hittnau,NA,NA,NA
+2012,bestand,176,Lindau,299,2373,1830
+2012,wegzug,176,Lindau,NA,4,NA
+2012,bestand,177,Pfäffikon,741,5231,3891.1
+2012,wegzug,177,Pfäffikon,NA,7,4.6
+2012,zuzug,177,Pfäffikon,NA,8,6.5
+2012,bestand,178,Russikon,265,1181,860.5
+2012,zuzug,178,Russikon,NA,NA,NA
+2012,bestand,180,Weisslingen,228,845,617.3
+2012,wegzug,180,Weisslingen,NA,6,4.8
+2012,zuzug,180,Weisslingen,NA,NA,NA
+2012,bestand,181,Wila,172,608,462.6
+2012,zuzug,181,Wila,NA,NA,NA
+2012,bestand,182,Wildberg,69,216,151.5
+2012,wegzug,182,Wildberg,NA,NA,NA
+2012,bestand,191,Dübendorf,1765,20051,15769.2
+2012,wegzug,191,Dübendorf,6,75,67.3
+2012,zuzug,191,Dübendorf,5,11,8.7
+2012,bestand,192,Egg,554,2504,1881.8
+2012,wegzug,192,Egg,NA,NA,NA
+2012,zuzug,192,Egg,NA,NA,NA
+2012,bestand,193,Fällanden,454,2962,2439.7
+2012,wegzug,193,Fällanden,NA,NA,NA
+2012,zuzug,193,Fällanden,NA,41,36.4
+2012,bestand,194,Greifensee,206,1723,1298.1
+2012,zuzug,194,Greifensee,NA,NA,NA
+2012,bestand,195,Maur,626,2215,1618.4
+2012,wegzug,195,Maur,4,8,7.3
+2012,zuzug,195,Maur,NA,NA,NA
+2012,bestand,196,Mönchaltorf,261,1357,1042
+2012,wegzug,196,Mönchaltorf,NA,5,4.7
+2012,zuzug,196,Mönchaltorf,NA,NA,NA
+2012,bestand,197,Schwerzenbach,282,3014,2484.4
+2012,wegzug,197,Schwerzenbach,NA,27,24.5
+2012,zuzug,197,Schwerzenbach,NA,NA,NA
+2012,bestand,198,Uster,2259,16213,12221.4
+2012,wegzug,198,Uster,4,6,4.3
+2012,zuzug,198,Uster,5,9,6.3
+2012,bestand,199,Volketswil,1215,10853,8684.1
+2012,wegzug,199,Volketswil,4,24,20.7
+2012,zuzug,199,Volketswil,6,30,24.2
+2012,bestand,200,Wangen (ZH),528,5680,4695.6
+2012,wegzug,200,Wangen (ZH),NA,NA,NA
+2012,zuzug,200,Wangen (ZH),4,5,NA
+2012,bestand,211,Altikon,57,143,85.8
+2012,bestand,213,Brütten,132,395,281.4
+2012,wegzug,213,Brütten,NA,NA,NA
+2012,bestand,214,Dägerlen,87,270,189.7
+2012,zuzug,214,Dägerlen,NA,NA,NA
+2012,bestand,215,Dättlikon,46,118,79.8
+2012,zuzug,215,Dättlikon,NA,NA,NA
+2012,bestand,216,Dinhard,103,328,239.2
+2012,bestand,218,Ellikon an der Thur,71,627,484.9
+2012,zuzug,218,Ellikon an der Thur,NA,4,NA
+2012,bestand,219,Elsau,235,1260,989.4
+2012,wegzug,219,Elsau,NA,NA,NA
+2012,zuzug,219,Elsau,NA,NA,NA
+2012,bestand,220,Hagenbuch,78,233,169.5
+2012,zuzug,220,Hagenbuch,NA,NA,NA
+2012,bestand,221,Hettlingen,150,665,515.4
+2012,bestand,223,Neftenbach,351,1526,1170.6
+2012,wegzug,223,Neftenbach,NA,NA,NA
+2012,zuzug,223,Neftenbach,NA,NA,NA
+2012,bestand,224,Pfungen,178,1023,813.1
+2012,zuzug,224,Pfungen,NA,9,6.7
+2012,bestand,225,Rickenbach (ZH),152,459,322.9
+2012,zuzug,225,Rickenbach (ZH),NA,5,4.6
+2012,bestand,226,Schlatt (ZH),57,147,101.7
+2012,wegzug,226,Schlatt (ZH),NA,NA,NA
+2012,bestand,227,Seuzach,384,2591,2076.1
+2012,wegzug,227,Seuzach,NA,NA,NA
+2012,zuzug,227,Seuzach,NA,4,4
+2012,bestand,228,Turbenthal,336,1470,1044
+2012,wegzug,228,Turbenthal,NA,4,NA
+2012,zuzug,228,Turbenthal,NA,NA,NA
+2012,bestand,230,Winterthur,7065,67820,51700.6
+2012,wegzug,230,Winterthur,15,82,70.3
+2012,zuzug,230,Winterthur,25,65,47.1
+2012,bestand,231,Zell (ZH),337,1425,1029.6
+2012,wegzug,231,Zell (ZH),NA,9,7.2
+2012,zuzug,231,Zell (ZH),NA,6,5.3
+2012,bestand,241,Aesch (ZH),81,334,258
+2012,zuzug,241,Aesch (ZH),NA,NA,NA
+2012,bestand,242,Birmensdorf (ZH),370,2084,1646.9
+2012,wegzug,242,Birmensdorf (ZH),NA,NA,NA
+2012,zuzug,242,Birmensdorf (ZH),NA,161,151.5
+2012,bestand,243,Dietikon,1597,17111,13872.6
+2012,wegzug,243,Dietikon,20,103,73.2
+2012,zuzug,243,Dietikon,13,70,46.1
+2012,bestand,244,Geroldswil,291,2108,1691.2
+2012,wegzug,244,Geroldswil,NA,4,NA
+2012,zuzug,244,Geroldswil,NA,16,12.3
+2012,bestand,245,Oberengstringen,329,1120,824
+2012,wegzug,245,Oberengstringen,3,5,NA
+2012,zuzug,245,Oberengstringen,NA,NA,NA
+2012,bestand,246,Oetwil an der Limmat,118,310,225.2
+2012,zuzug,246,Oetwil an der Limmat,NA,NA,NA
+2012,bestand,247,Schlieren,1256,15625,12809.6
+2012,wegzug,247,Schlieren,9,36,19.3
+2012,zuzug,247,Schlieren,11,117,104
+2012,bestand,248,Uitikon,258,913,667.2
+2012,wegzug,248,Uitikon,3,NA,NA
+2012,zuzug,248,Uitikon,NA,NA,NA
+2012,bestand,249,Unterengstringen,227,996,775.3
+2012,wegzug,249,Unterengstringen,3,8,7.5
+2012,zuzug,249,Unterengstringen,NA,NA,NA
+2012,bestand,250,Urdorf,646,6554,5438.9
+2012,wegzug,250,Urdorf,3,9,7.4
+2012,zuzug,250,Urdorf,3,5,4
+2012,bestand,251,Weiningen (ZH),248,1327,1068.2
+2012,wegzug,251,Weiningen (ZH),NA,NA,NA
+2012,zuzug,251,Weiningen (ZH),NA,NA,NA
+2012,bestand,261,Zürich,40362,448474,343563.4
+2012,wegzug,261,Zürich,190,600,480.6
+2012,zuzug,261,Zürich,176,420,314.9
+2012,bestand,291,Andelfingen,274,1669,1274.3
+2012,zuzug,291,Andelfingen,NA,NA,NA
+2012,bestand,292,Stammheim,281,1155,790.1
+2012,wegzug,292,Stammheim,NA,NA,NA
+2012,zuzug,292,Stammheim,NA,NA,NA
+2012,bestand,293,Wädenswil,1762,9948,7542.9
+2012,wegzug,293,Wädenswil,11,23,17.2
+2012,zuzug,293,Wädenswil,10,29,22.9
+2012,bestand,294,Elgg,318,1651,1225.4
+2012,zuzug,294,Elgg,4,7,5.2
+2012,bestand,295,Horgen,1342,9986,7819.5
+2012,wegzug,295,Horgen,12,40,30.9
+2012,zuzug,295,Horgen,4,8,5.3
+2012,bestand,296,Illnau-Effretikon,1032,6903,5187.7
+2012,zuzug,296,Illnau-Effretikon,4,16,12.8
+2012,bestand,297,Bauma,366,1754,1295.9
+2012,zuzug,297,Bauma,NA,NA,NA
+2012,bestand,298,Wiesendangen,343,1278,880
+2012,wegzug,298,Wiesendangen,NA,NA,NA
+2012,zuzug,298,Wiesendangen,NA,NA,NA
+2013,bestand,1,Aeugst am Albis,136,423,287.4
+2013,bestand,2,Affoltern am Albis,884,6068,4545
+2013,wegzug,2,Affoltern am Albis,NA,NA,NA
+2013,zuzug,2,Affoltern am Albis,NA,NA,NA
+2013,bestand,3,Bonstetten,266,938,627.7
+2013,wegzug,3,Bonstetten,NA,17,7.8
+2013,bestand,4,Hausen am Albis,248,942,640.4
+2013,wegzug,4,Hausen am Albis,NA,NA,NA
+2013,zuzug,4,Hausen am Albis,NA,NA,NA
+2013,bestand,5,Hedingen,190,1496,1233.9
+2013,bestand,6,Kappel am Albis,93,348,243.5
+2013,bestand,7,Knonau,115,489,375.9
+2013,wegzug,7,Knonau,NA,NA,NA
+2013,zuzug,7,Knonau,NA,NA,NA
+2013,bestand,8,Maschwanden,59,150,98.6
+2013,bestand,9,Mettmenstetten,291,1548,1155.4
+2013,bestand,10,Obfelden,297,1256,905.6
+2013,wegzug,10,Obfelden,NA,NA,NA
+2013,zuzug,10,Obfelden,NA,18,15.2
+2013,bestand,11,Ottenbach,161,695,488.4
+2013,wegzug,11,Ottenbach,NA,NA,NA
+2013,bestand,12,Rifferswil,80,254,181
+2013,bestand,13,Stallikon,192,858,664.4
+2013,wegzug,13,Stallikon,NA,9,7.9
+2013,bestand,14,Wettswil am Albis,280,1007,748.1
+2013,wegzug,14,Wettswil am Albis,NA,9,6.4
+2013,zuzug,14,Wettswil am Albis,NA,6,NA
+2013,bestand,22,Benken (ZH),70,262,183.4
+2013,wegzug,22,Benken (ZH),NA,NA,NA
+2013,zuzug,22,Benken (ZH),NA,NA,NA
+2013,bestand,23,Berg am Irchel,62,164,104.9
+2013,wegzug,23,Berg am Irchel,NA,NA,NA
+2013,bestand,24,Buch am Irchel,68,177,125
+2013,bestand,25,Dachsen,101,407,301.6
+2013,zuzug,25,Dachsen,NA,NA,NA
+2013,bestand,26,Dorf,48,168,108
+2013,bestand,27,Feuerthalen,182,1050,784.1
+2013,bestand,28,Flaach,136,675,484.3
+2013,wegzug,28,Flaach,NA,NA,NA
+2013,bestand,29,Flurlingen,106,500,381.7
+2013,wegzug,29,Flurlingen,NA,NA,NA
+2013,bestand,31,Henggart,107,638,490.1
+2013,wegzug,31,Henggart,NA,NA,NA
+2013,bestand,33,Kleinandelfingen,183,961,749.9
+2013,wegzug,33,Kleinandelfingen,NA,NA,NA
+2013,bestand,34,Laufen-Uhwiesen,88,408,295.5
+2013,wegzug,34,Laufen-Uhwiesen,NA,NA,NA
+2013,bestand,35,Marthalen,197,1049,737.8
+2013,bestand,37,Ossingen,106,452,320.5
+2013,bestand,38,Rheinau,65,485,321.9
+2013,bestand,39,Thalheim an der Thur,59,260,189.8
+2013,zuzug,39,Thalheim an der Thur,NA,NA,NA
+2013,bestand,40,Trüllikon,106,368,237.6
+2013,zuzug,40,Trüllikon,NA,NA,NA
+2013,bestand,41,Truttikon,43,98,60.6
+2013,bestand,43,Volken,35,113,61
+2013,bestand,51,Bachenbülach,250,1818,1505.3
+2013,zuzug,51,Bachenbülach,NA,NA,NA
+2013,bestand,52,Bassersdorf,572,3968,3094.3
+2013,zuzug,52,Bassersdorf,NA,NA,NA
+2013,bestand,53,Bülach,1188,10659,7983.1
+2013,wegzug,53,Bülach,NA,4,NA
+2013,bestand,54,Dietlikon,529,5705,4612.2
+2013,wegzug,54,Dietlikon,NA,NA,NA
+2013,zuzug,54,Dietlikon,NA,16,15
+2013,bestand,55,Eglisau,283,1295,953.8
+2013,bestand,56,Embrach,484,3725,3020.6
+2013,bestand,57,Freienstein-Teufen,151,604,424.1
+2013,wegzug,57,Freienstein-Teufen,NA,NA,NA
+2013,bestand,58,Glattfelden,224,932,717.1
+2013,wegzug,58,Glattfelden,NA,NA,NA
+2013,bestand,59,Hochfelden,88,410,329.8
+2013,wegzug,59,Hochfelden,NA,NA,NA
+2013,bestand,60,Höri,177,1131,940
+2013,bestand,61,Hüntwangen,72,277,191.6
+2013,bestand,62,Kloten,1465,35930,29477.7
+2013,wegzug,62,Kloten,4,8,6.4
+2013,zuzug,62,Kloten,NA,14,8.5
+2013,bestand,63,Lufingen,96,334,242
+2013,bestand,64,Nürensdorf,308,997,747.4
+2013,wegzug,64,Nürensdorf,NA,NA,NA
+2013,bestand,65,Oberembrach,87,236,152.3
+2013,bestand,66,Opfikon,1217,19261,15727.3
+2013,wegzug,66,Opfikon,4,134,60.8
+2013,zuzug,66,Opfikon,4,35,15
+2013,bestand,67,Rafz,240,1406,1101
+2013,wegzug,67,Rafz,NA,NA,NA
+2013,zuzug,67,Rafz,NA,NA,NA
+2013,bestand,68,Rorbas,153,489,356.6
+2013,wegzug,68,Rorbas,NA,NA,NA
+2013,zuzug,68,Rorbas,NA,NA,NA
+2013,bestand,69,Wallisellen,1311,15959,13279
+2013,wegzug,69,Wallisellen,4,12,11.3
+2013,zuzug,69,Wallisellen,4,31,20.9
+2013,bestand,70,Wasterkingen,35,81,54.4
+2013,bestand,71,Wil (ZH),120,521,397.7
+2013,bestand,72,Winkel,239,863,644.6
+2013,wegzug,72,Winkel,NA,NA,NA
+2013,bestand,81,Bachs,62,260,186.2
+2013,bestand,82,Boppelsen,75,287,219.1
+2013,bestand,83,Buchs (ZH),267,2201,1801.2
+2013,wegzug,83,Buchs (ZH),NA,NA,NA
+2013,zuzug,83,Buchs (ZH),NA,20,19.3
+2013,bestand,84,Dällikon,268,2623,2287.6
+2013,zuzug,84,Dällikon,NA,19,17.8
+2013,bestand,85,Dänikon,90,396,318.1
+2013,bestand,86,Dielsdorf,416,3851,3011.5
+2013,bestand,87,Hüttikon,45,128,90.5
+2013,bestand,88,Neerach,235,610,428.2
+2013,wegzug,88,Neerach,NA,NA,NA
+2013,zuzug,88,Neerach,NA,NA,NA
+2013,bestand,89,Niederglatt,209,1312,1049.1
+2013,bestand,90,Niederhasli,409,2085,1632.2
+2013,wegzug,90,Niederhasli,NA,6,5.5
+2013,zuzug,90,Niederhasli,NA,NA,NA
+2013,bestand,91,Niederweningen,159,872,701.6
+2013,bestand,92,Oberglatt,286,1551,1291.6
+2013,wegzug,92,Oberglatt,NA,6,5.1
+2013,zuzug,92,Oberglatt,NA,NA,NA
+2013,bestand,93,Oberweningen,75,290,200.8
+2013,bestand,94,Otelfingen,250,2954,2457
+2013,wegzug,94,Otelfingen,NA,5,4.5
+2013,zuzug,94,Otelfingen,NA,NA,NA
+2013,bestand,95,Regensberg,33,215,152.5
+2013,zuzug,95,Regensberg,NA,NA,NA
+2013,bestand,96,Regensdorf,1258,10633,8783.2
+2013,wegzug,96,Regensdorf,6,27,23.9
+2013,zuzug,96,Regensdorf,6,16,13.7
+2013,bestand,97,Rümlang,731,5872,4844.5
+2013,wegzug,97,Rümlang,3,NA,NA
+2013,zuzug,97,Rümlang,NA,5,4.9
+2013,bestand,98,Schleinikon,57,135,87.4
+2013,wegzug,98,Schleinikon,NA,NA,NA
+2013,bestand,99,Schöfflisdorf,101,372,250.7
+2013,bestand,100,Stadel,145,578,434.7
+2013,bestand,101,Steinmaur,204,739,569.8
+2013,bestand,102,Weiach,77,252,199.1
+2013,bestand,111,Bäretswil,396,1550,1083.7
+2013,zuzug,111,Bäretswil,NA,8,7.4
+2013,bestand,112,Bubikon,521,3398,2660.4
+2013,wegzug,112,Bubikon,3,4,NA
+2013,bestand,113,Dürnten,424,1773,1228.4
+2013,wegzug,113,Dürnten,NA,NA,NA
+2013,zuzug,113,Dürnten,NA,NA,NA
+2013,bestand,114,Fischenthal,203,765,527.8
+2013,bestand,115,Gossau (ZH),625,2738,2043.2
+2013,wegzug,115,Gossau (ZH),NA,NA,NA
+2013,zuzug,115,Gossau (ZH),NA,4,NA
+2013,bestand,116,Grüningen,252,1651,1286.4
+2013,zuzug,116,Grüningen,NA,NA,NA
+2013,bestand,117,Hinwil,820,6649,5465
+2013,zuzug,117,Hinwil,NA,5,NA
+2013,bestand,118,Rüti (ZH),791,4566,3411.2
+2013,wegzug,118,Rüti (ZH),5,13,8.8
+2013,zuzug,118,Rüti (ZH),NA,NA,NA
+2013,bestand,119,Seegräben,99,555,385.8
+2013,bestand,120,Wald (ZH),641,3342,2482.7
+2013,wegzug,120,Wald (ZH),NA,NA,NA
+2013,zuzug,120,Wald (ZH),5,12,9.5
+2013,bestand,121,Wetzikon (ZH),1785,14193,10086
+2013,wegzug,121,Wetzikon (ZH),6,9,7.8
+2013,zuzug,121,Wetzikon (ZH),3,13,11.1
+2013,bestand,131,Adliswil,1022,8229,6723.6
+2013,wegzug,131,Adliswil,4,14,8.8
+2013,zuzug,131,Adliswil,NA,NA,NA
+2013,bestand,135,Kilchberg (ZH),539,4100,3082.5
+2013,wegzug,135,Kilchberg (ZH),NA,NA,NA
+2013,bestand,136,Langnau am Albis,361,1510,1062.1
+2013,wegzug,136,Langnau am Albis,NA,NA,NA
+2013,zuzug,136,Langnau am Albis,NA,NA,NA
+2013,bestand,137,Oberrieden,282,1057,729
+2013,bestand,138,Richterswil,725,3769,2976
+2013,wegzug,138,Richterswil,NA,11,8.7
+2013,zuzug,138,Richterswil,3,NA,NA
+2013,bestand,139,Rüschlikon,391,3008,2353.4
+2013,wegzug,139,Rüschlikon,3,6,4.9
+2013,zuzug,139,Rüschlikon,NA,NA,NA
+2013,bestand,141,Thalwil,1221,6792,4806.9
+2013,wegzug,141,Thalwil,4,13,8.4
+2013,zuzug,141,Thalwil,3,4,NA
+2013,bestand,151,Erlenbach (ZH),437,2067,1535.8
+2013,zuzug,151,Erlenbach (ZH),NA,9,8.3
+2013,bestand,152,Herrliberg,394,1299,923.9
+2013,wegzug,152,Herrliberg,4,4,NA
+2013,zuzug,152,Herrliberg,NA,NA,NA
+2013,bestand,153,Hombrechtikon,592,2981,2193.9
+2013,bestand,154,Küsnacht (ZH),1247,6231,4751.5
+2013,wegzug,154,Küsnacht (ZH),5,83,74.8
+2013,zuzug,154,Küsnacht (ZH),3,9,7
+2013,bestand,155,Männedorf,703,4707,3638.6
+2013,zuzug,155,Männedorf,NA,7,NA
+2013,bestand,156,Meilen,1053,6106,4568.1
+2013,wegzug,156,Meilen,NA,NA,NA
+2013,zuzug,156,Meilen,NA,NA,NA
+2013,bestand,157,Oetwil am See,266,2087,1596.5
+2013,bestand,158,Stäfa,993,5803,4646.4
+2013,wegzug,158,Stäfa,NA,25,15.5
+2013,zuzug,158,Stäfa,NA,NA,NA
+2013,bestand,159,Uetikon,334,1606,1218.3
+2013,wegzug,159,Uetikon,NA,NA,NA
+2013,zuzug,159,Uetikon,NA,NA,NA
+2013,bestand,160,Zumikon,355,1573,1149.6
+2013,bestand,161,Zollikon,1092,5974,4390.6
+2013,wegzug,161,Zollikon,4,7,6.3
+2013,zuzug,161,Zollikon,3,9,6.7
+2013,bestand,172,Fehraltorf,436,3887,3138.5
+2013,wegzug,172,Fehraltorf,NA,NA,NA
+2013,zuzug,172,Fehraltorf,4,42,36
+2013,bestand,173,Hittnau,256,832,604.5
+2013,bestand,176,Lindau,312,2500,1957.3
+2013,bestand,177,Pfäffikon,786,5420,4014.6
+2013,zuzug,177,Pfäffikon,NA,NA,NA
+2013,bestand,178,Russikon,269,1200,871.8
+2013,bestand,180,Weisslingen,226,846,617.4
+2013,zuzug,180,Weisslingen,NA,NA,NA
+2013,bestand,181,Wila,172,617,443.5
+2013,bestand,182,Wildberg,69,221,159.5
+2013,bestand,191,Dübendorf,1765,20336,16044.7
+2013,wegzug,191,Dübendorf,4,7,6.8
+2013,zuzug,191,Dübendorf,6,14,12.2
+2013,bestand,192,Egg,574,2460,1853.1
+2013,wegzug,192,Egg,NA,4,NA
+2013,zuzug,192,Egg,NA,4,NA
+2013,bestand,193,Fällanden,465,2983,2451.2
+2013,wegzug,193,Fällanden,NA,NA,NA
+2013,zuzug,193,Fällanden,NA,NA,NA
+2013,bestand,194,Greifensee,206,1716,1302.4
+2013,wegzug,194,Greifensee,NA,NA,NA
+2013,bestand,195,Maur,636,2263,1611.5
+2013,wegzug,195,Maur,3,5,NA
+2013,bestand,196,Mönchaltorf,255,1384,1073.1
+2013,bestand,197,Schwerzenbach,289,2993,2474.3
+2013,zuzug,197,Schwerzenbach,NA,NA,NA
+2013,bestand,198,Uster,2318,16313,12266.5
+2013,wegzug,198,Uster,NA,4,NA
+2013,zuzug,198,Uster,NA,NA,NA
+2013,bestand,199,Volketswil,1236,11047,8853.2
+2013,wegzug,199,Volketswil,3,7,4
+2013,zuzug,199,Volketswil,6,49,37.7
+2013,bestand,200,Wangen (ZH),528,5565,4539.6
+2013,zuzug,200,Wangen (ZH),NA,NA,NA
+2013,bestand,211,Altikon,62,154,93.7
+2013,zuzug,211,Altikon,NA,NA,NA
+2013,bestand,213,Brütten,128,350,251.2
+2013,wegzug,213,Brütten,NA,4,NA
+2013,bestand,214,Dägerlen,89,286,198
+2013,bestand,215,Dättlikon,53,115,79.9
+2013,bestand,216,Dinhard,100,338,243.4
+2013,bestand,218,Ellikon an der Thur,69,642,510.8
+2013,bestand,219,Elsau,226,1268,1022.2
+2013,bestand,220,Hagenbuch,76,224,163.5
+2013,bestand,221,Hettlingen,148,637,475.6
+2013,bestand,223,Neftenbach,358,1627,1234
+2013,zuzug,223,Neftenbach,NA,17,13.6
+2013,bestand,224,Pfungen,178,1054,865
+2013,bestand,225,Rickenbach (ZH),162,481,337.6
+2013,wegzug,225,Rickenbach (ZH),NA,NA,NA
+2013,bestand,226,Schlatt (ZH),54,137,97.4
+2013,bestand,227,Seuzach,409,2683,2164.9
+2013,wegzug,227,Seuzach,NA,NA,NA
+2013,bestand,228,Turbenthal,340,1535,1091
+2013,zuzug,228,Turbenthal,NA,10,6.6
+2013,bestand,230,Winterthur,7307,68588,52213.6
+2013,wegzug,230,Winterthur,13,85,75.6
+2013,zuzug,230,Winterthur,13,57,41.6
+2013,bestand,231,Zell (ZH),350,1451,1037.1
+2013,bestand,241,Aesch (ZH),85,340,262.4
+2013,bestand,242,Birmensdorf (ZH),390,2164,1707.6
+2013,bestand,243,Dietikon,1617,17711,14138.7
+2013,wegzug,243,Dietikon,8,26,22.1
+2013,zuzug,243,Dietikon,7,61,47.2
+2013,bestand,244,Geroldswil,286,2071,1652.6
+2013,zuzug,244,Geroldswil,NA,29,29
+2013,bestand,245,Oberengstringen,338,1171,852.7
+2013,wegzug,245,Oberengstringen,3,10,9.4
+2013,zuzug,245,Oberengstringen,NA,17,15.7
+2013,bestand,246,Oetwil an der Limmat,117,296,206.6
+2013,wegzug,246,Oetwil an der Limmat,NA,10,8.6
+2013,bestand,247,Schlieren,1295,16513,13666.4
+2013,wegzug,247,Schlieren,NA,8,6.7
+2013,zuzug,247,Schlieren,4,28,25.5
+2013,bestand,248,Uitikon,257,973,699.7
+2013,zuzug,248,Uitikon,NA,NA,NA
+2013,bestand,249,Unterengstringen,233,983,755.9
+2013,wegzug,249,Unterengstringen,NA,14,12.1
+2013,bestand,250,Urdorf,637,6554,5464.5
+2013,wegzug,250,Urdorf,NA,NA,NA
+2013,zuzug,250,Urdorf,NA,NA,NA
+2013,bestand,251,Weiningen (ZH),252,1395,1116.9
+2013,wegzug,251,Weiningen (ZH),NA,NA,NA
+2013,bestand,261,Zürich,41987,455549,348328.5
+2013,wegzug,261,Zürich,86,265,214.6
+2013,zuzug,261,Zürich,97,286,221.2
+2013,bestand,291,Andelfingen,282,1714,1289.2
+2013,bestand,292,Stammheim,287,1179,824.5
+2013,zuzug,292,Stammheim,NA,NA,NA
+2013,bestand,293,Wädenswil,1776,9846,7457.4
+2013,wegzug,293,Wädenswil,4,18,14.3
+2013,zuzug,293,Wädenswil,5,8,5.3
+2013,bestand,294,Elgg,323,1676,1257.7
+2013,zuzug,294,Elgg,NA,20,18.9
+2013,bestand,295,Horgen,1372,9994,7816
+2013,wegzug,295,Horgen,7,12,9.5
+2013,zuzug,295,Horgen,4,8,6
+2013,bestand,296,Illnau-Effretikon,1018,7053,5252.1
+2013,zuzug,296,Illnau-Effretikon,NA,8,6.5
+2013,bestand,297,Bauma,374,1786,1291.6
+2013,bestand,298,Wiesendangen,348,1315,912.1
+2013,wegzug,298,Wiesendangen,NA,NA,NA
+2014,bestand,1,Aeugst am Albis,136,419,284.5
+2014,wegzug,1,Aeugst am Albis,NA,NA,NA
+2014,zuzug,1,Aeugst am Albis,NA,NA,NA
+2014,bestand,2,Affoltern am Albis,953,6329,4705.9
+2014,wegzug,2,Affoltern am Albis,6,7,5.3
+2014,zuzug,2,Affoltern am Albis,3,6,NA
+2014,bestand,3,Bonstetten,277,975,655.2
+2014,bestand,4,Hausen am Albis,258,984,661.6
+2014,zuzug,4,Hausen am Albis,NA,NA,NA
+2014,bestand,5,Hedingen,198,1511,1224.7
+2014,wegzug,5,Hedingen,NA,NA,NA
+2014,zuzug,5,Hedingen,NA,NA,NA
+2014,bestand,6,Kappel am Albis,98,354,240.9
+2014,wegzug,6,Kappel am Albis,NA,8,7.3
+2014,zuzug,6,Kappel am Albis,NA,NA,NA
+2014,bestand,7,Knonau,121,475,354.7
+2014,wegzug,7,Knonau,NA,16,14.9
+2014,bestand,8,Maschwanden,61,150,94.3
+2014,bestand,9,Mettmenstetten,314,1584,1180.8
+2014,wegzug,9,Mettmenstetten,NA,NA,NA
+2014,zuzug,9,Mettmenstetten,NA,NA,NA
+2014,bestand,10,Obfelden,316,1292,928.6
+2014,wegzug,10,Obfelden,4,5,4.3
+2014,zuzug,10,Obfelden,3,6,4.1
+2014,bestand,11,Ottenbach,166,705,503.7
+2014,bestand,12,Rifferswil,84,245,171
+2014,bestand,13,Stallikon,191,823,612.1
+2014,wegzug,13,Stallikon,4,40,38.2
+2014,zuzug,13,Stallikon,NA,NA,NA
+2014,bestand,14,Wettswil am Albis,285,1038,768.9
+2014,wegzug,14,Wettswil am Albis,3,19,6.2
+2014,zuzug,14,Wettswil am Albis,NA,NA,NA
+2014,bestand,22,Benken (ZH),68,254,185.6
+2014,wegzug,22,Benken (ZH),NA,NA,NA
+2014,bestand,23,Berg am Irchel,56,150,96.4
+2014,bestand,24,Buch am Irchel,66,173,122.4
+2014,bestand,25,Dachsen,108,408,297.4
+2014,bestand,26,Dorf,48,177,109.6
+2014,bestand,27,Feuerthalen,186,1059,793.4
+2014,wegzug,27,Feuerthalen,4,4,NA
+2014,zuzug,27,Feuerthalen,NA,NA,NA
+2014,bestand,28,Flaach,141,693,485.1
+2014,bestand,29,Flurlingen,118,509,372.7
+2014,wegzug,29,Flurlingen,NA,NA,NA
+2014,zuzug,29,Flurlingen,NA,NA,NA
+2014,bestand,31,Henggart,113,622,485.9
+2014,bestand,33,Kleinandelfingen,184,996,792.8
+2014,wegzug,33,Kleinandelfingen,NA,4,NA
+2014,bestand,34,Laufen-Uhwiesen,99,427,304
+2014,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2014,bestand,35,Marthalen,201,1045,740.3
+2014,zuzug,35,Marthalen,NA,7,5.4
+2014,bestand,37,Ossingen,112,481,337.8
+2014,bestand,38,Rheinau,70,491,330.5
+2014,bestand,39,Thalheim an der Thur,68,263,176.1
+2014,bestand,40,Trüllikon,102,316,215.9
+2014,bestand,41,Truttikon,45,102,65.2
+2014,bestand,43,Volken,35,121,64.4
+2014,bestand,51,Bachenbülach,268,1825,1495.8
+2014,zuzug,51,Bachenbülach,NA,6,5.3
+2014,bestand,52,Bassersdorf,600,4291,3337.7
+2014,wegzug,52,Bassersdorf,NA,NA,NA
+2014,zuzug,52,Bassersdorf,3,4,NA
+2014,bestand,53,Bülach,1243,10715,8040.4
+2014,wegzug,53,Bülach,3,4,NA
+2014,zuzug,53,Bülach,NA,NA,NA
+2014,bestand,54,Dietlikon,533,5777,4713
+2014,zuzug,54,Dietlikon,NA,14,13.3
+2014,bestand,55,Eglisau,306,1425,1022.1
+2014,zuzug,55,Eglisau,NA,NA,NA
+2014,bestand,56,Embrach,483,3531,2849.3
+2014,wegzug,56,Embrach,3,NA,NA
+2014,zuzug,56,Embrach,NA,NA,NA
+2014,bestand,57,Freienstein-Teufen,160,614,439.2
+2014,wegzug,57,Freienstein-Teufen,NA,NA,NA
+2014,bestand,58,Glattfelden,235,945,702.6
+2014,wegzug,58,Glattfelden,NA,7,5
+2014,bestand,59,Hochfelden,94,402,326.4
+2014,bestand,60,Höri,176,1147,940.3
+2014,wegzug,60,Höri,NA,4,NA
+2014,bestand,61,Hüntwangen,85,302,210.5
+2014,zuzug,61,Hüntwangen,NA,NA,NA
+2014,bestand,62,Kloten,1469,36117,29506.9
+2014,wegzug,62,Kloten,7,12,10
+2014,zuzug,62,Kloten,5,14,11.3
+2014,bestand,63,Lufingen,97,336,246.2
+2014,wegzug,63,Lufingen,NA,NA,NA
+2014,bestand,64,Nürensdorf,313,1006,741.2
+2014,bestand,65,Oberembrach,88,264,169.5
+2014,bestand,66,Opfikon,1283,18658,15164.6
+2014,wegzug,66,Opfikon,6,74,63.5
+2014,zuzug,66,Opfikon,6,42,35.1
+2014,bestand,67,Rafz,239,1421,1099.7
+2014,wegzug,67,Rafz,NA,NA,NA
+2014,zuzug,67,Rafz,NA,6,4.4
+2014,bestand,68,Rorbas,164,486,343.2
+2014,zuzug,68,Rorbas,NA,6,5.5
+2014,bestand,69,Wallisellen,1362,19695,16542.1
+2014,wegzug,69,Wallisellen,8,20,17.7
+2014,zuzug,69,Wallisellen,6,43,36.5
+2014,bestand,70,Wasterkingen,36,78,52.3
+2014,bestand,71,Wil (ZH),124,494,369.9
+2014,wegzug,71,Wil (ZH),NA,27,26.9
+2014,bestand,72,Winkel,231,853,642.7
+2014,wegzug,72,Winkel,4,30,22.8
+2014,bestand,81,Bachs,62,284,194.9
+2014,bestand,82,Boppelsen,82,289,218.6
+2014,bestand,83,Buchs (ZH),283,2248,1852.2
+2014,wegzug,83,Buchs (ZH),NA,NA,NA
+2014,bestand,84,Dällikon,278,2711,2362.3
+2014,wegzug,84,Dällikon,NA,4,NA
+2014,bestand,85,Dänikon,101,430,344.9
+2014,zuzug,85,Dänikon,3,5,4.9
+2014,bestand,86,Dielsdorf,434,3868,3014.1
+2014,wegzug,86,Dielsdorf,NA,19,13.7
+2014,bestand,87,Hüttikon,44,107,76.8
+2014,zuzug,87,Hüttikon,NA,NA,NA
+2014,bestand,88,Neerach,239,653,458
+2014,zuzug,88,Neerach,NA,NA,NA
+2014,bestand,89,Niederglatt,215,1381,1092.8
+2014,wegzug,89,Niederglatt,3,8,7.7
+2014,zuzug,89,Niederglatt,NA,4,NA
+2014,bestand,90,Niederhasli,430,2203,1718.1
+2014,bestand,91,Niederweningen,159,885,719.4
+2014,zuzug,91,Niederweningen,NA,NA,NA
+2014,bestand,92,Oberglatt,299,1577,1293.7
+2014,zuzug,92,Oberglatt,3,22,18.8
+2014,bestand,93,Oberweningen,81,299,205.6
+2014,zuzug,93,Oberweningen,NA,NA,NA
+2014,bestand,94,Otelfingen,263,2436,1994.9
+2014,wegzug,94,Otelfingen,4,5,NA
+2014,bestand,95,Regensberg,35,216,152.7
+2014,bestand,96,Regensdorf,1309,10739,8822.3
+2014,wegzug,96,Regensdorf,5,44,37.4
+2014,zuzug,96,Regensdorf,4,40,33.3
+2014,bestand,97,Rümlang,740,6133,5142.3
+2014,zuzug,97,Rümlang,3,14,11.7
+2014,bestand,98,Schleinikon,56,127,86.9
+2014,bestand,99,Schöfflisdorf,98,385,245.8
+2014,bestand,100,Stadel,149,601,451.8
+2014,zuzug,100,Stadel,NA,NA,NA
+2014,bestand,101,Steinmaur,201,712,533.9
+2014,bestand,102,Weiach,78,251,199.6
+2014,bestand,111,Bäretswil,411,1638,1133
+2014,zuzug,111,Bäretswil,NA,NA,NA
+2014,bestand,112,Bubikon,534,3445,2698.3
+2014,zuzug,112,Bubikon,NA,NA,NA
+2014,bestand,113,Dürnten,444,1732,1223.2
+2014,wegzug,113,Dürnten,NA,9,7.2
+2014,zuzug,113,Dürnten,NA,NA,NA
+2014,bestand,114,Fischenthal,202,754,526.2
+2014,wegzug,114,Fischenthal,NA,NA,NA
+2014,zuzug,114,Fischenthal,NA,NA,NA
+2014,bestand,115,Gossau (ZH),648,2668,1990.5
+2014,wegzug,115,Gossau (ZH),4,10,7.2
+2014,zuzug,115,Gossau (ZH),NA,NA,NA
+2014,bestand,116,Grüningen,268,1767,1363.4
+2014,bestand,117,Hinwil,847,6644,5498.3
+2014,wegzug,117,Hinwil,4,8,5.5
+2014,zuzug,117,Hinwil,NA,NA,NA
+2014,bestand,118,Rüti (ZH),827,4603,3422.7
+2014,wegzug,118,Rüti (ZH),4,13,7.8
+2014,zuzug,118,Rüti (ZH),3,NA,NA
+2014,bestand,119,Seegräben,104,568,401.7
+2014,bestand,120,Wald (ZH),647,3330,2478
+2014,wegzug,120,Wald (ZH),7,27,18.8
+2014,bestand,121,Wetzikon (ZH),1827,14413,10200.1
+2014,wegzug,121,Wetzikon (ZH),3,NA,NA
+2014,zuzug,121,Wetzikon (ZH),4,6,5.5
+2014,bestand,131,Adliswil,1052,8422,6878.9
+2014,wegzug,131,Adliswil,8,20,13.1
+2014,zuzug,131,Adliswil,NA,6,4.3
+2014,bestand,135,Kilchberg (ZH),568,4058,3062.2
+2014,wegzug,135,Kilchberg (ZH),3,4,NA
+2014,zuzug,135,Kilchberg (ZH),5,10,5.8
+2014,bestand,136,Langnau am Albis,371,1496,1082.8
+2014,bestand,137,Oberrieden,287,1036,720
+2014,wegzug,137,Oberrieden,NA,NA,NA
+2014,zuzug,137,Oberrieden,NA,NA,NA
+2014,bestand,138,Richterswil,759,4036,3191.7
+2014,wegzug,138,Richterswil,10,40,32
+2014,zuzug,138,Richterswil,NA,NA,NA
+2014,bestand,139,Rüschlikon,412,3129,2459.2
+2014,wegzug,139,Rüschlikon,4,6,4.5
+2014,zuzug,139,Rüschlikon,NA,4,NA
+2014,bestand,141,Thalwil,1278,6509,4733.4
+2014,wegzug,141,Thalwil,5,59,35.8
+2014,zuzug,141,Thalwil,5,19,13.4
+2014,bestand,151,Erlenbach (ZH),457,2126,1566.6
+2014,wegzug,151,Erlenbach (ZH),NA,NA,NA
+2014,zuzug,151,Erlenbach (ZH),NA,NA,NA
+2014,bestand,152,Herrliberg,422,1332,954.6
+2014,wegzug,152,Herrliberg,NA,NA,NA
+2014,zuzug,152,Herrliberg,NA,5,NA
+2014,bestand,153,Hombrechtikon,609,3019,2229.1
+2014,wegzug,153,Hombrechtikon,NA,NA,NA
+2014,zuzug,153,Hombrechtikon,NA,4,NA
+2014,bestand,154,Küsnacht (ZH),1299,6219,4761.5
+2014,wegzug,154,Küsnacht (ZH),3,NA,NA
+2014,zuzug,154,Küsnacht (ZH),6,10,7.7
+2014,bestand,155,Männedorf,722,4662,3603.5
+2014,wegzug,155,Männedorf,3,16,11
+2014,zuzug,155,Männedorf,NA,NA,NA
+2014,bestand,156,Meilen,1084,5931,4515.2
+2014,wegzug,156,Meilen,4,9,6.9
+2014,zuzug,156,Meilen,NA,NA,NA
+2014,bestand,157,Oetwil am See,270,2093,1624.1
+2014,bestand,158,Stäfa,1032,6054,4842.4
+2014,wegzug,158,Stäfa,7,15,12.6
+2014,zuzug,158,Stäfa,NA,5,NA
+2014,bestand,159,Uetikon,355,1633,1236.7
+2014,wegzug,159,Uetikon,3,5,NA
+2014,zuzug,159,Uetikon,4,4,NA
+2014,bestand,160,Zumikon,371,1701,1220
+2014,zuzug,160,Zumikon,NA,NA,NA
+2014,bestand,161,Zollikon,1136,5748,4312.6
+2014,wegzug,161,Zollikon,6,7,5.4
+2014,zuzug,161,Zollikon,6,8,6.5
+2014,bestand,172,Fehraltorf,447,4049,3232.3
+2014,wegzug,172,Fehraltorf,NA,6,5.7
+2014,bestand,173,Hittnau,254,817,606.7
+2014,bestand,176,Lindau,327,2551,1983.7
+2014,wegzug,176,Lindau,NA,NA,NA
+2014,bestand,177,Pfäffikon,806,5488,4082.3
+2014,wegzug,177,Pfäffikon,3,6,4.2
+2014,zuzug,177,Pfäffikon,NA,NA,NA
+2014,bestand,178,Russikon,279,1304,947
+2014,wegzug,178,Russikon,NA,NA,NA
+2014,zuzug,178,Russikon,NA,7,6.9
+2014,bestand,180,Weisslingen,231,856,630.9
+2014,wegzug,180,Weisslingen,NA,NA,NA
+2014,zuzug,180,Weisslingen,NA,7,6.3
+2014,bestand,181,Wila,178,638,469.8
+2014,wegzug,181,Wila,3,6,4.4
+2014,bestand,182,Wildberg,71,209,147.8
+2014,bestand,191,Dübendorf,1817,20286,16110.2
+2014,wegzug,191,Dübendorf,3,NA,NA
+2014,zuzug,191,Dübendorf,NA,NA,NA
+2014,bestand,192,Egg,570,2470,1836.3
+2014,wegzug,192,Egg,NA,NA,NA
+2014,zuzug,192,Egg,NA,NA,NA
+2014,bestand,193,Fällanden,481,2945,2372.6
+2014,wegzug,193,Fällanden,3,24,19.6
+2014,bestand,194,Greifensee,209,1773,1320.3
+2014,wegzug,194,Greifensee,NA,NA,NA
+2014,bestand,195,Maur,658,2285,1636.7
+2014,wegzug,195,Maur,NA,NA,NA
+2014,zuzug,195,Maur,NA,NA,NA
+2014,bestand,196,Mönchaltorf,265,1422,1104.6
+2014,wegzug,196,Mönchaltorf,NA,NA,NA
+2014,zuzug,196,Mönchaltorf,NA,NA,NA
+2014,bestand,197,Schwerzenbach,309,2628,2164.2
+2014,wegzug,197,Schwerzenbach,3,12,10.5
+2014,zuzug,197,Schwerzenbach,3,6,4.3
+2014,bestand,198,Uster,2429,16648,12550.2
+2014,wegzug,198,Uster,7,22,15.4
+2014,zuzug,198,Uster,NA,NA,NA
+2014,bestand,199,Volketswil,1264,10959,8773
+2014,wegzug,199,Volketswil,4,27,23.2
+2014,bestand,200,Wangen (ZH),547,5453,4441.1
+2014,wegzug,200,Wangen (ZH),NA,NA,NA
+2014,zuzug,200,Wangen (ZH),NA,4,NA
+2014,bestand,211,Altikon,65,149,95.9
+2014,bestand,213,Brütten,131,359,259.7
+2014,bestand,214,Dägerlen,94,300,206
+2014,bestand,215,Dättlikon,54,118,81.1
+2014,bestand,216,Dinhard,103,374,267.5
+2014,bestand,218,Ellikon an der Thur,67,662,526.7
+2014,bestand,219,Elsau,238,1300,1043.5
+2014,wegzug,219,Elsau,NA,NA,NA
+2014,bestand,220,Hagenbuch,77,221,158.1
+2014,wegzug,220,Hagenbuch,NA,NA,NA
+2014,bestand,221,Hettlingen,156,609,455.2
+2014,zuzug,221,Hettlingen,NA,NA,NA
+2014,bestand,223,Neftenbach,383,1705,1259.2
+2014,wegzug,223,Neftenbach,NA,4,NA
+2014,zuzug,223,Neftenbach,NA,NA,NA
+2014,bestand,224,Pfungen,199,1135,923
+2014,wegzug,224,Pfungen,NA,NA,NA
+2014,zuzug,224,Pfungen,NA,NA,NA
+2014,bestand,225,Rickenbach (ZH),158,485,339.2
+2014,wegzug,225,Rickenbach (ZH),NA,NA,NA
+2014,bestand,226,Schlatt (ZH),58,136,93.4
+2014,bestand,227,Seuzach,423,2702,2161.3
+2014,bestand,228,Turbenthal,351,1521,1076.4
+2014,wegzug,228,Turbenthal,NA,17,13.5
+2014,zuzug,228,Turbenthal,NA,NA,NA
+2014,bestand,230,Winterthur,7596,69495,52786.5
+2014,wegzug,230,Winterthur,28,66,46.2
+2014,zuzug,230,Winterthur,15,46,36.9
+2014,bestand,231,Zell (ZH),357,1447,1055.7
+2014,wegzug,231,Zell (ZH),3,NA,NA
+2014,bestand,241,Aesch (ZH),86,341,259.6
+2014,wegzug,241,Aesch (ZH),NA,NA,NA
+2014,bestand,242,Birmensdorf (ZH),398,2210,1736.5
+2014,wegzug,242,Birmensdorf (ZH),NA,NA,NA
+2014,zuzug,242,Birmensdorf (ZH),NA,NA,NA
+2014,bestand,243,Dietikon,1698,17872,14171
+2014,wegzug,243,Dietikon,13,64,51.2
+2014,zuzug,243,Dietikon,10,36,30.5
+2014,bestand,244,Geroldswil,304,1947,1537.2
+2014,wegzug,244,Geroldswil,3,5,4.2
+2014,bestand,245,Oberengstringen,347,1229,866.1
+2014,wegzug,245,Oberengstringen,NA,NA,NA
+2014,zuzug,245,Oberengstringen,3,NA,NA
+2014,bestand,246,Oetwil an der Limmat,123,287,197.8
+2014,zuzug,246,Oetwil an der Limmat,NA,NA,NA
+2014,bestand,247,Schlieren,1333,17042,13964.3
+2014,wegzug,247,Schlieren,13,35,27
+2014,zuzug,247,Schlieren,5,10,7.4
+2014,bestand,248,Uitikon,271,976,699.1
+2014,zuzug,248,Uitikon,NA,NA,NA
+2014,bestand,249,Unterengstringen,228,881,673.2
+2014,wegzug,249,Unterengstringen,NA,4,NA
+2014,bestand,250,Urdorf,644,6389,5249.5
+2014,wegzug,250,Urdorf,NA,22,10.5
+2014,bestand,251,Weiningen (ZH),270,1442,1149.8
+2014,wegzug,251,Weiningen (ZH),3,12,10
+2014,bestand,261,Zürich,43350,461796,353434.7
+2014,wegzug,261,Zürich,181,555,411.9
+2014,zuzug,261,Zürich,153,532,405
+2014,bestand,291,Andelfingen,287,1745,1308.1
+2014,wegzug,291,Andelfingen,NA,NA,NA
+2014,zuzug,291,Andelfingen,NA,NA,NA
+2014,bestand,292,Stammheim,286,1207,846.6
+2014,bestand,293,Wädenswil,1820,9785,7371.2
+2014,wegzug,293,Wädenswil,9,19,12.6
+2014,zuzug,293,Wädenswil,7,18,12.8
+2014,bestand,294,Elgg,333,1728,1295.5
+2014,wegzug,294,Elgg,NA,NA,NA
+2014,bestand,295,Horgen,1421,10055,7857.5
+2014,wegzug,295,Horgen,5,6,4.5
+2014,zuzug,295,Horgen,7,8,6.1
+2014,bestand,296,Illnau-Effretikon,1053,7034,5334.5
+2014,wegzug,296,Illnau-Effretikon,3,6,5.5
+2014,zuzug,296,Illnau-Effretikon,NA,6,4.8
+2014,bestand,297,Bauma,391,1867,1352.2
+2014,wegzug,297,Bauma,NA,NA,NA
+2014,bestand,298,Wiesendangen,353,1298,902.3
+2014,wegzug,298,Wiesendangen,NA,NA,NA
+2014,zuzug,298,Wiesendangen,NA,4,NA
+2015,bestand,1,Aeugst am Albis,141,427,283.1
+2015,zuzug,1,Aeugst am Albis,NA,NA,NA
+2015,bestand,2,Affoltern am Albis,949,6312,4675.9
+2015,wegzug,2,Affoltern am Albis,6,66,62.2
+2015,zuzug,2,Affoltern am Albis,4,5,4.5
+2015,bestand,3,Bonstetten,270,985,654.8
+2015,wegzug,3,Bonstetten,NA,NA,NA
+2015,bestand,4,Hausen am Albis,261,1086,743.9
+2015,wegzug,4,Hausen am Albis,NA,NA,NA
+2015,zuzug,4,Hausen am Albis,NA,NA,NA
+2015,bestand,5,Hedingen,199,1513,1227.1
+2015,wegzug,5,Hedingen,NA,NA,NA
+2015,bestand,6,Kappel am Albis,100,332,227.5
+2015,bestand,7,Knonau,127,529,398.3
+2015,wegzug,7,Knonau,NA,15,14
+2015,zuzug,7,Knonau,3,NA,NA
+2015,bestand,8,Maschwanden,61,144,90.8
+2015,bestand,9,Mettmenstetten,317,1692,1227.4
+2015,wegzug,9,Mettmenstetten,3,4,NA
+2015,zuzug,9,Mettmenstetten,NA,4,NA
+2015,bestand,10,Obfelden,318,1195,857.3
+2015,wegzug,10,Obfelden,NA,5,4.9
+2015,zuzug,10,Obfelden,NA,18,17
+2015,bestand,11,Ottenbach,161,683,486.8
+2015,zuzug,11,Ottenbach,NA,NA,NA
+2015,bestand,12,Rifferswil,86,235,161.3
+2015,wegzug,12,Rifferswil,NA,6,5.1
+2015,zuzug,12,Rifferswil,NA,NA,NA
+2015,bestand,13,Stallikon,173,793,592.1
+2015,wegzug,13,Stallikon,NA,NA,NA
+2015,zuzug,13,Stallikon,NA,10,6.5
+2015,bestand,14,Wettswil am Albis,289,1212,931.5
+2015,wegzug,14,Wettswil am Albis,NA,6,NA
+2015,zuzug,14,Wettswil am Albis,NA,NA,NA
+2015,bestand,22,Benken (ZH),71,273,196
+2015,bestand,23,Berg am Irchel,59,156,97.6
+2015,bestand,24,Buch am Irchel,64,176,126.1
+2015,bestand,25,Dachsen,104,359,240.1
+2015,wegzug,25,Dachsen,NA,NA,NA
+2015,bestand,26,Dorf,52,181,112.5
+2015,bestand,27,Feuerthalen,190,1061,786.9
+2015,wegzug,27,Feuerthalen,NA,11,8.9
+2015,zuzug,27,Feuerthalen,NA,5,NA
+2015,bestand,28,Flaach,139,686,464.7
+2015,bestand,29,Flurlingen,117,460,332.4
+2015,wegzug,29,Flurlingen,3,9,6.9
+2015,zuzug,29,Flurlingen,5,23,20.1
+2015,bestand,31,Henggart,118,617,496.4
+2015,zuzug,31,Henggart,NA,NA,NA
+2015,bestand,33,Kleinandelfingen,186,1000,805.3
+2015,zuzug,33,Kleinandelfingen,NA,NA,NA
+2015,bestand,34,Laufen-Uhwiesen,92,439,312.5
+2015,wegzug,34,Laufen-Uhwiesen,NA,NA,NA
+2015,bestand,35,Marthalen,198,1069,754.5
+2015,wegzug,35,Marthalen,3,5,NA
+2015,bestand,37,Ossingen,105,432,306.3
+2015,wegzug,37,Ossingen,NA,NA,NA
+2015,bestand,38,Rheinau,70,523,358.4
+2015,bestand,39,Thalheim an der Thur,72,264,173.5
+2015,bestand,40,Trüllikon,101,320,212.2
+2015,wegzug,40,Trüllikon,NA,NA,NA
+2015,bestand,41,Truttikon,41,95,64.5
+2015,bestand,43,Volken,34,98,63.3
+2015,bestand,51,Bachenbülach,271,1880,1558.2
+2015,wegzug,51,Bachenbülach,NA,5,5
+2015,zuzug,51,Bachenbülach,NA,19,19
+2015,bestand,52,Bassersdorf,619,4252,3288.9
+2015,wegzug,52,Bassersdorf,NA,NA,NA
+2015,bestand,53,Bülach,1255,10643,7914.3
+2015,wegzug,53,Bülach,7,76,32.5
+2015,zuzug,53,Bülach,NA,NA,NA
+2015,bestand,54,Dietlikon,556,5933,4802.6
+2015,zuzug,54,Dietlikon,NA,13,10.8
+2015,bestand,55,Eglisau,309,1382,1000.2
+2015,bestand,56,Embrach,496,3562,2831.7
+2015,wegzug,56,Embrach,NA,5,NA
+2015,zuzug,56,Embrach,NA,NA,NA
+2015,bestand,57,Freienstein-Teufen,161,617,419
+2015,bestand,58,Glattfelden,244,983,717.8
+2015,zuzug,58,Glattfelden,NA,4,NA
+2015,bestand,59,Hochfelden,99,396,324.6
+2015,bestand,60,Höri,188,1167,962.8
+2015,wegzug,60,Höri,NA,NA,NA
+2015,bestand,61,Hüntwangen,85,305,217.1
+2015,zuzug,61,Hüntwangen,NA,NA,NA
+2015,bestand,62,Kloten,1460,35718,29093.8
+2015,wegzug,62,Kloten,8,59,52
+2015,zuzug,62,Kloten,NA,NA,NA
+2015,bestand,63,Lufingen,106,355,243.9
+2015,zuzug,63,Lufingen,NA,9,NA
+2015,bestand,64,Nürensdorf,313,1019,747
+2015,wegzug,64,Nürensdorf,NA,NA,NA
+2015,zuzug,64,Nürensdorf,NA,NA,NA
+2015,bestand,65,Oberembrach,93,254,163.9
+2015,bestand,66,Opfikon,1276,19022,15260.3
+2015,wegzug,66,Opfikon,8,33,29.1
+2015,zuzug,66,Opfikon,4,164,138.8
+2015,bestand,67,Rafz,236,1351,1053.9
+2015,bestand,68,Rorbas,160,496,355.9
+2015,wegzug,68,Rorbas,NA,NA,NA
+2015,bestand,69,Wallisellen,1381,20180,16841.7
+2015,wegzug,69,Wallisellen,13,46,32.6
+2015,zuzug,69,Wallisellen,4,31,26
+2015,bestand,70,Wasterkingen,36,72,48
+2015,zuzug,70,Wasterkingen,NA,NA,NA
+2015,bestand,71,Wil (ZH),120,491,371.3
+2015,wegzug,71,Wil (ZH),NA,NA,NA
+2015,bestand,72,Winkel,246,906,673.3
+2015,wegzug,72,Winkel,NA,9,8
+2015,bestand,81,Bachs,66,268,194.2
+2015,bestand,82,Boppelsen,78,276,212.4
+2015,wegzug,82,Boppelsen,NA,NA,NA
+2015,zuzug,82,Boppelsen,NA,NA,NA
+2015,bestand,83,Buchs (ZH),287,2237,1829.1
+2015,wegzug,83,Buchs (ZH),NA,NA,NA
+2015,zuzug,83,Buchs (ZH),NA,9,7.7
+2015,bestand,84,Dällikon,279,2687,2323.4
+2015,wegzug,84,Dällikon,NA,NA,NA
+2015,zuzug,84,Dällikon,NA,NA,NA
+2015,bestand,85,Dänikon,105,475,367.1
+2015,bestand,86,Dielsdorf,436,3932,3082.3
+2015,zuzug,86,Dielsdorf,NA,4,NA
+2015,bestand,87,Hüttikon,41,114,77.4
+2015,wegzug,87,Hüttikon,NA,5,NA
+2015,bestand,88,Neerach,231,633,454
+2015,wegzug,88,Neerach,NA,NA,NA
+2015,zuzug,88,Neerach,NA,13,8.2
+2015,bestand,89,Niederglatt,217,1324,1033.2
+2015,bestand,90,Niederhasli,439,2168,1708.3
+2015,wegzug,90,Niederhasli,NA,NA,NA
+2015,bestand,91,Niederweningen,155,769,608.4
+2015,wegzug,91,Niederweningen,NA,6,NA
+2015,zuzug,91,Niederweningen,NA,NA,NA
+2015,bestand,92,Oberglatt,303,1628,1332
+2015,wegzug,92,Oberglatt,NA,13,11.6
+2015,zuzug,92,Oberglatt,NA,NA,NA
+2015,bestand,93,Oberweningen,81,258,193.8
+2015,wegzug,93,Oberweningen,NA,7,5.5
+2015,bestand,94,Otelfingen,261,2358,1926.4
+2015,wegzug,94,Otelfingen,NA,NA,NA
+2015,zuzug,94,Otelfingen,3,5,NA
+2015,bestand,95,Regensberg,39,228,159.6
+2015,bestand,96,Regensdorf,1283,10705,8702.1
+2015,wegzug,96,Regensdorf,6,10,7.4
+2015,zuzug,96,Regensdorf,3,5,4.9
+2015,bestand,97,Rümlang,743,6068,5054.2
+2015,wegzug,97,Rümlang,3,12,11
+2015,zuzug,97,Rümlang,NA,5,NA
+2015,bestand,98,Schleinikon,60,130,90.6
+2015,wegzug,98,Schleinikon,NA,NA,NA
+2015,bestand,99,Schöfflisdorf,96,394,256.8
+2015,bestand,100,Stadel,155,586,431.7
+2015,zuzug,100,Stadel,NA,NA,NA
+2015,bestand,101,Steinmaur,198,772,553.9
+2015,bestand,102,Weiach,92,273,212.4
+2015,zuzug,102,Weiach,NA,NA,NA
+2015,bestand,111,Bäretswil,415,1606,1103.9
+2015,wegzug,111,Bäretswil,3,NA,NA
+2015,bestand,112,Bubikon,556,3529,2751.1
+2015,wegzug,112,Bubikon,NA,NA,NA
+2015,zuzug,112,Bubikon,3,5,4
+2015,bestand,113,Dürnten,443,1768,1250.3
+2015,wegzug,113,Dürnten,NA,NA,NA
+2015,zuzug,113,Dürnten,NA,NA,NA
+2015,bestand,114,Fischenthal,200,750,520.6
+2015,bestand,115,Gossau (ZH),650,2656,2007.6
+2015,wegzug,115,Gossau (ZH),4,7,4.7
+2015,bestand,116,Grüningen,274,1859,1389.3
+2015,wegzug,116,Grüningen,3,5,4.2
+2015,zuzug,116,Grüningen,NA,NA,NA
+2015,bestand,117,Hinwil,852,6741,5576.8
+2015,wegzug,117,Hinwil,3,9,4.1
+2015,zuzug,117,Hinwil,4,10,7
+2015,bestand,118,Rüti (ZH),830,4654,3467.3
+2015,wegzug,118,Rüti (ZH),6,6,NA
+2015,zuzug,118,Rüti (ZH),4,5,NA
+2015,bestand,119,Seegräben,110,567,413
+2015,bestand,120,Wald (ZH),636,3351,2487.1
+2015,wegzug,120,Wald (ZH),NA,NA,NA
+2015,zuzug,120,Wald (ZH),3,5,4.2
+2015,bestand,121,Wetzikon (ZH),1863,14093,10090.4
+2015,wegzug,121,Wetzikon (ZH),5,58,52.4
+2015,zuzug,121,Wetzikon (ZH),6,16,12.4
+2015,bestand,131,Adliswil,1049,8397,6863.3
+2015,wegzug,131,Adliswil,8,8,7.1
+2015,zuzug,131,Adliswil,6,31,27.1
+2015,bestand,135,Kilchberg (ZH),578,4007,3049.6
+2015,wegzug,135,Kilchberg (ZH),5,14,10.3
+2015,zuzug,135,Kilchberg (ZH),NA,NA,NA
+2015,bestand,136,Langnau am Albis,376,1506,1087.8
+2015,zuzug,136,Langnau am Albis,5,6,5.4
+2015,bestand,137,Oberrieden,296,1037,737.4
+2015,zuzug,137,Oberrieden,3,7,NA
+2015,bestand,138,Richterswil,781,4132,3274.8
+2015,wegzug,138,Richterswil,4,4,NA
+2015,zuzug,138,Richterswil,NA,NA,NA
+2015,bestand,139,Rüschlikon,429,3112,2424.9
+2015,wegzug,139,Rüschlikon,3,10,6.3
+2015,zuzug,139,Rüschlikon,NA,NA,NA
+2015,bestand,141,Thalwil,1284,6429,4676.7
+2015,wegzug,141,Thalwil,5,21,15.5
+2015,zuzug,141,Thalwil,10,17,12
+2015,bestand,151,Erlenbach (ZH),455,2056,1458.6
+2015,wegzug,151,Erlenbach (ZH),NA,7,6.3
+2015,bestand,152,Herrliberg,423,1391,970.4
+2015,wegzug,152,Herrliberg,NA,7,4.2
+2015,bestand,153,Hombrechtikon,611,2999,2229.7
+2015,wegzug,153,Hombrechtikon,3,NA,NA
+2015,zuzug,153,Hombrechtikon,NA,5,NA
+2015,bestand,154,Küsnacht (ZH),1280,6285,4790.1
+2015,wegzug,154,Küsnacht (ZH),10,17,15.5
+2015,zuzug,154,Küsnacht (ZH),NA,NA,NA
+2015,bestand,155,Männedorf,735,4734,3639.8
+2015,wegzug,155,Männedorf,6,9,7.3
+2015,zuzug,155,Männedorf,4,4,NA
+2015,bestand,156,Meilen,1114,6180,4664.3
+2015,wegzug,156,Meilen,7,10,7.7
+2015,zuzug,156,Meilen,6,16,11.7
+2015,bestand,157,Oetwil am See,275,2111,1640.9
+2015,wegzug,157,Oetwil am See,NA,13,11.7
+2015,zuzug,157,Oetwil am See,NA,NA,NA
+2015,bestand,158,Stäfa,1044,5942,4732.4
+2015,wegzug,158,Stäfa,4,5,NA
+2015,zuzug,158,Stäfa,5,6,NA
+2015,bestand,159,Uetikon,372,1629,1205.5
+2015,wegzug,159,Uetikon,NA,NA,NA
+2015,zuzug,159,Uetikon,NA,NA,NA
+2015,bestand,160,Zumikon,376,1716,1220.8
+2015,wegzug,160,Zumikon,NA,NA,NA
+2015,zuzug,160,Zumikon,NA,4,NA
+2015,bestand,161,Zollikon,1148,5978,4461.4
+2015,wegzug,161,Zollikon,12,56,48.4
+2015,zuzug,161,Zollikon,10,20,13.7
+2015,bestand,172,Fehraltorf,438,4094,3266.2
+2015,wegzug,172,Fehraltorf,NA,NA,NA
+2015,bestand,173,Hittnau,247,782,579.9
+2015,bestand,176,Lindau,323,2434,1930.6
+2015,wegzug,176,Lindau,NA,NA,NA
+2015,bestand,177,Pfäffikon,810,5673,4135.8
+2015,wegzug,177,Pfäffikon,NA,NA,NA
+2015,zuzug,177,Pfäffikon,NA,75,25.4
+2015,bestand,178,Russikon,282,1326,957.9
+2015,wegzug,178,Russikon,NA,NA,NA
+2015,bestand,180,Weisslingen,224,852,628.1
+2015,wegzug,180,Weisslingen,NA,NA,NA
+2015,bestand,181,Wila,171,632,457.1
+2015,wegzug,181,Wila,NA,NA,NA
+2015,bestand,182,Wildberg,71,205,146.7
+2015,bestand,191,Dübendorf,1806,19751,15688.9
+2015,wegzug,191,Dübendorf,10,21,17.4
+2015,zuzug,191,Dübendorf,7,21,14.2
+2015,bestand,192,Egg,585,2462,1857.6
+2015,wegzug,192,Egg,3,8,5.8
+2015,zuzug,192,Egg,3,NA,NA
+2015,bestand,193,Fällanden,502,2916,2360.4
+2015,wegzug,193,Fällanden,NA,NA,NA
+2015,bestand,194,Greifensee,227,1840,1364
+2015,zuzug,194,Greifensee,NA,NA,NA
+2015,bestand,195,Maur,657,2268,1594.6
+2015,zuzug,195,Maur,NA,NA,NA
+2015,bestand,196,Mönchaltorf,255,1394,1084.9
+2015,wegzug,196,Mönchaltorf,NA,NA,NA
+2015,zuzug,196,Mönchaltorf,NA,6,5.2
+2015,bestand,197,Schwerzenbach,300,2484,2070.4
+2015,wegzug,197,Schwerzenbach,NA,NA,NA
+2015,zuzug,197,Schwerzenbach,NA,NA,NA
+2015,bestand,198,Uster,2434,16372,12461.9
+2015,wegzug,198,Uster,7,46,32.9
+2015,zuzug,198,Uster,3,6,5
+2015,bestand,199,Volketswil,1273,11018,8844.5
+2015,wegzug,199,Volketswil,7,17,14.7
+2015,zuzug,199,Volketswil,NA,22,19.7
+2015,bestand,200,Wangen (ZH),553,5375,4412.4
+2015,wegzug,200,Wangen (ZH),3,9,5.6
+2015,zuzug,200,Wangen (ZH),NA,NA,NA
+2015,bestand,211,Altikon,65,148,91.5
+2015,wegzug,211,Altikon,NA,4,NA
+2015,bestand,213,Brütten,128,344,245.3
+2015,zuzug,213,Brütten,NA,NA,NA
+2015,bestand,214,Dägerlen,93,302,197.3
+2015,bestand,215,Dättlikon,56,156,88.3
+2015,bestand,216,Dinhard,107,374,271.5
+2015,wegzug,216,Dinhard,NA,NA,NA
+2015,bestand,218,Ellikon an der Thur,67,606,473
+2015,bestand,219,Elsau,236,1301,1041.8
+2015,wegzug,219,Elsau,4,13,6.6
+2015,zuzug,219,Elsau,NA,NA,NA
+2015,bestand,220,Hagenbuch,79,234,165.2
+2015,wegzug,220,Hagenbuch,NA,NA,NA
+2015,zuzug,220,Hagenbuch,NA,NA,NA
+2015,bestand,221,Hettlingen,158,621,471.1
+2015,wegzug,221,Hettlingen,NA,NA,NA
+2015,bestand,223,Neftenbach,378,1654,1241.5
+2015,wegzug,223,Neftenbach,NA,16,13
+2015,zuzug,223,Neftenbach,NA,NA,NA
+2015,bestand,224,Pfungen,217,1348,1104.5
+2015,wegzug,224,Pfungen,NA,NA,NA
+2015,bestand,225,Rickenbach (ZH),160,482,333.3
+2015,wegzug,225,Rickenbach (ZH),NA,NA,NA
+2015,bestand,226,Schlatt (ZH),60,133,89.6
+2015,bestand,227,Seuzach,430,2759,2171.4
+2015,wegzug,227,Seuzach,NA,13,8.2
+2015,zuzug,227,Seuzach,NA,NA,NA
+2015,bestand,228,Turbenthal,344,1510,1061.7
+2015,wegzug,228,Turbenthal,NA,NA,NA
+2015,bestand,230,Winterthur,7749,70139,53330.1
+2015,wegzug,230,Winterthur,26,86,56.5
+2015,zuzug,230,Winterthur,21,83,49
+2015,bestand,231,Zell (ZH),356,1470,1061.9
+2015,wegzug,231,Zell (ZH),NA,4,NA
+2015,bestand,241,Aesch (ZH),82,360,276.6
+2015,bestand,242,Birmensdorf (ZH),394,2242,1767.9
+2015,wegzug,242,Birmensdorf (ZH),NA,NA,NA
+2015,bestand,243,Dietikon,1713,17603,13964
+2015,wegzug,243,Dietikon,9,185,167.4
+2015,zuzug,243,Dietikon,7,21,14.9
+2015,bestand,244,Geroldswil,311,1936,1529.1
+2015,zuzug,244,Geroldswil,3,NA,NA
+2015,bestand,245,Oberengstringen,337,1135,801
+2015,wegzug,245,Oberengstringen,NA,NA,NA
+2015,zuzug,245,Oberengstringen,3,NA,NA
+2015,bestand,246,Oetwil an der Limmat,125,283,198.3
+2015,wegzug,246,Oetwil an der Limmat,NA,5,4.5
+2015,bestand,247,Schlieren,1373,17390,14008.9
+2015,wegzug,247,Schlieren,9,100,92.4
+2015,zuzug,247,Schlieren,9,183,84.9
+2015,bestand,248,Uitikon,268,977,700.2
+2015,zuzug,248,Uitikon,NA,NA,NA
+2015,bestand,249,Unterengstringen,247,953,721.9
+2015,wegzug,249,Unterengstringen,NA,NA,NA
+2015,bestand,250,Urdorf,641,6300,5209.6
+2015,wegzug,250,Urdorf,4,6,4.5
+2015,zuzug,250,Urdorf,6,44,36.9
+2015,bestand,251,Weiningen (ZH),284,1487,1168.4
+2015,wegzug,251,Weiningen (ZH),5,17,14.7
+2015,zuzug,251,Weiningen (ZH),3,5,NA
+2015,bestand,261,Zürich,43949,468852,358896.6
+2015,wegzug,261,Zürich,247,907,712.7
+2015,zuzug,261,Zürich,223,1398,1032.6
+2015,bestand,291,Andelfingen,296,1701,1285.6
+2015,wegzug,291,Andelfingen,NA,5,4.3
+2015,bestand,292,Stammheim,283,1232,867.5
+2015,wegzug,292,Stammheim,NA,13,7.9
+2015,zuzug,292,Stammheim,NA,14,12.1
+2015,bestand,293,Wädenswil,1822,9655,7274.3
+2015,wegzug,293,Wädenswil,17,83,71.5
+2015,zuzug,293,Wädenswil,10,22,19.5
+2015,bestand,294,Elgg,321,1642,1205.3
+2015,wegzug,294,Elgg,4,76,70.1
+2015,bestand,295,Horgen,1441,10145,7940.3
+2015,wegzug,295,Horgen,16,50,35.5
+2015,zuzug,295,Horgen,7,45,22.7
+2015,bestand,296,Illnau-Effretikon,1060,7227,5307
+2015,wegzug,296,Illnau-Effretikon,4,6,4.2
+2015,zuzug,296,Illnau-Effretikon,3,9,7.2
+2015,bestand,297,Bauma,386,1826,1299.9
+2015,zuzug,297,Bauma,NA,NA,NA
+2015,bestand,298,Wiesendangen,368,1357,935.7
+2015,wegzug,298,Wiesendangen,NA,NA,NA
+2015,zuzug,298,Wiesendangen,NA,NA,NA
+2016,bestand,1,Aeugst am Albis,145,460,306.4
+2016,wegzug,1,Aeugst am Albis,NA,NA,NA
+2016,zuzug,1,Aeugst am Albis,NA,18,16.3
+2016,bestand,2,Affoltern am Albis,970,6519,4828.4
+2016,wegzug,2,Affoltern am Albis,5,11,6.6
+2016,zuzug,2,Affoltern am Albis,4,18,14
+2016,bestand,3,Bonstetten,278,1017,682.6
+2016,wegzug,3,Bonstetten,3,6,4.6
+2016,bestand,4,Hausen am Albis,272,1128,786.9
+2016,wegzug,4,Hausen am Albis,NA,NA,NA
+2016,zuzug,4,Hausen am Albis,NA,16,11.6
+2016,bestand,5,Hedingen,192,1487,1199.7
+2016,wegzug,5,Hedingen,NA,12,9.2
+2016,zuzug,5,Hedingen,NA,NA,NA
+2016,bestand,6,Kappel am Albis,100,321,208.2
+2016,bestand,7,Knonau,125,514,383.6
+2016,zuzug,7,Knonau,NA,NA,NA
+2016,bestand,8,Maschwanden,65,165,106.9
+2016,bestand,9,Mettmenstetten,319,1614,1150.2
+2016,wegzug,9,Mettmenstetten,3,10,5.7
+2016,zuzug,9,Mettmenstetten,4,6,4.4
+2016,bestand,10,Obfelden,317,1277,901.7
+2016,wegzug,10,Obfelden,NA,NA,NA
+2016,zuzug,10,Obfelden,4,9,6.3
+2016,bestand,11,Ottenbach,165,696,482.9
+2016,wegzug,11,Ottenbach,NA,NA,NA
+2016,bestand,12,Rifferswil,90,255,180.1
+2016,wegzug,12,Rifferswil,NA,NA,NA
+2016,bestand,13,Stallikon,185,811,603.1
+2016,wegzug,13,Stallikon,NA,NA,NA
+2016,zuzug,13,Stallikon,NA,NA,NA
+2016,bestand,14,Wettswil am Albis,287,1223,928.1
+2016,wegzug,14,Wettswil am Albis,4,26,24
+2016,zuzug,14,Wettswil am Albis,NA,NA,NA
+2016,bestand,22,Benken (ZH),73,257,177.3
+2016,wegzug,22,Benken (ZH),NA,10,8.9
+2016,bestand,23,Berg am Irchel,53,143,93.3
+2016,bestand,24,Buch am Irchel,73,195,136.4
+2016,bestand,25,Dachsen,106,388,267
+2016,wegzug,25,Dachsen,NA,NA,NA
+2016,bestand,26,Dorf,52,168,100.7
+2016,bestand,27,Feuerthalen,188,1052,792.4
+2016,wegzug,27,Feuerthalen,NA,9,NA
+2016,zuzug,27,Feuerthalen,NA,NA,NA
+2016,bestand,28,Flaach,146,773,512.2
+2016,bestand,29,Flurlingen,113,429,287.8
+2016,wegzug,29,Flurlingen,4,11,9.3
+2016,zuzug,29,Flurlingen,NA,NA,NA
+2016,bestand,31,Henggart,117,578,424.7
+2016,bestand,33,Kleinandelfingen,195,1040,825.2
+2016,zuzug,33,Kleinandelfingen,NA,NA,NA
+2016,bestand,34,Laufen-Uhwiesen,92,457,332.9
+2016,wegzug,34,Laufen-Uhwiesen,NA,6,NA
+2016,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2016,bestand,35,Marthalen,203,1126,787.2
+2016,wegzug,35,Marthalen,NA,NA,NA
+2016,zuzug,35,Marthalen,NA,NA,NA
+2016,bestand,37,Ossingen,102,401,282.5
+2016,wegzug,37,Ossingen,NA,NA,NA
+2016,bestand,38,Rheinau,74,514,357.9
+2016,wegzug,38,Rheinau,NA,NA,NA
+2016,bestand,39,Thalheim an der Thur,71,259,178.8
+2016,bestand,40,Trüllikon,95,317,211.9
+2016,zuzug,40,Trüllikon,NA,NA,NA
+2016,bestand,41,Truttikon,38,100,63.3
+2016,wegzug,41,Truttikon,NA,NA,NA
+2016,bestand,43,Volken,30,106,64.2
+2016,bestand,51,Bachenbülach,264,1909,1554.5
+2016,zuzug,51,Bachenbülach,NA,NA,NA
+2016,bestand,52,Bassersdorf,624,4363,3412.8
+2016,wegzug,52,Bassersdorf,NA,NA,NA
+2016,zuzug,52,Bassersdorf,NA,NA,NA
+2016,bestand,53,Bülach,1258,10437,7905
+2016,wegzug,53,Bülach,4,18,14.7
+2016,zuzug,53,Bülach,3,8,5.1
+2016,bestand,54,Dietlikon,569,6205,4986.7
+2016,wegzug,54,Dietlikon,NA,4,NA
+2016,zuzug,54,Dietlikon,NA,7,6.1
+2016,bestand,55,Eglisau,324,1564,1148.1
+2016,wegzug,55,Eglisau,NA,NA,NA
+2016,bestand,56,Embrach,480,3462,2736.4
+2016,wegzug,56,Embrach,5,6,5.2
+2016,zuzug,56,Embrach,NA,NA,NA
+2016,bestand,57,Freienstein-Teufen,161,647,439.3
+2016,bestand,58,Glattfelden,255,1030,775.4
+2016,zuzug,58,Glattfelden,NA,NA,NA
+2016,bestand,59,Hochfelden,97,418,340.7
+2016,wegzug,59,Hochfelden,NA,4,NA
+2016,bestand,60,Höri,189,1209,1003.9
+2016,wegzug,60,Höri,NA,NA,NA
+2016,bestand,61,Hüntwangen,88,330,225.6
+2016,bestand,62,Kloten,1494,36689,29883.7
+2016,wegzug,62,Kloten,10,90,56.1
+2016,zuzug,62,Kloten,6,69,61.3
+2016,bestand,63,Lufingen,105,356,249
+2016,wegzug,63,Lufingen,NA,8,NA
+2016,bestand,64,Nürensdorf,313,1029,751.8
+2016,bestand,65,Oberembrach,93,269,159.6
+2016,zuzug,65,Oberembrach,NA,NA,NA
+2016,bestand,66,Opfikon,1337,19084,15249.7
+2016,wegzug,66,Opfikon,9,18,14.5
+2016,zuzug,66,Opfikon,8,29,23.8
+2016,bestand,67,Rafz,244,1420,1084.2
+2016,wegzug,67,Rafz,NA,NA,NA
+2016,bestand,68,Rorbas,168,504,357.9
+2016,zuzug,68,Rorbas,3,NA,NA
+2016,bestand,69,Wallisellen,1371,20070,16758.8
+2016,wegzug,69,Wallisellen,9,33,28.3
+2016,zuzug,69,Wallisellen,12,110,85.4
+2016,bestand,70,Wasterkingen,35,73,50.3
+2016,bestand,71,Wil (ZH),126,514,378.9
+2016,bestand,72,Winkel,247,909,659.1
+2016,zuzug,72,Winkel,NA,NA,NA
+2016,bestand,81,Bachs,64,287,193.4
+2016,bestand,82,Boppelsen,79,280,213.3
+2016,wegzug,82,Boppelsen,NA,NA,NA
+2016,zuzug,82,Boppelsen,NA,NA,NA
+2016,bestand,83,Buchs (ZH),290,2245,1832.2
+2016,zuzug,83,Buchs (ZH),5,24,20.3
+2016,bestand,84,Dällikon,280,2686,2309.9
+2016,wegzug,84,Dällikon,NA,8,7.9
+2016,zuzug,84,Dällikon,NA,15,14.2
+2016,bestand,85,Dänikon,106,473,375.3
+2016,wegzug,85,Dänikon,3,10,6.4
+2016,bestand,86,Dielsdorf,431,4101,3190.5
+2016,wegzug,86,Dielsdorf,NA,NA,NA
+2016,bestand,87,Hüttikon,47,121,85.3
+2016,zuzug,87,Hüttikon,NA,NA,NA
+2016,bestand,88,Neerach,241,657,444.6
+2016,wegzug,88,Neerach,NA,NA,NA
+2016,zuzug,88,Neerach,3,9,8.1
+2016,bestand,89,Niederglatt,233,1386,1071.2
+2016,wegzug,89,Niederglatt,NA,NA,NA
+2016,zuzug,89,Niederglatt,NA,NA,NA
+2016,bestand,90,Niederhasli,449,2242,1775.3
+2016,wegzug,90,Niederhasli,NA,6,NA
+2016,zuzug,90,Niederhasli,3,72,68.4
+2016,bestand,91,Niederweningen,146,779,605.4
+2016,wegzug,91,Niederweningen,NA,NA,NA
+2016,bestand,92,Oberglatt,309,1665,1375.6
+2016,wegzug,92,Oberglatt,3,NA,NA
+2016,bestand,93,Oberweningen,82,264,196
+2016,bestand,94,Otelfingen,258,2381,1949.4
+2016,wegzug,94,Otelfingen,3,34,31.2
+2016,zuzug,94,Otelfingen,NA,NA,NA
+2016,bestand,95,Regensberg,40,197,131.6
+2016,bestand,96,Regensdorf,1296,10742,8694.9
+2016,wegzug,96,Regensdorf,8,58,50.2
+2016,zuzug,96,Regensdorf,9,25,19.9
+2016,bestand,97,Rümlang,726,6043,5058.3
+2016,wegzug,97,Rümlang,NA,NA,NA
+2016,zuzug,97,Rümlang,6,14,12.5
+2016,bestand,98,Schleinikon,58,126,86.6
+2016,zuzug,98,Schleinikon,NA,NA,NA
+2016,bestand,99,Schöfflisdorf,98,392,258
+2016,bestand,100,Stadel,145,521,370.2
+2016,zuzug,100,Stadel,NA,NA,NA
+2016,bestand,101,Steinmaur,200,768,555.6
+2016,zuzug,101,Steinmaur,NA,NA,NA
+2016,bestand,102,Weiach,91,271,211.8
+2016,wegzug,102,Weiach,NA,NA,NA
+2016,bestand,111,Bäretswil,403,1634,1123.7
+2016,wegzug,111,Bäretswil,NA,NA,NA
+2016,zuzug,111,Bäretswil,NA,NA,NA
+2016,bestand,112,Bubikon,564,3436,2676.9
+2016,wegzug,112,Bubikon,4,9,6.6
+2016,zuzug,112,Bubikon,NA,5,4
+2016,bestand,113,Dürnten,430,1785,1231.9
+2016,wegzug,113,Dürnten,3,7,NA
+2016,zuzug,113,Dürnten,NA,NA,NA
+2016,bestand,114,Fischenthal,206,734,513.8
+2016,wegzug,114,Fischenthal,NA,4,NA
+2016,zuzug,114,Fischenthal,NA,NA,NA
+2016,bestand,115,Gossau (ZH),639,2587,1945.4
+2016,wegzug,115,Gossau (ZH),6,6,4.4
+2016,zuzug,115,Gossau (ZH),3,6,4.8
+2016,bestand,116,Grüningen,267,1823,1376.1
+2016,zuzug,116,Grüningen,NA,NA,NA
+2016,bestand,117,Hinwil,871,6979,5707.2
+2016,bestand,118,Rüti (ZH),845,4779,3546.7
+2016,wegzug,118,Rüti (ZH),5,9,5.2
+2016,zuzug,118,Rüti (ZH),4,21,19.1
+2016,bestand,119,Seegräben,113,562,378.1
+2016,wegzug,119,Seegräben,NA,NA,NA
+2016,zuzug,119,Seegräben,NA,NA,NA
+2016,bestand,120,Wald (ZH),653,3444,2531.7
+2016,wegzug,120,Wald (ZH),NA,NA,NA
+2016,zuzug,120,Wald (ZH),NA,4,NA
+2016,bestand,121,Wetzikon (ZH),1849,14129,10266.2
+2016,wegzug,121,Wetzikon (ZH),10,31,26.4
+2016,zuzug,121,Wetzikon (ZH),6,13,9.9
+2016,bestand,131,Adliswil,1065,8354,6874.1
+2016,wegzug,131,Adliswil,5,14,10.7
+2016,zuzug,131,Adliswil,6,9,5.9
+2016,bestand,135,Kilchberg (ZH),584,3988,3044.1
+2016,wegzug,135,Kilchberg (ZH),8,11,8.5
+2016,zuzug,135,Kilchberg (ZH),NA,NA,NA
+2016,bestand,136,Langnau am Albis,354,1513,1091.7
+2016,wegzug,136,Langnau am Albis,NA,NA,NA
+2016,zuzug,136,Langnau am Albis,NA,NA,NA
+2016,bestand,137,Oberrieden,293,1007,696.6
+2016,wegzug,137,Oberrieden,4,11,8
+2016,zuzug,137,Oberrieden,NA,NA,NA
+2016,bestand,138,Richterswil,790,4134,3252.5
+2016,wegzug,138,Richterswil,7,18,13.8
+2016,zuzug,138,Richterswil,3,NA,NA
+2016,bestand,139,Rüschlikon,429,3139,2494.9
+2016,wegzug,139,Rüschlikon,5,7,5.4
+2016,zuzug,139,Rüschlikon,6,9,5.7
+2016,bestand,141,Thalwil,1284,6539,4773.5
+2016,wegzug,141,Thalwil,10,13,9.4
+2016,zuzug,141,Thalwil,8,20,16
+2016,bestand,151,Erlenbach (ZH),454,2045,1503.1
+2016,wegzug,151,Erlenbach (ZH),NA,NA,NA
+2016,zuzug,151,Erlenbach (ZH),3,10,7.6
+2016,bestand,152,Herrliberg,436,1426,997.1
+2016,zuzug,152,Herrliberg,4,6,5.2
+2016,bestand,153,Hombrechtikon,591,2840,2074.1
+2016,wegzug,153,Hombrechtikon,6,12,8
+2016,zuzug,153,Hombrechtikon,4,9,7.3
+2016,bestand,154,Küsnacht (ZH),1249,6593,4826.1
+2016,wegzug,154,Küsnacht (ZH),10,14,10.1
+2016,zuzug,154,Küsnacht (ZH),7,13,8.4
+2016,bestand,155,Männedorf,758,4921,3779.9
+2016,wegzug,155,Männedorf,7,8,4.9
+2016,zuzug,155,Männedorf,NA,7,NA
+2016,bestand,156,Meilen,1111,6017,4492.5
+2016,wegzug,156,Meilen,4,6,4
+2016,zuzug,156,Meilen,4,5,4.2
+2016,bestand,157,Oetwil am See,286,2119,1593.9
+2016,wegzug,157,Oetwil am See,NA,7,6.3
+2016,bestand,158,Stäfa,1038,5924,4709.9
+2016,wegzug,158,Stäfa,5,71,67.1
+2016,zuzug,158,Stäfa,4,22,19.4
+2016,bestand,159,Uetikon,365,1569,1155.6
+2016,wegzug,159,Uetikon,3,7,5
+2016,bestand,160,Zumikon,371,1731,1207.8
+2016,wegzug,160,Zumikon,NA,43,38.4
+2016,zuzug,160,Zumikon,NA,NA,NA
+2016,bestand,161,Zollikon,1136,6089,4473.3
+2016,wegzug,161,Zollikon,7,13,9.7
+2016,zuzug,161,Zollikon,6,18,12.8
+2016,bestand,172,Fehraltorf,427,3988,3104.9
+2016,wegzug,172,Fehraltorf,NA,18,14.6
+2016,zuzug,172,Fehraltorf,NA,NA,NA
+2016,bestand,173,Hittnau,239,757,556.8
+2016,wegzug,173,Hittnau,NA,8,6.6
+2016,zuzug,173,Hittnau,NA,5,4.9
+2016,bestand,176,Lindau,352,2537,2001.5
+2016,wegzug,176,Lindau,NA,NA,NA
+2016,bestand,177,Pfäffikon,806,5602,4079.4
+2016,wegzug,177,Pfäffikon,8,117,64.6
+2016,zuzug,177,Pfäffikon,NA,109,33.7
+2016,bestand,178,Russikon,280,1267,955
+2016,wegzug,178,Russikon,NA,NA,NA
+2016,zuzug,178,Russikon,NA,NA,NA
+2016,bestand,180,Weisslingen,224,838,616.5
+2016,wegzug,180,Weisslingen,NA,NA,NA
+2016,bestand,181,Wila,171,629,452.4
+2016,wegzug,181,Wila,NA,NA,NA
+2016,bestand,182,Wildberg,79,249,170.3
+2016,bestand,191,Dübendorf,1824,20285,16070.7
+2016,wegzug,191,Dübendorf,6,15,11.1
+2016,zuzug,191,Dübendorf,8,38,24.2
+2016,bestand,192,Egg,590,2549,1919
+2016,wegzug,192,Egg,3,7,5.7
+2016,zuzug,192,Egg,3,16,13.2
+2016,bestand,193,Fällanden,514,2999,2404.8
+2016,wegzug,193,Fällanden,NA,NA,NA
+2016,zuzug,193,Fällanden,NA,NA,NA
+2016,bestand,194,Greifensee,219,1905,1423.5
+2016,bestand,195,Maur,630,2233,1564.3
+2016,wegzug,195,Maur,3,NA,NA
+2016,zuzug,195,Maur,NA,NA,NA
+2016,bestand,196,Mönchaltorf,249,1331,1040.1
+2016,wegzug,196,Mönchaltorf,NA,NA,NA
+2016,bestand,197,Schwerzenbach,306,2887,2350.7
+2016,wegzug,197,Schwerzenbach,NA,4,NA
+2016,bestand,198,Uster,2458,16734,12582.8
+2016,wegzug,198,Uster,4,10,7.2
+2016,zuzug,198,Uster,4,6,NA
+2016,bestand,199,Volketswil,1244,11045,8853.5
+2016,wegzug,199,Volketswil,3,6,4.6
+2016,zuzug,199,Volketswil,NA,NA,NA
+2016,bestand,200,Wangen (ZH),579,5570,4492
+2016,wegzug,200,Wangen (ZH),NA,5,4.7
+2016,zuzug,200,Wangen (ZH),NA,13,11
+2016,bestand,211,Altikon,66,144,89.9
+2016,bestand,213,Brütten,124,359,244.1
+2016,bestand,214,Dägerlen,93,309,187.8
+2016,bestand,215,Dättlikon,60,172,92.7
+2016,bestand,216,Dinhard,108,361,259.3
+2016,zuzug,216,Dinhard,NA,NA,NA
+2016,bestand,218,Ellikon an der Thur,71,592,450.7
+2016,zuzug,218,Ellikon an der Thur,NA,NA,NA
+2016,bestand,219,Elsau,235,1309,1053.9
+2016,wegzug,219,Elsau,NA,13,9.2
+2016,bestand,220,Hagenbuch,80,247,187
+2016,wegzug,220,Hagenbuch,NA,NA,NA
+2016,bestand,221,Hettlingen,159,645,497.5
+2016,wegzug,221,Hettlingen,NA,12,7.5
+2016,zuzug,221,Hettlingen,NA,NA,NA
+2016,bestand,223,Neftenbach,361,1584,1198.5
+2016,wegzug,223,Neftenbach,NA,NA,NA
+2016,bestand,224,Pfungen,227,1435,1151
+2016,wegzug,224,Pfungen,3,4,NA
+2016,bestand,225,Rickenbach (ZH),155,484,335.8
+2016,wegzug,225,Rickenbach (ZH),NA,NA,NA
+2016,bestand,226,Schlatt (ZH),54,126,86.6
+2016,bestand,227,Seuzach,439,2729,2148.8
+2016,wegzug,227,Seuzach,NA,NA,NA
+2016,zuzug,227,Seuzach,NA,NA,NA
+2016,bestand,228,Turbenthal,343,1563,1101.4
+2016,wegzug,228,Turbenthal,NA,NA,NA
+2016,bestand,230,Winterthur,7874,70554,53456.3
+2016,wegzug,230,Winterthur,50,341,273.8
+2016,zuzug,230,Winterthur,29,55,42.8
+2016,bestand,231,Zell (ZH),349,1479,1068.9
+2016,wegzug,231,Zell (ZH),NA,NA,NA
+2016,zuzug,231,Zell (ZH),NA,NA,NA
+2016,bestand,241,Aesch (ZH),83,345,261.3
+2016,zuzug,241,Aesch (ZH),NA,NA,NA
+2016,bestand,242,Birmensdorf (ZH),400,2391,1854.7
+2016,wegzug,242,Birmensdorf (ZH),3,6,4
+2016,zuzug,242,Birmensdorf (ZH),3,22,19.1
+2016,bestand,243,Dietikon,1742,18010,14408.9
+2016,wegzug,243,Dietikon,22,75,61
+2016,zuzug,243,Dietikon,21,94,71.6
+2016,bestand,244,Geroldswil,304,2010,1603.8
+2016,wegzug,244,Geroldswil,3,NA,NA
+2016,zuzug,244,Geroldswil,NA,4,NA
+2016,bestand,245,Oberengstringen,324,1144,800.4
+2016,wegzug,245,Oberengstringen,NA,5,4.1
+2016,zuzug,245,Oberengstringen,NA,5,NA
+2016,bestand,246,Oetwil an der Limmat,125,278,196.2
+2016,wegzug,246,Oetwil an der Limmat,4,13,9.9
+2016,zuzug,246,Oetwil an der Limmat,NA,NA,NA
+2016,bestand,247,Schlieren,1384,18243,14526.5
+2016,wegzug,247,Schlieren,13,36,28
+2016,zuzug,247,Schlieren,9,24,18.1
+2016,bestand,248,Uitikon,275,992,711.8
+2016,wegzug,248,Uitikon,3,4,NA
+2016,zuzug,248,Uitikon,NA,25,23.6
+2016,bestand,249,Unterengstringen,257,989,754.8
+2016,wegzug,249,Unterengstringen,NA,NA,NA
+2016,zuzug,249,Unterengstringen,NA,NA,NA
+2016,bestand,250,Urdorf,639,6112,4990.4
+2016,wegzug,250,Urdorf,3,26,24.3
+2016,zuzug,250,Urdorf,NA,5,4.5
+2016,bestand,251,Weiningen (ZH),261,1434,1130.7
+2016,wegzug,251,Weiningen (ZH),NA,NA,NA
+2016,bestand,261,Zürich,44333,472777,362923.9
+2016,wegzug,261,Zürich,284,1120,857.1
+2016,zuzug,261,Zürich,232,1221,1006
+2016,bestand,291,Andelfingen,297,1752,1329.6
+2016,wegzug,291,Andelfingen,NA,NA,NA
+2016,bestand,292,Stammheim,274,1246,875.4
+2016,zuzug,292,Stammheim,NA,NA,NA
+2016,bestand,293,Wädenswil,1848,9724,7263.2
+2016,wegzug,293,Wädenswil,10,22,17.8
+2016,zuzug,293,Wädenswil,8,18,13
+2016,bestand,294,Elgg,326,1689,1229.2
+2016,wegzug,294,Elgg,NA,25,21.4
+2016,zuzug,294,Elgg,NA,NA,NA
+2016,bestand,295,Horgen,1438,10166,7971.9
+2016,wegzug,295,Horgen,10,40,35.6
+2016,zuzug,295,Horgen,8,21,17.6
+2016,bestand,296,Illnau-Effretikon,1070,7037,5131.3
+2016,wegzug,296,Illnau-Effretikon,3,7,5
+2016,zuzug,296,Illnau-Effretikon,6,9,7
+2016,bestand,297,Bauma,396,1875,1358.4
+2016,zuzug,297,Bauma,3,5,NA
+2016,bestand,298,Wiesendangen,382,1450,972.2
+2016,wegzug,298,Wiesendangen,NA,NA,NA
+2016,zuzug,298,Wiesendangen,NA,10,7.5
+2017,bestand,1,Aeugst am Albis,143,431,275.8
+2017,wegzug,1,Aeugst am Albis,NA,6,4.4
+2017,zuzug,1,Aeugst am Albis,NA,NA,NA
+2017,bestand,2,Affoltern am Albis,984,6586,4867.7
+2017,wegzug,2,Affoltern am Albis,5,35,24.9
+2017,zuzug,2,Affoltern am Albis,5,11,6.8
+2017,bestand,3,Bonstetten,275,995,661.9
+2017,wegzug,3,Bonstetten,NA,NA,NA
+2017,bestand,4,Hausen am Albis,268,1096,737.6
+2017,wegzug,4,Hausen am Albis,NA,NA,NA
+2017,zuzug,4,Hausen am Albis,NA,NA,NA
+2017,bestand,5,Hedingen,199,1443,1155.5
+2017,wegzug,5,Hedingen,NA,NA,NA
+2017,bestand,6,Kappel am Albis,101,321,214
+2017,zuzug,6,Kappel am Albis,NA,NA,NA
+2017,bestand,7,Knonau,128,533,393.3
+2017,zuzug,7,Knonau,NA,NA,NA
+2017,bestand,8,Maschwanden,68,162,105.1
+2017,zuzug,8,Maschwanden,NA,NA,NA
+2017,bestand,9,Mettmenstetten,314,1658,1212.5
+2017,wegzug,9,Mettmenstetten,6,14,10
+2017,zuzug,9,Mettmenstetten,NA,11,8.6
+2017,bestand,10,Obfelden,313,1302,915.1
+2017,zuzug,10,Obfelden,NA,NA,NA
+2017,bestand,11,Ottenbach,174,686,478.9
+2017,bestand,12,Rifferswil,87,256,180.6
+2017,wegzug,12,Rifferswil,NA,NA,NA
+2017,bestand,13,Stallikon,194,773,561.5
+2017,wegzug,13,Stallikon,NA,NA,NA
+2017,bestand,14,Wettswil am Albis,302,1309,998.2
+2017,wegzug,14,Wettswil am Albis,NA,NA,NA
+2017,zuzug,14,Wettswil am Albis,4,6,NA
+2017,bestand,22,Benken (ZH),71,271,191
+2017,bestand,23,Berg am Irchel,49,128,81.8
+2017,bestand,24,Buch am Irchel,75,199,133.3
+2017,bestand,25,Dachsen,107,384,261
+2017,wegzug,25,Dachsen,NA,7,5.1
+2017,bestand,26,Dorf,50,143,92.4
+2017,bestand,27,Feuerthalen,191,1075,796
+2017,wegzug,27,Feuerthalen,4,11,7.7
+2017,bestand,28,Flaach,147,792,533.7
+2017,wegzug,28,Flaach,NA,NA,NA
+2017,bestand,29,Flurlingen,107,400,272
+2017,wegzug,29,Flurlingen,NA,6,NA
+2017,zuzug,29,Flurlingen,NA,4,NA
+2017,bestand,31,Henggart,111,602,451.8
+2017,bestand,33,Kleinandelfingen,197,1090,870.5
+2017,bestand,34,Laufen-Uhwiesen,104,498,354.1
+2017,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2017,bestand,35,Marthalen,209,1128,809
+2017,bestand,37,Ossingen,103,417,292.5
+2017,bestand,38,Rheinau,87,689,485.7
+2017,zuzug,38,Rheinau,NA,NA,NA
+2017,bestand,39,Thalheim an der Thur,73,257,171.4
+2017,bestand,40,Trüllikon,95,311,211.4
+2017,bestand,41,Truttikon,37,102,67
+2017,bestand,43,Volken,32,105,63.7
+2017,bestand,51,Bachenbülach,263,1837,1489.4
+2017,wegzug,51,Bachenbülach,NA,4,NA
+2017,bestand,52,Bassersdorf,632,4376,3461.1
+2017,wegzug,52,Bassersdorf,NA,NA,NA
+2017,zuzug,52,Bassersdorf,NA,8,6.5
+2017,bestand,53,Bülach,1245,10747,8094.6
+2017,wegzug,53,Bülach,4,5,NA
+2017,zuzug,53,Bülach,NA,62,22.7
+2017,bestand,54,Dietlikon,571,6234,5043
+2017,zuzug,54,Dietlikon,NA,36,32.8
+2017,bestand,55,Eglisau,324,1561,1124.5
+2017,wegzug,55,Eglisau,NA,NA,NA
+2017,zuzug,55,Eglisau,NA,NA,NA
+2017,bestand,56,Embrach,481,3535,2831.8
+2017,wegzug,56,Embrach,NA,NA,NA
+2017,zuzug,56,Embrach,NA,NA,NA
+2017,bestand,57,Freienstein-Teufen,155,656,452.5
+2017,bestand,58,Glattfelden,254,1070,797
+2017,bestand,59,Hochfelden,87,399,326.6
+2017,wegzug,59,Hochfelden,NA,NA,NA
+2017,zuzug,59,Hochfelden,NA,NA,NA
+2017,bestand,60,Höri,209,1251,1036.2
+2017,bestand,61,Hüntwangen,90,325,226.3
+2017,bestand,62,Kloten,1499,37016,29997.1
+2017,wegzug,62,Kloten,3,45,37.6
+2017,zuzug,62,Kloten,5,5,4
+2017,bestand,63,Lufingen,108,377,269.8
+2017,bestand,64,Nürensdorf,301,1028,760.3
+2017,wegzug,64,Nürensdorf,NA,NA,NA
+2017,zuzug,64,Nürensdorf,NA,7,NA
+2017,bestand,65,Oberembrach,92,248,148.2
+2017,bestand,66,Opfikon,1363,19046,15273.6
+2017,wegzug,66,Opfikon,6,27,20.1
+2017,zuzug,66,Opfikon,10,43,26.9
+2017,bestand,67,Rafz,242,1424,1086.6
+2017,wegzug,67,Rafz,NA,NA,NA
+2017,bestand,68,Rorbas,158,506,331.6
+2017,wegzug,68,Rorbas,NA,NA,NA
+2017,bestand,69,Wallisellen,1397,20212,16733.2
+2017,wegzug,69,Wallisellen,8,51,46.3
+2017,zuzug,69,Wallisellen,NA,11,9.2
+2017,bestand,70,Wasterkingen,41,87,53.4
+2017,bestand,71,Wil (ZH),124,512,386.4
+2017,zuzug,71,Wil (ZH),NA,NA,NA
+2017,bestand,72,Winkel,260,955,691.9
+2017,wegzug,72,Winkel,NA,NA,NA
+2017,zuzug,72,Winkel,NA,NA,NA
+2017,bestand,81,Bachs,63,279,189
+2017,bestand,82,Boppelsen,75,273,204.7
+2017,bestand,83,Buchs (ZH),290,2246,1833
+2017,zuzug,83,Buchs (ZH),NA,NA,NA
+2017,bestand,84,Dällikon,281,2742,2355.9
+2017,wegzug,84,Dällikon,NA,5,4.8
+2017,zuzug,84,Dällikon,3,14,13.4
+2017,bestand,85,Dänikon,108,418,320.3
+2017,bestand,86,Dielsdorf,421,4144,3197.1
+2017,wegzug,86,Dielsdorf,3,NA,NA
+2017,bestand,87,Hüttikon,44,112,76.8
+2017,zuzug,87,Hüttikon,NA,NA,NA
+2017,bestand,88,Neerach,248,645,438.3
+2017,zuzug,88,Neerach,NA,12,8.4
+2017,bestand,89,Niederglatt,233,1417,1064.7
+2017,zuzug,89,Niederglatt,NA,NA,NA
+2017,bestand,90,Niederhasli,463,2456,1957.2
+2017,zuzug,90,Niederhasli,NA,NA,NA
+2017,bestand,91,Niederweningen,146,789,620.9
+2017,wegzug,91,Niederweningen,NA,4,NA
+2017,bestand,92,Oberglatt,299,1655,1367
+2017,zuzug,92,Oberglatt,NA,NA,NA
+2017,bestand,93,Oberweningen,85,242,173.8
+2017,bestand,94,Otelfingen,257,2329,1883.4
+2017,wegzug,94,Otelfingen,3,6,4.6
+2017,bestand,95,Regensberg,39,218,155.1
+2017,bestand,96,Regensdorf,1287,10900,8837.6
+2017,wegzug,96,Regensdorf,5,57,52.2
+2017,zuzug,96,Regensdorf,3,18,17
+2017,bestand,97,Rümlang,713,5871,4853.3
+2017,wegzug,97,Rümlang,4,8,6.6
+2017,zuzug,97,Rümlang,NA,9,9
+2017,bestand,98,Schleinikon,54,124,86.7
+2017,zuzug,98,Schleinikon,NA,NA,NA
+2017,bestand,99,Schöfflisdorf,97,365,239.7
+2017,wegzug,99,Schöfflisdorf,NA,14,10.1
+2017,bestand,100,Stadel,150,511,360.8
+2017,wegzug,100,Stadel,NA,NA,NA
+2017,zuzug,100,Stadel,NA,NA,NA
+2017,bestand,101,Steinmaur,205,800,586.3
+2017,wegzug,101,Steinmaur,NA,7,4.6
+2017,bestand,102,Weiach,93,281,215.7
+2017,bestand,111,Bäretswil,399,1664,1156.6
+2017,zuzug,111,Bäretswil,NA,NA,NA
+2017,bestand,112,Bubikon,549,3540,2761.4
+2017,wegzug,112,Bubikon,3,7,4.5
+2017,zuzug,112,Bubikon,NA,4,NA
+2017,bestand,113,Dürnten,429,1793,1252.5
+2017,wegzug,113,Dürnten,NA,10,8.5
+2017,zuzug,113,Dürnten,3,NA,NA
+2017,bestand,114,Fischenthal,202,700,494.3
+2017,bestand,115,Gossau (ZH),641,2656,2003.7
+2017,wegzug,115,Gossau (ZH),3,7,5.2
+2017,bestand,116,Grüningen,274,1860,1416.4
+2017,bestand,117,Hinwil,862,6988,5739.1
+2017,wegzug,117,Hinwil,4,11,9.6
+2017,bestand,118,Rüti (ZH),857,4938,3666.7
+2017,wegzug,118,Rüti (ZH),6,9,8
+2017,zuzug,118,Rüti (ZH),6,9,7.5
+2017,bestand,119,Seegräben,109,559,370.7
+2017,bestand,120,Wald (ZH),666,3500,2587.6
+2017,wegzug,120,Wald (ZH),NA,NA,NA
+2017,zuzug,120,Wald (ZH),4,4,NA
+2017,bestand,121,Wetzikon (ZH),1806,14362,10408
+2017,wegzug,121,Wetzikon (ZH),6,10,8.6
+2017,zuzug,121,Wetzikon (ZH),NA,NA,NA
+2017,bestand,131,Adliswil,1040,8023,6528.3
+2017,wegzug,131,Adliswil,5,12,10.3
+2017,zuzug,131,Adliswil,3,NA,NA
+2017,bestand,135,Kilchberg (ZH),583,4064,3110.6
+2017,wegzug,135,Kilchberg (ZH),NA,NA,NA
+2017,zuzug,135,Kilchberg (ZH),6,9,7.6
+2017,bestand,136,Langnau am Albis,354,1534,1064.1
+2017,wegzug,136,Langnau am Albis,NA,NA,NA
+2017,bestand,137,Oberrieden,304,1051,717
+2017,zuzug,137,Oberrieden,3,4,NA
+2017,bestand,138,Richterswil,799,4079,3198.1
+2017,wegzug,138,Richterswil,3,NA,NA
+2017,zuzug,138,Richterswil,5,5,NA
+2017,bestand,139,Rüschlikon,423,3064,2413
+2017,wegzug,139,Rüschlikon,6,60,54.1
+2017,zuzug,139,Rüschlikon,NA,8,7.5
+2017,bestand,141,Thalwil,1284,6609,4819.4
+2017,wegzug,141,Thalwil,12,26,20.7
+2017,zuzug,141,Thalwil,9,19,14.7
+2017,bestand,151,Erlenbach (ZH),454,1944,1368.6
+2017,wegzug,151,Erlenbach (ZH),NA,65,57.8
+2017,zuzug,151,Erlenbach (ZH),NA,6,4
+2017,bestand,152,Herrliberg,431,1445,1016.3
+2017,wegzug,152,Herrliberg,NA,NA,NA
+2017,zuzug,152,Herrliberg,4,8,4.4
+2017,bestand,153,Hombrechtikon,596,2886,2115.9
+2017,wegzug,153,Hombrechtikon,NA,NA,NA
+2017,zuzug,153,Hombrechtikon,NA,NA,NA
+2017,bestand,154,Küsnacht (ZH),1247,6478,4715.9
+2017,wegzug,154,Küsnacht (ZH),7,13,8.9
+2017,zuzug,154,Küsnacht (ZH),5,85,80.1
+2017,bestand,155,Männedorf,767,5044,3853.6
+2017,wegzug,155,Männedorf,7,14,11.3
+2017,zuzug,155,Männedorf,5,7,4.7
+2017,bestand,156,Meilen,1113,5816,4350.4
+2017,wegzug,156,Meilen,5,18,15.6
+2017,zuzug,156,Meilen,5,6,5.3
+2017,bestand,157,Oetwil am See,297,2237,1668.5
+2017,bestand,158,Stäfa,1035,5944,4736.7
+2017,wegzug,158,Stäfa,3,8,5.9
+2017,zuzug,158,Stäfa,4,4,NA
+2017,bestand,159,Uetikon,367,1597,1165.8
+2017,wegzug,159,Uetikon,NA,NA,NA
+2017,zuzug,159,Uetikon,NA,6,4.1
+2017,bestand,160,Zumikon,376,1797,1270.4
+2017,wegzug,160,Zumikon,NA,NA,NA
+2017,zuzug,160,Zumikon,NA,7,NA
+2017,bestand,161,Zollikon,1119,5697,4168.7
+2017,wegzug,161,Zollikon,9,11,7
+2017,zuzug,161,Zollikon,6,8,5.6
+2017,bestand,172,Fehraltorf,440,4265,3304.4
+2017,wegzug,172,Fehraltorf,NA,NA,NA
+2017,bestand,173,Hittnau,243,783,575.6
+2017,wegzug,173,Hittnau,NA,NA,NA
+2017,zuzug,173,Hittnau,NA,10,6.9
+2017,bestand,176,Lindau,344,2626,2106.6
+2017,zuzug,176,Lindau,NA,NA,NA
+2017,bestand,177,Pfäffikon,812,5660,4146.5
+2017,wegzug,177,Pfäffikon,3,111,35.9
+2017,zuzug,177,Pfäffikon,3,5,NA
+2017,bestand,178,Russikon,291,1247,941.4
+2017,wegzug,178,Russikon,NA,NA,NA
+2017,bestand,180,Weisslingen,226,882,634.2
+2017,zuzug,180,Weisslingen,NA,NA,NA
+2017,bestand,181,Wila,159,620,449.5
+2017,bestand,182,Wildberg,76,232,159.2
+2017,wegzug,182,Wildberg,NA,NA,NA
+2017,bestand,191,Dübendorf,1858,20362,16167.4
+2017,wegzug,191,Dübendorf,7,55,49.8
+2017,zuzug,191,Dübendorf,6,7,5.9
+2017,bestand,192,Egg,596,2535,1911.9
+2017,wegzug,192,Egg,NA,7,6.1
+2017,zuzug,192,Egg,3,NA,NA
+2017,bestand,193,Fällanden,508,2914,2375.9
+2017,wegzug,193,Fällanden,NA,4,NA
+2017,zuzug,193,Fällanden,NA,NA,NA
+2017,bestand,194,Greifensee,218,1677,1242.7
+2017,wegzug,194,Greifensee,NA,NA,NA
+2017,bestand,195,Maur,622,2212,1553.9
+2017,wegzug,195,Maur,NA,NA,NA
+2017,zuzug,195,Maur,4,4,NA
+2017,bestand,196,Mönchaltorf,243,1305,1031.7
+2017,zuzug,196,Mönchaltorf,NA,NA,NA
+2017,bestand,197,Schwerzenbach,311,2786,2231.9
+2017,wegzug,197,Schwerzenbach,NA,NA,NA
+2017,bestand,198,Uster,2413,16851,12606.4
+2017,wegzug,198,Uster,7,11,7.4
+2017,zuzug,198,Uster,6,36,29
+2017,bestand,199,Volketswil,1248,11130,8895.5
+2017,wegzug,199,Volketswil,5,38,32.3
+2017,zuzug,199,Volketswil,5,42,36
+2017,bestand,200,Wangen (ZH),569,5782,4618.8
+2017,wegzug,200,Wangen (ZH),NA,NA,NA
+2017,zuzug,200,Wangen (ZH),3,NA,NA
+2017,bestand,211,Altikon,63,147,91.8
+2017,bestand,213,Brütten,129,355,250.4
+2017,zuzug,213,Brütten,NA,NA,NA
+2017,bestand,214,Dägerlen,98,317,204.6
+2017,bestand,215,Dättlikon,57,168,96.6
+2017,bestand,216,Dinhard,115,386,278.5
+2017,zuzug,216,Dinhard,NA,NA,NA
+2017,bestand,218,Ellikon an der Thur,69,648,498
+2017,wegzug,218,Ellikon an der Thur,NA,NA,NA
+2017,bestand,219,Elsau,231,1324,1030.7
+2017,wegzug,219,Elsau,NA,NA,NA
+2017,zuzug,219,Elsau,NA,NA,NA
+2017,bestand,220,Hagenbuch,78,227,171.4
+2017,bestand,221,Hettlingen,162,673,518.1
+2017,wegzug,221,Hettlingen,3,NA,NA
+2017,bestand,223,Neftenbach,352,1564,1172.9
+2017,bestand,224,Pfungen,223,1403,1142.6
+2017,bestand,225,Rickenbach (ZH),161,489,342.7
+2017,bestand,226,Schlatt (ZH),61,135,90.9
+2017,wegzug,226,Schlatt (ZH),NA,NA,NA
+2017,bestand,227,Seuzach,439,2640,2036.5
+2017,wegzug,227,Seuzach,NA,NA,NA
+2017,zuzug,227,Seuzach,NA,NA,NA
+2017,bestand,228,Turbenthal,324,1618,1134.6
+2017,wegzug,228,Turbenthal,NA,NA,NA
+2017,bestand,230,Winterthur,7952,71587,54260.2
+2017,wegzug,230,Winterthur,35,97,66.9
+2017,zuzug,230,Winterthur,24,66,42.1
+2017,bestand,231,Zell (ZH),337,1467,1064.7
+2017,wegzug,231,Zell (ZH),NA,7,5.8
+2017,bestand,241,Aesch (ZH),85,348,266.5
+2017,bestand,242,Birmensdorf (ZH),407,2419,1882.8
+2017,wegzug,242,Birmensdorf (ZH),NA,NA,NA
+2017,zuzug,242,Birmensdorf (ZH),NA,NA,NA
+2017,bestand,243,Dietikon,1753,18509,14706.2
+2017,wegzug,243,Dietikon,12,317,299
+2017,zuzug,243,Dietikon,11,31,18.5
+2017,bestand,244,Geroldswil,307,2235,1725.6
+2017,wegzug,244,Geroldswil,NA,NA,NA
+2017,zuzug,244,Geroldswil,NA,NA,NA
+2017,bestand,245,Oberengstringen,316,1236,886.8
+2017,wegzug,245,Oberengstringen,NA,NA,NA
+2017,bestand,246,Oetwil an der Limmat,122,281,192.9
+2017,bestand,247,Schlieren,1370,18637,14939.3
+2017,wegzug,247,Schlieren,5,79,70.4
+2017,zuzug,247,Schlieren,5,59,53.4
+2017,bestand,248,Uitikon,262,1043,756.1
+2017,wegzug,248,Uitikon,NA,NA,NA
+2017,zuzug,248,Uitikon,NA,NA,NA
+2017,bestand,249,Unterengstringen,259,994,752.7
+2017,zuzug,249,Unterengstringen,NA,NA,NA
+2017,bestand,250,Urdorf,656,6401,5248.7
+2017,wegzug,250,Urdorf,NA,NA,NA
+2017,zuzug,250,Urdorf,4,50,39.1
+2017,bestand,251,Weiningen (ZH),267,2021,1288.8
+2017,wegzug,251,Weiningen (ZH),NA,6,4.2
+2017,bestand,261,Zürich,44669,479839,367940.9
+2017,wegzug,261,Zürich,185,882,717.7
+2017,zuzug,261,Zürich,182,729,558.1
+2017,bestand,291,Andelfingen,303,1812,1376.5
+2017,bestand,292,Stammheim,267,1233,864.4
+2017,wegzug,292,Stammheim,NA,4,NA
+2017,bestand,293,Wädenswil,1868,9644,7182.4
+2017,wegzug,293,Wädenswil,7,50,45.3
+2017,zuzug,293,Wädenswil,9,14,9.7
+2017,bestand,294,Elgg,342,1628,1178.2
+2017,wegzug,294,Elgg,NA,NA,NA
+2017,zuzug,294,Elgg,3,5,NA
+2017,bestand,295,Horgen,1417,10125,7891.6
+2017,wegzug,295,Horgen,7,11,8.9
+2017,zuzug,295,Horgen,3,5,4.3
+2017,bestand,296,Illnau-Effretikon,1055,6908,5061.2
+2017,wegzug,296,Illnau-Effretikon,NA,14,13.5
+2017,bestand,297,Bauma,389,1860,1372.6
+2017,bestand,298,Wiesendangen,382,1525,1044.3
+2017,wegzug,298,Wiesendangen,NA,NA,NA
+2018,bestand,1,Aeugst am Albis,141,442,283.5
+2018,wegzug,1,Aeugst am Albis,NA,NA,NA
+2018,zuzug,1,Aeugst am Albis,NA,NA,NA
+2018,bestand,2,Affoltern am Albis,992,6758,5084.1
+2018,wegzug,2,Affoltern am Albis,7,19,14.3
+2018,zuzug,2,Affoltern am Albis,4,5,4.2
+2018,bestand,3,Bonstetten,281,1015,669.2
+2018,wegzug,3,Bonstetten,NA,10,5.9
+2018,zuzug,3,Bonstetten,NA,NA,NA
+2018,bestand,4,Hausen am Albis,271,1016,729.5
+2018,wegzug,4,Hausen am Albis,3,89,29.8
+2018,zuzug,4,Hausen am Albis,NA,NA,NA
+2018,bestand,5,Hedingen,201,1459,1186.9
+2018,wegzug,5,Hedingen,NA,NA,NA
+2018,zuzug,5,Hedingen,4,4,NA
+2018,bestand,6,Kappel am Albis,101,319,219.3
+2018,wegzug,6,Kappel am Albis,NA,NA,NA
+2018,zuzug,6,Kappel am Albis,3,NA,NA
+2018,bestand,7,Knonau,134,568,406.1
+2018,wegzug,7,Knonau,NA,NA,NA
+2018,zuzug,7,Knonau,4,4,NA
+2018,bestand,8,Maschwanden,67,175,112.9
+2018,zuzug,8,Maschwanden,NA,NA,NA
+2018,bestand,9,Mettmenstetten,320,1680,1242.2
+2018,wegzug,9,Mettmenstetten,NA,NA,NA
+2018,zuzug,9,Mettmenstetten,6,9,5.7
+2018,bestand,10,Obfelden,311,1312,922.9
+2018,wegzug,10,Obfelden,NA,NA,NA
+2018,zuzug,10,Obfelden,4,7,4.9
+2018,bestand,11,Ottenbach,175,682,480.8
+2018,bestand,12,Rifferswil,87,250,173.9
+2018,zuzug,12,Rifferswil,NA,NA,NA
+2018,bestand,13,Stallikon,188,774,562.6
+2018,wegzug,13,Stallikon,3,4,NA
+2018,zuzug,13,Stallikon,NA,4,NA
+2018,bestand,14,Wettswil am Albis,292,1284,1001.4
+2018,wegzug,14,Wettswil am Albis,NA,NA,NA
+2018,bestand,22,Benken (ZH),68,248,176.5
+2018,zuzug,22,Benken (ZH),NA,NA,NA
+2018,bestand,23,Berg am Irchel,47,137,88.5
+2018,zuzug,23,Berg am Irchel,NA,NA,NA
+2018,bestand,24,Buch am Irchel,74,200,135.1
+2018,wegzug,24,Buch am Irchel,NA,NA,NA
+2018,bestand,25,Dachsen,104,402,279.1
+2018,wegzug,25,Dachsen,5,11,8
+2018,zuzug,25,Dachsen,NA,NA,NA
+2018,bestand,26,Dorf,51,129,84.2
+2018,bestand,27,Feuerthalen,195,1165,878.8
+2018,zuzug,27,Feuerthalen,4,4,NA
+2018,bestand,28,Flaach,138,808,538.7
+2018,zuzug,28,Flaach,NA,NA,NA
+2018,bestand,29,Flurlingen,103,438,295.9
+2018,wegzug,29,Flurlingen,NA,NA,NA
+2018,zuzug,29,Flurlingen,NA,4,NA
+2018,bestand,31,Henggart,112,630,466.8
+2018,bestand,33,Kleinandelfingen,189,1083,866.1
+2018,wegzug,33,Kleinandelfingen,NA,6,5.7
+2018,bestand,34,Laufen-Uhwiesen,106,525,377.6
+2018,wegzug,34,Laufen-Uhwiesen,NA,NA,NA
+2018,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2018,bestand,35,Marthalen,205,1163,807.8
+2018,wegzug,35,Marthalen,NA,NA,NA
+2018,bestand,37,Ossingen,106,426,307.8
+2018,bestand,38,Rheinau,94,730,521.6
+2018,zuzug,38,Rheinau,NA,NA,NA
+2018,bestand,39,Thalheim an der Thur,70,256,181.1
+2018,bestand,40,Trüllikon,94,309,208
+2018,zuzug,40,Trüllikon,NA,NA,NA
+2018,bestand,41,Truttikon,37,119,72.9
+2018,bestand,43,Volken,31,103,59.6
+2018,bestand,51,Bachenbülach,271,1848,1496.5
+2018,wegzug,51,Bachenbülach,NA,NA,NA
+2018,bestand,52,Bassersdorf,647,4600,3690
+2018,wegzug,52,Bassersdorf,3,6,4.9
+2018,zuzug,52,Bassersdorf,NA,6,5.5
+2018,bestand,53,Bülach,1269,11073,8245.7
+2018,wegzug,53,Bülach,NA,NA,NA
+2018,zuzug,53,Bülach,NA,NA,NA
+2018,bestand,54,Dietlikon,565,5840,4756
+2018,wegzug,54,Dietlikon,NA,34,18
+2018,zuzug,54,Dietlikon,NA,7,5.8
+2018,bestand,55,Eglisau,327,1510,1080.4
+2018,wegzug,55,Eglisau,NA,4,NA
+2018,zuzug,55,Eglisau,NA,NA,NA
+2018,bestand,56,Embrach,491,3584,2847.3
+2018,wegzug,56,Embrach,NA,NA,NA
+2018,bestand,57,Freienstein-Teufen,163,691,491.2
+2018,zuzug,57,Freienstein-Teufen,NA,NA,NA
+2018,bestand,58,Glattfelden,247,1104,814.9
+2018,wegzug,58,Glattfelden,NA,NA,NA
+2018,zuzug,58,Glattfelden,NA,NA,NA
+2018,bestand,59,Hochfelden,79,391,329
+2018,bestand,60,Höri,212,1266,1042.4
+2018,wegzug,60,Höri,NA,7,5.7
+2018,zuzug,60,Höri,NA,NA,NA
+2018,bestand,61,Hüntwangen,90,349,244.7
+2018,zuzug,61,Hüntwangen,NA,NA,NA
+2018,bestand,62,Kloten,1505,37595,30615
+2018,wegzug,62,Kloten,6,42,36.1
+2018,zuzug,62,Kloten,11,62,57.5
+2018,bestand,63,Lufingen,116,407,288.5
+2018,zuzug,63,Lufingen,NA,NA,NA
+2018,bestand,64,Nürensdorf,302,1032,768.9
+2018,wegzug,64,Nürensdorf,NA,4,NA
+2018,zuzug,64,Nürensdorf,NA,NA,NA
+2018,bestand,65,Oberembrach,86,230,151.6
+2018,bestand,66,Opfikon,1423,19333,15470.9
+2018,wegzug,66,Opfikon,3,7,5.8
+2018,zuzug,66,Opfikon,6,10,7.7
+2018,bestand,67,Rafz,244,1359,1048.7
+2018,wegzug,67,Rafz,NA,6,4.9
+2018,bestand,68,Rorbas,156,456,309.1
+2018,wegzug,68,Rorbas,NA,NA,NA
+2018,zuzug,68,Rorbas,NA,NA,NA
+2018,bestand,69,Wallisellen,1413,20401,17019.2
+2018,wegzug,69,Wallisellen,6,25,19.6
+2018,zuzug,69,Wallisellen,NA,5,NA
+2018,bestand,70,Wasterkingen,31,74,44.8
+2018,bestand,71,Wil (ZH),132,543,406.4
+2018,bestand,72,Winkel,265,974,712.5
+2018,wegzug,72,Winkel,NA,NA,NA
+2018,zuzug,72,Winkel,NA,13,11.5
+2018,bestand,81,Bachs,62,264,169.1
+2018,bestand,82,Boppelsen,79,318,245.5
+2018,bestand,83,Buchs (ZH),289,2327,1942.5
+2018,wegzug,83,Buchs (ZH),NA,NA,NA
+2018,zuzug,83,Buchs (ZH),NA,NA,NA
+2018,bestand,84,Dällikon,293,2757,2384.9
+2018,wegzug,84,Dällikon,NA,NA,NA
+2018,zuzug,84,Dällikon,NA,NA,NA
+2018,bestand,85,Dänikon,104,434,330.8
+2018,zuzug,85,Dänikon,NA,NA,NA
+2018,bestand,86,Dielsdorf,425,4369,3390.1
+2018,wegzug,86,Dielsdorf,3,12,8.5
+2018,zuzug,86,Dielsdorf,NA,NA,NA
+2018,bestand,87,Hüttikon,45,129,87
+2018,bestand,88,Neerach,240,637,443.5
+2018,zuzug,88,Neerach,NA,NA,NA
+2018,bestand,89,Niederglatt,228,1396,1062.6
+2018,wegzug,89,Niederglatt,NA,NA,NA
+2018,bestand,90,Niederhasli,470,2506,1995.8
+2018,wegzug,90,Niederhasli,NA,NA,NA
+2018,bestand,91,Niederweningen,152,861,671.1
+2018,zuzug,91,Niederweningen,3,7,4.2
+2018,bestand,92,Oberglatt,306,1788,1449
+2018,wegzug,92,Oberglatt,NA,4,NA
+2018,zuzug,92,Oberglatt,NA,6,5
+2018,bestand,93,Oberweningen,88,232,168.1
+2018,wegzug,93,Oberweningen,NA,NA,NA
+2018,bestand,94,Otelfingen,264,2384,1945.4
+2018,wegzug,94,Otelfingen,NA,NA,NA
+2018,zuzug,94,Otelfingen,NA,9,8.2
+2018,bestand,95,Regensberg,42,258,174.3
+2018,wegzug,95,Regensberg,NA,NA,NA
+2018,bestand,96,Regensdorf,1271,11123,9002.5
+2018,wegzug,96,Regensdorf,4,28,26.6
+2018,zuzug,96,Regensdorf,4,22,17.7
+2018,bestand,97,Rümlang,736,6210,5168.9
+2018,wegzug,97,Rümlang,NA,5,4
+2018,zuzug,97,Rümlang,4,7,5.5
+2018,bestand,98,Schleinikon,54,122,81.4
+2018,bestand,99,Schöfflisdorf,93,347,217.9
+2018,zuzug,99,Schöfflisdorf,NA,NA,NA
+2018,bestand,100,Stadel,150,501,356.7
+2018,wegzug,100,Stadel,NA,NA,NA
+2018,zuzug,100,Stadel,NA,NA,NA
+2018,bestand,101,Steinmaur,217,828,584.8
+2018,bestand,102,Weiach,95,291,220.7
+2018,bestand,111,Bäretswil,401,1657,1164.7
+2018,bestand,112,Bubikon,557,3617,2813.4
+2018,wegzug,112,Bubikon,NA,NA,NA
+2018,zuzug,112,Bubikon,NA,NA,NA
+2018,bestand,113,Dürnten,433,1840,1262.3
+2018,wegzug,113,Dürnten,NA,NA,NA
+2018,zuzug,113,Dürnten,NA,17,8.2
+2018,bestand,114,Fischenthal,205,668,481.2
+2018,wegzug,114,Fischenthal,NA,4,NA
+2018,bestand,115,Gossau (ZH),630,2676,1986.6
+2018,zuzug,115,Gossau (ZH),NA,NA,NA
+2018,bestand,116,Grüningen,260,1809,1428.5
+2018,wegzug,116,Grüningen,NA,NA,NA
+2018,zuzug,116,Grüningen,NA,NA,NA
+2018,bestand,117,Hinwil,881,6991,5740.5
+2018,wegzug,117,Hinwil,NA,NA,NA
+2018,zuzug,117,Hinwil,NA,5,4
+2018,bestand,118,Rüti (ZH),855,5039,3716.3
+2018,wegzug,118,Rüti (ZH),4,8,5.9
+2018,zuzug,118,Rüti (ZH),6,16,13.1
+2018,bestand,119,Seegräben,122,583,395.2
+2018,zuzug,119,Seegräben,NA,NA,NA
+2018,bestand,120,Wald (ZH),653,3454,2560.2
+2018,wegzug,120,Wald (ZH),NA,6,4.9
+2018,zuzug,120,Wald (ZH),4,4,NA
+2018,bestand,121,Wetzikon (ZH),1799,14153,10418.9
+2018,wegzug,121,Wetzikon (ZH),NA,NA,NA
+2018,zuzug,121,Wetzikon (ZH),6,13,8.4
+2018,bestand,131,Adliswil,1020,7511,5874.9
+2018,wegzug,131,Adliswil,7,11,7.7
+2018,zuzug,131,Adliswil,NA,NA,NA
+2018,bestand,135,Kilchberg (ZH),569,4130,3143
+2018,wegzug,135,Kilchberg (ZH),3,NA,NA
+2018,zuzug,135,Kilchberg (ZH),NA,4,NA
+2018,bestand,136,Langnau am Albis,367,1533,1077
+2018,wegzug,136,Langnau am Albis,3,4,NA
+2018,bestand,137,Oberrieden,294,1014,695.9
+2018,zuzug,137,Oberrieden,NA,17,11.3
+2018,bestand,138,Richterswil,804,4299,3376
+2018,wegzug,138,Richterswil,7,15,12.1
+2018,zuzug,138,Richterswil,4,5,NA
+2018,bestand,139,Rüschlikon,431,3039,2343.6
+2018,wegzug,139,Rüschlikon,NA,NA,NA
+2018,zuzug,139,Rüschlikon,NA,7,4.3
+2018,bestand,141,Thalwil,1300,6583,4796.8
+2018,wegzug,141,Thalwil,5,7,4.8
+2018,zuzug,141,Thalwil,NA,NA,NA
+2018,bestand,151,Erlenbach (ZH),481,1936,1367
+2018,zuzug,151,Erlenbach (ZH),NA,10,8.4
+2018,bestand,152,Herrliberg,438,1398,1000.3
+2018,wegzug,152,Herrliberg,NA,NA,NA
+2018,zuzug,152,Herrliberg,4,6,4.6
+2018,bestand,153,Hombrechtikon,610,2901,2102.1
+2018,wegzug,153,Hombrechtikon,NA,NA,NA
+2018,zuzug,153,Hombrechtikon,3,16,14.6
+2018,bestand,154,Küsnacht (ZH),1269,6368,4766.1
+2018,wegzug,154,Küsnacht (ZH),5,5,NA
+2018,zuzug,154,Küsnacht (ZH),7,10,7.3
+2018,bestand,155,Männedorf,778,5102,3930.4
+2018,wegzug,155,Männedorf,3,9,5.2
+2018,zuzug,155,Männedorf,4,7,5.2
+2018,bestand,156,Meilen,1122,5917,4458.4
+2018,wegzug,156,Meilen,5,22,18.3
+2018,zuzug,156,Meilen,5,20,18
+2018,bestand,157,Oetwil am See,294,2300,1732.5
+2018,wegzug,157,Oetwil am See,NA,NA,NA
+2018,zuzug,157,Oetwil am See,NA,NA,NA
+2018,bestand,158,Stäfa,1058,6188,4847.4
+2018,wegzug,158,Stäfa,6,20,16.1
+2018,zuzug,158,Stäfa,4,5,NA
+2018,bestand,159,Uetikon,371,1491,1081.7
+2018,wegzug,159,Uetikon,3,38,26
+2018,bestand,160,Zumikon,375,1843,1297.2
+2018,wegzug,160,Zumikon,4,10,7.7
+2018,bestand,161,Zollikon,1112,5713,4167.9
+2018,wegzug,161,Zollikon,12,18,12.9
+2018,zuzug,161,Zollikon,3,NA,NA
+2018,bestand,172,Fehraltorf,448,4388,3470.3
+2018,zuzug,172,Fehraltorf,NA,NA,NA
+2018,bestand,173,Hittnau,246,783,577.3
+2018,wegzug,173,Hittnau,NA,NA,NA
+2018,bestand,176,Lindau,355,2768,2217.9
+2018,wegzug,176,Lindau,NA,11,10.4
+2018,bestand,177,Pfäffikon,813,5720,4152.1
+2018,wegzug,177,Pfäffikon,3,5,NA
+2018,zuzug,177,Pfäffikon,NA,NA,NA
+2018,bestand,178,Russikon,281,1219,915.4
+2018,wegzug,178,Russikon,NA,NA,NA
+2018,bestand,180,Weisslingen,230,886,635.2
+2018,bestand,181,Wila,162,613,446.4
+2018,zuzug,181,Wila,NA,NA,NA
+2018,bestand,182,Wildberg,81,244,168.3
+2018,bestand,191,Dübendorf,1912,20133,16041.3
+2018,wegzug,191,Dübendorf,5,7,6
+2018,zuzug,191,Dübendorf,4,15,12.1
+2018,bestand,192,Egg,579,2475,1854.9
+2018,wegzug,192,Egg,3,NA,NA
+2018,bestand,193,Fällanden,503,2950,2420.1
+2018,wegzug,193,Fällanden,NA,5,NA
+2018,zuzug,193,Fällanden,4,4,NA
+2018,bestand,194,Greifensee,225,1672,1238.6
+2018,bestand,195,Maur,643,2206,1559.9
+2018,wegzug,195,Maur,3,5,4.1
+2018,zuzug,195,Maur,3,4,NA
+2018,bestand,196,Mönchaltorf,253,1361,1064.9
+2018,bestand,197,Schwerzenbach,306,2646,2087.8
+2018,wegzug,197,Schwerzenbach,NA,4,4
+2018,zuzug,197,Schwerzenbach,NA,NA,NA
+2018,bestand,198,Uster,2478,17606,13307.5
+2018,wegzug,198,Uster,6,12,8.1
+2018,zuzug,198,Uster,6,9,6.9
+2018,bestand,199,Volketswil,1244,11275,9002.1
+2018,wegzug,199,Volketswil,5,10,6.7
+2018,zuzug,199,Volketswil,3,6,5.6
+2018,bestand,200,Wangen (ZH),563,5860,4597.5
+2018,wegzug,200,Wangen (ZH),NA,7,6.4
+2018,zuzug,200,Wangen (ZH),NA,4,NA
+2018,bestand,211,Altikon,61,144,87.4
+2018,bestand,213,Brütten,130,389,273.9
+2018,zuzug,213,Brütten,NA,NA,NA
+2018,bestand,214,Dägerlen,87,268,165.8
+2018,bestand,215,Dättlikon,57,150,99.6
+2018,bestand,216,Dinhard,116,382,275.8
+2018,zuzug,216,Dinhard,NA,NA,NA
+2018,bestand,218,Ellikon an der Thur,65,594,467.6
+2018,bestand,219,Elsau,230,1052,789.2
+2018,zuzug,219,Elsau,NA,NA,NA
+2018,bestand,220,Hagenbuch,74,194,142.4
+2018,bestand,221,Hettlingen,168,699,524.9
+2018,bestand,223,Neftenbach,350,1660,1213.5
+2018,bestand,224,Pfungen,233,1396,1132.7
+2018,bestand,225,Rickenbach (ZH),168,550,373.9
+2018,zuzug,225,Rickenbach (ZH),NA,NA,NA
+2018,bestand,226,Schlatt (ZH),57,148,106.7
+2018,bestand,227,Seuzach,424,2635,2072.4
+2018,wegzug,227,Seuzach,4,8,5.3
+2018,bestand,228,Turbenthal,329,1631,1143.4
+2018,wegzug,228,Turbenthal,NA,NA,NA
+2018,zuzug,228,Turbenthal,NA,NA,NA
+2018,bestand,230,Winterthur,8088,73225,55634.8
+2018,wegzug,230,Winterthur,21,56,38.6
+2018,zuzug,230,Winterthur,32,92,64.1
+2018,bestand,231,Zell (ZH),336,1474,1062.4
+2018,wegzug,231,Zell (ZH),NA,NA,NA
+2018,zuzug,231,Zell (ZH),NA,NA,NA
+2018,bestand,241,Aesch (ZH),85,342,260.5
+2018,zuzug,241,Aesch (ZH),NA,NA,NA
+2018,bestand,242,Birmensdorf (ZH),416,2590,2023
+2018,wegzug,242,Birmensdorf (ZH),NA,4,NA
+2018,zuzug,242,Birmensdorf (ZH),3,4,NA
+2018,bestand,243,Dietikon,1741,18933,15161.8
+2018,wegzug,243,Dietikon,9,77,61.2
+2018,zuzug,243,Dietikon,13,82,69.5
+2018,bestand,244,Geroldswil,308,2136,1637.1
+2018,wegzug,244,Geroldswil,3,9,NA
+2018,zuzug,244,Geroldswil,NA,4,NA
+2018,bestand,245,Oberengstringen,307,1182,848.9
+2018,wegzug,245,Oberengstringen,NA,39,31.1
+2018,zuzug,245,Oberengstringen,NA,NA,NA
+2018,bestand,246,Oetwil an der Limmat,118,275,189.7
+2018,wegzug,246,Oetwil an der Limmat,NA,NA,NA
+2018,bestand,247,Schlieren,1403,18958,15262.6
+2018,wegzug,247,Schlieren,8,129,102.4
+2018,zuzug,247,Schlieren,10,24,17.2
+2018,bestand,248,Uitikon,264,1076,763.2
+2018,wegzug,248,Uitikon,NA,NA,NA
+2018,zuzug,248,Uitikon,NA,NA,NA
+2018,bestand,249,Unterengstringen,276,1004,750.7
+2018,zuzug,249,Unterengstringen,NA,NA,NA
+2018,bestand,250,Urdorf,649,6407,5294.4
+2018,wegzug,250,Urdorf,NA,13,11.5
+2018,zuzug,250,Urdorf,NA,11,8.8
+2018,bestand,251,Weiningen (ZH),272,2161,1497.6
+2018,wegzug,251,Weiningen (ZH),NA,NA,NA
+2018,zuzug,251,Weiningen (ZH),NA,NA,NA
+2018,bestand,261,Zürich,45072,491835,378320.1
+2018,wegzug,261,Zürich,207,666,521.8
+2018,zuzug,261,Zürich,188,1154,874
+2018,bestand,291,Andelfingen,301,1850,1414.6
+2018,bestand,292,Stammheim,278,1250,909.6
+2018,zuzug,292,Stammheim,NA,NA,NA
+2018,bestand,293,Wädenswil,1862,9749,7259.5
+2018,wegzug,293,Wädenswil,12,42,35.8
+2018,zuzug,293,Wädenswil,9,29,19.9
+2018,bestand,294,Elgg,344,1634,1188.4
+2018,wegzug,294,Elgg,NA,NA,NA
+2018,bestand,295,Horgen,1432,10347,8084.3
+2018,wegzug,295,Horgen,6,24,18.7
+2018,zuzug,295,Horgen,9,29,21.3
+2018,bestand,296,Illnau-Effretikon,1049,6953,5109.7
+2018,wegzug,296,Illnau-Effretikon,NA,NA,NA
+2018,zuzug,296,Illnau-Effretikon,NA,NA,NA
+2018,bestand,297,Bauma,394,1941,1410.9
+2018,wegzug,297,Bauma,NA,NA,NA
+2018,zuzug,297,Bauma,NA,NA,NA
+2018,bestand,298,Wiesendangen,395,1570,1081.6
+2018,wegzug,298,Wiesendangen,4,14,11.9
+2018,zuzug,298,Wiesendangen,NA,6,5.8
+2019,bestand,1,Aeugst am Albis,142,484,310
+2019,wegzug,1,Aeugst am Albis,NA,NA,NA
+2019,bestand,2,Affoltern am Albis,1021,6994,5224.3
+2019,wegzug,2,Affoltern am Albis,7,14,11.3
+2019,zuzug,2,Affoltern am Albis,5,12,9.8
+2019,bestand,3,Bonstetten,276,1028,693.5
+2019,bestand,4,Hausen am Albis,275,1034,733.5
+2019,wegzug,4,Hausen am Albis,4,5,NA
+2019,zuzug,4,Hausen am Albis,NA,NA,NA
+2019,bestand,5,Hedingen,206,1478,1188.8
+2019,bestand,6,Kappel am Albis,104,323,223.5
+2019,wegzug,6,Kappel am Albis,NA,NA,NA
+2019,bestand,7,Knonau,129,545,381.7
+2019,wegzug,7,Knonau,NA,NA,NA
+2019,bestand,8,Maschwanden,65,181,114.4
+2019,wegzug,8,Maschwanden,NA,4,NA
+2019,bestand,9,Mettmenstetten,327,1673,1221.2
+2019,wegzug,9,Mettmenstetten,3,NA,NA
+2019,zuzug,9,Mettmenstetten,NA,4,NA
+2019,bestand,10,Obfelden,320,1334,926
+2019,wegzug,10,Obfelden,NA,13,12.8
+2019,zuzug,10,Obfelden,NA,4,NA
+2019,bestand,11,Ottenbach,180,687,476.5
+2019,zuzug,11,Ottenbach,NA,NA,NA
+2019,bestand,12,Rifferswil,89,258,178.5
+2019,wegzug,12,Rifferswil,NA,NA,NA
+2019,zuzug,12,Rifferswil,3,NA,NA
+2019,bestand,13,Stallikon,198,826,573.9
+2019,wegzug,13,Stallikon,NA,8,6.4
+2019,bestand,14,Wettswil am Albis,289,1322,1019.9
+2019,wegzug,14,Wettswil am Albis,NA,7,5.2
+2019,zuzug,14,Wettswil am Albis,NA,NA,NA
+2019,bestand,22,Benken (ZH),66,243,170.5
+2019,bestand,23,Berg am Irchel,49,142,93.1
+2019,bestand,24,Buch am Irchel,79,209,141
+2019,bestand,25,Dachsen,105,372,253.4
+2019,wegzug,25,Dachsen,NA,NA,NA
+2019,bestand,26,Dorf,50,145,84.7
+2019,bestand,27,Feuerthalen,193,1208,881.6
+2019,wegzug,27,Feuerthalen,4,32,27.6
+2019,zuzug,27,Feuerthalen,NA,NA,NA
+2019,bestand,28,Flaach,139,771,508.7
+2019,bestand,29,Flurlingen,109,450,311.4
+2019,wegzug,29,Flurlingen,NA,NA,NA
+2019,zuzug,29,Flurlingen,NA,NA,NA
+2019,bestand,31,Henggart,121,719,532.6
+2019,zuzug,31,Henggart,NA,NA,NA
+2019,bestand,33,Kleinandelfingen,188,1138,897.4
+2019,wegzug,33,Kleinandelfingen,NA,NA,NA
+2019,bestand,34,Laufen-Uhwiesen,106,569,406.1
+2019,wegzug,34,Laufen-Uhwiesen,NA,NA,NA
+2019,bestand,35,Marthalen,212,1148,789.5
+2019,wegzug,35,Marthalen,3,8,7.3
+2019,zuzug,35,Marthalen,NA,NA,NA
+2019,bestand,37,Ossingen,109,420,305.9
+2019,wegzug,37,Ossingen,NA,NA,NA
+2019,bestand,38,Rheinau,93,721,538.1
+2019,wegzug,38,Rheinau,NA,NA,NA
+2019,bestand,39,Thalheim an der Thur,72,256,183.5
+2019,zuzug,39,Thalheim an der Thur,NA,NA,NA
+2019,bestand,40,Trüllikon,96,340,213.4
+2019,bestand,41,Truttikon,38,116,74
+2019,bestand,43,Volken,31,100,53.6
+2019,zuzug,43,Volken,NA,NA,NA
+2019,bestand,51,Bachenbülach,263,1846,1494.7
+2019,wegzug,51,Bachenbülach,NA,6,NA
+2019,bestand,52,Bassersdorf,656,4626,3696.3
+2019,wegzug,52,Bassersdorf,3,12,9.5
+2019,zuzug,52,Bassersdorf,NA,NA,NA
+2019,bestand,53,Bülach,1292,10938,8101.2
+2019,wegzug,53,Bülach,3,NA,NA
+2019,zuzug,53,Bülach,NA,NA,NA
+2019,bestand,54,Dietlikon,580,6027,4887.5
+2019,wegzug,54,Dietlikon,4,28,23.3
+2019,zuzug,54,Dietlikon,NA,NA,NA
+2019,bestand,55,Eglisau,324,1432,1024.4
+2019,wegzug,55,Eglisau,NA,NA,NA
+2019,zuzug,55,Eglisau,NA,NA,NA
+2019,bestand,56,Embrach,516,3737,2940.2
+2019,wegzug,56,Embrach,NA,NA,NA
+2019,zuzug,56,Embrach,NA,4,NA
+2019,bestand,57,Freienstein-Teufen,168,744,534.9
+2019,bestand,58,Glattfelden,236,1104,816.3
+2019,wegzug,58,Glattfelden,NA,NA,NA
+2019,bestand,59,Hochfelden,83,414,341.9
+2019,bestand,60,Höri,227,1291,1060.6
+2019,bestand,61,Hüntwangen,91,342,247.2
+2019,bestand,62,Kloten,1515,38396,31250.7
+2019,wegzug,62,Kloten,8,139,129
+2019,zuzug,62,Kloten,5,21,17.1
+2019,bestand,63,Lufingen,121,433,304.9
+2019,zuzug,63,Lufingen,NA,NA,NA
+2019,bestand,64,Nürensdorf,308,1038,760.2
+2019,bestand,65,Oberembrach,88,239,140.4
+2019,zuzug,65,Oberembrach,NA,NA,NA
+2019,bestand,66,Opfikon,1470,21106,17048
+2019,wegzug,66,Opfikon,10,63,46.6
+2019,zuzug,66,Opfikon,9,94,80.7
+2019,bestand,67,Rafz,246,1482,1119.7
+2019,wegzug,67,Rafz,NA,NA,NA
+2019,bestand,68,Rorbas,164,474,313.8
+2019,bestand,69,Wallisellen,1450,20838,17548.2
+2019,wegzug,69,Wallisellen,NA,5,NA
+2019,zuzug,69,Wallisellen,13,182,157.2
+2019,bestand,70,Wasterkingen,34,85,50.2
+2019,bestand,71,Wil (ZH),128,527,400.6
+2019,bestand,72,Winkel,266,1018,749.3
+2019,bestand,81,Bachs,56,257,167.7
+2019,bestand,82,Boppelsen,80,318,244.8
+2019,bestand,83,Buchs (ZH),297,2293,1869.8
+2019,wegzug,83,Buchs (ZH),NA,NA,NA
+2019,bestand,84,Dällikon,287,2890,2521.5
+2019,wegzug,84,Dällikon,NA,NA,NA
+2019,bestand,85,Dänikon,96,410,315.1
+2019,bestand,86,Dielsdorf,436,4449,3465.6
+2019,wegzug,86,Dielsdorf,5,17,15.1
+2019,zuzug,86,Dielsdorf,NA,5,NA
+2019,bestand,87,Hüttikon,46,109,71.6
+2019,bestand,88,Neerach,237,649,434.1
+2019,bestand,89,Niederglatt,234,1444,1100.4
+2019,bestand,90,Niederhasli,488,2504,1978
+2019,bestand,91,Niederweningen,161,952,712
+2019,bestand,92,Oberglatt,322,1795,1456.3
+2019,wegzug,92,Oberglatt,NA,NA,NA
+2019,zuzug,92,Oberglatt,NA,7,6.2
+2019,bestand,93,Oberweningen,85,229,169.2
+2019,wegzug,93,Oberweningen,NA,NA,NA
+2019,zuzug,93,Oberweningen,NA,NA,NA
+2019,bestand,94,Otelfingen,277,2555,2074.1
+2019,wegzug,94,Otelfingen,5,8,5.6
+2019,zuzug,94,Otelfingen,NA,7,6.6
+2019,bestand,95,Regensberg,43,248,175.8
+2019,bestand,96,Regensdorf,1305,11313,9151.2
+2019,wegzug,96,Regensdorf,10,103,90
+2019,zuzug,96,Regensdorf,7,116,109.4
+2019,bestand,97,Rümlang,766,6321,5231.5
+2019,wegzug,97,Rümlang,NA,8,6.4
+2019,zuzug,97,Rümlang,NA,NA,NA
+2019,bestand,98,Schleinikon,55,141,86.1
+2019,bestand,99,Schöfflisdorf,97,340,214.7
+2019,bestand,100,Stadel,152,528,363
+2019,bestand,101,Steinmaur,215,893,610.8
+2019,zuzug,101,Steinmaur,NA,NA,NA
+2019,bestand,102,Weiach,105,305,217.6
+2019,wegzug,102,Weiach,NA,NA,NA
+2019,bestand,111,Bäretswil,400,1655,1155
+2019,wegzug,111,Bäretswil,NA,NA,NA
+2019,bestand,112,Bubikon,572,3681,2877
+2019,wegzug,112,Bubikon,3,8,6.5
+2019,zuzug,112,Bubikon,3,8,4.2
+2019,bestand,113,Dürnten,435,1843,1269.8
+2019,bestand,114,Fischenthal,204,695,476.7
+2019,wegzug,114,Fischenthal,NA,NA,NA
+2019,bestand,115,Gossau (ZH),625,2625,1921.5
+2019,wegzug,115,Gossau (ZH),3,5,4.4
+2019,zuzug,115,Gossau (ZH),NA,NA,NA
+2019,bestand,116,Grüningen,271,1825,1418.5
+2019,zuzug,116,Grüningen,NA,14,12.9
+2019,bestand,117,Hinwil,912,7122,5818.4
+2019,wegzug,117,Hinwil,4,17,15.2
+2019,zuzug,117,Hinwil,NA,NA,NA
+2019,bestand,118,Rüti (ZH),851,5063,3729.2
+2019,wegzug,118,Rüti (ZH),NA,NA,NA
+2019,zuzug,118,Rüti (ZH),10,20,14.3
+2019,bestand,119,Seegräben,121,561,358.3
+2019,wegzug,119,Seegräben,4,8,6.5
+2019,bestand,120,Wald (ZH),665,3499,2557.7
+2019,wegzug,120,Wald (ZH),5,6,NA
+2019,zuzug,120,Wald (ZH),6,7,5.1
+2019,bestand,121,Wetzikon (ZH),1848,14172,10499.4
+2019,wegzug,121,Wetzikon (ZH),6,15,11.3
+2019,zuzug,121,Wetzikon (ZH),6,28,21.3
+2019,bestand,131,Adliswil,1017,7667,6011.6
+2019,wegzug,131,Adliswil,5,16,5
+2019,zuzug,131,Adliswil,3,22,18.4
+2019,bestand,135,Kilchberg (ZH),587,4278,3202.4
+2019,wegzug,135,Kilchberg (ZH),3,7,5.3
+2019,zuzug,135,Kilchberg (ZH),4,7,5
+2019,bestand,136,Langnau am Albis,381,1574,1091.2
+2019,wegzug,136,Langnau am Albis,NA,NA,NA
+2019,bestand,137,Oberrieden,303,1023,687
+2019,wegzug,137,Oberrieden,3,NA,NA
+2019,zuzug,137,Oberrieden,NA,NA,NA
+2019,bestand,138,Richterswil,807,4228,3329
+2019,wegzug,138,Richterswil,7,8,6.2
+2019,zuzug,138,Richterswil,4,7,5.2
+2019,bestand,139,Rüschlikon,422,3060,2385.3
+2019,wegzug,139,Rüschlikon,4,5,4
+2019,zuzug,139,Rüschlikon,NA,5,NA
+2019,bestand,141,Thalwil,1338,6895,4943.4
+2019,wegzug,141,Thalwil,3,NA,NA
+2019,zuzug,141,Thalwil,4,8,7
+2019,bestand,151,Erlenbach (ZH),482,1981,1411.2
+2019,wegzug,151,Erlenbach (ZH),5,34,16.6
+2019,zuzug,151,Erlenbach (ZH),NA,NA,NA
+2019,bestand,152,Herrliberg,454,1467,1042.7
+2019,wegzug,152,Herrliberg,3,NA,NA
+2019,zuzug,152,Herrliberg,NA,NA,NA
+2019,bestand,153,Hombrechtikon,616,2876,2087.3
+2019,wegzug,153,Hombrechtikon,5,6,NA
+2019,zuzug,153,Hombrechtikon,4,8,7
+2019,bestand,154,Küsnacht (ZH),1289,6460,4820
+2019,wegzug,154,Küsnacht (ZH),6,8,6.5
+2019,zuzug,154,Küsnacht (ZH),6,7,4.2
+2019,bestand,155,Männedorf,768,5264,4006.3
+2019,wegzug,155,Männedorf,8,10,7.2
+2019,zuzug,155,Männedorf,NA,NA,NA
+2019,bestand,156,Meilen,1131,5767,4360.4
+2019,wegzug,156,Meilen,4,44,40.6
+2019,zuzug,156,Meilen,NA,NA,NA
+2019,bestand,157,Oetwil am See,286,2285,1685.9
+2019,wegzug,157,Oetwil am See,NA,4,NA
+2019,zuzug,157,Oetwil am See,3,12,7.9
+2019,bestand,158,Stäfa,1069,6203,4884.2
+2019,wegzug,158,Stäfa,5,17,11.8
+2019,zuzug,158,Stäfa,6,9,7.9
+2019,bestand,159,Uetikon,365,1464,1055.7
+2019,wegzug,159,Uetikon,NA,NA,NA
+2019,zuzug,159,Uetikon,NA,NA,NA
+2019,bestand,160,Zumikon,383,1887,1350.8
+2019,wegzug,160,Zumikon,NA,4,NA
+2019,zuzug,160,Zumikon,NA,NA,NA
+2019,bestand,161,Zollikon,1141,5902,4264
+2019,wegzug,161,Zollikon,8,8,6.1
+2019,zuzug,161,Zollikon,5,7,5
+2019,bestand,172,Fehraltorf,452,4642,3610.8
+2019,wegzug,172,Fehraltorf,NA,NA,NA
+2019,bestand,173,Hittnau,247,813,599.9
+2019,wegzug,173,Hittnau,NA,NA,NA
+2019,zuzug,173,Hittnau,NA,NA,NA
+2019,bestand,176,Lindau,360,2913,2365.7
+2019,zuzug,176,Lindau,3,31,27.3
+2019,bestand,177,Pfäffikon,847,5797,4189.4
+2019,wegzug,177,Pfäffikon,3,7,NA
+2019,zuzug,177,Pfäffikon,4,14,6.5
+2019,bestand,178,Russikon,294,1243,946.4
+2019,wegzug,178,Russikon,NA,7,4.8
+2019,zuzug,178,Russikon,NA,NA,NA
+2019,bestand,180,Weisslingen,226,901,649.4
+2019,wegzug,180,Weisslingen,NA,NA,NA
+2019,bestand,181,Wila,156,615,445.8
+2019,zuzug,181,Wila,NA,NA,NA
+2019,bestand,182,Wildberg,81,255,166.2
+2019,wegzug,182,Wildberg,NA,NA,NA
+2019,bestand,191,Dübendorf,1963,20303,16097.4
+2019,wegzug,191,Dübendorf,9,25,16.2
+2019,zuzug,191,Dübendorf,NA,NA,NA
+2019,bestand,192,Egg,589,2528,1848.8
+2019,wegzug,192,Egg,4,7,6.1
+2019,zuzug,192,Egg,3,7,6
+2019,bestand,193,Fällanden,496,2999,2379.6
+2019,wegzug,193,Fällanden,NA,NA,NA
+2019,zuzug,193,Fällanden,NA,NA,NA
+2019,bestand,194,Greifensee,230,1732,1267.2
+2019,zuzug,194,Greifensee,NA,NA,NA
+2019,bestand,195,Maur,660,2306,1665.2
+2019,wegzug,195,Maur,4,4,NA
+2019,bestand,196,Mönchaltorf,261,1328,1041.1
+2019,bestand,197,Schwerzenbach,306,2607,2022.1
+2019,bestand,198,Uster,2514,17549,13273.5
+2019,wegzug,198,Uster,7,26,21.8
+2019,zuzug,198,Uster,4,8,6
+2019,bestand,199,Volketswil,1268,11597,9250.6
+2019,wegzug,199,Volketswil,9,12,10.6
+2019,zuzug,199,Volketswil,3,7,NA
+2019,bestand,200,Wangen (ZH),551,5660,4608
+2019,wegzug,200,Wangen (ZH),6,371,123.6
+2019,zuzug,200,Wangen (ZH),NA,36,34.8
+2019,bestand,211,Altikon,62,136,83.5
+2019,bestand,213,Brütten,137,379,264.6
+2019,bestand,214,Dägerlen,90,283,177.9
+2019,bestand,215,Dättlikon,56,169,102
+2019,bestand,216,Dinhard,114,416,295.3
+2019,bestand,218,Ellikon an der Thur,68,620,466
+2019,wegzug,218,Ellikon an der Thur,NA,NA,NA
+2019,bestand,219,Elsau,229,1120,811.8
+2019,bestand,220,Hagenbuch,76,192,137.6
+2019,bestand,221,Hettlingen,174,800,592.7
+2019,bestand,223,Neftenbach,355,1703,1251.2
+2019,wegzug,223,Neftenbach,NA,NA,NA
+2019,zuzug,223,Neftenbach,NA,4,NA
+2019,bestand,224,Pfungen,222,1403,1137.9
+2019,wegzug,224,Pfungen,NA,NA,NA
+2019,zuzug,224,Pfungen,NA,NA,NA
+2019,bestand,225,Rickenbach (ZH),166,521,333.3
+2019,wegzug,225,Rickenbach (ZH),NA,24,20.4
+2019,bestand,226,Schlatt (ZH),57,167,114.8
+2019,bestand,227,Seuzach,436,2678,2074.1
+2019,wegzug,227,Seuzach,NA,13,11.9
+2019,zuzug,227,Seuzach,NA,NA,NA
+2019,bestand,228,Turbenthal,338,1654,1160.6
+2019,bestand,230,Winterthur,8213,74337,56387
+2019,wegzug,230,Winterthur,30,73,55.5
+2019,zuzug,230,Winterthur,33,83,61.5
+2019,bestand,231,Zell (ZH),331,1436,1038
+2019,wegzug,231,Zell (ZH),NA,NA,NA
+2019,zuzug,231,Zell (ZH),NA,NA,NA
+2019,bestand,241,Aesch (ZH),95,375,272.5
+2019,bestand,242,Birmensdorf (ZH),433,2668,2104.3
+2019,wegzug,242,Birmensdorf (ZH),5,13,9.5
+2019,zuzug,242,Birmensdorf (ZH),NA,NA,NA
+2019,bestand,243,Dietikon,1779,19114,15205.7
+2019,wegzug,243,Dietikon,13,59,48.3
+2019,zuzug,243,Dietikon,6,122,104.3
+2019,bestand,244,Geroldswil,316,2175,1673.6
+2019,wegzug,244,Geroldswil,NA,NA,NA
+2019,zuzug,244,Geroldswil,3,12,9.6
+2019,bestand,245,Oberengstringen,308,1189,842.3
+2019,wegzug,245,Oberengstringen,NA,NA,NA
+2019,zuzug,245,Oberengstringen,NA,NA,NA
+2019,bestand,246,Oetwil an der Limmat,116,256,171.2
+2019,bestand,247,Schlieren,1418,19754,15656.5
+2019,wegzug,247,Schlieren,13,111,97.7
+2019,zuzug,247,Schlieren,8,93,66
+2019,bestand,248,Uitikon,281,1078,780.9
+2019,wegzug,248,Uitikon,NA,9,6.6
+2019,bestand,249,Unterengstringen,277,1039,768.7
+2019,bestand,250,Urdorf,662,7322,5720.3
+2019,wegzug,250,Urdorf,6,17,13.4
+2019,zuzug,250,Urdorf,4,10,8.1
+2019,bestand,251,Weiningen (ZH),266,2243,1544.5
+2019,bestand,261,Zürich,45986,499346,382731.2
+2019,wegzug,261,Zürich,213,718,548.2
+2019,zuzug,261,Zürich,195,918,741.9
+2019,bestand,291,Andelfingen,301,1893,1418.2
+2019,wegzug,291,Andelfingen,4,8,6.1
+2019,bestand,292,Stammheim,270,1242,921.4
+2019,wegzug,292,Stammheim,NA,12,10.4
+2019,bestand,293,Wädenswil,1902,9850,7276.8
+2019,wegzug,293,Wädenswil,15,46,37.5
+2019,zuzug,293,Wädenswil,6,6,4
+2019,bestand,294,Elgg,351,1663,1226.8
+2019,zuzug,294,Elgg,NA,22,20.5
+2019,bestand,295,Horgen,1436,10548,8196.2
+2019,wegzug,295,Horgen,7,31,22.8
+2019,zuzug,295,Horgen,8,18,13.9
+2019,bestand,296,Illnau-Effretikon,1074,7148,5204.3
+2019,wegzug,296,Illnau-Effretikon,3,10,9
+2019,zuzug,296,Illnau-Effretikon,NA,NA,NA
+2019,bestand,297,Bauma,399,1942,1411.5
+2019,wegzug,297,Bauma,NA,NA,NA
+2019,zuzug,297,Bauma,NA,NA,NA
+2019,bestand,298,Wiesendangen,390,1632,1119.6
+2019,zuzug,298,Wiesendangen,NA,NA,NA
+2020,bestand,1,Aeugst am Albis,139,457,300.2
+2020,wegzug,1,Aeugst am Albis,3,NA,NA
+2020,zuzug,1,Aeugst am Albis,NA,NA,NA
+2020,bestand,2,Affoltern am Albis,1013,6969,5136.4
+2020,wegzug,2,Affoltern am Albis,9,17,11.7
+2020,zuzug,2,Affoltern am Albis,4,14,10.7
+2020,bestand,3,Bonstetten,280,1036,735.7
+2020,wegzug,3,Bonstetten,NA,NA,NA
+2020,zuzug,3,Bonstetten,NA,NA,NA
+2020,bestand,4,Hausen am Albis,276,1051,757.9
+2020,wegzug,4,Hausen am Albis,4,4,NA
+2020,zuzug,4,Hausen am Albis,3,8,7.3
+2020,bestand,5,Hedingen,197,1440,1155.1
+2020,wegzug,5,Hedingen,3,4,NA
+2020,zuzug,5,Hedingen,NA,NA,NA
+2020,bestand,6,Kappel am Albis,102,327,224.9
+2020,wegzug,6,Kappel am Albis,NA,NA,NA
+2020,zuzug,6,Kappel am Albis,NA,NA,NA
+2020,bestand,7,Knonau,136,552,373.2
+2020,wegzug,7,Knonau,3,9,6.8
+2020,zuzug,7,Knonau,NA,9,7.4
+2020,bestand,8,Maschwanden,58,170,113.5
+2020,wegzug,8,Maschwanden,NA,NA,NA
+2020,bestand,9,Mettmenstetten,320,1704,1235.8
+2020,wegzug,9,Mettmenstetten,3,8,4.6
+2020,zuzug,9,Mettmenstetten,NA,15,11.6
+2020,bestand,10,Obfelden,325,1326,938.1
+2020,wegzug,10,Obfelden,5,13,10.9
+2020,zuzug,10,Obfelden,3,5,NA
+2020,bestand,11,Ottenbach,168,662,477.5
+2020,wegzug,11,Ottenbach,NA,NA,NA
+2020,zuzug,11,Ottenbach,NA,NA,NA
+2020,bestand,12,Rifferswil,95,260,183
+2020,bestand,13,Stallikon,188,770,523.4
+2020,wegzug,13,Stallikon,4,10,5.8
+2020,zuzug,13,Stallikon,NA,NA,NA
+2020,bestand,14,Wettswil am Albis,273,1289,994.6
+2020,bestand,22,Benken (ZH),70,343,215.9
+2020,bestand,23,Berg am Irchel,48,136,93.4
+2020,bestand,24,Buch am Irchel,76,199,141.7
+2020,bestand,25,Dachsen,107,407,288.2
+2020,zuzug,25,Dachsen,NA,NA,NA
+2020,bestand,26,Dorf,54,154,92
+2020,bestand,27,Feuerthalen,188,1232,906.4
+2020,wegzug,27,Feuerthalen,4,5,NA
+2020,bestand,28,Flaach,139,725,486.2
+2020,zuzug,28,Flaach,NA,NA,NA
+2020,bestand,29,Flurlingen,115,455,315.6
+2020,wegzug,29,Flurlingen,3,5,NA
+2020,zuzug,29,Flurlingen,4,4,NA
+2020,bestand,31,Henggart,119,737,539.8
+2020,bestand,33,Kleinandelfingen,185,1112,902.6
+2020,wegzug,33,Kleinandelfingen,NA,NA,NA
+2020,bestand,34,Laufen-Uhwiesen,109,558,403.5
+2020,wegzug,34,Laufen-Uhwiesen,NA,NA,NA
+2020,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2020,bestand,35,Marthalen,220,1169,828.3
+2020,wegzug,35,Marthalen,NA,NA,NA
+2020,bestand,37,Ossingen,116,445,323.8
+2020,zuzug,37,Ossingen,NA,7,4.9
+2020,bestand,38,Rheinau,84,713,538.9
+2020,bestand,39,Thalheim an der Thur,76,289,198
+2020,zuzug,39,Thalheim an der Thur,NA,NA,NA
+2020,bestand,40,Trüllikon,96,329,216.7
+2020,bestand,41,Truttikon,33,104,71.4
+2020,bestand,43,Volken,29,110,50.4
+2020,wegzug,43,Volken,NA,NA,NA
+2020,bestand,51,Bachenbülach,257,1725,1407
+2020,bestand,52,Bassersdorf,647,4348,3522.7
+2020,wegzug,52,Bassersdorf,6,21,14.7
+2020,bestand,53,Bülach,1312,10822,8090
+2020,wegzug,53,Bülach,7,10,7.1
+2020,zuzug,53,Bülach,4,8,5.4
+2020,bestand,54,Dietlikon,591,6095,5013.1
+2020,wegzug,54,Dietlikon,3,9,4.9
+2020,zuzug,54,Dietlikon,3,12,5.4
+2020,bestand,55,Eglisau,307,1384,1008.8
+2020,wegzug,55,Eglisau,NA,NA,NA
+2020,zuzug,55,Eglisau,NA,NA,NA
+2020,bestand,56,Embrach,509,3677,2888.4
+2020,wegzug,56,Embrach,NA,130,108
+2020,bestand,57,Freienstein-Teufen,160,730,529.1
+2020,wegzug,57,Freienstein-Teufen,NA,NA,NA
+2020,bestand,58,Glattfelden,235,1148,857.1
+2020,wegzug,58,Glattfelden,NA,NA,NA
+2020,bestand,59,Hochfelden,78,405,326
+2020,wegzug,59,Hochfelden,NA,NA,NA
+2020,bestand,60,Höri,238,1293,1068.1
+2020,zuzug,60,Höri,NA,NA,NA
+2020,bestand,61,Hüntwangen,98,357,256.7
+2020,bestand,62,Kloten,1535,35334,29288.3
+2020,wegzug,62,Kloten,7,31,26.9
+2020,zuzug,62,Kloten,3,5,NA
+2020,bestand,63,Lufingen,118,470,340
+2020,bestand,64,Nürensdorf,302,1106,729.7
+2020,wegzug,64,Nürensdorf,NA,7,6.8
+2020,bestand,65,Oberembrach,89,238,151.5
+2020,bestand,66,Opfikon,1485,21550,17850.2
+2020,wegzug,66,Opfikon,10,21,13.2
+2020,zuzug,66,Opfikon,10,179,159.7
+2020,bestand,67,Rafz,244,1539,1161.5
+2020,wegzug,67,Rafz,NA,NA,NA
+2020,bestand,68,Rorbas,165,484,328
+2020,zuzug,68,Rorbas,NA,NA,NA
+2020,bestand,69,Wallisellen,1452,21581,18265.7
+2020,wegzug,69,Wallisellen,8,26,20.1
+2020,zuzug,69,Wallisellen,6,18,13.1
+2020,bestand,70,Wasterkingen,34,72,45
+2020,wegzug,70,Wasterkingen,NA,10,NA
+2020,bestand,71,Wil (ZH),126,487,376.7
+2020,wegzug,71,Wil (ZH),NA,NA,NA
+2020,zuzug,71,Wil (ZH),NA,NA,NA
+2020,bestand,72,Winkel,266,977,732.1
+2020,wegzug,72,Winkel,NA,19,17
+2020,zuzug,72,Winkel,NA,NA,NA
+2020,bestand,81,Bachs,61,249,177.5
+2020,bestand,82,Boppelsen,79,323,253.4
+2020,bestand,83,Buchs (ZH),308,2428,1946.5
+2020,zuzug,83,Buchs (ZH),NA,NA,NA
+2020,bestand,84,Dällikon,291,3009,2616.2
+2020,wegzug,84,Dällikon,3,15,13
+2020,zuzug,84,Dällikon,NA,13,7.2
+2020,bestand,85,Dänikon,99,406,307.7
+2020,bestand,86,Dielsdorf,434,4510,3494.3
+2020,wegzug,86,Dielsdorf,3,6,NA
+2020,zuzug,86,Dielsdorf,NA,5,4.4
+2020,bestand,87,Hüttikon,44,101,66.6
+2020,bestand,88,Neerach,240,648,441.5
+2020,wegzug,88,Neerach,NA,5,4.4
+2020,bestand,89,Niederglatt,243,1440,1122.3
+2020,zuzug,89,Niederglatt,NA,NA,NA
+2020,bestand,90,Niederhasli,487,2562,2030.9
+2020,wegzug,90,Niederhasli,4,5,NA
+2020,bestand,91,Niederweningen,164,892,686.9
+2020,zuzug,91,Niederweningen,NA,4,NA
+2020,bestand,92,Oberglatt,330,1859,1483.9
+2020,wegzug,92,Oberglatt,NA,NA,NA
+2020,zuzug,92,Oberglatt,NA,NA,NA
+2020,bestand,93,Oberweningen,90,253,185.5
+2020,bestand,94,Otelfingen,272,2513,2035.6
+2020,wegzug,94,Otelfingen,NA,NA,NA
+2020,zuzug,94,Otelfingen,3,7,5.2
+2020,bestand,95,Regensberg,43,205,141.9
+2020,bestand,96,Regensdorf,1278,11283,9186.7
+2020,wegzug,96,Regensdorf,7,17,14.3
+2020,zuzug,96,Regensdorf,6,12,9.7
+2020,bestand,97,Rümlang,753,6230,5186
+2020,wegzug,97,Rümlang,3,4,NA
+2020,zuzug,97,Rümlang,3,14,13.1
+2020,bestand,98,Schleinikon,58,145,95.8
+2020,wegzug,98,Schleinikon,NA,NA,NA
+2020,bestand,99,Schöfflisdorf,95,321,204.2
+2020,wegzug,99,Schöfflisdorf,NA,NA,NA
+2020,bestand,100,Stadel,149,557,365.9
+2020,wegzug,100,Stadel,NA,NA,NA
+2020,bestand,101,Steinmaur,213,919,685.9
+2020,wegzug,101,Steinmaur,NA,NA,NA
+2020,zuzug,101,Steinmaur,NA,5,NA
+2020,bestand,102,Weiach,109,305,225.8
+2020,wegzug,102,Weiach,NA,4,NA
+2020,bestand,111,Bäretswil,381,1582,1128.4
+2020,zuzug,111,Bäretswil,NA,4,NA
+2020,bestand,112,Bubikon,573,3731,2921.8
+2020,wegzug,112,Bubikon,3,18,12.7
+2020,zuzug,112,Bubikon,5,7,NA
+2020,bestand,113,Dürnten,439,1882,1320.8
+2020,bestand,114,Fischenthal,206,670,470.2
+2020,wegzug,114,Fischenthal,NA,NA,NA
+2020,zuzug,114,Fischenthal,NA,NA,NA
+2020,bestand,115,Gossau (ZH),631,2515,1850.6
+2020,wegzug,115,Gossau (ZH),3,6,4
+2020,zuzug,115,Gossau (ZH),NA,NA,NA
+2020,bestand,116,Grüningen,268,1828,1413.7
+2020,wegzug,116,Grüningen,NA,NA,NA
+2020,zuzug,116,Grüningen,NA,NA,NA
+2020,bestand,117,Hinwil,897,7150,5861.8
+2020,wegzug,117,Hinwil,3,6,NA
+2020,zuzug,117,Hinwil,NA,7,5.5
+2020,bestand,118,Rüti (ZH),835,5075,3758.1
+2020,wegzug,118,Rüti (ZH),9,17,13.5
+2020,zuzug,118,Rüti (ZH),4,7,6
+2020,bestand,119,Seegräben,127,593,390.1
+2020,bestand,120,Wald (ZH),654,3362,2454.1
+2020,wegzug,120,Wald (ZH),5,6,4.4
+2020,zuzug,120,Wald (ZH),4,4,NA
+2020,bestand,121,Wetzikon (ZH),1823,14088,10427.5
+2020,wegzug,121,Wetzikon (ZH),8,28,21.2
+2020,zuzug,121,Wetzikon (ZH),5,29,20.2
+2020,bestand,131,Adliswil,1006,7712,6092.8
+2020,wegzug,131,Adliswil,6,20,16.1
+2020,zuzug,131,Adliswil,7,14,12
+2020,bestand,135,Kilchberg (ZH),595,4260,3202.3
+2020,wegzug,135,Kilchberg (ZH),4,9,NA
+2020,zuzug,135,Kilchberg (ZH),6,7,5.1
+2020,bestand,136,Langnau am Albis,379,1575,1126.3
+2020,wegzug,136,Langnau am Albis,3,6,5.7
+2020,zuzug,136,Langnau am Albis,NA,4,NA
+2020,bestand,137,Oberrieden,296,1016,697.2
+2020,wegzug,137,Oberrieden,4,15,12
+2020,bestand,138,Richterswil,792,4157,3314.9
+2020,wegzug,138,Richterswil,12,25,18
+2020,zuzug,138,Richterswil,3,12,9
+2020,bestand,139,Rüschlikon,413,3027,2440.2
+2020,wegzug,139,Rüschlikon,3,4,NA
+2020,zuzug,139,Rüschlikon,3,10,9.3
+2020,bestand,141,Thalwil,1309,6610,4885.1
+2020,wegzug,141,Thalwil,6,7,5.3
+2020,zuzug,141,Thalwil,7,28,22
+2020,bestand,151,Erlenbach (ZH),479,1898,1359
+2020,wegzug,151,Erlenbach (ZH),4,5,NA
+2020,zuzug,151,Erlenbach (ZH),NA,NA,NA
+2020,bestand,152,Herrliberg,469,1414,1003.2
+2020,wegzug,152,Herrliberg,NA,NA,NA
+2020,zuzug,152,Herrliberg,7,9,7.2
+2020,bestand,153,Hombrechtikon,617,2932,2094.8
+2020,wegzug,153,Hombrechtikon,NA,NA,NA
+2020,zuzug,153,Hombrechtikon,NA,NA,NA
+2020,bestand,154,Küsnacht (ZH),1279,6473,4854
+2020,wegzug,154,Küsnacht (ZH),11,17,12.1
+2020,zuzug,154,Küsnacht (ZH),5,14,10.5
+2020,bestand,155,Männedorf,754,5324,4058.6
+2020,wegzug,155,Männedorf,5,9,5.1
+2020,zuzug,155,Männedorf,4,8,4.5
+2020,bestand,156,Meilen,1150,5849,4447.9
+2020,wegzug,156,Meilen,8,39,31.7
+2020,zuzug,156,Meilen,8,16,13.4
+2020,bestand,157,Oetwil am See,285,2211,1704
+2020,wegzug,157,Oetwil am See,NA,NA,NA
+2020,bestand,158,Stäfa,1042,6287,4888.3
+2020,wegzug,158,Stäfa,11,81,76.5
+2020,zuzug,158,Stäfa,3,NA,NA
+2020,bestand,159,Uetikon,390,1537,1102.9
+2020,wegzug,159,Uetikon,NA,NA,NA
+2020,zuzug,159,Uetikon,NA,4,NA
+2020,bestand,160,Zumikon,372,1851,1343.6
+2020,wegzug,160,Zumikon,NA,7,NA
+2020,zuzug,160,Zumikon,NA,NA,NA
+2020,bestand,161,Zollikon,1136,6071,4368.4
+2020,wegzug,161,Zollikon,10,30,24.3
+2020,zuzug,161,Zollikon,7,15,10.2
+2020,bestand,172,Fehraltorf,434,4258,3416.3
+2020,zuzug,172,Fehraltorf,NA,NA,NA
+2020,bestand,173,Hittnau,256,823,604.3
+2020,wegzug,173,Hittnau,NA,7,5
+2020,zuzug,173,Hittnau,NA,NA,NA
+2020,bestand,176,Lindau,380,3058,2512.9
+2020,wegzug,176,Lindau,NA,NA,NA
+2020,zuzug,176,Lindau,NA,NA,NA
+2020,bestand,177,Pfäffikon,846,6098,4440.8
+2020,wegzug,177,Pfäffikon,4,14,7.9
+2020,zuzug,177,Pfäffikon,3,7,4.9
+2020,bestand,178,Russikon,295,1184,890.1
+2020,wegzug,178,Russikon,NA,NA,NA
+2020,zuzug,178,Russikon,NA,NA,NA
+2020,bestand,180,Weisslingen,223,862,628.7
+2020,wegzug,180,Weisslingen,NA,NA,NA
+2020,zuzug,180,Weisslingen,NA,NA,NA
+2020,bestand,181,Wila,151,591,439.9
+2020,wegzug,181,Wila,NA,4,NA
+2020,bestand,182,Wildberg,79,246,164.8
+2020,zuzug,182,Wildberg,NA,NA,NA
+2020,bestand,191,Dübendorf,1959,19362,15325.1
+2020,wegzug,191,Dübendorf,7,22,18.8
+2020,zuzug,191,Dübendorf,14,52,43.1
+2020,bestand,192,Egg,599,2578,1931.3
+2020,wegzug,192,Egg,NA,4,NA
+2020,zuzug,192,Egg,NA,NA,NA
+2020,bestand,193,Fällanden,497,3013,2371.2
+2020,wegzug,193,Fällanden,NA,NA,NA
+2020,bestand,194,Greifensee,231,1735,1300.9
+2020,wegzug,194,Greifensee,NA,NA,NA
+2020,zuzug,194,Greifensee,NA,NA,NA
+2020,bestand,195,Maur,667,2311,1690.4
+2020,wegzug,195,Maur,NA,NA,NA
+2020,zuzug,195,Maur,5,5,NA
+2020,bestand,196,Mönchaltorf,266,1397,1103.7
+2020,zuzug,196,Mönchaltorf,NA,NA,NA
+2020,bestand,197,Schwerzenbach,295,2577,2029.1
+2020,wegzug,197,Schwerzenbach,NA,NA,NA
+2020,zuzug,197,Schwerzenbach,NA,7,5.7
+2020,bestand,198,Uster,2488,17370,13147.6
+2020,wegzug,198,Uster,10,33,27.7
+2020,zuzug,198,Uster,5,6,4.3
+2020,bestand,199,Volketswil,1281,11592,9254
+2020,wegzug,199,Volketswil,4,8,7.4
+2020,zuzug,199,Volketswil,NA,20,16.8
+2020,bestand,200,Wangen (ZH),552,5415,4409.9
+2020,wegzug,200,Wangen (ZH),5,8,6.5
+2020,zuzug,200,Wangen (ZH),NA,NA,NA
+2020,bestand,211,Altikon,62,146,89
+2020,bestand,213,Brütten,133,381,271.6
+2020,wegzug,213,Brütten,NA,NA,NA
+2020,bestand,214,Dägerlen,91,285,176.6
+2020,bestand,215,Dättlikon,57,170,99.6
+2020,bestand,216,Dinhard,111,432,309.8
+2020,wegzug,216,Dinhard,NA,NA,NA
+2020,zuzug,216,Dinhard,NA,NA,NA
+2020,bestand,218,Ellikon an der Thur,71,630,491.2
+2020,wegzug,218,Ellikon an der Thur,NA,NA,NA
+2020,bestand,219,Elsau,236,1105,832.6
+2020,zuzug,219,Elsau,NA,NA,NA
+2020,bestand,220,Hagenbuch,73,174,129.7
+2020,wegzug,220,Hagenbuch,NA,NA,NA
+2020,zuzug,220,Hagenbuch,NA,NA,NA
+2020,bestand,221,Hettlingen,180,844,637.6
+2020,zuzug,221,Hettlingen,3,6,4.6
+2020,bestand,223,Neftenbach,361,1658,1255.5
+2020,wegzug,223,Neftenbach,NA,25,17.9
+2020,bestand,224,Pfungen,212,1435,1159.3
+2020,wegzug,224,Pfungen,NA,5,NA
+2020,bestand,225,Rickenbach (ZH),169,551,361.6
+2020,wegzug,225,Rickenbach (ZH),NA,NA,NA
+2020,bestand,226,Schlatt (ZH),54,143,104.8
+2020,bestand,227,Seuzach,421,2681,2084.1
+2020,wegzug,227,Seuzach,NA,NA,NA
+2020,zuzug,227,Seuzach,3,NA,NA
+2020,bestand,228,Turbenthal,335,1626,1138.6
+2020,wegzug,228,Turbenthal,NA,NA,NA
+2020,zuzug,228,Turbenthal,NA,NA,NA
+2020,bestand,230,Winterthur,8260,74618,56826
+2020,wegzug,230,Winterthur,41,136,107.7
+2020,zuzug,230,Winterthur,37,139,103
+2020,bestand,231,Zell (ZH),339,1448,1059.5
+2020,wegzug,231,Zell (ZH),NA,5,4.2
+2020,zuzug,231,Zell (ZH),NA,NA,NA
+2020,bestand,241,Aesch (ZH),101,365,262.7
+2020,wegzug,241,Aesch (ZH),NA,NA,NA
+2020,zuzug,241,Aesch (ZH),NA,NA,NA
+2020,bestand,242,Birmensdorf (ZH),429,2747,2149.2
+2020,wegzug,242,Birmensdorf (ZH),10,19,11.9
+2020,zuzug,242,Birmensdorf (ZH),NA,NA,NA
+2020,bestand,243,Dietikon,1788,19238,15426.2
+2020,wegzug,243,Dietikon,20,52,40.4
+2020,zuzug,243,Dietikon,12,46,34.1
+2020,bestand,244,Geroldswil,325,2238,1734.3
+2020,wegzug,244,Geroldswil,NA,NA,NA
+2020,zuzug,244,Geroldswil,3,5,NA
+2020,bestand,245,Oberengstringen,321,1300,958.7
+2020,zuzug,245,Oberengstringen,NA,NA,NA
+2020,bestand,246,Oetwil an der Limmat,114,256,170.1
+2020,wegzug,246,Oetwil an der Limmat,NA,NA,NA
+2020,zuzug,246,Oetwil an der Limmat,NA,NA,NA
+2020,bestand,247,Schlieren,1433,19745,15844.8
+2020,wegzug,247,Schlieren,15,35,29.3
+2020,zuzug,247,Schlieren,18,179,153.2
+2020,bestand,248,Uitikon,289,1082,780.8
+2020,zuzug,248,Uitikon,NA,NA,NA
+2020,bestand,249,Unterengstringen,268,1025,772.3
+2020,wegzug,249,Unterengstringen,4,17,10.1
+2020,zuzug,249,Unterengstringen,NA,4,NA
+2020,bestand,250,Urdorf,671,8755,5913.4
+2020,wegzug,250,Urdorf,3,4,NA
+2020,bestand,251,Weiningen (ZH),261,2152,1489.8
+2020,wegzug,251,Weiningen (ZH),5,6,5.4
+2020,zuzug,251,Weiningen (ZH),NA,NA,NA
+2020,bestand,261,Zürich,45753,495223,384090.9
+2020,wegzug,261,Zürich,262,747,497.9
+2020,zuzug,261,Zürich,252,917,728.9
+2020,bestand,291,Andelfingen,302,1951,1477.4
+2020,wegzug,291,Andelfingen,NA,NA,NA
+2020,zuzug,291,Andelfingen,NA,NA,NA
+2020,bestand,292,Stammheim,263,1256,948.2
+2020,wegzug,292,Stammheim,NA,4,NA
+2020,zuzug,292,Stammheim,NA,NA,NA
+2020,bestand,293,Wädenswil,1868,9938,7439.8
+2020,wegzug,293,Wädenswil,18,46,34.4
+2020,zuzug,293,Wädenswil,15,40,32.2
+2020,bestand,294,Elgg,339,1657,1200.7
+2020,wegzug,294,Elgg,5,5,NA
+2020,zuzug,294,Elgg,NA,NA,NA
+2020,bestand,295,Horgen,1439,10468,8061.7
+2020,wegzug,295,Horgen,11,20,11.1
+2020,zuzug,295,Horgen,13,28,20.7
+2020,bestand,296,Illnau-Effretikon,1070,6941,5130.3
+2020,wegzug,296,Illnau-Effretikon,4,34,28.7
+2020,zuzug,296,Illnau-Effretikon,NA,NA,NA
+2020,bestand,297,Bauma,385,1985,1448.6
+2020,wegzug,297,Bauma,NA,NA,NA
+2020,bestand,298,Wiesendangen,387,1610,1124.6
+2020,wegzug,298,Wiesendangen,NA,NA,NA
+2020,zuzug,298,Wiesendangen,NA,8,6.3
+2021,bestand,1,Aeugst am Albis,143,470,297.4
+2021,wegzug,1,Aeugst am Albis,NA,NA,NA
+2021,zuzug,1,Aeugst am Albis,NA,NA,NA
+2021,bestand,2,Affoltern am Albis,982,6931,5171.7
+2021,wegzug,2,Affoltern am Albis,9,33,24.8
+2021,zuzug,2,Affoltern am Albis,NA,NA,NA
+2021,bestand,3,Bonstetten,278,1047,724.9
+2021,wegzug,3,Bonstetten,3,NA,NA
+2021,zuzug,3,Bonstetten,NA,NA,NA
+2021,bestand,4,Hausen am Albis,275,1113,779.9
+2021,wegzug,4,Hausen am Albis,3,NA,NA
+2021,zuzug,4,Hausen am Albis,NA,NA,NA
+2021,bestand,5,Hedingen,196,1409,1146.3
+2021,wegzug,5,Hedingen,NA,12,6.5
+2021,bestand,6,Kappel am Albis,105,355,245.1
+2021,wegzug,6,Kappel am Albis,NA,NA,NA
+2021,zuzug,6,Kappel am Albis,NA,NA,NA
+2021,bestand,7,Knonau,137,516,351.2
+2021,wegzug,7,Knonau,3,NA,NA
+2021,zuzug,7,Knonau,7,12,8.5
+2021,bestand,8,Maschwanden,60,178,117.1
+2021,bestand,9,Mettmenstetten,326,1769,1281.4
+2021,wegzug,9,Mettmenstetten,NA,NA,NA
+2021,zuzug,9,Mettmenstetten,7,15,11.3
+2021,bestand,10,Obfelden,330,1464,1023.2
+2021,wegzug,10,Obfelden,3,41,32.3
+2021,zuzug,10,Obfelden,NA,NA,NA
+2021,bestand,11,Ottenbach,180,717,510
+2021,wegzug,11,Ottenbach,NA,5,NA
+2021,zuzug,11,Ottenbach,NA,NA,NA
+2021,bestand,12,Rifferswil,96,277,188.2
+2021,wegzug,12,Rifferswil,3,NA,NA
+2021,zuzug,12,Rifferswil,NA,NA,NA
+2021,bestand,13,Stallikon,193,777,545
+2021,wegzug,13,Stallikon,5,8,NA
+2021,bestand,14,Wettswil am Albis,274,1367,1050.5
+2021,wegzug,14,Wettswil am Albis,3,4,NA
+2021,zuzug,14,Wettswil am Albis,NA,NA,NA
+2021,bestand,22,Benken (ZH),68,357,221.2
+2021,zuzug,22,Benken (ZH),NA,NA,NA
+2021,bestand,23,Berg am Irchel,49,142,92.7
+2021,zuzug,23,Berg am Irchel,NA,NA,NA
+2021,bestand,24,Buch am Irchel,76,197,136.2
+2021,zuzug,24,Buch am Irchel,NA,NA,NA
+2021,bestand,25,Dachsen,107,421,300.4
+2021,bestand,26,Dorf,54,164,102.7
+2021,zuzug,26,Dorf,NA,NA,NA
+2021,bestand,27,Feuerthalen,192,1270,918.5
+2021,wegzug,27,Feuerthalen,4,4,NA
+2021,zuzug,27,Feuerthalen,NA,NA,NA
+2021,bestand,28,Flaach,134,754,498
+2021,bestand,29,Flurlingen,115,448,328.1
+2021,wegzug,29,Flurlingen,4,7,5.8
+2021,zuzug,29,Flurlingen,NA,6,5.7
+2021,bestand,31,Henggart,114,727,530.5
+2021,wegzug,31,Henggart,NA,4,NA
+2021,zuzug,31,Henggart,NA,NA,NA
+2021,bestand,33,Kleinandelfingen,182,1118,901.4
+2021,zuzug,33,Kleinandelfingen,NA,NA,NA
+2021,bestand,34,Laufen-Uhwiesen,114,435,282
+2021,wegzug,34,Laufen-Uhwiesen,NA,142,133.3
+2021,zuzug,34,Laufen-Uhwiesen,5,5,NA
+2021,bestand,35,Marthalen,213,1237,867.7
+2021,wegzug,35,Marthalen,NA,5,4
+2021,zuzug,35,Marthalen,NA,NA,NA
+2021,bestand,37,Ossingen,114,456,307
+2021,bestand,38,Rheinau,87,785,566.4
+2021,wegzug,38,Rheinau,NA,NA,NA
+2021,bestand,39,Thalheim an der Thur,74,294,190.1
+2021,wegzug,39,Thalheim an der Thur,NA,NA,NA
+2021,zuzug,39,Thalheim an der Thur,NA,NA,NA
+2021,bestand,40,Trüllikon,95,337,217.9
+2021,wegzug,40,Trüllikon,NA,NA,NA
+2021,bestand,41,Truttikon,34,123,80.2
+2021,bestand,43,Volken,28,86,52.7
+2021,bestand,51,Bachenbülach,270,1730,1413.8
+2021,wegzug,51,Bachenbülach,NA,6,NA
+2021,bestand,52,Bassersdorf,650,4507,3588.4
+2021,wegzug,52,Bassersdorf,3,4,NA
+2021,zuzug,52,Bassersdorf,4,6,NA
+2021,bestand,53,Bülach,1332,10845,8165.1
+2021,wegzug,53,Bülach,7,10,8.2
+2021,zuzug,53,Bülach,3,NA,NA
+2021,bestand,54,Dietlikon,580,5751,4691.6
+2021,wegzug,54,Dietlikon,4,17,13.8
+2021,zuzug,54,Dietlikon,NA,7,5.6
+2021,bestand,55,Eglisau,302,1325,950.4
+2021,wegzug,55,Eglisau,NA,NA,NA
+2021,zuzug,55,Eglisau,NA,NA,NA
+2021,bestand,56,Embrach,498,3748,2964.2
+2021,wegzug,56,Embrach,4,4,NA
+2021,bestand,57,Freienstein-Teufen,165,762,543.7
+2021,wegzug,57,Freienstein-Teufen,3,4,NA
+2021,bestand,58,Glattfelden,241,1066,795.6
+2021,bestand,59,Hochfelden,79,403,329.3
+2021,bestand,60,Höri,237,1248,1037.3
+2021,wegzug,60,Höri,NA,NA,NA
+2021,bestand,61,Hüntwangen,94,362,267.5
+2021,bestand,62,Kloten,1546,35226,29260.5
+2021,wegzug,62,Kloten,10,67,58.4
+2021,zuzug,62,Kloten,4,20,19.2
+2021,bestand,63,Lufingen,126,498,370
+2021,wegzug,63,Lufingen,NA,NA,NA
+2021,zuzug,63,Lufingen,NA,NA,NA
+2021,bestand,64,Nürensdorf,303,1147,783
+2021,wegzug,64,Nürensdorf,NA,NA,NA
+2021,bestand,65,Oberembrach,91,254,161.9
+2021,bestand,66,Opfikon,1534,24028,19943.9
+2021,wegzug,66,Opfikon,11,29,22.1
+2021,zuzug,66,Opfikon,12,174,148.5
+2021,bestand,67,Rafz,252,1618,1227.4
+2021,wegzug,67,Rafz,NA,NA,NA
+2021,bestand,68,Rorbas,169,513,341.5
+2021,wegzug,68,Rorbas,NA,NA,NA
+2021,bestand,69,Wallisellen,1493,21225,17906.8
+2021,wegzug,69,Wallisellen,4,12,7.9
+2021,zuzug,69,Wallisellen,5,29,23.1
+2021,bestand,70,Wasterkingen,37,75,47
+2021,bestand,71,Wil (ZH),124,503,393.2
+2021,wegzug,71,Wil (ZH),NA,NA,NA
+2021,bestand,72,Winkel,276,1033,726.4
+2021,wegzug,72,Winkel,NA,NA,NA
+2021,zuzug,72,Winkel,3,NA,NA
+2021,bestand,81,Bachs,55,238,167.6
+2021,wegzug,81,Bachs,NA,NA,NA
+2021,bestand,82,Boppelsen,78,329,255.3
+2021,wegzug,82,Boppelsen,NA,NA,NA
+2021,bestand,83,Buchs (ZH),302,2452,2023.8
+2021,wegzug,83,Buchs (ZH),3,NA,NA
+2021,zuzug,83,Buchs (ZH),NA,NA,NA
+2021,bestand,84,Dällikon,285,2934,2549.4
+2021,wegzug,84,Dällikon,NA,NA,NA
+2021,zuzug,84,Dällikon,NA,NA,NA
+2021,bestand,85,Dänikon,97,409,311.9
+2021,wegzug,85,Dänikon,NA,7,4.8
+2021,bestand,86,Dielsdorf,436,4535,3537.4
+2021,wegzug,86,Dielsdorf,3,NA,NA
+2021,zuzug,86,Dielsdorf,NA,NA,NA
+2021,bestand,87,Hüttikon,44,104,67.2
+2021,bestand,88,Neerach,241,680,456.9
+2021,zuzug,88,Neerach,NA,NA,NA
+2021,bestand,89,Niederglatt,251,1700,1363.1
+2021,zuzug,89,Niederglatt,NA,NA,NA
+2021,bestand,90,Niederhasli,486,2580,2058.4
+2021,wegzug,90,Niederhasli,7,8,5.5
+2021,zuzug,90,Niederhasli,NA,4,NA
+2021,bestand,91,Niederweningen,165,878,696
+2021,wegzug,91,Niederweningen,NA,NA,NA
+2021,bestand,92,Oberglatt,329,1927,1570.6
+2021,wegzug,92,Oberglatt,NA,NA,NA
+2021,bestand,93,Oberweningen,92,241,173.8
+2021,wegzug,93,Oberweningen,NA,NA,NA
+2021,bestand,94,Otelfingen,268,2441,1965.1
+2021,wegzug,94,Otelfingen,4,10,8.8
+2021,zuzug,94,Otelfingen,NA,NA,NA
+2021,bestand,95,Regensberg,45,299,186.6
+2021,bestand,96,Regensdorf,1282,10239,8220.4
+2021,wegzug,96,Regensdorf,5,13,11.4
+2021,zuzug,96,Regensdorf,6,31,26.5
+2021,bestand,97,Rümlang,776,6596,5461.5
+2021,wegzug,97,Rümlang,6,21,17.5
+2021,zuzug,97,Rümlang,4,41,37.6
+2021,bestand,98,Schleinikon,61,156,102.8
+2021,bestand,99,Schöfflisdorf,92,328,203
+2021,wegzug,99,Schöfflisdorf,NA,NA,NA
+2021,zuzug,99,Schöfflisdorf,NA,NA,NA
+2021,bestand,100,Stadel,145,518,356.2
+2021,wegzug,100,Stadel,NA,NA,NA
+2021,bestand,101,Steinmaur,226,840,604.4
+2021,wegzug,101,Steinmaur,NA,NA,NA
+2021,bestand,102,Weiach,106,304,217.3
+2021,wegzug,102,Weiach,NA,NA,NA
+2021,bestand,111,Bäretswil,369,1668,1154.7
+2021,wegzug,111,Bäretswil,3,5,NA
+2021,zuzug,111,Bäretswil,NA,NA,NA
+2021,bestand,112,Bubikon,581,3791,2975.5
+2021,wegzug,112,Bubikon,3,NA,NA
+2021,zuzug,112,Bubikon,3,15,14.4
+2021,bestand,113,Dürnten,454,1903,1327.6
+2021,wegzug,113,Dürnten,NA,NA,NA
+2021,zuzug,113,Dürnten,3,4,NA
+2021,bestand,114,Fischenthal,213,674,478
+2021,zuzug,114,Fischenthal,NA,NA,NA
+2021,bestand,115,Gossau (ZH),623,2548,1863
+2021,zuzug,115,Gossau (ZH),NA,NA,NA
+2021,bestand,116,Grüningen,277,1864,1468.4
+2021,zuzug,116,Grüningen,NA,6,5.1
+2021,bestand,117,Hinwil,893,7324,6004.9
+2021,wegzug,117,Hinwil,4,9,6.5
+2021,zuzug,117,Hinwil,6,16,13.4
+2021,bestand,118,Rüti (ZH),855,5215,3844.7
+2021,wegzug,118,Rüti (ZH),5,44,40.8
+2021,zuzug,118,Rüti (ZH),5,16,13.9
+2021,bestand,119,Seegräben,127,556,366.3
+2021,wegzug,119,Seegräben,NA,NA,NA
+2021,bestand,120,Wald (ZH),696,3486,2499.5
+2021,wegzug,120,Wald (ZH),3,NA,NA
+2021,zuzug,120,Wald (ZH),5,5,NA
+2021,bestand,121,Wetzikon (ZH),1824,14354,10532
+2021,wegzug,121,Wetzikon (ZH),9,60,45.6
+2021,zuzug,121,Wetzikon (ZH),6,11,6.3
+2021,bestand,131,Adliswil,1013,7464,5848.3
+2021,wegzug,131,Adliswil,3,NA,NA
+2021,zuzug,131,Adliswil,4,11,10
+2021,bestand,135,Kilchberg (ZH),638,4312,3220.7
+2021,wegzug,135,Kilchberg (ZH),5,6,NA
+2021,zuzug,135,Kilchberg (ZH),6,9,6.4
+2021,bestand,136,Langnau am Albis,374,1589,1122.5
+2021,wegzug,136,Langnau am Albis,NA,NA,NA
+2021,zuzug,136,Langnau am Albis,NA,NA,NA
+2021,bestand,137,Oberrieden,291,1026,700.5
+2021,wegzug,137,Oberrieden,NA,NA,NA
+2021,bestand,138,Richterswil,813,4238,3274.1
+2021,wegzug,138,Richterswil,10,34,28.1
+2021,zuzug,138,Richterswil,7,20,15.2
+2021,bestand,139,Rüschlikon,428,2950,2384
+2021,wegzug,139,Rüschlikon,3,4,NA
+2021,zuzug,139,Rüschlikon,NA,NA,NA
+2021,bestand,141,Thalwil,1334,6728,4894.2
+2021,wegzug,141,Thalwil,11,33,25.4
+2021,zuzug,141,Thalwil,5,9,7.7
+2021,bestand,151,Erlenbach (ZH),480,1887,1340.3
+2021,wegzug,151,Erlenbach (ZH),6,13,10.3
+2021,zuzug,151,Erlenbach (ZH),5,11,6.7
+2021,bestand,152,Herrliberg,483,1538,1126.5
+2021,wegzug,152,Herrliberg,4,5,4.3
+2021,zuzug,152,Herrliberg,NA,NA,NA
+2021,bestand,153,Hombrechtikon,616,2899,2040
+2021,wegzug,153,Hombrechtikon,NA,NA,NA
+2021,zuzug,153,Hombrechtikon,NA,NA,NA
+2021,bestand,154,Küsnacht (ZH),1268,6293,4784.3
+2021,wegzug,154,Küsnacht (ZH),9,31,24.8
+2021,zuzug,154,Küsnacht (ZH),9,14,8.7
+2021,bestand,155,Männedorf,770,5354,4071.4
+2021,wegzug,155,Männedorf,8,9,6.8
+2021,zuzug,155,Männedorf,6,13,6.3
+2021,bestand,156,Meilen,1196,6111,4590.1
+2021,wegzug,156,Meilen,11,30,22.4
+2021,zuzug,156,Meilen,5,18,7.5
+2021,bestand,157,Oetwil am See,288,2178,1730.5
+2021,wegzug,157,Oetwil am See,NA,NA,NA
+2021,bestand,158,Stäfa,1031,6426,5064.7
+2021,wegzug,158,Stäfa,6,8,4.6
+2021,zuzug,158,Stäfa,NA,NA,NA
+2021,bestand,159,Uetikon,397,1650,1202.9
+2021,bestand,160,Zumikon,383,1874,1348.5
+2021,wegzug,160,Zumikon,NA,22,6.8
+2021,zuzug,160,Zumikon,NA,NA,NA
+2021,bestand,161,Zollikon,1140,6411,4570.3
+2021,wegzug,161,Zollikon,7,9,5.6
+2021,zuzug,161,Zollikon,4,7,5.3
+2021,bestand,172,Fehraltorf,436,4747,3664.2
+2021,wegzug,172,Fehraltorf,NA,NA,NA
+2021,zuzug,172,Fehraltorf,3,22,18.3
+2021,bestand,173,Hittnau,258,832,598
+2021,zuzug,173,Hittnau,NA,NA,NA
+2021,bestand,176,Lindau,393,3244,2644.7
+2021,wegzug,176,Lindau,NA,NA,NA
+2021,bestand,177,Pfäffikon,851,6086,4462.3
+2021,wegzug,177,Pfäffikon,4,5,NA
+2021,zuzug,177,Pfäffikon,NA,7,NA
+2021,bestand,178,Russikon,300,1173,876
+2021,wegzug,178,Russikon,3,5,NA
+2021,bestand,180,Weisslingen,219,876,635.8
+2021,wegzug,180,Weisslingen,NA,NA,NA
+2021,bestand,181,Wila,160,608,448.3
+2021,zuzug,181,Wila,NA,NA,NA
+2021,bestand,182,Wildberg,78,264,181.2
+2021,bestand,191,Dübendorf,1971,20149,15857.9
+2021,wegzug,191,Dübendorf,9,26,16.9
+2021,zuzug,191,Dübendorf,7,53,44.6
+2021,bestand,192,Egg,605,2735,2011.9
+2021,wegzug,192,Egg,3,14,10.1
+2021,zuzug,192,Egg,3,NA,NA
+2021,bestand,193,Fällanden,493,2945,2295.1
+2021,zuzug,193,Fällanden,3,12,7.5
+2021,bestand,194,Greifensee,227,1750,1331.1
+2021,wegzug,194,Greifensee,NA,4,NA
+2021,zuzug,194,Greifensee,NA,NA,NA
+2021,bestand,195,Maur,700,2359,1709.8
+2021,wegzug,195,Maur,NA,NA,NA
+2021,zuzug,195,Maur,NA,4,NA
+2021,bestand,196,Mönchaltorf,270,1420,1124.7
+2021,zuzug,196,Mönchaltorf,NA,NA,NA
+2021,bestand,197,Schwerzenbach,306,2688,2152.1
+2021,wegzug,197,Schwerzenbach,NA,NA,NA
+2021,zuzug,197,Schwerzenbach,NA,NA,NA
+2021,bestand,198,Uster,2520,17583,13373.7
+2021,wegzug,198,Uster,8,16,12.7
+2021,zuzug,198,Uster,9,13,9.8
+2021,bestand,199,Volketswil,1289,11534,9231
+2021,wegzug,199,Volketswil,7,95,84.1
+2021,zuzug,199,Volketswil,3,5,NA
+2021,bestand,200,Wangen (ZH),537,5286,4274
+2021,wegzug,200,Wangen (ZH),5,6,4.3
+2021,zuzug,200,Wangen (ZH),NA,NA,NA
+2021,bestand,211,Altikon,67,166,100.8
+2021,bestand,213,Brütten,133,395,272.6
+2021,wegzug,213,Brütten,NA,NA,NA
+2021,bestand,214,Dägerlen,89,292,178.3
+2021,zuzug,214,Dägerlen,NA,NA,NA
+2021,bestand,215,Dättlikon,56,189,102.3
+2021,bestand,216,Dinhard,110,437,312
+2021,zuzug,216,Dinhard,NA,NA,NA
+2021,bestand,218,Ellikon an der Thur,69,650,518.7
+2021,bestand,219,Elsau,234,1140,858.9
+2021,bestand,220,Hagenbuch,76,198,141
+2021,zuzug,220,Hagenbuch,NA,NA,NA
+2021,bestand,221,Hettlingen,177,846,632.5
+2021,wegzug,221,Hettlingen,NA,NA,NA
+2021,bestand,223,Neftenbach,363,1715,1288.3
+2021,wegzug,223,Neftenbach,6,20,12.5
+2021,zuzug,223,Neftenbach,NA,NA,NA
+2021,bestand,224,Pfungen,224,1458,1165.9
+2021,wegzug,224,Pfungen,3,9,6.2
+2021,zuzug,224,Pfungen,NA,NA,NA
+2021,bestand,225,Rickenbach (ZH),167,547,365.1
+2021,wegzug,225,Rickenbach (ZH),NA,NA,NA
+2021,bestand,226,Schlatt (ZH),48,140,105
+2021,bestand,227,Seuzach,418,2667,2057
+2021,wegzug,227,Seuzach,3,NA,NA
+2021,zuzug,227,Seuzach,NA,NA,NA
+2021,bestand,228,Turbenthal,333,1586,1114.1
+2021,wegzug,228,Turbenthal,NA,NA,NA
+2021,bestand,230,Winterthur,8258,75220,57292.2
+2021,wegzug,230,Winterthur,56,378,333.7
+2021,zuzug,230,Winterthur,38,104,75.9
+2021,bestand,231,Zell (ZH),343,1532,1094.7
+2021,wegzug,231,Zell (ZH),NA,NA,NA
+2021,zuzug,231,Zell (ZH),NA,NA,NA
+2021,bestand,241,Aesch (ZH),106,364,255.3
+2021,wegzug,241,Aesch (ZH),NA,NA,NA
+2021,zuzug,241,Aesch (ZH),3,4,NA
+2021,bestand,242,Birmensdorf (ZH),423,2641,2053.2
+2021,wegzug,242,Birmensdorf (ZH),NA,NA,NA
+2021,zuzug,242,Birmensdorf (ZH),NA,NA,NA
+2021,bestand,243,Dietikon,1808,19198,15203.1
+2021,wegzug,243,Dietikon,27,100,85.6
+2021,zuzug,243,Dietikon,9,41,36.4
+2021,bestand,244,Geroldswil,316,2256,1744.3
+2021,wegzug,244,Geroldswil,NA,NA,NA
+2021,zuzug,244,Geroldswil,NA,NA,NA
+2021,bestand,245,Oberengstringen,328,1333,957.6
+2021,wegzug,245,Oberengstringen,4,8,5.6
+2021,zuzug,245,Oberengstringen,3,4,NA
+2021,bestand,246,Oetwil an der Limmat,120,260,177.5
+2021,wegzug,246,Oetwil an der Limmat,NA,NA,NA
+2021,zuzug,246,Oetwil an der Limmat,NA,NA,NA
+2021,bestand,247,Schlieren,1472,19963,15959.9
+2021,wegzug,247,Schlieren,12,18,15.2
+2021,zuzug,247,Schlieren,4,8,6.3
+2021,bestand,248,Uitikon,307,1105,757.5
+2021,wegzug,248,Uitikon,NA,5,4
+2021,bestand,249,Unterengstringen,259,953,741.5
+2021,wegzug,249,Unterengstringen,NA,4,NA
+2021,zuzug,249,Unterengstringen,NA,5,4.2
+2021,bestand,250,Urdorf,661,8663,6066
+2021,wegzug,250,Urdorf,6,9,5.7
+2021,zuzug,250,Urdorf,NA,NA,NA
+2021,bestand,251,Weiningen (ZH),261,2164,1481.6
+2021,wegzug,251,Weiningen (ZH),5,6,4.5
+2021,zuzug,251,Weiningen (ZH),NA,NA,NA
+2021,bestand,261,Zürich,46132,514995,396783.8
+2021,wegzug,261,Zürich,337,985,740.6
+2021,zuzug,261,Zürich,175,774,579.5
+2021,bestand,291,Andelfingen,312,2024,1523.6
+2021,wegzug,291,Andelfingen,NA,NA,NA
+2021,bestand,292,Stammheim,270,1319,963.9
+2021,wegzug,292,Stammheim,NA,NA,NA
+2021,zuzug,292,Stammheim,NA,NA,NA
+2021,bestand,293,Wädenswil,1867,10179,7611.9
+2021,wegzug,293,Wädenswil,17,54,42.9
+2021,zuzug,293,Wädenswil,8,20,16.4
+2021,bestand,294,Elgg,341,1705,1262.4
+2021,wegzug,294,Elgg,3,NA,NA
+2021,zuzug,294,Elgg,NA,25,23.8
+2021,bestand,295,Horgen,1459,10583,8010.7
+2021,wegzug,295,Horgen,11,29,20.8
+2021,zuzug,295,Horgen,11,16,12.3
+2021,bestand,296,Illnau-Effretikon,1054,6766,5107.7
+2021,wegzug,296,Illnau-Effretikon,6,12,10.5
+2021,zuzug,296,Illnau-Effretikon,3,23,20.2
+2021,bestand,297,Bauma,398,1830,1318.6
+2021,wegzug,297,Bauma,4,4,NA
+2021,zuzug,297,Bauma,NA,NA,NA
+2021,bestand,298,Wiesendangen,398,1611,1106.6
+2021,wegzug,298,Wiesendangen,3,5,NA
+2021,zuzug,298,Wiesendangen,NA,NA,NA
+2022,bestand,1,Aeugst am Albis,147,470,296.8
+2022,wegzug,1,Aeugst am Albis,3,8,7
+2022,zuzug,1,Aeugst am Albis,NA,NA,NA
+2022,bestand,2,Affoltern am Albis,1000,6912,5128.8
+2022,wegzug,2,Affoltern am Albis,14,36,28.2
+2022,zuzug,2,Affoltern am Albis,8,15,9.5
+2022,bestand,3,Bonstetten,281,1038,703.3
+2022,wegzug,3,Bonstetten,6,10,5.6
+2022,bestand,4,Hausen am Albis,283,1109,772.7
+2022,wegzug,4,Hausen am Albis,3,12,9.1
+2022,bestand,5,Hedingen,207,1419,1156.5
+2022,zuzug,5,Hedingen,NA,NA,NA
+2022,bestand,6,Kappel am Albis,104,358,244.8
+2022,wegzug,6,Kappel am Albis,NA,NA,NA
+2022,zuzug,6,Kappel am Albis,NA,NA,NA
+2022,bestand,7,Knonau,142,545,364.9
+2022,wegzug,7,Knonau,NA,NA,NA
+2022,zuzug,7,Knonau,4,5,NA
+2022,bestand,8,Maschwanden,59,181,117.4
+2022,bestand,9,Mettmenstetten,341,1759,1263.2
+2022,wegzug,9,Mettmenstetten,NA,NA,NA
+2022,zuzug,9,Mettmenstetten,3,NA,NA
+2022,bestand,10,Obfelden,331,1466,1009.1
+2022,wegzug,10,Obfelden,7,19,14.6
+2022,zuzug,10,Obfelden,NA,40,36.5
+2022,bestand,11,Ottenbach,181,691,508.3
+2022,wegzug,11,Ottenbach,NA,4,NA
+2022,zuzug,11,Ottenbach,NA,7,4.3
+2022,bestand,12,Rifferswil,99,295,189.9
+2022,zuzug,12,Rifferswil,NA,NA,NA
+2022,bestand,13,Stallikon,185,833,588.1
+2022,wegzug,13,Stallikon,NA,NA,NA
+2022,zuzug,13,Stallikon,4,5,4.6
+2022,bestand,14,Wettswil am Albis,275,1401,1084.8
+2022,wegzug,14,Wettswil am Albis,3,NA,NA
+2022,bestand,22,Benken (ZH),63,357,224.5
+2022,wegzug,22,Benken (ZH),NA,NA,NA
+2022,zuzug,22,Benken (ZH),NA,NA,NA
+2022,bestand,23,Berg am Irchel,53,160,99.7
+2022,bestand,24,Buch am Irchel,78,202,141.7
+2022,bestand,25,Dachsen,106,403,291.5
+2022,wegzug,25,Dachsen,NA,4,NA
+2022,bestand,26,Dorf,56,176,109.4
+2022,bestand,27,Feuerthalen,205,1316,962.7
+2022,zuzug,27,Feuerthalen,4,4,NA
+2022,bestand,28,Flaach,135,771,503.1
+2022,wegzug,28,Flaach,NA,NA,NA
+2022,bestand,29,Flurlingen,116,473,330.3
+2022,wegzug,29,Flurlingen,NA,NA,NA
+2022,zuzug,29,Flurlingen,3,5,4
+2022,bestand,31,Henggart,112,726,547.3
+2022,zuzug,31,Henggart,NA,NA,NA
+2022,bestand,33,Kleinandelfingen,188,1152,929.1
+2022,bestand,34,Laufen-Uhwiesen,112,462,297.8
+2022,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2022,bestand,35,Marthalen,211,1241,870.2
+2022,zuzug,35,Marthalen,NA,NA,NA
+2022,bestand,37,Ossingen,119,470,318.2
+2022,bestand,38,Rheinau,92,805,566.4
+2022,bestand,39,Thalheim an der Thur,71,324,227
+2022,zuzug,39,Thalheim an der Thur,NA,NA,NA
+2022,bestand,40,Trüllikon,86,328,206.9
+2022,zuzug,40,Trüllikon,NA,NA,NA
+2022,bestand,41,Truttikon,39,131,88.2
+2022,bestand,43,Volken,32,89,53.4
+2022,bestand,51,Bachenbülach,268,1625,1325.4
+2022,wegzug,51,Bachenbülach,NA,4,NA
+2022,zuzug,51,Bachenbülach,NA,NA,NA
+2022,bestand,52,Bassersdorf,648,4681,3728.2
+2022,wegzug,52,Bassersdorf,5,11,8.9
+2022,zuzug,52,Bassersdorf,NA,26,23
+2022,bestand,53,Bülach,1357,11203,8393.2
+2022,wegzug,53,Bülach,3,4,NA
+2022,zuzug,53,Bülach,3,4,NA
+2022,bestand,54,Dietlikon,590,5412,4390.6
+2022,wegzug,54,Dietlikon,3,95,89.6
+2022,zuzug,54,Dietlikon,3,20,18.8
+2022,bestand,55,Eglisau,303,1360,946
+2022,bestand,56,Embrach,512,4055,3196.9
+2022,wegzug,56,Embrach,5,8,6.4
+2022,zuzug,56,Embrach,NA,NA,NA
+2022,bestand,57,Freienstein-Teufen,172,694,489.8
+2022,wegzug,57,Freienstein-Teufen,NA,NA,NA
+2022,bestand,58,Glattfelden,239,1110,810.3
+2022,wegzug,58,Glattfelden,NA,NA,NA
+2022,bestand,59,Hochfelden,85,402,319.4
+2022,zuzug,59,Hochfelden,NA,NA,NA
+2022,bestand,60,Höri,233,1316,1087.7
+2022,bestand,61,Hüntwangen,90,345,251.8
+2022,bestand,62,Kloten,1598,38338,31834.6
+2022,wegzug,62,Kloten,7,13,10.9
+2022,zuzug,62,Kloten,4,271,265.8
+2022,bestand,63,Lufingen,127,465,309.3
+2022,bestand,64,Nürensdorf,312,1194,826.7
+2022,zuzug,64,Nürensdorf,NA,NA,NA
+2022,bestand,65,Oberembrach,96,265,165.9
+2022,bestand,66,Opfikon,1593,24998,20751.1
+2022,wegzug,66,Opfikon,6,10,7.4
+2022,zuzug,66,Opfikon,9,79,46.7
+2022,bestand,67,Rafz,257,1605,1189.8
+2022,wegzug,67,Rafz,NA,4,NA
+2022,zuzug,67,Rafz,NA,NA,NA
+2022,bestand,68,Rorbas,177,532,361.8
+2022,wegzug,68,Rorbas,NA,NA,NA
+2022,bestand,69,Wallisellen,1482,20647,17282.6
+2022,wegzug,69,Wallisellen,9,20,17.3
+2022,zuzug,69,Wallisellen,4,7,NA
+2022,bestand,70,Wasterkingen,31,69,42
+2022,bestand,71,Wil (ZH),123,511,395.9
+2022,zuzug,71,Wil (ZH),NA,NA,NA
+2022,bestand,72,Winkel,256,968,699.4
+2022,zuzug,72,Winkel,NA,NA,NA
+2022,bestand,81,Bachs,57,239,166.4
+2022,zuzug,81,Bachs,NA,NA,NA
+2022,bestand,82,Boppelsen,76,323,251.2
+2022,bestand,83,Buchs (ZH),318,2697,2270
+2022,wegzug,83,Buchs (ZH),NA,NA,NA
+2022,zuzug,83,Buchs (ZH),NA,NA,NA
+2022,bestand,84,Dällikon,286,2867,2460.4
+2022,wegzug,84,Dällikon,3,45,40.9
+2022,zuzug,84,Dällikon,NA,11,10.3
+2022,bestand,85,Dänikon,97,414,317.9
+2022,zuzug,85,Dänikon,NA,NA,NA
+2022,bestand,86,Dielsdorf,441,4641,3610.5
+2022,wegzug,86,Dielsdorf,NA,4,NA
+2022,zuzug,86,Dielsdorf,NA,NA,NA
+2022,bestand,87,Hüttikon,46,108,70
+2022,zuzug,87,Hüttikon,NA,NA,NA
+2022,bestand,88,Neerach,247,665,452.3
+2022,wegzug,88,Neerach,NA,NA,NA
+2022,zuzug,88,Neerach,NA,NA,NA
+2022,bestand,89,Niederglatt,253,1775,1420.9
+2022,bestand,90,Niederhasli,461,2480,1924.1
+2022,wegzug,90,Niederhasli,NA,NA,NA
+2022,zuzug,90,Niederhasli,NA,NA,NA
+2022,bestand,91,Niederweningen,169,901,702.3
+2022,wegzug,91,Niederweningen,NA,NA,NA
+2022,zuzug,91,Niederweningen,4,5,NA
+2022,bestand,92,Oberglatt,341,2034,1602.3
+2022,wegzug,92,Oberglatt,NA,NA,NA
+2022,zuzug,92,Oberglatt,NA,NA,NA
+2022,bestand,93,Oberweningen,94,258,184
+2022,bestand,94,Otelfingen,264,2413,1938.3
+2022,zuzug,94,Otelfingen,NA,5,NA
+2022,bestand,95,Regensberg,43,312,198.6
+2022,wegzug,95,Regensberg,NA,7,4.8
+2022,bestand,96,Regensdorf,1306,10188,8102.2
+2022,wegzug,96,Regensdorf,10,364,334.3
+2022,zuzug,96,Regensdorf,7,16,11.4
+2022,bestand,97,Rümlang,795,6705,5500.3
+2022,wegzug,97,Rümlang,4,15,13.2
+2022,zuzug,97,Rümlang,4,15,11.5
+2022,bestand,98,Schleinikon,58,136,95.4
+2022,bestand,99,Schöfflisdorf,93,332,213.2
+2022,wegzug,99,Schöfflisdorf,NA,17,7.7
+2022,zuzug,99,Schöfflisdorf,NA,NA,NA
+2022,bestand,100,Stadel,146,559,385
+2022,wegzug,100,Stadel,NA,NA,NA
+2022,bestand,101,Steinmaur,237,876,623.7
+2022,zuzug,101,Steinmaur,NA,8,7.1
+2022,bestand,102,Weiach,101,316,228.5
+2022,wegzug,102,Weiach,NA,NA,NA
+2022,bestand,111,Bäretswil,371,1722,1188.3
+2022,wegzug,111,Bäretswil,3,5,4.2
+2022,zuzug,111,Bäretswil,NA,NA,NA
+2022,bestand,112,Bubikon,587,3969,3066.2
+2022,wegzug,112,Bubikon,5,45,42.4
+2022,zuzug,112,Bubikon,5,6,NA
+2022,bestand,113,Dürnten,454,1911,1327.1
+2022,wegzug,113,Dürnten,3,NA,NA
+2022,zuzug,113,Dürnten,4,4,NA
+2022,bestand,114,Fischenthal,216,671,457.9
+2022,bestand,115,Gossau (ZH),635,2625,1887.8
+2022,wegzug,115,Gossau (ZH),3,5,NA
+2022,zuzug,115,Gossau (ZH),3,10,7.7
+2022,bestand,116,Grüningen,279,1837,1429.6
+2022,wegzug,116,Grüningen,NA,NA,NA
+2022,bestand,117,Hinwil,877,7501,6148.4
+2022,wegzug,117,Hinwil,7,10,6.7
+2022,zuzug,117,Hinwil,NA,NA,NA
+2022,bestand,118,Rüti (ZH),854,5196,3783.4
+2022,wegzug,118,Rüti (ZH),5,6,4.9
+2022,zuzug,118,Rüti (ZH),3,NA,NA
+2022,bestand,119,Seegräben,131,582,387
+2022,bestand,120,Wald (ZH),710,3491,2529.5
+2022,wegzug,120,Wald (ZH),3,NA,NA
+2022,zuzug,120,Wald (ZH),3,12,9.2
+2022,bestand,121,Wetzikon (ZH),1874,14931,10765.1
+2022,wegzug,121,Wetzikon (ZH),8,12,8.4
+2022,zuzug,121,Wetzikon (ZH),10,37,26.7
+2022,bestand,131,Adliswil,1032,7779,6095.2
+2022,wegzug,131,Adliswil,6,7,4.6
+2022,zuzug,131,Adliswil,5,13,11.5
+2022,bestand,135,Kilchberg (ZH),631,4294,3268.3
+2022,wegzug,135,Kilchberg (ZH),4,7,5.4
+2022,zuzug,135,Kilchberg (ZH),9,9,5.4
+2022,bestand,136,Langnau am Albis,382,1558,1094.5
+2022,wegzug,136,Langnau am Albis,3,28,21.5
+2022,zuzug,136,Langnau am Albis,NA,NA,NA
+2022,bestand,137,Oberrieden,300,1076,721.5
+2022,zuzug,137,Oberrieden,4,4,NA
+2022,bestand,138,Richterswil,822,4377,3349.8
+2022,wegzug,138,Richterswil,11,18,14.3
+2022,zuzug,138,Richterswil,9,15,11.4
+2022,bestand,139,Rüschlikon,414,2923,2341.9
+2022,wegzug,139,Rüschlikon,NA,4,NA
+2022,zuzug,139,Rüschlikon,NA,5,4.7
+2022,bestand,141,Thalwil,1342,6957,4941.5
+2022,wegzug,141,Thalwil,12,50,31.5
+2022,zuzug,141,Thalwil,NA,NA,NA
+2022,bestand,151,Erlenbach (ZH),502,1989,1409.8
+2022,wegzug,151,Erlenbach (ZH),6,7,5.2
+2022,zuzug,151,Erlenbach (ZH),NA,7,5.2
+2022,bestand,152,Herrliberg,488,1548,1116.9
+2022,wegzug,152,Herrliberg,3,7,6.3
+2022,zuzug,152,Herrliberg,NA,NA,NA
+2022,bestand,153,Hombrechtikon,616,2846,2016.2
+2022,wegzug,153,Hombrechtikon,3,21,19.1
+2022,zuzug,153,Hombrechtikon,3,6,4.7
+2022,bestand,154,Küsnacht (ZH),1268,6476,4843.1
+2022,wegzug,154,Küsnacht (ZH),10,61,52.7
+2022,zuzug,154,Küsnacht (ZH),6,7,4.8
+2022,bestand,155,Männedorf,768,5360,4063.4
+2022,wegzug,155,Männedorf,NA,NA,NA
+2022,zuzug,155,Männedorf,5,13,8.1
+2022,bestand,156,Meilen,1219,6129,4533.2
+2022,wegzug,156,Meilen,7,25,12.9
+2022,zuzug,156,Meilen,7,8,6.4
+2022,bestand,157,Oetwil am See,290,2167,1730.4
+2022,zuzug,157,Oetwil am See,NA,4,NA
+2022,bestand,158,Stäfa,1052,6674,5239.7
+2022,wegzug,158,Stäfa,6,54,51.3
+2022,zuzug,158,Stäfa,4,5,4.3
+2022,bestand,159,Uetikon,418,1654,1182.4
+2022,wegzug,159,Uetikon,NA,NA,NA
+2022,zuzug,159,Uetikon,5,6,4.8
+2022,bestand,160,Zumikon,378,1924,1363.5
+2022,wegzug,160,Zumikon,NA,NA,NA
+2022,zuzug,160,Zumikon,NA,7,6.1
+2022,bestand,161,Zollikon,1163,6765,4772.7
+2022,wegzug,161,Zollikon,4,9,7.6
+2022,zuzug,161,Zollikon,11,16,9.9
+2022,bestand,172,Fehraltorf,430,4833,3740.4
+2022,wegzug,172,Fehraltorf,NA,NA,NA
+2022,zuzug,172,Fehraltorf,NA,NA,NA
+2022,bestand,173,Hittnau,258,842,592.6
+2022,bestand,176,Lindau,413,3424,2760.6
+2022,wegzug,176,Lindau,NA,NA,NA
+2022,zuzug,176,Lindau,NA,NA,NA
+2022,bestand,177,Pfäffikon,854,6100,4398
+2022,wegzug,177,Pfäffikon,4,4,NA
+2022,zuzug,177,Pfäffikon,NA,13,8.3
+2022,bestand,178,Russikon,311,1259,906.8
+2022,bestand,180,Weisslingen,228,860,611
+2022,wegzug,180,Weisslingen,NA,NA,NA
+2022,bestand,181,Wila,165,633,473.8
+2022,bestand,182,Wildberg,75,269,184.4
+2022,bestand,191,Dübendorf,1974,20605,16066.1
+2022,wegzug,191,Dübendorf,17,88,73.8
+2022,zuzug,191,Dübendorf,10,22,18.3
+2022,bestand,192,Egg,611,2697,1968.3
+2022,wegzug,192,Egg,6,68,54.5
+2022,zuzug,192,Egg,NA,5,NA
+2022,bestand,193,Fällanden,497,3033,2359.7
+2022,wegzug,193,Fällanden,NA,NA,NA
+2022,zuzug,193,Fällanden,4,6,4.1
+2022,bestand,194,Greifensee,237,1743,1344.8
+2022,wegzug,194,Greifensee,NA,4,NA
+2022,bestand,195,Maur,683,2369,1706.9
+2022,wegzug,195,Maur,6,7,4.8
+2022,zuzug,195,Maur,NA,NA,NA
+2022,bestand,196,Mönchaltorf,257,1390,1089.5
+2022,wegzug,196,Mönchaltorf,3,12,8
+2022,bestand,197,Schwerzenbach,327,2738,2195.6
+2022,wegzug,197,Schwerzenbach,4,7,4.4
+2022,zuzug,197,Schwerzenbach,3,6,5.3
+2022,bestand,198,Uster,2554,18314,13811.2
+2022,wegzug,198,Uster,9,9,5.4
+2022,zuzug,198,Uster,3,11,6.8
+2022,bestand,199,Volketswil,1301,11618,9178.1
+2022,wegzug,199,Volketswil,6,26,24.4
+2022,zuzug,199,Volketswil,NA,NA,NA
+2022,bestand,200,Wangen (ZH),546,5399,4310.8
+2022,wegzug,200,Wangen (ZH),8,31,26.5
+2022,zuzug,200,Wangen (ZH),NA,NA,NA
+2022,bestand,211,Altikon,64,159,95.6
+2022,bestand,213,Brütten,136,428,288
+2022,wegzug,213,Brütten,NA,NA,NA
+2022,zuzug,213,Brütten,NA,NA,NA
+2022,bestand,214,Dägerlen,88,289,179.2
+2022,wegzug,214,Dägerlen,NA,NA,NA
+2022,zuzug,214,Dägerlen,NA,5,4.2
+2022,bestand,215,Dättlikon,54,164,98.3
+2022,bestand,216,Dinhard,116,417,279.4
+2022,bestand,218,Ellikon an der Thur,78,694,545.5
+2022,zuzug,218,Ellikon an der Thur,NA,NA,NA
+2022,bestand,219,Elsau,234,1214,914.7
+2022,zuzug,219,Elsau,NA,8,6.7
+2022,bestand,220,Hagenbuch,80,193,128.7
+2022,wegzug,220,Hagenbuch,NA,NA,NA
+2022,zuzug,220,Hagenbuch,NA,NA,NA
+2022,bestand,221,Hettlingen,174,830,636.5
+2022,zuzug,221,Hettlingen,NA,NA,NA
+2022,bestand,223,Neftenbach,367,1797,1330
+2022,zuzug,223,Neftenbach,NA,NA,NA
+2022,bestand,224,Pfungen,226,1540,1238
+2022,bestand,225,Rickenbach (ZH),167,534,357.1
+2022,bestand,226,Schlatt (ZH),53,148,107.8
+2022,bestand,227,Seuzach,417,2672,2031
+2022,wegzug,227,Seuzach,NA,14,11.8
+2022,zuzug,227,Seuzach,NA,NA,NA
+2022,bestand,228,Turbenthal,331,1679,1197
+2022,wegzug,228,Turbenthal,4,11,7.3
+2022,zuzug,228,Turbenthal,NA,8,5.6
+2022,bestand,230,Winterthur,8369,77189,58598.9
+2022,wegzug,230,Winterthur,48,122,88.9
+2022,zuzug,230,Winterthur,32,66,47.9
+2022,bestand,231,Zell (ZH),361,1583,1142.3
+2022,wegzug,231,Zell (ZH),NA,NA,NA
+2022,zuzug,231,Zell (ZH),NA,NA,NA
+2022,bestand,241,Aesch (ZH),112,378,256.8
+2022,wegzug,241,Aesch (ZH),NA,NA,NA
+2022,zuzug,241,Aesch (ZH),NA,NA,NA
+2022,bestand,242,Birmensdorf (ZH),432,2683,2026.7
+2022,wegzug,242,Birmensdorf (ZH),7,12,8.1
+2022,bestand,243,Dietikon,1807,19256,15272
+2022,wegzug,243,Dietikon,19,62,49.1
+2022,zuzug,243,Dietikon,10,46,37.7
+2022,bestand,244,Geroldswil,308,2278,1737.3
+2022,wegzug,244,Geroldswil,3,NA,NA
+2022,zuzug,244,Geroldswil,NA,NA,NA
+2022,bestand,245,Oberengstringen,317,1268,910.3
+2022,wegzug,245,Oberengstringen,4,8,6.3
+2022,zuzug,245,Oberengstringen,NA,11,8.3
+2022,bestand,246,Oetwil an der Limmat,124,257,173
+2022,wegzug,246,Oetwil an der Limmat,3,NA,NA
+2022,bestand,247,Schlieren,1502,20898,16681.5
+2022,wegzug,247,Schlieren,15,41,33.3
+2022,zuzug,247,Schlieren,10,70,62.2
+2022,bestand,248,Uitikon,292,1155,787.8
+2022,wegzug,248,Uitikon,NA,NA,NA
+2022,zuzug,248,Uitikon,NA,NA,NA
+2022,bestand,249,Unterengstringen,254,971,739.8
+2022,wegzug,249,Unterengstringen,NA,4,NA
+2022,bestand,250,Urdorf,654,8695,6105.8
+2022,wegzug,250,Urdorf,6,14,11.4
+2022,zuzug,250,Urdorf,NA,12,9.6
+2022,bestand,251,Weiningen (ZH),262,2249,1554
+2022,wegzug,251,Weiningen (ZH),NA,NA,NA
+2022,zuzug,251,Weiningen (ZH),3,4,NA
+2022,bestand,261,Zürich,46671,536980,411368.9
+2022,wegzug,261,Zürich,309,778,590
+2022,zuzug,261,Zürich,223,1054,880.6
+2022,bestand,291,Andelfingen,314,2078,1570.7
+2022,wegzug,291,Andelfingen,NA,4,NA
+2022,zuzug,291,Andelfingen,NA,NA,NA
+2022,bestand,292,Stammheim,272,1410,1018.5
+2022,zuzug,292,Stammheim,NA,NA,NA
+2022,bestand,293,Wädenswil,1884,10385,7766.6
+2022,wegzug,293,Wädenswil,17,47,35.8
+2022,zuzug,293,Wädenswil,11,12,7.3
+2022,bestand,294,Elgg,344,1712,1258.5
+2022,wegzug,294,Elgg,NA,NA,NA
+2022,zuzug,294,Elgg,3,NA,NA
+2022,bestand,295,Horgen,1470,10479,7954.6
+2022,wegzug,295,Horgen,15,105,97
+2022,zuzug,295,Horgen,12,19,13.7
+2022,bestand,296,Illnau-Effretikon,1084,6840,5206.3
+2022,wegzug,296,Illnau-Effretikon,3,48,26.1
+2022,zuzug,296,Illnau-Effretikon,3,5,NA
+2022,bestand,297,Bauma,394,1936,1394.8
+2022,bestand,298,Wiesendangen,396,1611,1127.6
+2022,wegzug,298,Wiesendangen,4,6,NA
+2022,zuzug,298,Wiesendangen,NA,NA,NA
+2023,bestand,1,Aeugst am Albis,135,436,273.8
+2023,zuzug,1,Aeugst am Albis,NA,NA,NA
+2023,bestand,2,Affoltern am Albis,1024,7036,5218.7
+2023,wegzug,2,Affoltern am Albis,8,16,11.3
+2023,zuzug,2,Affoltern am Albis,7,55,47.9
+2023,bestand,3,Bonstetten,276,1069,725.8
+2023,wegzug,3,Bonstetten,4,4,NA
+2023,zuzug,3,Bonstetten,NA,NA,NA
+2023,bestand,4,Hausen am Albis,288,1099,759.8
+2023,wegzug,4,Hausen am Albis,NA,NA,NA
+2023,zuzug,4,Hausen am Albis,NA,NA,NA
+2023,bestand,5,Hedingen,199,1369,1129.5
+2023,wegzug,5,Hedingen,NA,NA,NA
+2023,bestand,6,Kappel am Albis,111,393,253.6
+2023,wegzug,6,Kappel am Albis,NA,NA,NA
+2023,bestand,7,Knonau,143,572,383.8
+2023,wegzug,7,Knonau,NA,NA,NA
+2023,zuzug,7,Knonau,NA,NA,NA
+2023,bestand,8,Maschwanden,55,188,118.4
+2023,bestand,9,Mettmenstetten,353,1755,1217.9
+2023,wegzug,9,Mettmenstetten,NA,19,17.8
+2023,zuzug,9,Mettmenstetten,3,NA,NA
+2023,bestand,10,Obfelden,319,1546,1077.9
+2023,wegzug,10,Obfelden,NA,6,5
+2023,zuzug,10,Obfelden,NA,46,41
+2023,bestand,11,Ottenbach,191,762,556.5
+2023,wegzug,11,Ottenbach,NA,NA,NA
+2023,zuzug,11,Ottenbach,NA,NA,NA
+2023,bestand,12,Rifferswil,98,308,192.7
+2023,wegzug,12,Rifferswil,NA,NA,NA
+2023,bestand,13,Stallikon,195,801,575.4
+2023,wegzug,13,Stallikon,NA,NA,NA
+2023,zuzug,13,Stallikon,NA,NA,NA
+2023,bestand,14,Wettswil am Albis,272,1427,1108.5
+2023,wegzug,14,Wettswil am Albis,NA,NA,NA
+2023,bestand,22,Benken (ZH),61,357,220.6
+2023,wegzug,22,Benken (ZH),NA,NA,NA
+2023,zuzug,22,Benken (ZH),NA,NA,NA
+2023,bestand,23,Berg am Irchel,52,164,105.3
+2023,bestand,24,Buch am Irchel,78,202,136.1
+2023,wegzug,24,Buch am Irchel,NA,NA,NA
+2023,bestand,25,Dachsen,106,420,300.2
+2023,zuzug,25,Dachsen,NA,NA,NA
+2023,bestand,26,Dorf,54,168,99.9
+2023,bestand,27,Feuerthalen,207,1247,872.6
+2023,wegzug,27,Feuerthalen,4,17,13.7
+2023,zuzug,27,Feuerthalen,NA,NA,NA
+2023,bestand,28,Flaach,128,801,521.9
+2023,wegzug,28,Flaach,NA,NA,NA
+2023,bestand,29,Flurlingen,117,481,351.2
+2023,wegzug,29,Flurlingen,3,NA,NA
+2023,zuzug,29,Flurlingen,NA,NA,NA
+2023,bestand,31,Henggart,124,695,515.4
+2023,wegzug,31,Henggart,NA,NA,NA
+2023,zuzug,31,Henggart,NA,NA,NA
+2023,bestand,33,Kleinandelfingen,184,1206,958.4
+2023,wegzug,33,Kleinandelfingen,NA,NA,NA
+2023,bestand,34,Laufen-Uhwiesen,110,506,330.5
+2023,wegzug,34,Laufen-Uhwiesen,3,NA,NA
+2023,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2023,bestand,35,Marthalen,214,1272,884
+2023,wegzug,35,Marthalen,NA,NA,NA
+2023,zuzug,35,Marthalen,NA,NA,NA
+2023,bestand,37,Ossingen,118,449,309.8
+2023,wegzug,37,Ossingen,NA,NA,NA
+2023,zuzug,37,Ossingen,3,NA,NA
+2023,bestand,38,Rheinau,84,771,542.5
+2023,bestand,39,Thalheim an der Thur,77,344,250.8
+2023,zuzug,39,Thalheim an der Thur,NA,NA,NA
+2023,bestand,40,Trüllikon,91,317,209.7
+2023,wegzug,40,Trüllikon,NA,NA,NA
+2023,bestand,41,Truttikon,39,133,85.9
+2023,bestand,43,Volken,31,84,47
+2023,bestand,51,Bachenbülach,264,1616,1310.6
+2023,bestand,52,Bassersdorf,656,4716,3755.6
+2023,wegzug,52,Bassersdorf,3,5,NA
+2023,zuzug,52,Bassersdorf,NA,NA,NA
+2023,bestand,53,Bülach,1400,11445,8509.3
+2023,wegzug,53,Bülach,10,30,18.2
+2023,zuzug,53,Bülach,6,17,9.2
+2023,bestand,54,Dietlikon,596,5697,4593.2
+2023,wegzug,54,Dietlikon,4,9,4.8
+2023,zuzug,54,Dietlikon,NA,NA,NA
+2023,bestand,55,Eglisau,303,1408,968.7
+2023,wegzug,55,Eglisau,NA,NA,NA
+2023,bestand,56,Embrach,521,4085,3233.4
+2023,wegzug,56,Embrach,4,8,4.7
+2023,zuzug,56,Embrach,NA,9,8.1
+2023,bestand,57,Freienstein-Teufen,172,695,475.2
+2023,bestand,58,Glattfelden,241,1062,757.1
+2023,wegzug,58,Glattfelden,3,76,73.9
+2023,bestand,59,Hochfelden,81,441,358.1
+2023,wegzug,59,Hochfelden,NA,NA,NA
+2023,bestand,60,Höri,245,1358,1115.4
+2023,wegzug,60,Höri,NA,NA,NA
+2023,zuzug,60,Höri,NA,NA,NA
+2023,bestand,61,Hüntwangen,96,363,266.9
+2023,bestand,62,Kloten,1632,41693,34642.3
+2023,wegzug,62,Kloten,9,359,295.1
+2023,zuzug,62,Kloten,5,75,41.8
+2023,bestand,63,Lufingen,134,445,302.5
+2023,zuzug,63,Lufingen,NA,NA,NA
+2023,bestand,64,Nürensdorf,318,1175,816.9
+2023,wegzug,64,Nürensdorf,NA,NA,NA
+2023,zuzug,64,Nürensdorf,NA,NA,NA
+2023,bestand,65,Oberembrach,89,251,157.4
+2023,zuzug,65,Oberembrach,NA,NA,NA
+2023,bestand,66,Opfikon,1609,25315,20975.5
+2023,wegzug,66,Opfikon,13,100,85.2
+2023,zuzug,66,Opfikon,4,13,10.4
+2023,bestand,67,Rafz,256,1680,1239.2
+2023,wegzug,67,Rafz,NA,NA,NA
+2023,zuzug,67,Rafz,NA,NA,NA
+2023,bestand,68,Rorbas,180,540,372.5
+2023,wegzug,68,Rorbas,NA,5,NA
+2023,bestand,69,Wallisellen,1495,20951,17531.4
+2023,wegzug,69,Wallisellen,13,47,35.2
+2023,zuzug,69,Wallisellen,7,21,14.1
+2023,bestand,70,Wasterkingen,35,78,49.3
+2023,bestand,71,Wil (ZH),128,472,368.7
+2023,wegzug,71,Wil (ZH),NA,NA,NA
+2023,bestand,72,Winkel,265,1026,737
+2023,wegzug,72,Winkel,NA,4,NA
+2023,bestand,81,Bachs,56,241,165.6
+2023,bestand,82,Boppelsen,87,334,251.7
+2023,zuzug,82,Boppelsen,NA,NA,NA
+2023,bestand,83,Buchs (ZH),321,2785,2318.6
+2023,zuzug,83,Buchs (ZH),NA,NA,NA
+2023,bestand,84,Dällikon,295,2760,2399
+2023,wegzug,84,Dällikon,3,NA,NA
+2023,zuzug,84,Dällikon,NA,NA,NA
+2023,bestand,85,Dänikon,100,466,361.6
+2023,wegzug,85,Dänikon,NA,NA,NA
+2023,bestand,86,Dielsdorf,444,4827,3759.2
+2023,wegzug,86,Dielsdorf,NA,6,NA
+2023,zuzug,86,Dielsdorf,5,17,15.4
+2023,bestand,87,Hüttikon,48,110,71
+2023,bestand,88,Neerach,254,678,459.2
+2023,zuzug,88,Neerach,NA,NA,NA
+2023,bestand,89,Niederglatt,256,1667,1326.8
+2023,zuzug,89,Niederglatt,NA,NA,NA
+2023,bestand,90,Niederhasli,477,2545,1961.5
+2023,wegzug,90,Niederhasli,3,8,7.2
+2023,zuzug,90,Niederhasli,NA,NA,NA
+2023,bestand,91,Niederweningen,163,877,688.6
+2023,wegzug,91,Niederweningen,NA,14,5.2
+2023,bestand,92,Oberglatt,337,2149,1696.5
+2023,wegzug,92,Oberglatt,NA,NA,NA
+2023,zuzug,92,Oberglatt,NA,NA,NA
+2023,bestand,93,Oberweningen,89,243,177.1
+2023,wegzug,93,Oberweningen,NA,NA,NA
+2023,zuzug,93,Oberweningen,NA,NA,NA
+2023,bestand,94,Otelfingen,273,2331,1896.4
+2023,wegzug,94,Otelfingen,NA,6,5
+2023,zuzug,94,Otelfingen,NA,NA,NA
+2023,bestand,95,Regensberg,42,335,218.1
+2023,bestand,96,Regensdorf,1308,10396,8241.3
+2023,wegzug,96,Regensdorf,9,70,52.8
+2023,zuzug,96,Regensdorf,3,14,12.5
+2023,bestand,97,Rümlang,778,7033,5813
+2023,wegzug,97,Rümlang,6,9,7.2
+2023,zuzug,97,Rümlang,NA,6,5.3
+2023,bestand,98,Schleinikon,59,126,82.6
+2023,wegzug,98,Schleinikon,NA,NA,NA
+2023,zuzug,98,Schleinikon,NA,NA,NA
+2023,bestand,99,Schöfflisdorf,107,359,226.4
+2023,zuzug,99,Schöfflisdorf,NA,NA,NA
+2023,bestand,100,Stadel,139,558,391.5
+2023,wegzug,100,Stadel,NA,NA,NA
+2023,bestand,101,Steinmaur,238,871,612.7
+2023,wegzug,101,Steinmaur,NA,8,7.1
+2023,bestand,102,Weiach,104,355,245.1
+2023,zuzug,102,Weiach,NA,NA,NA
+2023,bestand,111,Bäretswil,377,1723,1176.8
+2023,wegzug,111,Bäretswil,3,NA,NA
+2023,bestand,112,Bubikon,591,3921,3033.9
+2023,wegzug,112,Bubikon,7,19,15.5
+2023,zuzug,112,Bubikon,3,4,NA
+2023,bestand,113,Dürnten,452,1946,1360
+2023,wegzug,113,Dürnten,NA,NA,NA
+2023,zuzug,113,Dürnten,NA,NA,NA
+2023,bestand,114,Fischenthal,218,711,485.3
+2023,wegzug,114,Fischenthal,NA,NA,NA
+2023,zuzug,114,Fischenthal,NA,NA,NA
+2023,bestand,115,Gossau (ZH),613,2559,1858.5
+2023,wegzug,115,Gossau (ZH),5,16,10.8
+2023,zuzug,115,Gossau (ZH),NA,NA,NA
+2023,bestand,116,Grüningen,274,1803,1377.5
+2023,wegzug,116,Grüningen,NA,18,15.3
+2023,zuzug,116,Grüningen,NA,NA,NA
+2023,bestand,117,Hinwil,884,7571,6227
+2023,wegzug,117,Hinwil,4,4,NA
+2023,zuzug,117,Hinwil,4,13,10.1
+2023,bestand,118,Rüti (ZH),874,5314,3871.5
+2023,wegzug,118,Rüti (ZH),5,15,9.8
+2023,zuzug,118,Rüti (ZH),8,35,23.7
+2023,bestand,119,Seegräben,129,609,415.7
+2023,wegzug,119,Seegräben,NA,NA,NA
+2023,bestand,120,Wald (ZH),719,3460,2473.7
+2023,wegzug,120,Wald (ZH),4,9,5.7
+2023,zuzug,120,Wald (ZH),NA,NA,NA
+2023,bestand,121,Wetzikon (ZH),1917,14990,10924.2
+2023,wegzug,121,Wetzikon (ZH),5,10,7.4
+2023,zuzug,121,Wetzikon (ZH),4,9,7.2
+2023,bestand,131,Adliswil,1066,8023,6268.8
+2023,wegzug,131,Adliswil,6,23,14.4
+2023,zuzug,131,Adliswil,3,5,NA
+2023,bestand,135,Kilchberg (ZH),644,4147,3105.5
+2023,wegzug,135,Kilchberg (ZH),5,8,5.2
+2023,zuzug,135,Kilchberg (ZH),4,12,7.7
+2023,bestand,136,Langnau am Albis,390,1566,1089.7
+2023,wegzug,136,Langnau am Albis,NA,NA,NA
+2023,bestand,137,Oberrieden,307,1094,731.3
+2023,wegzug,137,Oberrieden,NA,8,NA
+2023,bestand,138,Richterswil,829,4511,3494
+2023,wegzug,138,Richterswil,6,11,9
+2023,zuzug,138,Richterswil,3,NA,NA
+2023,bestand,139,Rüschlikon,415,2692,2114.2
+2023,wegzug,139,Rüschlikon,NA,NA,NA
+2023,zuzug,139,Rüschlikon,4,7,5.3
+2023,bestand,141,Thalwil,1361,7113,5041.7
+2023,wegzug,141,Thalwil,10,20,12.5
+2023,zuzug,141,Thalwil,6,27,19.2
+2023,bestand,151,Erlenbach (ZH),506,2000,1407.9
+2023,wegzug,151,Erlenbach (ZH),NA,NA,NA
+2023,zuzug,151,Erlenbach (ZH),5,7,4.5
+2023,bestand,152,Herrliberg,477,1558,1096.9
+2023,wegzug,152,Herrliberg,NA,5,NA
+2023,bestand,153,Hombrechtikon,623,2912,2068.1
+2023,wegzug,153,Hombrechtikon,NA,NA,NA
+2023,zuzug,153,Hombrechtikon,NA,NA,NA
+2023,bestand,154,Küsnacht (ZH),1259,6511,4858.3
+2023,wegzug,154,Küsnacht (ZH),7,7,5.5
+2023,zuzug,154,Küsnacht (ZH),4,4,NA
+2023,bestand,155,Männedorf,767,5297,3995.5
+2023,wegzug,155,Männedorf,6,8,5
+2023,zuzug,155,Männedorf,NA,NA,NA
+2023,bestand,156,Meilen,1241,6249,4630.2
+2023,wegzug,156,Meilen,7,9,6.5
+2023,zuzug,156,Meilen,4,28,12.5
+2023,bestand,157,Oetwil am See,285,2165,1718.6
+2023,zuzug,157,Oetwil am See,NA,NA,NA
+2023,bestand,158,Stäfa,1045,6743,5312.9
+2023,wegzug,158,Stäfa,7,37,28.6
+2023,zuzug,158,Stäfa,3,5,NA
+2023,bestand,159,Uetikon,414,1702,1205.4
+2023,wegzug,159,Uetikon,NA,NA,NA
+2023,bestand,160,Zumikon,382,1852,1326.6
+2023,wegzug,160,Zumikon,NA,4,NA
+2023,zuzug,160,Zumikon,NA,NA,NA
+2023,bestand,161,Zollikon,1156,6727,4759.3
+2023,wegzug,161,Zollikon,14,45,41.9
+2023,zuzug,161,Zollikon,5,8,NA
+2023,bestand,172,Fehraltorf,440,4968,3812.9
+2023,wegzug,172,Fehraltorf,5,45,39.2
+2023,zuzug,172,Fehraltorf,NA,NA,NA
+2023,bestand,173,Hittnau,250,887,627.1
+2023,wegzug,173,Hittnau,NA,NA,NA
+2023,bestand,176,Lindau,440,3513,2821.3
+2023,wegzug,176,Lindau,NA,NA,NA
+2023,zuzug,176,Lindau,4,18,13.6
+2023,bestand,177,Pfäffikon,873,5755,4160
+2023,wegzug,177,Pfäffikon,6,12,7.9
+2023,zuzug,177,Pfäffikon,5,6,NA
+2023,bestand,178,Russikon,297,1219,884.3
+2023,bestand,180,Weisslingen,225,830,607.4
+2023,wegzug,180,Weisslingen,NA,NA,NA
+2023,zuzug,180,Weisslingen,NA,NA,NA
+2023,bestand,181,Wila,168,633,463.1
+2023,zuzug,181,Wila,NA,NA,NA
+2023,bestand,182,Wildberg,77,247,170
+2023,bestand,191,Dübendorf,1980,20911,16222.8
+2023,wegzug,191,Dübendorf,9,19,13.6
+2023,zuzug,191,Dübendorf,5,20,15.1
+2023,bestand,192,Egg,625,2789,1971.5
+2023,wegzug,192,Egg,4,5,NA
+2023,zuzug,192,Egg,NA,NA,NA
+2023,bestand,193,Fällanden,498,3106,2437.8
+2023,wegzug,193,Fällanden,3,5,NA
+2023,bestand,194,Greifensee,240,1565,1200.1
+2023,wegzug,194,Greifensee,NA,NA,NA
+2023,bestand,195,Maur,672,2356,1682.2
+2023,wegzug,195,Maur,NA,NA,NA
+2023,zuzug,195,Maur,4,11,9.3
+2023,bestand,196,Mönchaltorf,257,1271,985.5
+2023,wegzug,196,Mönchaltorf,NA,NA,NA
+2023,zuzug,196,Mönchaltorf,NA,NA,NA
+2023,bestand,197,Schwerzenbach,339,2694,2137
+2023,wegzug,197,Schwerzenbach,NA,NA,NA
+2023,zuzug,197,Schwerzenbach,NA,11,9.2
+2023,bestand,198,Uster,2568,18297,13717.7
+2023,wegzug,198,Uster,7,27,23.8
+2023,zuzug,198,Uster,8,12,8.9
+2023,bestand,199,Volketswil,1313,12140,9582.9
+2023,wegzug,199,Volketswil,9,20,15.2
+2023,zuzug,199,Volketswil,5,7,5.4
+2023,bestand,200,Wangen (ZH),546,5196,4076.2
+2023,wegzug,200,Wangen (ZH),NA,NA,NA
+2023,bestand,211,Altikon,71,170,104.6
+2023,bestand,213,Brütten,132,410,272.9
+2023,wegzug,213,Brütten,NA,NA,NA
+2023,bestand,214,Dägerlen,88,290,184
+2023,zuzug,214,Dägerlen,NA,NA,NA
+2023,bestand,215,Dättlikon,57,164,101.8
+2023,wegzug,215,Dättlikon,NA,NA,NA
+2023,zuzug,215,Dättlikon,NA,NA,NA
+2023,bestand,216,Dinhard,120,422,285.7
+2023,bestand,218,Ellikon an der Thur,75,656,517.3
+2023,wegzug,218,Ellikon an der Thur,NA,12,10.8
+2023,zuzug,218,Ellikon an der Thur,NA,NA,NA
+2023,bestand,219,Elsau,236,1237,937.3
+2023,wegzug,219,Elsau,5,8,6.2
+2023,zuzug,219,Elsau,NA,NA,NA
+2023,bestand,220,Hagenbuch,74,201,135.4
+2023,wegzug,220,Hagenbuch,NA,NA,NA
+2023,bestand,221,Hettlingen,175,797,590.8
+2023,zuzug,221,Hettlingen,NA,NA,NA
+2023,bestand,223,Neftenbach,370,1764,1337
+2023,wegzug,223,Neftenbach,4,57,17.4
+2023,bestand,224,Pfungen,236,1596,1271.2
+2023,zuzug,224,Pfungen,NA,NA,NA
+2023,bestand,225,Rickenbach (ZH),155,577,388.1
+2023,zuzug,225,Rickenbach (ZH),NA,5,4.6
+2023,bestand,226,Schlatt (ZH),58,163,107.2
+2023,zuzug,226,Schlatt (ZH),NA,NA,NA
+2023,bestand,227,Seuzach,422,2799,2130.5
+2023,wegzug,227,Seuzach,NA,NA,NA
+2023,zuzug,227,Seuzach,NA,NA,NA
+2023,bestand,228,Turbenthal,332,1685,1195.6
+2023,wegzug,228,Turbenthal,NA,8,5.8
+2023,zuzug,228,Turbenthal,NA,NA,NA
+2023,bestand,230,Winterthur,8522,79024,59983.4
+2023,wegzug,230,Winterthur,49,109,70.3
+2023,zuzug,230,Winterthur,46,186,139.7
+2023,bestand,231,Zell (ZH),353,1640,1196.5
+2023,wegzug,231,Zell (ZH),5,14,11.4
+2023,zuzug,231,Zell (ZH),NA,NA,NA
+2023,bestand,241,Aesch (ZH),122,433,296.5
+2023,wegzug,241,Aesch (ZH),NA,NA,NA
+2023,bestand,242,Birmensdorf (ZH),434,2695,2031.8
+2023,wegzug,242,Birmensdorf (ZH),NA,7,4.1
+2023,zuzug,242,Birmensdorf (ZH),NA,NA,NA
+2023,bestand,243,Dietikon,1831,19541,15522.5
+2023,wegzug,243,Dietikon,17,36,27.8
+2023,zuzug,243,Dietikon,12,20,17.9
+2023,bestand,244,Geroldswil,298,2322,1760.2
+2023,wegzug,244,Geroldswil,NA,NA,NA
+2023,zuzug,244,Geroldswil,NA,NA,NA
+2023,bestand,245,Oberengstringen,325,1363,955.3
+2023,bestand,246,Oetwil an der Limmat,118,228,145.1
+2023,zuzug,246,Oetwil an der Limmat,NA,NA,NA
+2023,bestand,247,Schlieren,1539,22901,18146.7
+2023,wegzug,247,Schlieren,8,37,32.6
+2023,zuzug,247,Schlieren,13,154,97.5
+2023,bestand,248,Uitikon,320,1252,855.2
+2023,wegzug,248,Uitikon,NA,NA,NA
+2023,zuzug,248,Uitikon,NA,4,NA
+2023,bestand,249,Unterengstringen,253,1048,801.9
+2023,wegzug,249,Unterengstringen,NA,NA,NA
+2023,zuzug,249,Unterengstringen,3,11,7
+2023,bestand,250,Urdorf,661,8556,6116.6
+2023,wegzug,250,Urdorf,5,30,28.6
+2023,zuzug,250,Urdorf,5,15,10
+2023,bestand,251,Weiningen (ZH),257,2219,1527.1
+2023,wegzug,251,Weiningen (ZH),3,5,4.2
+2023,zuzug,251,Weiningen (ZH),NA,NA,NA
+2023,bestand,261,Zürich,47382,545938,418086.7
+2023,wegzug,261,Zürich,309,1361,1049.3
+2023,zuzug,261,Zürich,241,1022,810.1
+2023,bestand,291,Andelfingen,319,2073,1595
+2023,wegzug,291,Andelfingen,NA,4,NA
+2023,zuzug,291,Andelfingen,3,10,9
+2023,bestand,292,Stammheim,275,1389,999.5
+2023,wegzug,292,Stammheim,3,4,NA
+2023,zuzug,292,Stammheim,3,NA,NA
+2023,bestand,293,Wädenswil,1907,10377,7722.3
+2023,wegzug,293,Wädenswil,9,17,12.4
+2023,zuzug,293,Wädenswil,13,13,7.4
+2023,bestand,294,Elgg,348,1820,1352.7
+2023,wegzug,294,Elgg,3,NA,NA
+2023,zuzug,294,Elgg,NA,7,5.9
+2023,bestand,295,Horgen,1515,10955,8263.7
+2023,wegzug,295,Horgen,19,38,30.9
+2023,zuzug,295,Horgen,5,11,7.5
+2023,bestand,296,Illnau-Effretikon,1064,6852,5205.3
+2023,wegzug,296,Illnau-Effretikon,5,9,5.5
+2023,zuzug,296,Illnau-Effretikon,NA,NA,NA
+2023,bestand,297,Bauma,396,1964,1404.4
+2023,wegzug,297,Bauma,NA,NA,NA
+2023,zuzug,297,Bauma,NA,NA,NA
+2023,bestand,298,Wiesendangen,405,1600,1114.8
+2023,wegzug,298,Wiesendangen,4,8,6.7
+2023,zuzug,298,Wiesendangen,NA,NA,NA
+2024,bestand,1,Aeugst am Albis,134,444,285.1
+2024,wegzug,1,Aeugst am Albis,NA,NA,NA
+2024,bestand,2,Affoltern am Albis,1003,7106,5298.7
+2024,wegzug,2,Affoltern am Albis,14,46,36.5
+2024,zuzug,2,Affoltern am Albis,7,8,4.6
+2024,bestand,3,Bonstetten,278,1133,773
+2024,wegzug,3,Bonstetten,3,NA,NA
+2024,zuzug,3,Bonstetten,NA,NA,NA
+2024,bestand,4,Hausen am Albis,291,1114,781.5
+2024,wegzug,4,Hausen am Albis,3,NA,NA
+2024,zuzug,4,Hausen am Albis,NA,NA,NA
+2024,bestand,5,Hedingen,197,1304,1078.5
+2024,zuzug,5,Hedingen,NA,NA,NA
+2024,bestand,6,Kappel am Albis,110,375,250.1
+2024,wegzug,6,Kappel am Albis,NA,NA,NA
+2024,zuzug,6,Kappel am Albis,NA,NA,NA
+2024,bestand,7,Knonau,140,550,368.1
+2024,wegzug,7,Knonau,NA,NA,NA
+2024,bestand,8,Maschwanden,56,179,113.2
+2024,bestand,9,Mettmenstetten,351,1766,1241.6
+2024,wegzug,9,Mettmenstetten,4,12,9.3
+2024,zuzug,9,Mettmenstetten,3,4,NA
+2024,bestand,10,Obfelden,319,1607,1150.3
+2024,wegzug,10,Obfelden,6,15,11.8
+2024,zuzug,10,Obfelden,NA,7,5.9
+2024,bestand,11,Ottenbach,200,724,538.5
+2024,wegzug,11,Ottenbach,NA,NA,NA
+2024,zuzug,11,Ottenbach,3,5,NA
+2024,bestand,12,Rifferswil,102,305,196.4
+2024,wegzug,12,Rifferswil,NA,NA,NA
+2024,zuzug,12,Rifferswil,NA,NA,NA
+2024,bestand,13,Stallikon,210,844,597.7
+2024,wegzug,13,Stallikon,NA,7,5
+2024,zuzug,13,Stallikon,NA,9,8.8
+2024,bestand,14,Wettswil am Albis,275,1281,988.9
+2024,wegzug,14,Wettswil am Albis,NA,NA,NA
+2024,bestand,22,Benken (ZH),61,347,212.2
+2024,bestand,23,Berg am Irchel,55,182,108.2
+2024,bestand,24,Buch am Irchel,77,206,142.4
+2024,wegzug,24,Buch am Irchel,NA,NA,NA
+2024,bestand,25,Dachsen,117,441,317.2
+2024,wegzug,25,Dachsen,NA,NA,NA
+2024,zuzug,25,Dachsen,NA,17,15.3
+2024,bestand,26,Dorf,54,167,96.7
+2024,bestand,27,Feuerthalen,205,1213,874
+2024,wegzug,27,Feuerthalen,NA,NA,NA
+2024,zuzug,27,Feuerthalen,3,NA,NA
+2024,bestand,28,Flaach,137,799,525.1
+2024,wegzug,28,Flaach,NA,NA,NA
+2024,zuzug,28,Flaach,NA,NA,NA
+2024,bestand,29,Flurlingen,112,373,266.1
+2024,wegzug,29,Flurlingen,NA,102,90.7
+2024,zuzug,29,Flurlingen,NA,NA,NA
+2024,bestand,31,Henggart,121,681,502
+2024,wegzug,31,Henggart,NA,NA,NA
+2024,bestand,33,Kleinandelfingen,188,1311,1067.6
+2024,wegzug,33,Kleinandelfingen,NA,14,4.3
+2024,zuzug,33,Kleinandelfingen,NA,NA,NA
+2024,bestand,34,Laufen-Uhwiesen,115,537,365.4
+2024,wegzug,34,Laufen-Uhwiesen,NA,NA,NA
+2024,zuzug,34,Laufen-Uhwiesen,NA,NA,NA
+2024,bestand,35,Marthalen,218,1266,885.7
+2024,zuzug,35,Marthalen,3,NA,NA
+2024,bestand,37,Ossingen,122,506,346.7
+2024,zuzug,37,Ossingen,NA,NA,NA
+2024,bestand,38,Rheinau,87,777,545
+2024,wegzug,38,Rheinau,NA,NA,NA
+2024,bestand,39,Thalheim an der Thur,75,319,241.7
+2024,wegzug,39,Thalheim an der Thur,NA,NA,NA
+2024,bestand,40,Trüllikon,99,324,212.2
+2024,zuzug,40,Trüllikon,NA,NA,NA
+2024,bestand,41,Truttikon,38,133,83.8
+2024,bestand,43,Volken,34,92,54.8
+2024,bestand,51,Bachenbülach,285,1794,1446
+2024,zuzug,51,Bachenbülach,5,7,4.9
+2024,bestand,52,Bassersdorf,650,4577,3677.5
+2024,wegzug,52,Bassersdorf,3,7,4.9
+2024,bestand,53,Bülach,1416,11625,8706.1
+2024,wegzug,53,Bülach,7,11,6.2
+2024,zuzug,53,Bülach,12,13,8.9
+2024,bestand,54,Dietlikon,602,5746,4647.9
+2024,wegzug,54,Dietlikon,6,14,10.9
+2024,zuzug,54,Dietlikon,NA,NA,NA
+2024,bestand,55,Eglisau,318,1369,965.3
+2024,wegzug,55,Eglisau,NA,NA,NA
+2024,bestand,56,Embrach,526,4049,3220.8
+2024,wegzug,56,Embrach,NA,NA,NA
+2024,zuzug,56,Embrach,NA,NA,NA
+2024,bestand,57,Freienstein-Teufen,177,701,486.8
+2024,wegzug,57,Freienstein-Teufen,NA,10,6.6
+2024,bestand,58,Glattfelden,230,1038,739
+2024,wegzug,58,Glattfelden,NA,NA,NA
+2024,bestand,59,Hochfelden,73,430,338.8
+2024,wegzug,59,Hochfelden,NA,8,NA
+2024,bestand,60,Höri,245,1322,1088.3
+2024,wegzug,60,Höri,NA,NA,NA
+2024,zuzug,60,Höri,NA,NA,NA
+2024,bestand,61,Hüntwangen,101,376,273.6
+2024,zuzug,61,Hüntwangen,NA,NA,NA
+2024,bestand,62,Kloten,1652,44424,36669.3
+2024,wegzug,62,Kloten,10,54,26.7
+2024,zuzug,62,Kloten,11,45,35.9
+2024,bestand,63,Lufingen,131,425,317.3
+2024,bestand,64,Nürensdorf,316,1182,812
+2024,wegzug,64,Nürensdorf,NA,NA,NA
+2024,bestand,65,Oberembrach,88,261,161.3
+2024,bestand,66,Opfikon,1662,26825,22339
+2024,wegzug,66,Opfikon,9,96,82.3
+2024,zuzug,66,Opfikon,4,55,52.8
+2024,bestand,67,Rafz,264,1644,1204.6
+2024,zuzug,67,Rafz,NA,4,NA
+2024,bestand,68,Rorbas,189,578,380.3
+2024,zuzug,68,Rorbas,NA,NA,NA
+2024,bestand,69,Wallisellen,1550,21107,17631.8
+2024,wegzug,69,Wallisellen,12,140,117.7
+2024,zuzug,69,Wallisellen,6,28,23.6
+2024,bestand,70,Wasterkingen,39,93,61.6
+2024,bestand,71,Wil (ZH),129,479,363.3
+2024,wegzug,71,Wil (ZH),NA,8,6.1
+2024,zuzug,71,Wil (ZH),NA,NA,NA
+2024,bestand,72,Winkel,257,1064,767.1
+2024,zuzug,72,Winkel,NA,NA,NA
+2024,bestand,81,Bachs,55,252,174.1
+2024,zuzug,81,Bachs,NA,NA,NA
+2024,bestand,82,Boppelsen,82,363,284.9
+2024,wegzug,82,Boppelsen,NA,NA,NA
+2024,bestand,83,Buchs (ZH),322,2781,2335.2
+2024,wegzug,83,Buchs (ZH),NA,NA,NA
+2024,zuzug,83,Buchs (ZH),NA,4,NA
+2024,bestand,84,Dällikon,299,2927,2538.7
+2024,wegzug,84,Dällikon,NA,8,6.8
+2024,bestand,85,Dänikon,101,422,328.6
+2024,wegzug,85,Dänikon,NA,NA,NA
+2024,bestand,86,Dielsdorf,438,4890,3814.9
+2024,wegzug,86,Dielsdorf,3,32,29.1
+2024,bestand,87,Hüttikon,47,103,67.2
+2024,zuzug,87,Hüttikon,NA,NA,NA
+2024,bestand,88,Neerach,256,673,454.9
+2024,wegzug,88,Neerach,NA,NA,NA
+2024,bestand,89,Niederglatt,262,1718,1319
+2024,wegzug,89,Niederglatt,NA,NA,NA
+2024,bestand,90,Niederhasli,487,2573,2009.9
+2024,wegzug,90,Niederhasli,NA,NA,NA
+2024,zuzug,90,Niederhasli,NA,4,NA
+2024,bestand,91,Niederweningen,161,916,706.3
+2024,wegzug,91,Niederweningen,NA,NA,NA
+2024,bestand,92,Oberglatt,336,2254,1781.3
+2024,wegzug,92,Oberglatt,3,5,NA
+2024,zuzug,92,Oberglatt,NA,NA,NA
+2024,bestand,93,Oberweningen,86,243,174.9
+2024,bestand,94,Otelfingen,282,2362,1909.1
+2024,wegzug,94,Otelfingen,NA,NA,NA
+2024,bestand,95,Regensberg,40,262,174.6
+2024,wegzug,95,Regensberg,NA,84,48
+2024,zuzug,95,Regensberg,NA,NA,NA
+2024,bestand,96,Regensdorf,1354,10638,8455.8
+2024,wegzug,96,Regensdorf,11,63,53.8
+2024,zuzug,96,Regensdorf,4,8,6.8
+2024,bestand,97,Rümlang,787,7107,5916
+2024,wegzug,97,Rümlang,7,12,10.2
+2024,bestand,98,Schleinikon,60,130,87.3
+2024,zuzug,98,Schleinikon,NA,NA,NA
+2024,bestand,99,Schöfflisdorf,104,359,231.7
+2024,wegzug,99,Schöfflisdorf,3,NA,NA
+2024,zuzug,99,Schöfflisdorf,NA,NA,NA
+2024,bestand,100,Stadel,152,615,413.7
+2024,wegzug,100,Stadel,NA,NA,NA
+2024,bestand,101,Steinmaur,230,850,610.4
+2024,wegzug,101,Steinmaur,3,5,4
+2024,zuzug,101,Steinmaur,NA,NA,NA
+2024,bestand,102,Weiach,107,328,230.5
+2024,wegzug,102,Weiach,NA,NA,NA
+2024,zuzug,102,Weiach,NA,NA,NA
+2024,bestand,111,Bäretswil,370,1723,1193.4
+2024,wegzug,111,Bäretswil,5,7,NA
+2024,zuzug,111,Bäretswil,NA,11,10.4
+2024,bestand,112,Bubikon,614,4079,3207.2
+2024,wegzug,112,Bubikon,5,12,8.1
+2024,zuzug,112,Bubikon,3,NA,NA
+2024,bestand,113,Dürnten,450,1971,1374.5
+2024,wegzug,113,Dürnten,6,7,4.5
+2024,zuzug,113,Dürnten,NA,NA,NA
+2024,bestand,114,Fischenthal,222,771,555.4
+2024,wegzug,114,Fischenthal,NA,4,NA
+2024,zuzug,114,Fischenthal,NA,NA,NA
+2024,bestand,115,Gossau (ZH),620,2515,1797.7
+2024,wegzug,115,Gossau (ZH),NA,NA,NA
+2024,zuzug,115,Gossau (ZH),3,5,NA
+2024,bestand,116,Grüningen,277,1807,1412.7
+2024,zuzug,116,Grüningen,NA,NA,NA
+2024,bestand,117,Hinwil,886,7763,6350.5
+2024,wegzug,117,Hinwil,7,9,6.9
+2024,zuzug,117,Hinwil,5,6,4.8
+2024,bestand,118,Rüti (ZH),886,5277,3878.7
+2024,wegzug,118,Rüti (ZH),11,29,25.3
+2024,zuzug,118,Rüti (ZH),NA,6,4.5
+2024,bestand,119,Seegräben,126,588,382.4
+2024,bestand,120,Wald (ZH),728,3504,2539.1
+2024,wegzug,120,Wald (ZH),5,7,NA
+2024,bestand,121,Wetzikon (ZH),1903,14949,11138.3
+2024,wegzug,121,Wetzikon (ZH),6,21,16.4
+2024,zuzug,121,Wetzikon (ZH),4,10,6.8
+2024,bestand,131,Adliswil,1088,8302,6555.4
+2024,wegzug,131,Adliswil,11,32,25.9
+2024,zuzug,131,Adliswil,6,18,15.6
+2024,bestand,135,Kilchberg (ZH),653,4078,3086.4
+2024,wegzug,135,Kilchberg (ZH),3,6,4.4
+2024,zuzug,135,Kilchberg (ZH),5,9,8
+2024,bestand,136,Langnau am Albis,385,1565,1093.6
+2024,wegzug,136,Langnau am Albis,3,6,NA
+2024,zuzug,136,Langnau am Albis,NA,NA,NA
+2024,bestand,137,Oberrieden,318,1098,746.6
+2024,wegzug,137,Oberrieden,NA,NA,NA
+2024,zuzug,137,Oberrieden,NA,NA,NA
+2024,bestand,138,Richterswil,834,4654,3599.3
+2024,wegzug,138,Richterswil,11,15,9.7
+2024,zuzug,138,Richterswil,NA,NA,NA
+2024,bestand,139,Rüschlikon,413,2651,2043.1
+2024,wegzug,139,Rüschlikon,NA,NA,NA
+2024,zuzug,139,Rüschlikon,NA,NA,NA
+2024,bestand,141,Thalwil,1355,7030,5055.4
+2024,wegzug,141,Thalwil,12,45,37.7
+2024,zuzug,141,Thalwil,4,4,NA
+2024,bestand,151,Erlenbach (ZH),514,1866,1317.3
+2024,wegzug,151,Erlenbach (ZH),NA,80,49.6
+2024,zuzug,151,Erlenbach (ZH),NA,NA,NA
+2024,bestand,152,Herrliberg,468,1611,1146.5
+2024,wegzug,152,Herrliberg,7,9,6.8
+2024,zuzug,152,Herrliberg,7,14,10.3
+2024,bestand,153,Hombrechtikon,631,2888,2077.8
+2024,wegzug,153,Hombrechtikon,8,45,39.5
+2024,zuzug,153,Hombrechtikon,6,7,5
+2024,bestand,154,Küsnacht (ZH),1316,6826,5095.5
+2024,wegzug,154,Küsnacht (ZH),6,8,5.3
+2024,zuzug,154,Küsnacht (ZH),9,47,43.5
+2024,bestand,155,Männedorf,785,5268,4033.5
+2024,wegzug,155,Männedorf,8,12,9.4
+2024,zuzug,155,Männedorf,NA,NA,NA
+2024,bestand,156,Meilen,1240,6128,4587.3
+2024,wegzug,156,Meilen,5,5,NA
+2024,zuzug,156,Meilen,6,8,6.3
+2024,bestand,157,Oetwil am See,292,2254,1706
+2024,bestand,158,Stäfa,1081,6748,5327.1
+2024,wegzug,158,Stäfa,6,17,13.8
+2024,zuzug,158,Stäfa,4,9,4.8
+2024,bestand,159,Uetikon,429,1664,1189.3
+2024,wegzug,159,Uetikon,5,6,NA
+2024,zuzug,159,Uetikon,NA,NA,NA
+2024,bestand,160,Zumikon,389,1873,1336.3
+2024,wegzug,160,Zumikon,3,NA,NA
+2024,zuzug,160,Zumikon,NA,NA,NA
+2024,bestand,161,Zollikon,1163,6744,4802.7
+2024,wegzug,161,Zollikon,NA,NA,NA
+2024,zuzug,161,Zollikon,9,11,6.8
+2024,bestand,172,Fehraltorf,451,5073,3906.4
+2024,wegzug,172,Fehraltorf,NA,NA,NA
+2024,bestand,173,Hittnau,252,913,643.8
+2024,wegzug,173,Hittnau,NA,NA,NA
+2024,bestand,176,Lindau,449,3542,2857.2
+2024,wegzug,176,Lindau,NA,9,6.3
+2024,zuzug,176,Lindau,3,6,4.7
+2024,bestand,177,Pfäffikon,877,5767,4221.7
+2024,wegzug,177,Pfäffikon,3,NA,NA
+2024,zuzug,177,Pfäffikon,NA,13,11.9
+2024,bestand,178,Russikon,304,1183,855
+2024,wegzug,178,Russikon,NA,7,4.4
+2024,bestand,180,Weisslingen,220,813,595.9
+2024,wegzug,180,Weisslingen,NA,NA,NA
+2024,bestand,181,Wila,182,634,466.2
+2024,bestand,182,Wildberg,80,245,169.9
+2024,wegzug,182,Wildberg,NA,NA,NA
+2024,bestand,191,Dübendorf,2054,20398,16182.4
+2024,wegzug,191,Dübendorf,12,21,15
+2024,zuzug,191,Dübendorf,8,57,33.8
+2024,bestand,192,Egg,632,2700,1964.3
+2024,wegzug,192,Egg,5,10,9.1
+2024,zuzug,192,Egg,NA,16,15.1
+2024,bestand,193,Fällanden,515,3150,2525.4
+2024,wegzug,193,Fällanden,NA,NA,NA
+2024,zuzug,193,Fällanden,NA,NA,NA
+2024,bestand,194,Greifensee,242,1559,1193
+2024,bestand,195,Maur,669,2374,1723.9
+2024,wegzug,195,Maur,5,6,4.3
+2024,zuzug,195,Maur,NA,NA,NA
+2024,bestand,196,Mönchaltorf,268,1328,1047.1
+2024,wegzug,196,Mönchaltorf,NA,9,5.5
+2024,zuzug,196,Mönchaltorf,NA,NA,NA
+2024,bestand,197,Schwerzenbach,338,2612,2099.8
+2024,wegzug,197,Schwerzenbach,3,11,4.4
+2024,zuzug,197,Schwerzenbach,NA,NA,NA
+2024,bestand,198,Uster,2576,18516,14003.5
+2024,wegzug,198,Uster,13,19,15.1
+2024,zuzug,198,Uster,NA,NA,NA
+2024,bestand,199,Volketswil,1331,12165,9568.4
+2024,wegzug,199,Volketswil,7,12,8
+2024,zuzug,199,Volketswil,6,13,9.8
+2024,bestand,200,Wangen (ZH),577,5441,4246.4
+2024,wegzug,200,Wangen (ZH),3,11,6.5
+2024,bestand,211,Altikon,70,167,100.4
+2024,bestand,213,Brütten,140,419,276.1
+2024,zuzug,213,Brütten,NA,NA,NA
+2024,bestand,214,Dägerlen,85,284,186.1
+2024,bestand,215,Dättlikon,48,155,96.6
+2024,bestand,216,Dinhard,122,423,292.4
+2024,wegzug,216,Dinhard,NA,NA,NA
+2024,bestand,218,Ellikon an der Thur,73,638,502
+2024,bestand,219,Elsau,232,1283,967.3
+2024,wegzug,219,Elsau,NA,NA,NA
+2024,bestand,220,Hagenbuch,74,199,133.8
+2024,bestand,221,Hettlingen,171,772,573
+2024,wegzug,221,Hettlingen,NA,NA,NA
+2024,zuzug,221,Hettlingen,NA,NA,NA
+2024,bestand,223,Neftenbach,373,1729,1308.5
+2024,wegzug,223,Neftenbach,3,30,27.1
+2024,bestand,224,Pfungen,240,1573,1246.7
+2024,wegzug,224,Pfungen,3,NA,NA
+2024,zuzug,224,Pfungen,NA,NA,NA
+2024,bestand,225,Rickenbach (ZH),152,576,378.3
+2024,wegzug,225,Rickenbach (ZH),3,NA,NA
+2024,bestand,226,Schlatt (ZH),60,168,115.9
+2024,wegzug,226,Schlatt (ZH),NA,NA,NA
+2024,bestand,227,Seuzach,433,3055,2354.2
+2024,wegzug,227,Seuzach,5,13,8.2
+2024,zuzug,227,Seuzach,NA,NA,NA
+2024,bestand,228,Turbenthal,322,1701,1191.7
+2024,wegzug,228,Turbenthal,NA,NA,NA
+2024,zuzug,228,Turbenthal,NA,NA,NA
+2024,bestand,230,Winterthur,8557,79797,60836.6
+2024,wegzug,230,Winterthur,64,179,135.7
+2024,zuzug,230,Winterthur,41,172,133.9
+2024,bestand,231,Zell (ZH),356,1652,1190.2
+2024,wegzug,231,Zell (ZH),4,14,11.6
+2024,zuzug,231,Zell (ZH),NA,NA,NA
+2024,bestand,241,Aesch (ZH),116,424,293.7
+2024,wegzug,241,Aesch (ZH),NA,NA,NA
+2024,bestand,242,Birmensdorf (ZH),429,2693,2031.4
+2024,wegzug,242,Birmensdorf (ZH),4,6,NA
+2024,zuzug,242,Birmensdorf (ZH),NA,NA,NA
+2024,bestand,243,Dietikon,1828,21081,16030.8
+2024,wegzug,243,Dietikon,29,257,223
+2024,zuzug,243,Dietikon,10,36,30.5
+2024,bestand,244,Geroldswil,301,2338,1765
+2024,wegzug,244,Geroldswil,4,10,8.9
+2024,zuzug,244,Geroldswil,NA,NA,NA
+2024,bestand,245,Oberengstringen,320,1295,908
+2024,wegzug,245,Oberengstringen,NA,NA,NA
+2024,zuzug,245,Oberengstringen,NA,NA,NA
+2024,bestand,246,Oetwil an der Limmat,118,230,154.4
+2024,zuzug,246,Oetwil an der Limmat,NA,NA,NA
+2024,bestand,247,Schlieren,1551,23280,18507.9
+2024,wegzug,247,Schlieren,12,94,70.6
+2024,zuzug,247,Schlieren,4,8,7.6
+2024,bestand,248,Uitikon,327,1270,888.3
+2024,wegzug,248,Uitikon,NA,NA,NA
+2024,zuzug,248,Uitikon,NA,NA,NA
+2024,bestand,249,Unterengstringen,235,1003,790.1
+2024,wegzug,249,Unterengstringen,NA,NA,NA
+2024,bestand,250,Urdorf,667,7926,6063.5
+2024,wegzug,250,Urdorf,6,41,38.7
+2024,zuzug,250,Urdorf,4,23,16.1
+2024,bestand,251,Weiningen (ZH),271,2281,1569.4
+2024,wegzug,251,Weiningen (ZH),NA,NA,NA
+2024,bestand,261,Zürich,47829,545295,420208.2
+2024,wegzug,261,Zürich,335,954,723.4
+2024,zuzug,261,Zürich,263,1019,854.1
+2024,bestand,291,Andelfingen,326,2052,1563.6
+2024,wegzug,291,Andelfingen,NA,NA,NA
+2024,zuzug,291,Andelfingen,NA,NA,NA
+2024,bestand,292,Stammheim,279,1506,1115.7
+2024,wegzug,292,Stammheim,NA,NA,NA
+2024,bestand,293,Wädenswil,1881,10270,7692.5
+2024,wegzug,293,Wädenswil,29,177,108.1
+2024,zuzug,293,Wädenswil,15,28,21.1
+2024,bestand,294,Elgg,343,1859,1390.1
+2024,wegzug,294,Elgg,3,5,4
+2024,zuzug,294,Elgg,3,6,NA
+2024,bestand,295,Horgen,1555,10946,8369.2
+2024,wegzug,295,Horgen,20,76,52.3
+2024,zuzug,295,Horgen,9,26,12.2
+2024,bestand,296,Illnau-Effretikon,1091,7032,5426.2
+2024,wegzug,296,Illnau-Effretikon,7,11,4.2
+2024,zuzug,296,Illnau-Effretikon,4,14,11.7
+2024,bestand,297,Bauma,411,1997,1433.2
+2024,zuzug,297,Bauma,3,NA,NA
+2024,bestand,298,Wiesendangen,416,1608,1128.1
+2024,wegzug,298,Wiesendangen,3,4,NA
+2024,zuzug,298,Wiesendangen,3,NA,NA

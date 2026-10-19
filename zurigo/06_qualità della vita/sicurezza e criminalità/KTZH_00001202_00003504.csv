@@ -1,0 +1,709 @@
+"Ausgangsjahr","bezirk_cd","Bezirk_BFS_Nr","Bezirksname","Reihenfolge_Gewalttitel","Gewalttitel","Straftaten_total","Straftaten_vollendet","Straftaten_versucht","Einwohner","Häufigkeitszahl"
+2009,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),9,9,0,46117,0.2
+2009,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),146,143,3,46117,3.2
+2009,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),43,43,0,46117,0.9
+2009,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),5,4,1,28832,0.2
+2009,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),76,76,0,28832,2.6
+2009,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),30,30,0,28832,1
+2009,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),34,29,5,126871,0.3
+2009,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),695,679,16,126871,5.5
+2009,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),228,227,1,126871,1.8
+2009,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),12,11,1,77186,0.2
+2009,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),349,343,6,77186,4.5
+2009,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),109,109,0,77186,1.4
+2009,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),23,17,6,84745,0.3
+2009,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),401,391,10,84745,4.7
+2009,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),122,122,0,84745,1.4
+2009,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),19,17,2,112440,0.2
+2009,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),395,372,23,112440,3.5
+2009,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),115,114,1,112440,1
+2009,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),17,13,4,95103,0.2
+2009,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),192,186,6,95103,2
+2009,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),56,56,0,95103,0.6
+2009,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),11,8,3,53961,0.2
+2009,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),186,179,7,53961,3.4
+2009,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),60,60,0,53961,1.1
+2009,ZH109,109,Uster,1,Schwere Gewalt (angewandt),30,26,4,116642,0.3
+2009,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),484,477,7,116642,4.1
+2009,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),158,157,1,116642,1.4
+2009,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),24,20,4,98238,0.2
+2009,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),548,538,10,98238,5.6
+2009,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),169,166,3,98238,1.7
+2009,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),20,16,4,77223,0.3
+2009,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),468,463,5,77223,6.1
+2009,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),169,167,2,77223,2.2
+2009,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),226,191,35,380499,0.6
+2009,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3967,3832,135,380499,10.4
+2009,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),833,825,8,380499,2.2
+2009,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),1,1,0,,
+2009,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),4,3,1,,
+2009,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),7,7,0,,
+2009,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),5,4,1,50237,0.1
+2009,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),114,113,1,50237,2.3
+2009,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),36,36,0,50237,0.7
+2010,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),6,5,1,47063,0.1
+2010,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),148,146,2,47063,3.1
+2010,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),58,57,1,47063,1.2
+2010,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),5,4,1,29247,0.2
+2010,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),64,63,1,29247,2.2
+2010,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),21,21,0,29247,0.7
+2010,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),30,22,8,129497,0.2
+2010,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),566,558,8,129497,4.4
+2010,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),171,171,0,129497,1.3
+2010,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),14,11,3,78628,0.2
+2010,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),303,298,5,78628,3.9
+2010,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),84,84,0,78628,1.1
+2010,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),13,11,2,86111,0.2
+2010,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),484,477,7,86111,5.6
+2010,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),115,111,4,86111,1.3
+2010,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),16,14,2,113383,0.1
+2010,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),374,368,6,113383,3.3
+2010,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),100,100,0,113383,0.9
+2010,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),6,6,0,96033,0.1
+2010,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),164,159,5,96033,1.7
+2010,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),50,50,0,96033,0.5
+2010,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),6,6,0,54779,0.1
+2010,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),175,174,1,54779,3.2
+2010,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),59,59,0,54779,1.1
+2010,ZH109,109,Uster,1,Schwere Gewalt (angewandt),29,18,11,118689,0.2
+2010,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),440,428,12,118689,3.7
+2010,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),144,142,2,118689,1.2
+2010,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),30,29,1,99377,0.3
+2010,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),662,643,19,99377,6.7
+2010,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),137,136,1,99377,1.4
+2010,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),29,25,4,78774,0.4
+2010,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),435,428,7,78774,5.5
+2010,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),115,114,1,78774,1.5
+2010,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),166,148,18,376815,0.4
+2010,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3521,3400,121,376815,9.3
+2010,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),697,686,11,376815,1.8
+2010,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),1,1,0,,
+2010,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),12,11,1,,
+2010,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),7,7,0,,
+2010,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),3,3,0,51039,0.1
+2010,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),110,110,0,51039,2.2
+2010,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),24,24,0,51039,0.5
+2011,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),10,7,3,48096,0.2
+2011,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),120,119,1,48096,2.5
+2011,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),30,30,0,48096,0.6
+2011,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),7,5,2,29511,0.2
+2011,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),46,46,0,29511,1.6
+2011,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),14,14,0,29511,0.5
+2011,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),14,12,2,131879,0.1
+2011,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),512,506,6,131879,3.9
+2011,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),156,156,0,131879,1.2
+2011,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),6,4,2,80090,0.1
+2011,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),273,268,5,80090,3.4
+2011,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),52,52,0,80090,0.6
+2011,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),15,13,2,87822,0.2
+2011,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),402,398,4,87822,4.6
+2011,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),110,110,0,87822,1.3
+2011,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),13,11,2,115301,0.1
+2011,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),317,308,9,115301,2.7
+2011,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),92,90,2,115301,0.8
+2011,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),14,11,3,97034,0.1
+2011,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),187,180,7,97034,1.9
+2011,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),55,54,1,97034,0.6
+2011,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),12,7,5,55768,0.2
+2011,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),162,159,3,55768,2.9
+2011,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),41,40,1,55768,0.7
+2011,ZH109,109,Uster,1,Schwere Gewalt (angewandt),22,15,7,120607,0.2
+2011,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),403,389,14,120607,3.3
+2011,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),133,133,0,120607,1.1
+2011,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),30,22,8,101308,0.3
+2011,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),572,555,17,101308,5.6
+2011,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),165,165,0,101308,1.6
+2011,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),32,32,0,80547,0.4
+2011,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),344,339,5,80547,4.3
+2011,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),98,96,2,80547,1.2
+2011,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),147,119,28,382906,0.4
+2011,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3489,3361,128,382906,9.1
+2011,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),669,664,5,382906,1.7
+2011,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),2,2,0,,
+2011,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),6,6,0,,
+2011,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),2,2,0,,
+2011,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),3,1,2,52248,0.1
+2011,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),92,91,1,52248,1.8
+2011,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),17,17,0,52248,0.3
+2012,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),6,5,1,48958,0.1
+2012,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),135,133,2,48958,2.8
+2012,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),19,19,0,48958,0.4
+2012,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),1,1,0,29847,0
+2012,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),56,53,3,29847,1.9
+2012,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),28,27,1,29847,0.9
+2012,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),40,32,8,134013,0.3
+2012,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),551,545,6,134013,4.1
+2012,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),189,188,1,134013,1.4
+2012,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),7,7,0,81432,0.1
+2012,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),248,243,5,81432,3
+2012,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),74,74,0,81432,0.9
+2012,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),12,11,1,89455,0.1
+2012,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),370,364,6,89455,4.1
+2012,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),118,118,0,89455,1.3
+2012,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),14,13,1,117410,0.1
+2012,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),259,254,5,117410,2.2
+2012,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),65,64,1,117410,0.6
+2012,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),8,6,2,97649,0.1
+2012,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),162,152,10,97649,1.7
+2012,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),42,41,1,97649,0.4
+2012,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),11,10,1,56448,0.2
+2012,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),175,171,4,56448,3.1
+2012,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),70,70,0,56448,1.2
+2012,ZH109,109,Uster,1,Schwere Gewalt (angewandt),26,25,1,121782,0.2
+2012,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),422,414,8,121782,3.5
+2012,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),168,166,2,121782,1.4
+2012,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),31,29,2,103075,0.3
+2012,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),572,551,21,103075,5.5
+2012,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),153,152,1,103075,1.5
+2012,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),27,22,5,82191,0.3
+2012,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),368,360,8,82191,4.5
+2012,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),136,134,2,82191,1.7
+2012,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),174,149,25,376990,0.5
+2012,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3483,3316,167,376990,9.2
+2012,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),774,765,9,376990,2.1
+2012,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),5,4,1,,
+2012,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),10,10,0,,
+2012,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),4,4,0,,
+2012,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),5,5,0,53146,0.1
+2012,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),141,137,4,53146,2.7
+2012,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),50,49,1,53146,0.9
+2013,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),2,2,0,49446,0
+2013,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),106,102,4,49446,2.1
+2013,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),31,30,1,49446,0.6
+2013,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),5,5,0,30038,0.2
+2013,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),58,53,5,30038,1.9
+2013,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),21,21,0,30038,0.7
+2013,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),39,29,10,135985,0.3
+2013,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),604,589,15,135985,4.4
+2013,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),188,182,6,135985,1.4
+2013,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),13,12,1,82657,0.2
+2013,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),276,272,4,82657,3.3
+2013,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),94,94,0,82657,1.1
+2013,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),27,22,5,90740,0.3
+2013,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),335,327,8,90740,3.7
+2013,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),97,95,2,90740,1.1
+2013,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),14,13,1,118718,0.1
+2013,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),288,277,11,118718,2.4
+2013,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),97,96,1,118718,0.8
+2013,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),9,7,2,98090,0.1
+2013,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),212,207,5,98090,2.2
+2013,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),78,76,2,98090,0.8
+2013,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),17,10,7,57336,0.3
+2013,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),170,167,3,57336,3
+2013,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),68,67,1,57336,1.2
+2013,ZH109,109,Uster,1,Schwere Gewalt (angewandt),20,18,2,122862,0.2
+2013,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),404,390,14,122862,3.3
+2013,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),151,150,1,122862,1.2
+2013,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),38,32,6,104468,0.4
+2013,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),562,537,25,104468,5.4
+2013,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),176,172,4,104468,1.7
+2013,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),20,19,1,83770,0.2
+2013,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),377,367,10,83770,4.5
+2013,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),113,112,1,83770,1.3
+2013,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),170,142,28,380777,0.4
+2013,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3682,3506,176,380777,9.7
+2013,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),817,805,12,380777,2.1
+2013,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),3,3,0,,
+2013,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),7,7,0,,
+2013,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),7,7,0,,
+2013,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),15,10,5,53688,0.3
+2013,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),104,102,2,53688,1.9
+2013,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),41,41,0,53688,0.8
+2014,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),10,5,5,49965,0.2
+2014,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),118,114,4,49965,2.4
+2014,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),45,44,1,49965,0.9
+2014,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),4,2,2,30346,0.1
+2014,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),49,47,2,30346,1.6
+2014,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),14,14,0,30346,0.5
+2014,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),41,19,22,138316,0.3
+2014,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),514,495,19,138316,3.7
+2014,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),173,168,5,138316,1.3
+2014,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),16,16,0,84164,0.2
+2014,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),236,234,2,84164,2.8
+2014,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),99,98,1,84164,1.2
+2014,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),28,22,6,91500,0.3
+2014,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),360,353,7,91500,3.9
+2014,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),88,85,3,91500,1
+2014,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),23,16,7,120048,0.2
+2014,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),267,253,14,120048,2.2
+2014,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),93,88,5,120048,0.8
+2014,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),21,17,4,98852,0.2
+2014,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),170,158,12,98852,1.7
+2014,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),77,77,0,98852,0.8
+2014,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),15,7,8,57877,0.3
+2014,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),181,171,10,57877,3.1
+2014,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),75,75,0,57877,1.3
+2014,ZH109,109,Uster,1,Schwere Gewalt (angewandt),31,22,9,124494,0.2
+2014,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),359,351,8,124494,2.9
+2014,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),126,122,4,124494,1
+2014,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),34,28,6,105676,0.3
+2014,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),579,541,38,105676,5.5
+2014,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),146,144,2,105676,1.4
+2014,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),17,11,6,85149,0.2
+2014,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),290,281,9,85149,3.4
+2014,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),132,129,3,85149,1.6
+2014,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),140,102,38,384786,0.4
+2014,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3201,3068,133,384786,8.3
+2014,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),725,705,20,384786,1.9
+2014,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),4,3,1,,
+2014,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),12,10,2,,
+2014,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),6,6,0,,
+2014,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),11,8,3,54365,0.2
+2014,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),92,88,4,54365,1.7
+2014,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),43,41,2,54365,0.8
+2015,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),10,8,2,50591,0.2
+2015,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),108,104,4,50591,2.1
+2015,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),36,36,0,50591,0.7
+2015,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),4,4,0,30654,0.1
+2015,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),58,54,4,30654,1.9
+2015,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),22,21,1,30654,0.7
+2015,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),51,21,30,141242,0.4
+2015,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),522,502,20,141242,3.7
+2015,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),203,194,9,141242,1.4
+2015,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),16,7,9,85790,0.2
+2015,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),233,224,9,85790,2.7
+2015,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),69,69,0,85790,0.8
+2015,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),22,15,7,92462,0.2
+2015,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),247,242,5,92462,2.7
+2015,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),87,84,3,92462,0.9
+2015,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),16,10,6,121220,0.1
+2015,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),218,207,11,121220,1.8
+2015,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),74,71,3,121220,0.6
+2015,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),15,9,6,99946,0.2
+2015,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),181,175,6,99946,1.8
+2015,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),83,83,0,99946,0.8
+2015,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),19,10,9,58397,0.3
+2015,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),149,140,9,58397,2.6
+2015,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),67,64,3,58397,1.1
+2015,ZH109,109,Uster,1,Schwere Gewalt (angewandt),27,13,14,126004,0.2
+2015,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),393,380,13,126004,3.1
+2015,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),138,133,5,126004,1.1
+2015,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),31,18,13,106778,0.3
+2015,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),525,510,15,106778,4.9
+2015,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),198,188,10,106778,1.9
+2015,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),28,22,6,86826,0.3
+2015,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),320,315,5,86826,3.7
+2015,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),99,98,1,86826,1.1
+2015,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),125,81,44,391359,0.3
+2015,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3186,3025,161,391359,8.1
+2015,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),698,676,22,391359,1.8
+2015,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),3,3,0,,
+2015,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),4,4,0,,
+2015,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),1,1,0,,
+2015,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),10,6,4,55085,0.2
+2015,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),118,107,11,55085,2.1
+2015,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),47,45,2,55085,0.9
+2016,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),9,3,6,51602,0.2
+2016,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),155,148,7,51602,3
+2016,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),59,55,4,51602,1.1
+2016,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),3,2,1,30888,0.1
+2016,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),68,65,3,30888,2.2
+2016,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),27,22,5,30888,0.9
+2016,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),30,26,4,144346,0.2
+2016,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),581,568,13,144346,4
+2016,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),189,177,12,144346,1.3
+2016,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),20,16,4,87391,0.2
+2016,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),288,280,8,87391,3.3
+2016,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),103,99,4,87391,1.2
+2016,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),27,16,11,93144,0.3
+2016,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),276,266,10,93144,3
+2016,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),124,117,7,93144,1.3
+2016,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),19,16,3,122549,0.2
+2016,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),308,300,8,122549,2.5
+2016,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),101,95,6,122549,0.8
+2016,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),14,13,1,100964,0.1
+2016,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),165,158,7,100964,1.6
+2016,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),59,53,6,100964,0.6
+2016,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),10,8,2,58829,0.2
+2016,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),184,165,19,58829,3.1
+2016,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),76,73,3,58829,1.3
+2016,ZH109,109,Uster,1,Schwere Gewalt (angewandt),26,16,10,127679,0.2
+2016,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),426,398,28,127679,3.3
+2016,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),134,114,20,127679,1
+2016,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),36,31,5,108268,0.3
+2016,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),575,545,30,108268,5.3
+2016,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),177,166,11,108268,1.6
+2016,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),16,10,6,88388,0.2
+2016,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),375,362,13,88388,4.2
+2016,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),118,114,4,88388,1.3
+2016,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),163,114,49,396955,0.4
+2016,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3353,3197,156,396955,8.4
+2016,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),682,633,49,396955,1.7
+2016,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),2,1,1,,
+2016,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),9,7,2,,
+2016,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),5,5,0,,
+2016,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),16,12,4,55421,0.3
+2016,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),148,141,7,55421,2.7
+2016,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),58,54,4,55421,1
+2017,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),13,9,4,52904,0.2
+2017,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),142,140,2,52904,2.7
+2017,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),46,42,4,52904,0.9
+2017,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),4,4,0,30981,0.1
+2017,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),43,42,1,30981,1.4
+2017,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),25,24,1,30981,0.8
+2017,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),34,26,8,147379,0.2
+2017,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),648,626,22,147379,4.4
+2017,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),215,210,5,147379,1.5
+2017,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),14,9,5,88921,0.2
+2017,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),271,266,5,88921,3
+2017,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),77,73,4,88921,0.9
+2017,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),16,13,3,94322,0.2
+2017,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),322,310,12,94322,3.4
+2017,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),104,92,12,94322,1.1
+2017,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),17,11,6,123566,0.1
+2017,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),305,295,10,123566,2.5
+2017,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),105,97,8,123566,0.8
+2017,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),15,12,3,102280,0.1
+2017,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),191,179,12,102280,1.9
+2017,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),65,61,4,102280,0.6
+2017,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),14,9,5,59504,0.2
+2017,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),164,153,11,59504,2.8
+2017,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),65,48,17,59504,1.1
+2017,ZH109,109,Uster,1,Schwere Gewalt (angewandt),34,20,14,129490,0.3
+2017,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),435,415,20,129490,3.4
+2017,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),144,127,17,129490,1.1
+2017,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),50,32,18,109775,0.5
+2017,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),506,483,23,109775,4.6
+2017,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),152,141,11,109775,1.4
+2017,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),33,17,16,89773,0.4
+2017,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),379,363,16,89773,4.2
+2017,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),121,117,4,89773,1.3
+2017,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),142,105,37,402762,0.4
+2017,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3310,3145,165,402762,8.2
+2017,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),705,675,30,402762,1.8
+2017,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),6,5,1,,
+2017,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),10,9,1,,
+2017,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),2,1,1,,
+2017,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),8,4,4,56312,0.1
+2017,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),114,107,7,56312,2
+2017,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),51,48,3,56312,0.9
+2018,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),16,12,4,53771,0.3
+2018,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),178,165,13,53771,3.3
+2018,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),70,66,4,53771,1.3
+2018,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),5,3,2,31235,0.2
+2018,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),74,65,9,31235,2.4
+2018,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),20,18,2,31235,0.6
+2018,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),32,25,7,149464,0.2
+2018,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),640,618,22,149464,4.3
+2018,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),204,189,15,149464,1.4
+2018,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),17,9,8,89561,0.2
+2018,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),348,332,16,89561,3.9
+2018,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),109,107,2,89561,1.2
+2018,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),16,13,3,94794,0.2
+2018,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),305,293,12,94794,3.2
+2018,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),112,104,8,94794,1.2
+2018,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),15,13,2,124110,0.1
+2018,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),271,267,4,124110,2.2
+2018,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),104,101,3,124110,0.8
+2018,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),11,8,3,103250,0.1
+2018,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),240,225,15,103250,2.3
+2018,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),73,67,6,103250,0.7
+2018,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),6,2,4,60118,0.1
+2018,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),182,169,13,60118,3
+2018,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),58,54,4,60118,1
+2018,ZH109,109,Uster,1,Schwere Gewalt (angewandt),26,13,13,130643,0.2
+2018,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),473,448,25,130643,3.6
+2018,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),174,162,12,130643,1.3
+2018,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),53,26,27,110912,0.5
+2018,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),587,559,28,110912,5.3
+2018,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),182,171,11,110912,1.6
+2018,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),19,14,5,90250,0.2
+2018,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),359,346,13,90250,4
+2018,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),135,129,6,90250,1.5
+2018,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),174,105,69,409241,0.4
+2018,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3275,3122,153,409241,8
+2018,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),749,716,33,409241,1.8
+2018,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),3,3,0,,
+2018,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),8,8,0,,
+2018,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),9,8,1,,
+2018,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),16,10,6,56997,0.3
+2018,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),168,154,14,56997,2.9
+2018,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),55,54,1,56997,1
+2019,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),9,8,1,54619,0.2
+2019,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),206,201,5,54619,3.8
+2019,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),69,65,4,54619,1.3
+2019,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),5,3,2,31372,0.2
+2019,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),71,69,2,31372,2.3
+2019,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),29,28,1,31372,0.9
+2019,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),28,12,16,151486,0.2
+2019,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),674,649,25,151486,4.4
+2019,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),220,211,9,151486,1.5
+2019,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),14,7,7,90455,0.2
+2019,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),380,358,22,90455,4.2
+2019,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),127,121,6,90455,1.4
+2019,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),19,10,9,95711,0.2
+2019,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),322,302,20,95711,3.4
+2019,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),123,121,2,95711,1.3
+2019,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),17,17,0,124801,0.1
+2019,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),327,315,12,124801,2.6
+2019,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),109,103,6,124801,0.9
+2019,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),8,4,4,104412,0.1
+2019,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),187,177,10,104412,1.8
+2019,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),69,65,4,104412,0.7
+2019,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),13,7,6,60439,0.2
+2019,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),184,173,11,60439,3
+2019,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),69,64,5,60439,1.1
+2019,ZH109,109,Uster,1,Schwere Gewalt (angewandt),35,21,14,131702,0.3
+2019,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),505,482,23,131702,3.8
+2019,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),203,188,15,131702,1.5
+2019,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),31,12,19,111851,0.3
+2019,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),610,576,34,111851,5.5
+2019,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),191,183,8,111851,1.7
+2019,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),34,19,15,91091,0.4
+2019,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),408,389,19,91091,4.5
+2019,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),136,132,4,91091,1.5
+2019,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),194,111,83,415367,0.5
+2019,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3452,3245,207,415367,8.3
+2019,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),832,783,49,415367,2
+2019,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),6,6,0,,
+2019,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),13,12,1,,
+2019,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),10,10,0,,
+2019,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),6,5,1,57662,0.1
+2019,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),165,161,4,57662,2.9
+2019,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),63,62,1,57662,1.1
+2020,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),12,8,4,55262,0.2
+2020,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),187,179,8,55262,3.4
+2020,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),62,59,3,55262,1.1
+2020,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),8,6,2,31519,0.3
+2020,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),85,85,0,31519,2.7
+2020,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),26,26,0,31519,0.8
+2020,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),39,25,14,154743,0.3
+2020,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),778,751,27,154743,5
+2020,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),229,221,8,154743,1.5
+2020,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),22,15,7,91313,0.2
+2020,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),375,353,22,91313,4.1
+2020,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),135,129,6,91313,1.5
+2020,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),22,15,7,96519,0.2
+2020,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),324,309,15,96519,3.4
+2020,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),115,106,9,96519,1.2
+2020,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),28,18,10,126075,0.2
+2020,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),370,355,15,126075,2.9
+2020,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),114,109,5,126075,0.9
+2020,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),18,12,6,105397,0.2
+2020,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),228,221,7,105397,2.2
+2020,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),72,69,3,105397,0.7
+2020,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),12,9,3,60843,0.2
+2020,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),229,216,13,60843,3.8
+2020,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),73,71,2,60843,1.2
+2020,ZH109,109,Uster,1,Schwere Gewalt (angewandt),36,21,15,133323,0.3
+2020,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),527,490,37,133323,4
+2020,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),194,182,12,133323,1.5
+2020,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),63,39,24,113173,0.6
+2020,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),603,571,32,113173,5.3
+2020,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),177,170,7,113173,1.6
+2020,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),34,21,13,92513,0.4
+2020,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),464,442,22,92513,5
+2020,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),167,165,2,92513,1.8
+2020,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),161,94,67,420217,0.4
+2020,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3757,3568,189,420217,8.9
+2020,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),736,692,44,420217,1.8
+2020,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),12,8,4,,
+2020,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),6,6,0,,
+2020,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),6,6,0,,
+2020,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),7,5,2,58378,0.1
+2020,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),136,130,6,58378,2.3
+2020,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),52,48,4,58378,0.9
+2021,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),9,9,0,55839,0.2
+2021,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),149,136,13,55839,2.7
+2021,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),52,48,4,55839,0.9
+2021,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),11,7,4,31959,0.3
+2021,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),51,46,5,31959,1.6
+2021,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),34,24,10,31959,1.1
+2021,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),35,21,14,156900,0.2
+2021,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),727,697,30,156900,4.6
+2021,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),221,201,20,156900,1.4
+2021,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),21,10,11,92079,0.2
+2021,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),329,312,17,92079,3.6
+2021,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),118,106,12,92079,1.3
+2021,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),17,7,10,97098,0.2
+2021,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),360,349,11,97098,3.7
+2021,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),97,86,11,97098,1
+2021,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),29,19,10,127263,0.2
+2021,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),463,447,16,127263,3.6
+2021,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),155,135,20,127263,1.2
+2021,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),11,8,3,106506,0.1
+2021,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),227,218,9,106506,2.1
+2021,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),86,68,18,106506,0.8
+2021,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),15,12,3,61081,0.2
+2021,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),219,209,10,61081,3.6
+2021,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),92,81,11,61081,1.5
+2021,ZH109,109,Uster,1,Schwere Gewalt (angewandt),29,17,12,135234,0.2
+2021,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),510,474,36,135234,3.8
+2021,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),183,156,27,135234,1.4
+2021,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),63,37,26,114220,0.6
+2021,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),591,551,40,114220,5.2
+2021,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),199,190,9,114220,1.7
+2021,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),30,24,6,94533,0.3
+2021,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),501,479,22,94533,5.3
+2021,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),177,158,19,94533,1.9
+2021,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),176,104,72,421878,0.4
+2021,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3594,3368,226,421878,8.5
+2021,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),762,705,57,421878,1.8
+2021,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),6,5,1,,
+2021,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),12,12,0,,
+2021,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),5,5,0,,
+2021,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),17,10,7,58833,0.3
+2021,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),102,92,10,58833,1.7
+2021,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),59,57,2,58833,1
+2022,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),9,7,2,56370,0.2
+2022,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),187,175,12,56370,3.3
+2022,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),41,34,7,56370,0.7
+2022,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),10,5,5,32136,0.3
+2022,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),100,88,12,32136,3.1
+2022,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),32,23,9,32136,1
+2022,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),49,30,19,158566,0.3
+2022,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),780,738,42,158566,4.9
+2022,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),273,239,34,158566,1.7
+2022,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),28,14,14,92479,0.3
+2022,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),379,360,19,92479,4.1
+2022,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),139,121,18,92479,1.5
+2022,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),25,20,5,98201,0.3
+2022,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),328,316,12,98201,3.3
+2022,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),116,98,18,98201,1.2
+2022,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),23,12,11,128224,0.2
+2022,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),306,291,15,128224,2.4
+2022,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),128,109,19,128224,1
+2022,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),15,13,2,107006,0.1
+2022,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),222,208,14,107006,2.1
+2022,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),81,67,14,107006,0.8
+2022,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),16,7,9,61597,0.3
+2022,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),187,183,4,61597,3
+2022,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),79,68,11,61597,1.3
+2022,ZH109,109,Uster,1,Schwere Gewalt (angewandt),43,25,18,136806,0.3
+2022,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),510,468,42,136806,3.7
+2022,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),159,136,23,136806,1.2
+2022,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),74,40,34,115129,0.6
+2022,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),630,603,27,115129,5.5
+2022,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),183,158,25,115129,1.6
+2022,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),35,21,14,95438,0.4
+2022,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),426,414,12,95438,4.5
+2022,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),158,142,16,95438,1.7
+2022,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),223,131,92,423193,0.5
+2022,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3630,3432,198,423193,8.6
+2022,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),730,660,70,423193,1.7
+2022,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),6,6,0,,
+2022,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),8,7,1,,
+2022,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),5,5,0,,
+2022,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),12,6,6,59517,0.2
+2022,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),159,155,4,59517,2.7
+2022,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),54,43,11,59517,0.9
+2023,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),14,11,3,56899,0.2
+2023,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),181,175,6,56899,3.2
+2023,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),70,66,4,56899,1.2
+2023,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),8,4,4,29332,0.3
+2023,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),73,64,9,29332,2.5
+2023,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),32,26,6,29332,1.1
+2023,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),55,35,20,160967,0.3
+2023,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),775,745,30,160967,4.8
+2023,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),230,208,22,160967,1.4
+2023,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),31,16,15,93038,0.3
+2023,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),359,342,17,93038,3.9
+2023,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),117,98,19,93038,1.3
+2023,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),28,14,14,99220,0.3
+2023,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),315,301,14,99220,3.2
+2023,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),112,101,11,99220,1.1
+2023,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),26,20,6,129309,0.2
+2023,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),340,324,16,129309,2.6
+2023,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),102,88,14,129309,0.8
+2023,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),19,12,7,107681,0.2
+2023,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),200,187,13,107681,1.9
+2023,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),101,92,9,107681,0.9
+2023,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),20,11,9,62156,0.3
+2023,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),169,164,5,62156,2.7
+2023,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),67,62,5,62156,1.1
+2023,ZH109,109,Uster,1,Schwere Gewalt (angewandt),42,27,15,137642,0.3
+2023,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),430,397,33,137642,3.1
+2023,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),160,140,20,137642,1.2
+2023,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),64,17,47,116906,0.5
+2023,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),595,572,23,116906,5.1
+2023,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),197,175,22,116906,1.7
+2023,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),50,31,19,96312,0.5
+2023,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),461,446,15,96312,4.8
+2023,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),175,162,13,96312,1.8
+2023,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),253,145,108,427721,0.6
+2023,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3571,3400,171,427721,8.3
+2023,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),715,652,63,427721,1.7
+2023,ZH114,113,unbekannt ZH,1,Schwere Gewalt (angewandt),11,5,6,,
+2023,ZH114,113,unbekannt ZH,2,Minderschwere Gewalt (angewandt evtl. angedroht),18,17,1,,
+2023,ZH114,113,unbekannt ZH,3,Minderschwere Gewalt (angedroht),6,4,2,,
+2023,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),12,5,7,59905,0.2
+2023,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),174,167,7,59905,2.9
+2023,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),67,59,8,59905,1.1
+2024,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),14,8,6,57801,0.2
+2024,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),196,189,7,57801,3.4
+2024,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),57,53,4,57801,1
+2024,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),7,6,1,32732,0.2
+2024,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),84,79,5,32732,2.6
+2024,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),36,33,3,32732,1.1
+2024,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),46,23,23,164131,0.3
+2024,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),687,667,20,164131,4.2
+2024,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),214,196,18,164131,1.3
+2024,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),39,15,24,95157,0.4
+2024,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),380,357,23,95157,4
+2024,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),119,104,15,95157,1.3
+2024,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),29,17,12,100857,0.3
+2024,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),368,348,20,100857,3.6
+2024,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),113,100,13,100857,1.1
+2024,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),26,15,11,131202,0.2
+2024,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),381,369,12,131202,2.9
+2024,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),118,105,13,131202,0.9
+2024,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),16,9,7,108710,0.1
+2024,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),355,334,21,108710,3.3
+2024,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),79,72,7,108710,0.7
+2024,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),22,18,4,63033,0.3
+2024,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),182,173,9,63033,2.9
+2024,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),72,67,5,63033,1.1
+2024,ZH109,109,Uster,1,Schwere Gewalt (angewandt),36,26,10,139914,0.3
+2024,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),437,411,26,139914,3.1
+2024,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),202,180,22,139914,1.4
+2024,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),79,43,36,119315,0.7
+2024,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),570,527,43,119315,4.8
+2024,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),188,175,13,119315,1.6
+2024,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),46,21,25,97713,0.5
+2024,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),464,440,24,97713,4.7
+2024,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),143,130,13,97713,1.5
+2024,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),270,169,101,433989,0.6
+2024,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3545,3371,174,433989,8.2
+2024,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),816,755,61,433989,1.9
+2024,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),19,11,8,60954,0.3
+2024,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),151,142,9,60954,2.5
+2024,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),65,53,12,60954,1.1
+2025,ZH101,101,Affoltern,1,Schwere Gewalt (angewandt),19,14,5,58190,0.3
+2025,ZH101,101,Affoltern,2,Minderschwere Gewalt (angewandt evtl. angedroht),162,149,13,58190,2.8
+2025,ZH101,101,Affoltern,3,Minderschwere Gewalt (angedroht),67,61,6,58190,1.2
+2025,ZH102,102,Andelfingen,1,Schwere Gewalt (angewandt),15,11,4,33185,0.5
+2025,ZH102,102,Andelfingen,2,Minderschwere Gewalt (angewandt evtl. angedroht),84,71,13,33185,2.5
+2025,ZH102,102,Andelfingen,3,Minderschwere Gewalt (angedroht),24,18,6,33185,0.7
+2025,ZH103,103,Bülach,1,Schwere Gewalt (angewandt),57,37,20,165628,0.3
+2025,ZH103,103,Bülach,2,Minderschwere Gewalt (angewandt evtl. angedroht),668,638,30,165628,4
+2025,ZH103,103,Bülach,3,Minderschwere Gewalt (angedroht),162,140,22,165628,1
+2025,ZH104,104,Dielsdorf,1,Schwere Gewalt (angewandt),31,21,10,96935,0.3
+2025,ZH104,104,Dielsdorf,2,Minderschwere Gewalt (angewandt evtl. angedroht),361,338,23,96935,3.7
+2025,ZH104,104,Dielsdorf,3,Minderschwere Gewalt (angedroht),119,101,18,96935,1.2
+2025,ZH105,105,Hinwil,1,Schwere Gewalt (angewandt),31,19,12,102003,0.3
+2025,ZH105,105,Hinwil,2,Minderschwere Gewalt (angewandt evtl. angedroht),289,276,13,102003,2.8
+2025,ZH105,105,Hinwil,3,Minderschwere Gewalt (angedroht),90,77,13,102003,0.9
+2025,ZH106,106,Horgen,1,Schwere Gewalt (angewandt),20,15,5,132542,0.2
+2025,ZH106,106,Horgen,2,Minderschwere Gewalt (angewandt evtl. angedroht),346,331,15,132542,2.6
+2025,ZH106,106,Horgen,3,Minderschwere Gewalt (angedroht),97,87,10,132542,0.7
+2025,ZH107,107,Meilen,1,Schwere Gewalt (angewandt),28,18,10,109547,0.3
+2025,ZH107,107,Meilen,2,Minderschwere Gewalt (angewandt evtl. angedroht),265,247,18,109547,2.4
+2025,ZH107,107,Meilen,3,Minderschwere Gewalt (angedroht),73,63,10,109547,0.7
+2025,ZH108,108,Pfäffikon,1,Schwere Gewalt (angewandt),19,12,7,63598,0.3
+2025,ZH108,108,Pfäffikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),204,191,13,63598,3.2
+2025,ZH108,108,Pfäffikon,3,Minderschwere Gewalt (angedroht),58,54,4,63598,0.9
+2025,ZH109,109,Uster,1,Schwere Gewalt (angewandt),41,26,15,141597,0.3
+2025,ZH109,109,Uster,2,Minderschwere Gewalt (angewandt evtl. angedroht),478,437,41,141597,3.4
+2025,ZH109,109,Uster,3,Minderschwere Gewalt (angedroht),181,172,9,141597,1.3
+2025,ZH110,110,Winterthur Stadt,1,Schwere Gewalt (angewandt),67,40,27,120376,0.6
+2025,ZH110,110,Winterthur Stadt,2,Minderschwere Gewalt (angewandt evtl. angedroht),598,551,47,120376,5
+2025,ZH110,110,Winterthur Stadt,3,Minderschwere Gewalt (angedroht),205,185,20,120376,1.7
+2025,ZH112,111,Dietikon,1,Schwere Gewalt (angewandt),48,30,18,98179,0.5
+2025,ZH112,111,Dietikon,2,Minderschwere Gewalt (angewandt evtl. angedroht),465,450,15,98179,4.7
+2025,ZH112,111,Dietikon,3,Minderschwere Gewalt (angedroht),134,123,11,98179,1.4
+2025,ZH113,112,Zürich,1,Schwere Gewalt (angewandt),309,190,119,436551,0.7
+2025,ZH113,112,Zürich,2,Minderschwere Gewalt (angewandt evtl. angedroht),3321,3180,141,436551,7.6
+2025,ZH113,112,Zürich,3,Minderschwere Gewalt (angedroht),701,636,65,436551,1.6
+2025,ZH111,114,Winterthur Land,1,Schwere Gewalt (angewandt),19,13,6,61689,0.3
+2025,ZH111,114,Winterthur Land,2,Minderschwere Gewalt (angewandt evtl. angedroht),147,140,7,61689,2.4
+2025,ZH111,114,Winterthur Land,3,Minderschwere Gewalt (angedroht),73,64,9,61689,1.2
