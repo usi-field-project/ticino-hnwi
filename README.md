@@ -36,6 +36,7 @@ Data, sources and findings will be added progressively after the team has collec
 │   └── timeline.md
 ├── 02_methodology/
 │   ├── benchmark_methodology.md
+│   ├── indicator_matrix.md
 │   ├── interview_methodology.md
 │   ├── limitations.md
 │   ├── research_questions.md

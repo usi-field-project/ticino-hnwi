@@ -43,7 +43,7 @@ Not every indicator should be measured at the benchmark unit. Each indicator in 
 
 ## Comparison dimensions
 
-This is the proposed collection grid for every destination; the benchmark methodology remains to be completed.
+This is the proposed collection grid for every destination; the benchmark methodology remains to be completed. The indicators selected for the benchmark table and the scoring are proposed in the [indicator matrix](indicator_matrix.md).
 
 | Topic | Information to collect |
 |---|---|
