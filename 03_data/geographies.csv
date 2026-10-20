@@ -11,9 +11,11 @@ ZG-ZUG,Zug,City of Zug,municipality,no,ZG,Proposed reference municipality for ta
 CH-ZS,Zug,"Central Switzerland (NUTS 2: LU, UR, SZ, OW, NW, ZG)",nuts2_region,no,CH,Used for Eurostat regional values (e.g. life expectancy) covering Zug
 GE,Geneva,Canton of Geneva,canton,yes,CH,
 GE-GVA,Geneva,City of Geneva,municipality,no,GE,Context only; proposed reference municipality for tax profiles
+CH-RL,Geneva,"Région lémanique (NUTS 2: VD, VS, GE)",nuts2_region,no,CH,Used for Eurostat regional values covering Geneva
 GR,Graubünden,Canton of Graubünden,canton,yes,CH,
 GR-CHU,Graubünden,Chur,municipality,no,GR,Proposed reference municipality for tax profiles
 GR-STM,Graubünden,St. Moritz,municipality,no,GR,Proposed sensitivity case for tax profiles
+CH-OS,Graubünden,"Eastern Switzerland (NUTS 2: GL, SH, AR, AI, SG, GR, TG)",nuts2_region,no,CH,Used for Eurostat regional values covering Graubünden
 MC,Monaco,Principality of Monaco,city_state,yes,,
 SG,Singapore,Republic of Singapore,city_state,yes,,
 LU,Luxembourg,Grand Duchy of Luxembourg,country,yes,,
@@ -27,6 +29,7 @@ GB-COL,London,City of London,municipality,no,GB-LDN,Context only (financial dist
 IT,Milan,Italy,country,no,,National level for Milan regime and national indicators
 IT-MI,Milan,Metropolitan City of Milan (NUTS 3),metropolitan_area,yes,IT,
 IT-MI-COM,Milan,Comune di Milano,municipality,no,IT-MI,Context only
+IT-LOM,Milan,Lombardia (NUTS 2),nuts2_region,no,IT,Used for Eurostat regional values covering Milan
 PT,Lisbon,Portugal,country,no,,National level for Lisbon regime and national indicators
 PT-GL,Lisbon,Grande Lisboa (NUTS 3),metropolitan_area,yes,PT,9 municipalities north of the Tagus; NUTS 2 and NUTS 3 coincide since 2024
 PT-LIS,Lisbon,Lisbon municipality,municipality,no,PT-GL,Context only
