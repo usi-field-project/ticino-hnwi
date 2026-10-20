@@ -29,6 +29,7 @@ prime_price_m2,Real estate,Prime residential price per m2,Price per m2 of prime/
 hospital_beds,Healthcare,Hospital beds,Hospital beds in the territory,count,local,higher_better,Normalise by population in the analysis
 international_schools,Education,International schools,Schools offering an international curriculum (IB or foreign national),count,local,higher_better,State the list used
 gdp_nominal,Wealth,Gross domestic product,Nominal GDP of the territory at current prices,currency (million),local,higher_better,Per-capita value calculated in the analysis with population of the same year
+gdp_per_capita,Wealth,GDP per inhabitant,"Nominal GDP per inhabitant at current prices, as published by the statistical office",currency per inhabitant,local,higher_better,Published ratio; used as a cross-check of W1 (gdp_nominal ÷ population) where the total is not available in the same currency
 financial_sector_employment,Banking presence and density,Employment in financial and insurance activities,Persons employed in NOGA/NACE section K (workplace-based),persons,local,higher_better,Share of total employment calculated in the analysis; state FTE vs headcount
 new_companies,Business presence,New companies registered,New legal entities entered in the commercial register in the year,count,local,higher_better,Registration rules differ by country
 employment_rate_15_64,Employment,Employment rate 15-64,Employed persons aged 15-64 as share of population aged 15-64 (ILO/LFS),%,local,higher_better,Published ratio; residence-based
