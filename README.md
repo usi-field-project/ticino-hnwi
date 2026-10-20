@@ -61,6 +61,7 @@ Data, sources and findings will be added progressively after the team has collec
 │   ├── anonymized_transcripts/
 │   ├── coding/
 │   ├── domande UBS.pdf
+│   ├── guida_intervista_UBS.docx
 │   ├── interview_guide.md
 │   ├── interview_summary.csv
 │   ├── outreach_template.md
