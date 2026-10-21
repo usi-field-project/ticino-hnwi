@@ -4,6 +4,9 @@ TI,Ticino,Canton of Ticino,canton,yes,CH,Baseline territory
 TI-LUG,Ticino,Lugano,municipality,no,TI,Reference municipality for tax profiles (agreed 19.10.2026)
 TI-BEL,Ticino,Bellinzona,municipality,no,TI,Cantonal capital; context only (Lugano is the reference municipality)
 TI-CHI,Ticino,Chiasso,municipality,no,TI,Air-quality monitoring station
+TI-POR,Ticino,Porza,municipality,no,TI,Tax sensitivity case (lowest burden in Ticino for the reference case)
+TI-PAR,Ticino,Paradiso,municipality,no,TI,Tax sensitivity case
+TI-CDO,Ticino,Collina d'Oro,municipality,no,TI,Tax sensitivity case
 ZH,Zurich,Canton of Zurich,canton,yes,CH,
 ZH-ZRH,Zurich,City of Zurich,municipality,no,ZH,Context only; proposed reference municipality for tax profiles
 ZG,Zug,Canton of Zug,canton,yes,CH,
