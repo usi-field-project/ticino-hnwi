@@ -1,6 +1,6 @@
 # Ticino (baseline)
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -10,14 +10,14 @@ Use the [shared research topics](../../02_methodology/benchmark_methodology.md#c
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | GDP per inhabitant: **102'190 CHF per inhabitant** (2022) `TI-021`<br>Gross domestic product: **37'213 million EUR** (2022) `TI-022` | [Swiss Federal Statistical Office (FSO)](https://ckan.opendata.swiss/it/perma/32627379@bundesamt-fur-statistik-bfs)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en) | 2022; Canton of Ticino | 2 of 2 values grade A |
+| **Banking presence and density** | Bank offices (head offices + branches): **155** (2025) `EX-001`<br>Banks headquartered: **12** (2023) `TI-002`<br>Employment in financial and insurance activities: **12'641** (2024) `TI-013` | [Swiss National Bank (SNB)](https://data.snb.ch/en/topics/banken/cube/bastdagsua)<br>Ticino Banking Association / USTAT<br>Swiss Federal Statistical Office (BFS) | 2023 to 2025; Canton of Ticino | 3 of 3 values grade A; includes sample rows (`example`) |
+| **Business presence** | Local establishments (workplaces): **40'590** (2024) `EX-005` | Swiss Federal Statistical Office (BFS) | 2024; Canton of Ticino | 1 of 1 values grade A; includes sample rows (`example`) |
+| **Employment** | Median gross monthly wage: **5'708 CHF per month** (2024) `TI-001`<br>Persons employed: **250'618** (2024) `TI-012`<br>Employment rate 15-64: **66.8 %** (2024) `TI-023`<br>Unemployment rate: **7.3 %** (2024) `TI-024`<br>Employment rate 15-64: **71.5 %** (2025) `TI-025`<br>Unemployment rate: **6.6 %** (2025) `TI-026` | Swiss Federal Statistical Office (BFS)<br>[Swiss Federal Statistical Office (FSO)](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken.assetdetail.36347226.html)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tgs00007/default/table?lang=en) | 2024 to 2025; Canton of Ticino | 4 of 6 values grade A; `TI-023` grade B, `TI-024` grade B |
+| **Stability and institutions** | WGI Rule of Law: **1.738 score (-2.5 to 2.5)** (2025, Switzerland) `CH-001`<br>WGI Political Stability: **1.119 score (-2.5 to 2.5)** (2025, Switzerland) `CH-002` | World Bank | 2025; Switzerland | 2 of 2 values grade A |
+| **Quality of life** | Recorded offences per 1000 residents: **51.7 per 1000 residents** (2024) `TI-007`<br>PM2.5 annual mean: **15 µg/m3** (2024, Chiasso) `TI-008`<br>Direct international destinations: **231** (2026-10) `TI-028` | USTAT<br>USTAT / Canton Ticino<br>[airportoverview.com](https://www.airportoverview.com/routes/MXP) | 2024 to 2026-10; Canton of Ticino, Chiasso (smaller) | 1 of 3 values grade A; `TI-008` grade B, `TI-028` grade B |
+| **Taxation and relocation** | Lump-sum taxation available: **yes** (2026) `TI-009`<br>Lump-sum or flat-tax minimum: **434'700 CHF** (2025) `TI-010`<br>Top marginal income tax rate: **37.96 %** (2026) `TI-011`<br>Effective income tax, reference case: **33.52 %** (2026) `TI-016`<br>Effective wealth tax, reference case: **0.483 %** (2026) `TI-017`<br>Effective income tax, reference case: **31.6 %** (2026) `TI-019`<br>Effective wealth tax, reference case: **0.443 %** (2026) `TI-020`<br>Effective income tax, reference case: **29.09 %** (2026) `TI-029`<br>Effective wealth tax, reference case: **0.39 %** (2026) `TI-030`<br>Effective income tax, reference case: **29.33 %** (2026) `TI-031`<br>Effective wealth tax, reference case: **0.395 %** (2026) `TI-032`<br>Effective income tax, reference case: **29.57 %** (2026) `TI-033`<br>Effective wealth tax, reference case: **0.4 %** (2026) `TI-034` | Canton Ticino — Legge tributaria<br>KPMG Switzerland<br>Swiss Federal Tax Administration (ESTV/FTA) | 2025 to 2026; Canton of Ticino, Bellinzona, Lugano, Porza, Paradiso, Collina d'Oro | 4 of 13 values grade A; `TI-011` grade B, `TI-016` grade C, `TI-017` grade C, `TI-029` grade C, `TI-030` grade C, `TI-031` grade C, `TI-032` grade C, `TI-033` grade C, `TI-034` grade C |
+| **Real estate** | Prime residential price per m2: **14'600 USD per m2** (2024, Lugano) `TI-018`<br>Restrictions on foreign buyers: **yes** (2026, Switzerland) `CH-003` | Henley & Partners (data: New World Wealth)<br>Kanton Zürich, Volkswirtschaftsdirektion | 2024 to 2026; Lugano (smaller), Switzerland (national proxy) | 1 of 2 values grade A; `TI-018` grade B |
+| **Population and migration** | Resident population: **358'903** (2024) `TI-003`<br>Share of foreign residents: **29.4 %** (2024) `TI-004`<br>Net international migration: **2'576** (2024) `TI-005`<br>Net migration: **2'225** (2024) `TI-006` | USTAT | 2024; Canton of Ticino | 4 of 4 values grade A |
+| **Healthcare** | Practising physicians: **2'093** (2025) `TI-014`<br>Hospital beds: **1'757** (2024) `TI-015`<br>Life expectancy at birth: **85.2 years** (2024) `TI-027` | FMH Swiss Medical Association<br>Federal Office of Public Health (FOPH/BAG)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en) | 2024 to 2025; Canton of Ticino | 3 of 3 values grade A |
+| **Education** | No data in the register yet |  |  | To collect |

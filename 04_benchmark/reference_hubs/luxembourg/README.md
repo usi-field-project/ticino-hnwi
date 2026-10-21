@@ -1,6 +1,6 @@
 # Luxembourg
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -8,14 +8,14 @@ Use the [shared research topics](../../../02_methodology/benchmark_methodology.m
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | Gross domestic product: **86'180 million EUR** (2024) `LU-019`<br>GDP per inhabitant: **127'000 EUR per inhabitant** (2024) `LU-020` | [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en) | 2024; Grand Duchy of Luxembourg | 2 of 2 values grade A |
+| **Banking presence and density** | Licensed credit institutions: **116** (2025) `LU-004`<br>Employment in financial and insurance activities: **55'000** (2024) `LU-007` | Banque centrale du Luxembourg (BCL)<br>STATEC | 2024 to 2025; Grand Duchy of Luxembourg | 1 of 2 values grade A; `LU-007` grade B |
+| **Business presence** | Registered companies: **48'813** (2023) `LU-005` | [STATEC / LUSTAT](https://lustat.statec.lu/vis?df[ds]=ds-release&df[id]=DSD_DEMO_ENT_1%40DF_D1300&df[ag]=LU1) | 2023; Grand Duchy of Luxembourg | 0 of 1 values grade A; `LU-005` grade B |
+| **Employment** | Persons employed: **517'700** (2024) `LU-006`<br>Unemployment rate: **5.7 %** (2025) `LU-008`<br>Employment rate 15-64: **83.5 %** (2025) `LU-012`<br>Employment rate 15-64: **69.2 %** (2025) `LU-021`<br>Unemployment rate: **6.5 %** (2025) `LU-022` | STATEC<br>[ADEM](https://adem.public.lu/en/actualites/adem/2026/01/cp-cc-2025-12.html)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tgs00007/default/table?lang=en) | 2024 to 2025; Grand Duchy of Luxembourg | 2 of 5 values grade A; `LU-006` grade B, `LU-008` grade B, `LU-012` grade B |
+| **Stability and institutions** | WGI Rule of Law: **1.708 score (-2.5 to 2.5)** (2025) `LU-017`<br>WGI Political Stability: **1.193 score (-2.5 to 2.5)** (2025) `LU-018` | World Bank | 2025; Grand Duchy of Luxembourg | 2 of 2 values grade A |
+| **Quality of life** | Recorded offences per 1000 residents: **60.0 per 1000 residents** (2023) `LU-009`<br>Direct international destinations: **133** (2026-10) `LU-025` | [Grand Ducal Police](https://police.public.lu/en/publications/2024/chiffres-de-la-delinquance.html)<br>[airportoverview.com](https://www.airportoverview.com/routes/LUX) | 2023 to 2026-10; Grand Duchy of Luxembourg | 2 of 2 values grade A |
+| **Taxation and relocation** | Top marginal income tax rate: **45.78 %** (2026) `LU-014`<br>Inheritance tax for direct descendants: **0 %** (2026) `LU-015`<br>Wealth tax rate: **0 %** (2026) `LU-026` | Administration des contributions directes<br>Administration de l’enregistrement / Deloitte<br>[PwC](https://taxsummaries.pwc.com/luxembourg/individual/other-taxes) | 2026; Grand Duchy of Luxembourg | 3 of 3 values grade A |
+| **Real estate** | Residential price per m2: **7'795 EUR per m2** (2026-Q2) `LU-016` | STATEC and Housing Observatory | 2026-Q2; Grand Duchy of Luxembourg | 1 of 1 values grade A |
+| **Population and migration** | Resident population: **690'959** (2025) `LU-001`<br>Share of foreign residents: **46.6 %** (2025) `LU-002`<br>Net international migration: **7'844** (2025) `LU-003` | STATEC / LUSTAT | 2025; Grand Duchy of Luxembourg | 3 of 3 values grade A |
+| **Healthcare** | Hospital beds: **2'686** (2025) `LU-010`<br>Life expectancy at birth: **83.5 years** (2024) `LU-011`<br>Practising physicians: **1'780** (2017) `LU-023`<br>Life expectancy at birth: **83.2 years** (2024) `LU-024` | [Observatoire national de la santé](https://obs.gouvernement.lu/fr/rapports/carte-sanitaire/carte-sanitaire2025.html)<br>European Commission<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table?lang=en) | 2017 to 2025; Grand Duchy of Luxembourg | 3 of 4 values grade A; `LU-023` grade C |
+| **Education** | Tertiary-educated population: **63.8 %** (2024) `LU-013` | STATEC / Eurostat | 2024; Grand Duchy of Luxembourg | 0 of 1 values grade A; `LU-013` grade B |

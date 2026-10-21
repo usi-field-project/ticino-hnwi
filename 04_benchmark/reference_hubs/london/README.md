@@ -1,6 +1,6 @@
 # London
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -8,14 +8,14 @@ Use the [shared research topics](../../../02_methodology/benchmark_methodology.m
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | Resident millionaires: **215'700** (2024) `LDN-003`<br>Resident centi-millionaires: **352** (2024) `LDN-004`<br>Gross domestic product: **618'000 million GBP** (2023) `LDN-010` | Henley & Partners (data: New World Wealth)<br>Greater London Authority (data: ONS) | 2023 to 2024; Greater London | 3 of 3 values grade A |
+| **Banking presence and density** | Employment in financial and insurance activities: **471'204 jobs** (2026-06) `LDN-017` | [Office for National Statistics (ONS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workforcejobsbyregionandindustryjobs05) | 2026-06; Greater London | 0 of 1 values grade A; `LDN-017` grade B |
+| **Business presence** | New companies registered: **90'000** (2024) `LDN-011` | UK Office for National Statistics | 2024; Greater London | 0 of 1 values grade A; `LDN-011` grade B |
+| **Employment** | Employment rate 15-64: **74.5 %** (2026-08) `LDN-015`<br>Unemployment rate: **6.6 %** (2026-08) `LDN-016` | [Office for National Statistics (ONS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/october2026) | 2026-08; Greater London | 0 of 2 values grade A; `LDN-015` grade B, `LDN-016` grade B |
+| **Stability and institutions** | WGI Rule of Law: **1.268 score (-2.5 to 2.5)** (2025) `LDN-001`<br>WGI Political Stability: **0.29 score (-2.5 to 2.5)** (2025) `LDN-002` | World Bank | 2025; United Kingdom | 2 of 2 values grade A |
+| **Quality of life** | Cost-of-living index: **90.05 index** (2026) `LDN-014`<br>Direct international destinations: **230** (2026-10) `LDN-018` | Numbeo<br>[airportoverview.com](https://www.airportoverview.com/routes/LHR) | 2026 to 2026-10; Greater London | 0 of 2 values grade A; `LDN-014` grade B, `LDN-018` grade B |
+| **Taxation and relocation** | Lump-sum taxation available: **yes** (2026) `LDN-012`<br>Effective wealth tax, reference case: **0 %** (2026) `LDN-013`<br>Inheritance tax for direct descendants: **40 %** (2026) `LDN-019`<br>Top marginal income tax rate: **45 %** (2026) `LDN-020` | UK Government / HMRC<br>[HM Revenue & Customs (GOV.UK)](https://www.gov.uk/inheritance-tax)<br>[PwC](https://taxsummaries.pwc.com/united-kingdom/individual/taxes-on-personal-income) | 2026; United Kingdom | 3 of 4 values grade A; `LDN-012` grade B |
+| **Real estate** | Prime residential price per m2: **24'000 USD per m2** (2024) `LDN-005`<br>Restrictions on foreign buyers: **no** (2026) `LDN-021` | Henley & Partners (data: New World Wealth)<br>[HM Revenue & Customs (GOV.UK)](https://www.gov.uk/stamp-duty-land-tax/residential-property-rates) | 2024 to 2026; Greater London, United Kingdom | 2 of 2 values grade A |
+| **Population and migration** | Resident population: **9'100'000** (2024) `LDN-006`<br>Share of foreign residents: **41 %** (2021) `LDN-007`<br>Net migration: **35'000** (2024) `LDN-008`<br>Net international migration: **163'000** (2024) `LDN-009` | Greater London Authority (data: ONS) | 2021 to 2024; Greater London | 0 of 4 values grade A; `LDN-006` grade B, `LDN-007` grade B, `LDN-008` grade B, `LDN-009` grade B |
+| **Healthcare** | No data in the register yet |  |  | To collect |
+| **Education** | No data in the register yet |  |  | To collect |

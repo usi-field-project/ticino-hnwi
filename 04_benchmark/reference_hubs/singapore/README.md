@@ -1,6 +1,6 @@
 # Singapore
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -8,14 +8,14 @@ Use the [shared research topics](../../../02_methodology/benchmark_methodology.m
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | Resident millionaires: **242'400** (2024) `SG-007`<br>Resident centi-millionaires: **333** (2024) `SG-008` | Henley & Partners (data: New World Wealth) | 2024; Republic of Singapore | 2 of 2 values grade A |
+| **Banking presence and density** | Bank offices (head offices + branches): **315** (2025) `SG-011`<br>Licensed credit institutions: **133** (2025) `SG-012`<br>Banks headquartered: **6** (2025) `SG-013` | Monetary Authority of Singapore (via SingStat) | 2025; Republic of Singapore | 2 of 3 values grade A; `SG-013` grade B |
+| **Business presence** | Local establishments (workplaces): **330'453** (2024) `SG-009`<br>New companies registered: **78'146** (2025) `SG-010` | Department of Statistics Singapore (SingStat)<br>Accounting and Corporate Regulatory Authority (ACRA) | 2024 to 2025; Republic of Singapore | 1 of 2 values grade A; `SG-009` grade B |
+| **Employment** | No data in the register yet |  |  | To collect |
+| **Stability and institutions** | WGI Rule of Law: **1.489 score (-2.5 to 2.5)** (2025) `SG-001`<br>WGI Political Stability: **1.334 score (-2.5 to 2.5)** (2025) `SG-002` | World Bank | 2025; Republic of Singapore | 2 of 2 values grade A |
+| **Quality of life** | PM2.5 annual mean: **12 µg/m3** (2025) `SG-015`<br>Recorded offences per 1000 residents: **3.4 per 1000 residents** (2025) `SG-016`<br>Direct international destinations: **170** (2025) `SG-023`<br>Direct international destinations: **174** (2026-10) `SG-025` | National Environment Agency (via data.gov.sg)<br>Singapore Police Force<br>Changi Airport Group<br>[airportoverview.com](https://www.airportoverview.com/routes/SIN) | 2025 to 2026-10; Republic of Singapore | 3 of 4 values grade A; `SG-016` grade C |
+| **Taxation and relocation** | Top marginal income tax rate: **24 %** (2026) `SG-017`<br>Inheritance tax for direct descendants: **0 %** (2026) `SG-018`<br>Residence route for financially independent or investor applicants: **yes** (2026) `SG-020`<br>Wealth tax rate: **0 %** (2026) `SG-026` | Inland Revenue Authority of Singapore (IRAS)<br>Contact Singapore / Economic Development Board<br>[PwC](https://taxsummaries.pwc.com/singapore/individual/other-taxes) | 2026; Republic of Singapore | 4 of 4 values grade A |
+| **Real estate** | Restrictions on foreign buyers: **yes** (2026) `SG-019`<br>Prime residential price per m2: **16'700 USD per m2** (2024) `SG-021`<br>Prime residential price change: **9.8 %** (2026-Q1) `SG-022` | Inland Revenue Authority of Singapore (IRAS)<br>Henley & Partners (data: New World Wealth)<br>Knight Frank | 2024 to 2026-Q1; Republic of Singapore | 3 of 3 values grade A |
+| **Population and migration** | Resident population: **6'111'175** (2025) `SG-003`<br>Share of foreign residents: **40.1 %** (2025) `SG-004` | Department of Statistics Singapore (SingStat) | 2025; Republic of Singapore | 2 of 2 values grade A |
+| **Healthcare** | Life expectancy at birth: **83.9 years** (2025) `SG-005`<br>Hospital beds: **17'296** (2025) `SG-014`<br>Practising physicians: **16'753** (2023) `SG-024` | Department of Statistics Singapore (SingStat)<br>Ministry of Health Singapore<br>[Ministry of Health Singapore (MOH)](https://www.moh.gov.sg/others/resources-and-statistics/healthcare-workforce-statistics) | 2023 to 2025; Republic of Singapore | 2 of 3 values grade A; `SG-024` grade B |
+| **Education** | Tertiary-educated population: **54.5 %** (2025) `SG-006` | Department of Statistics Singapore (SingStat) | 2025; Republic of Singapore | 0 of 1 values grade A; `SG-006` grade B |

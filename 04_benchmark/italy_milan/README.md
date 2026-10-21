@@ -1,6 +1,6 @@
 # Milan
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -8,14 +8,14 @@ Use the [shared research topics](../../02_methodology/benchmark_methodology.md#c
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | Resident millionaires: **115'000** (2024) `MI-003`<br>Resident centi-millionaires: **182** (2024) `MI-004`<br>Gross domestic product: **230'481 million EUR** (2023) `MI-013`<br>GDP per inhabitant: **71'200 EUR per inhabitant** (2023) `MI-014` | Henley & Partners (data: New World Wealth)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en) | 2023 to 2024; Metropolitan City of Milan (NUTS 3) | 2 of 4 values grade A; `MI-003` grade B, `MI-004` grade B |
+| **Banking presence and density** | No data in the register yet |  |  | To collect |
+| **Business presence** | New companies registered: **26'262** (2025) `MI-007` | Camera di commercio Milano Monza Brianza Lodi | 2025; Metropolitan City of Milan (NUTS 3) | 1 of 1 values grade A |
+| **Employment** | Employment rate 15-64: **69.6 %** (2025, Lombardia (NUTS 2)) `MI-015`<br>Unemployment rate: **3.0 %** (2025, Lombardia (NUTS 2)) `MI-016` | [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tgs00007/default/table?lang=en) | 2025; Lombardia (NUTS 2) (larger) | 0 of 2 values grade A; `MI-015` grade B, `MI-016` grade B |
+| **Stability and institutions** | WGI Rule of Law: **0.585 score (-2.5 to 2.5)** (2025) `MI-001`<br>WGI Political Stability: **0.457 score (-2.5 to 2.5)** (2025) `MI-002` | World Bank | 2025; Italy | 2 of 2 values grade A |
+| **Quality of life** | Cost-of-living index: **75.78 index** (2026, Comune di Milano) `MI-012`<br>Direct international destinations: **231** (2026-10) `MI-018`<br>Recorded offences per 1000 residents: **70 per 1000 residents** (2025) `MI-020` | Numbeo<br>[airportoverview.com](https://www.airportoverview.com/routes/MXP)<br>[Il Sole 24 Ore (data: Ministero dell'Interno)](https://www.lapresse.it/cronaca/2026/10/12/indice-di-criminalita-milano-resta-prima-la-classifica-per-province/) | 2025 to 2026-10; Comune di Milano (smaller), Metropolitan City of Milan (NUTS 3) | 1 of 3 values grade A; `MI-012` grade B, `MI-020` grade C |
+| **Taxation and relocation** | Lump-sum taxation available: **yes** (2026) `MI-010`<br>Lump-sum or flat-tax minimum: **300'000 EUR** (2026) `MI-011` | Baker McKenzie / KPMG | 2026; Italy | 2 of 2 values grade A |
+| **Real estate** | Restrictions on foreign buyers: **yes** (2026) `MI-019` | [Consiglio Nazionale del Notariato (NotaiOnline)](https://notaionline.it/guida/acquisto-casa-stranieri-non-residenti/) | 2026; Italy | 1 of 1 values grade A |
+| **Population and migration** | Resident population: **1'407'044** (2024, Comune di Milano) `MI-005`<br>Share of foreign residents: **15.1 %** (2024) `MI-006` | Comune di Milano<br>ISTAT | 2024; Comune di Milano (smaller), Metropolitan City of Milan (NUTS 3) | 1 of 2 values grade A; `MI-005` grade B |
+| **Healthcare** | Life expectancy at birth: **84.7 years** (2024) `MI-008`<br>Practising physicians: **56'621** (2024, Lombardia (NUTS 2)) `MI-017` | ISTAT<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table?lang=en) | 2024; Metropolitan City of Milan (NUTS 3), Lombardia (NUTS 2) (larger) | 1 of 2 values grade A; `MI-017` grade B |
+| **Education** | International schools: **17** (2026, Comune di Milano) `MI-009` | Comune di Milano | 2026; Comune di Milano (smaller) | 0 of 1 values grade A; `MI-009` grade B |

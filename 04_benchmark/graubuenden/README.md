@@ -1,6 +1,6 @@
 # Graubünden
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -8,14 +8,14 @@ Use the [shared research topics](../../02_methodology/benchmark_methodology.md#c
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | Total taxable net wealth of individuals: **86'000 million CHF** (2022) `GR-006`<br>GDP per inhabitant: **82'817 CHF per inhabitant** (2022) `GR-015` | Canton of Graubünden tax administration<br>[Swiss Federal Statistical Office (FSO)](https://ckan.opendata.swiss/it/perma/32627379@bundesamt-fur-statistik-bfs) | 2022; Canton of Graubünden | 2 of 2 values grade A |
+| **Banking presence and density** | Employment in financial and insurance activities: **3'543** (2024) `GR-010` | Swiss Federal Statistical Office (BFS) | 2024; Canton of Graubünden | 1 of 1 values grade A |
+| **Business presence** | Local establishments (workplaces): **21'235** (2024) `GR-008` | Swiss Federal Statistical Office (BFS) | 2024; Canton of Graubünden | 1 of 1 values grade A |
+| **Employment** | Unemployment rate: **1.4 %** (2024-12) `GR-005`<br>Persons employed: **142'755** (2024) `GR-009`<br>Employment rate 15-64: **81.6 %** (2024) `GR-016`<br>Unemployment rate: **2.1 %** (2024) `GR-017`<br>Employment rate 15-64: **83.1 %** (2025, Eastern Switzerland (NUTS 2: GL, SH, AR, AI, SG, GR, TG)) `GR-018`<br>Unemployment rate: **3.3 %** (2025, Eastern Switzerland (NUTS 2: GL, SH, AR, AI, SG, GR, TG)) `GR-019` | SECO / Canton of Graubünden<br>Swiss Federal Statistical Office (BFS)<br>[Swiss Federal Statistical Office (FSO)](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken.assetdetail.36347226.html)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tgs00007/default/table?lang=en) | 2024 to 2025; Canton of Graubünden, Eastern Switzerland (NUTS 2: GL, SH, AR, AI, SG, GR, TG) (larger) | 1 of 6 values grade A; `GR-005` grade B, `GR-016` grade B, `GR-017` grade B, `GR-018` grade B, `GR-019` grade B |
+| **Stability and institutions** | WGI Rule of Law: **1.738 score (-2.5 to 2.5)** (2025, Switzerland) `CH-001`<br>WGI Political Stability: **1.119 score (-2.5 to 2.5)** (2025, Switzerland) `CH-002` | World Bank | 2025; Switzerland | 2 of 2 values grade A |
+| **Quality of life** | Recorded offences per 1000 residents: **50.7 per 1000 residents** (2025) `GR-004`<br>Direct international destinations: **256** (2026-10) `GR-021` | Kantonspolizei Graubünden<br>[airportoverview.com](https://www.airportoverview.com/routes/ZRH) | 2025 to 2026-10; Canton of Graubünden | 1 of 2 values grade A; `GR-021` grade B |
+| **Taxation and relocation** | Lump-sum taxation available: **yes** (2026) `GR-007`<br>Effective income tax, reference case: **28.25 %** (2026) `GR-013`<br>Effective wealth tax, reference case: **0.304 %** (2026) `GR-014` | Canton of Graubünden tax administration<br>Swiss Federal Tax Administration (ESTV/FTA) | 2026; Canton of Graubünden, Chur | 3 of 3 values grade A |
+| **Real estate** | Restrictions on foreign buyers: **yes** (2026, Switzerland) `CH-003` | Kanton Zürich, Volkswirtschaftsdirektion | 2026; Switzerland (national proxy) | 1 of 1 values grade A |
+| **Population and migration** | Resident population: **207'400** (2025) `GR-001`<br>Share of foreign residents: **21.0 %** (2024) `GR-002`<br>Net migration: **2'000** (2025) `GR-003` | Canton of Graubünden / BFS | 2024 to 2025; Canton of Graubünden | 2 of 3 values grade A; `GR-003` grade B |
+| **Healthcare** | Practising physicians: **1'007** (2025) `GR-011`<br>Hospital beds: **1'201.9** (2024) `GR-012`<br>Life expectancy at birth: **83.9 years** (2024, Eastern Switzerland (NUTS 2: GL, SH, AR, AI, SG, GR, TG)) `GR-020` | FMH Swiss Medical Association<br>Federal Office of Public Health (FOPH/BAG)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en) | 2024 to 2025; Canton of Graubünden, Eastern Switzerland (NUTS 2: GL, SH, AR, AI, SG, GR, TG) (larger) | 2 of 3 values grade A; `GR-020` grade B |
+| **Education** | No data in the register yet |  |  | To collect |
