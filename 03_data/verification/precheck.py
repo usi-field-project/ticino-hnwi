@@ -77,7 +77,7 @@ def numbers_in(path):
         texts += [x.text for x in d.paragraphs]
         texts += [c.text for t in d.tables for r in t.rows for c in r.cells]
     for t in texts:
-        for tok in NUM.findall(t):
+        for tok in NUM.findall(t) + NUM.findall(t.replace(",", " ")):  # second pass: CSV text such as "2023,2.992"
             nums |= parse(tok)
     return frozenset(nums)
 

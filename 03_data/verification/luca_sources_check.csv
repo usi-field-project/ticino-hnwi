@@ -11,64 +11,64 @@ LIS-005,1532308,confirmed,"Pordata PDF (image), 2024: personnel employed by non-
 LIS-008,31.7,different,"Pordata PDF (image), 2025: source shows 31.6 (provisional), Portugal 32.1; register has 31.7 and PT 32.0 in the note"
 EX-010,136,confirmed,"ECB Data Portal export: credit institutions, Portugal, 136 (2024)"
 ZG-002,207,confirmed,"Zug in Zahlen 2025 (ZugerKB): Kanton Zug 20'705 ha without lakes, Arealstatistik 2013/18 = 207 km2"
-ZG-022,54.6,confirmed,"Zug in Zahlen 2025 (zg.ch): Hochschulen 34.9% + Höhere Berufsbildung 19.7% = 54.6%"
-ZG-003,43275,confirmed,"Press release Zuger Handelsregister: 43 275 companies registered"
-ZG-004,20801,confirmed,"excel-06-00-01: value present"
-ZG-005,135123,confirmed,"excel-06-00-01: value present"
-ZG-007,77.6,confirmed,"BFS structural survey 2024 (same file as the other cantons): Zug (71'333 - 3'257) / 87'682 = 77.6%"
-ZG-008,4.6,confirmed,"BFS structural survey 2024: Zug unemployment rate 15-64 = 4.6%"
+ZG-022,54.6,confirmed,Zug in Zahlen 2025 (zg.ch): Hochschulen 34.9% + Höhere Berufsbildung 19.7% = 54.6%
+ZG-003,43275,confirmed,Press release Zuger Handelsregister: 43 275 companies registered
+ZG-004,20801,confirmed,excel-06-00-01: value present
+ZG-005,135123,confirmed,excel-06-00-01: value present
+ZG-007,77.6,confirmed,BFS structural survey 2024 (same file as the other cantons): Zug (71'333 - 3'257) / 87'682 = 77.6%
+ZG-008,4.6,confirmed,BFS structural survey 2024: Zug unemployment rate 15-64 = 4.6%
 ZG-012,yes,confirmed,"StG Zug 632.11, § 4 Besteuerung nach dem Aufwand"
-ZG-013,500000,confirmed,"632.11: minimum taxable income CHF 500'000"
+ZG-013,500000,confirmed,632.11: minimum taxable income CHF 500'000
 ZG-014,0,confirmed,"632.1: spouse, partner, direct descendants and stepchildren exempt"
-ZG-015,30.6,confirmed,"Bevölkerungsstand page: foreign share 30.6%"
-ZG-016,995,confirmed,"Bevölkerungsstand page: 995 persons"
-ZG-018,555,confirmed,"FMH table 1b: ZG total 555"
-ZG-020,84.6,confirmed,"Eurostat demo_r_mlifexp: CH06 Zentralschweiz 2024 = 84.6"
+ZG-015,30.6,confirmed,Bevölkerungsstand page: foreign share 30.6%
+ZG-016,995,confirmed,Bevölkerungsstand page: 995 persons
+ZG-018,555,confirmed,FMH table 1b: ZG total 555
+ZG-020,84.6,confirmed,Eurostat demo_r_mlifexp: CH06 Zentralschweiz 2024 = 84.6
 ZG-021,3,confirmed,"List of recognised private schools: Institut Montana, ISCS, International School of Zug and Luzern"
-ZG-023,45,confirmed,"Henley Centi Hotspots: Zug (canton) 45"
+ZG-023,45,confirmed,Henley Centi Hotspots: Zug (canton) 45
 ZG-024,92038.8,confirmed,"ESTV wealth statistics 2022, Zug: 92'038'809'059 CHF (residents) = 92'038.8 million"
-DXB-001,4580000,confirmed,"Article: 4.58 million residents"
+DXB-001,4580000,confirmed,Article: 4.58 million residents
 DXB-002,4114,confirmed,"Dubai Media Office: area 4,114 km2"
-DXB-003,500,confirmed,"DIFC results 2025: over 500 wealth and asset management firms"
+DXB-003,500,confirmed,DIFC results 2025: over 500 wealth and asset management firms
 DXB-008,50200,confirmed,"DIFC results 2025: workforce 50,200"
 DXB-004,292486,confirmed,"Dubai Chamber: active members 292,486"
 DXB-005,71830,confirmed,"Dubai Chamber: 71,830 new members in 2025"
-DXB-006,2.17,confirmed,"Trading Economics: 2.17% (Dec 2025)"
-DXB-009,3,confirmed,"Ministry of Finance: Moody's Aa2 stable (S&P AA not in this file)"
-DXB-010,0,confirmed,"PwC: no personal income tax"
-DXB-011,0,confirmed,"PwC: no wealth taxes on individuals"
+DXB-006,2.17,confirmed,Trading Economics: 2.17% (Dec 2025)
+DXB-009,3,confirmed,Ministry of Finance: Moody's Aa2 stable (S&P AA not in this file)
+DXB-010,0,confirmed,PwC: no personal income tax
+DXB-011,0,confirmed,PwC: no wealth taxes on individuals
 DXB-012,0,confirmed,"PwC: no inheritance, estate or gift taxes"
 DXB-013,yes,confirmed,"UAE portal: Golden Visa for investors, minimum AED 2 million"
-DXB-014,yes,confirmed,"Regulation 3/2006: freehold ownership for non-UAE nationals in designated areas"
-DXB-016,92,confirmed,"Infographic: expatriates 92.02%"
+DXB-014,yes,confirmed,Regulation 3/2006: freehold ownership for non-UAE nationals in designated areas
+DXB-016,92,confirmed,Infographic: expatriates 92.02%
 DXB-019,81200,confirmed,"Henley press release: Dubai 81,200 millionaires"
-DXB-020,237,confirmed,"Henley Centi Hotspots: Dubai 237"
-LIS-024,45,confirmed,"Henley Centi Hotspots: Lisbon 45"
+DXB-020,237,confirmed,Henley Centi Hotspots: Dubai 237
+LIS-024,45,confirmed,Henley Centi Hotspots: Lisbon 45
 LIS-003,28.34,confirmed,"FRED PRTFCBODCANUM: 2024 = 28.344, rounded"
 LIS-004,376509,confirmed,"Pordata xlsx: Grande Lisboa non-financial enterprises 376,509"
-LIS-009,7.2,partial,"EEA page saved as PDF: the chart is not readable as text; value was read approximately from the chart"
+LIS-009,7.2,partial,EEA page saved as PDF: the chart is not readable as text; value was read approximately from the chart
 LIS-010,51.04,confirmed,"PwC Portugal: 48% minus EUR 11,387.17 plus solidarity 2.5% (80-250k) and 5% (>250k) on EUR 1m = 51.04%"
-LIS-011,0,confirmed,"PwC Portugal: no general wealth tax; AIMI on property only"
+LIS-011,0,confirmed,PwC Portugal: no general wealth tax; AIMI on property only
 LIS-012,yes,confirmed,"Portal das Finanças: IFICI, special 20% rate"
 LIS-013,0,confirmed,"PwC Portugal Stamp Tax: exemption for spouse, descendants and ascendants"
-LIS-014,yes,confirmed,"AIMA: ARI declaration form (investment route exists)"
-LIS-016,no,confirmed,"TFEU Article 63: no restrictions on capital movements"
+LIS-014,yes,confirmed,AIMA: ARI declaration form (investment route exists)
+LIS-016,no,confirmed,TFEU Article 63: no restrictions on capital movements
 LIS-019,17168,confirmed,"Eurostat hlth_rs_physreg: Grande Lisboa 17,168"
-LIS-021,82.9,confirmed,"Eurostat demo_r_mlifexp: PT1A Grande Lisboa 2024 = 82.9"
+LIS-021,82.9,confirmed,Eurostat demo_r_mlifexp: PT1A Grande Lisboa 2024 = 82.9
 LIS-022,43.3,confirmed,"Eurostat edat_lfse_04: Grande Lisboa 2025 = 43.3 (same table: Zentralschweiz 46.4, Ticino 42.6)"
 LIS-023,6,different,"IB search saved: 'Found 5 matching schools', filter not limited to Lisbon (includes Dili and Madeira); the value 6 is not shown"
-ZG-006,10023,different,"Downloaded PxWeb export is for the canton of Zurich, not Zug. BFS STATENT csv already in the repo gives Zug NOGA 64+65+66 2024 = 10'024"
+ZG-006,10023,different,"New PxWeb export is for Zug but only the total of all sectors (20,801 establishments, 135,123 employed, as ZG-004/ZG-005), not NOGA K. BFS STATENT csv in the repo gives Zug NOGA 64+65+66 2024 = 10'024"
 ZG-009,42.6,missing,"Downloaded PxWeb export is for the canton of Zurich, not Zug"
 ZG-019,568,other_source,"Not downloaded; consistent with FOPH hospital key figures in the repo (Zug, 5 hospitals, 567.7 beds)"
-LIS-018,56492,missing,"Downloaded Eurostat demo_r_gind3 shows 'Population on 1 January', not net migration"
-DXB-017,2.99,missing,"Our World in Data page saved as PDF shows only the first rows of the table (UAE not visible)"
-DXB-018,1.87,missing,"Our World in Data page saved as PDF shows only the first rows of the table (UAE not visible)"
-LIS-006,75.8,missing,"Only the Eurostat structure file (dsd xml) was downloaded, no data"
-LIS-007,6.4,missing,"Only the Eurostat structure file (dsd xml) was downloaded, no data"
-ZG-010,21.7,missing,"ESTV tax calculator result not saved"
-ZG-011,0.213,missing,"ESTV tax calculator result not saved"
-DXB-007,9200000,missing,"Gulf News article not downloaded"
+LIS-018,56492,confirmed,"Eurostat demo_r_gind3 (custom selection): Grande Lisboa 2024 net migration = 56,492"
+DXB-017,2.99,confirmed,"Our World in Data full data: UAE 2023 = 2.992 physicians per 1,000"
+DXB-018,1.87,confirmed,"Our World in Data full data: UAE 2022 = 1.87 beds per 1,000"
+LIS-006,75.8,confirmed,Eurostat tgs00007: Grande Lisboa 2025 = 75.8
+LIS-007,6.4,confirmed,Eurostat tgs00010: Grande Lisboa 2025 = 6.4
+ZG-010,21.7,different,"ESTV calculator saved for Zug, single, gross income CHF 1m: 193,127 CHF = 19.31% (same as ZG-025); the 21.7% in the register (taxable income CHF 1m) is not in this file"
+ZG-011,0.213,missing,ESTV tax calculator result not saved
+DXB-007,9200000,confirmed,Gulf News (FCSC Labour Force Survey 2024): employed 9.2 million
 DXB-015,43056,missing,"Value is AED 4,000/sq ft (CBRE) x 10.764; CBRE source not downloaded (the FRED exchange-rate file does not contain it)"
-LIS-015,3836,missing,"INE page not downloaded"
-LIS-017,22.4,missing,"No source link in the register"
-LIS-020,9056,missing,"Eurostat hlth_rs_bdsrg2 not downloaded"
+LIS-015,3836,confirmed,"INE Destaque housing prices Q1 2026: Grande Lisboa median 3,836 EUR/m2"
+LIS-017,22.4,missing,No source link in the register
+LIS-020,9056,confirmed,"Eurostat hlth_rs_bdsrg2: Grande Lisboa 2024 = 9,056 beds"
