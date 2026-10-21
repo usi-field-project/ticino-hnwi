@@ -68,7 +68,9 @@ def numbers_in(path):
         delim = ";" if raw.count(";") > raw.count(",") else ","
         texts += [cell for row in csv.reader(raw.splitlines(), delimiter=delim) for cell in row]
     elif ext == ".pdf":
-        texts.append(subprocess.run(["pdftotext", "-layout", str(p), "-"], capture_output=True, text=True).stdout)
+        txt = subprocess.run(["pdftotext", "-layout", str(p), "-"], capture_output=True, text=True).stdout
+        if len(txt.strip()) > 200:  # shorter = scanned or image-only PDF
+            texts.append(txt)
     elif ext == ".docx":
         import docx
         d = docx.Document(p)

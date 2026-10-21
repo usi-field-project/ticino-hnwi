@@ -1,14 +1,14 @@
 obs_id,indicator_id,value,unit,collected_by,local_file,precheck,precheck_note
 EX-001,bank_offices,155,count,Elena,04_benchmark/contributor_data/elena/zurigo/02_banche e piazza finanziaria/Sportelli bancari per cantone 1987-2025 (BNS bastdagsua).xlsx,found,
 EX-002,bank_offices,344,count,Elena,04_benchmark/contributor_data/elena/zurigo/02_banche e piazza finanziaria/Sportelli bancari per cantone 1987-2025 (BNS bastdagsua).xlsx,found,
-EX-003,bank_offices,35,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-EX-004,population,135018,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+EX-003,bank_offices,35,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/snb-data-BSTA@SNB.JAHR_U.STK.GST-de-selection-20260924_1116.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+EX-004,population,135018,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/2026-0167-d.pdf,found,
 EX-005,establishments,40590,count,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
 EX-006,establishments,126784,count,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
 EX-007,credit_institutions,24,count,Elena,04_benchmark/contributor_data/elena/monaco/02_banche e piazza finanziaria/CCAF (autorità di vigilanza)/La place financière en chiffres - CCAF.pdf,derived_ok,value = sum of figures in the note; 2 of 2 figures found in the file
-EX-008,bank_branches_per_100k_adults,7.24,per 100k adults,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-EX-009,bank_offices,686,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-EX-010,credit_institutions,136,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+EX-008,bank_branches_per_100k_adults,7.24,per 100k adults,Luca,04_benchmark/contributor_data/luca/fonti/dubai/AREFCBODCANUM.csv,found,
+EX-009,bank_offices,686,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+EX-010,credit_institutions,136,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/ECB Data Portal long_20261021132216.xlsx,found,
 ZH-001,employment,1149866,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
 ZH-002,financial_sector_employment,90993,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,recomputed_ok,"recomputed from the file: 90993 = sum of NOGA 64, 65, 66 (Beschäftigte)"
 ZH-003,population,1628081,persons,Elena,"04_benchmark/contributor_data/elena/zurigo/09_popolazione e migrazione/struttura per età e famiglie/Popolazione per comune, età, sesso e origine 2010-2025 (KTZH_00000254_00001282).csv",derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
@@ -76,74 +76,74 @@ MC-014,wealth_tax_effective_ref,0,%,Elena,04_benchmark/contributor_data/elena/mo
 MC-015,inheritance_tax_direct,0,%,Elena,"04_benchmark/contributor_data/elena/monaco/07_tasse e residenza/fisco/Private Wealth 2026 Monaco - Chambers (fisco, successioni, residenza).pdf",manual,zero (e.g. no tax): read the source
 MC-016,investor_residence_route,yes,yes/no,Elena,04_benchmark/contributor_data/elena/monaco/07_tasse e residenza/residenza/Demander une carte de séjour.pdf,manual,qualitative value (yes/no): read the source
 MC-017,prime_price_m2,38800,currency per m2,Elena,04_benchmark/contributor_data/elena/monaco/01_ricchezza/rapporti internazionali/Most Expensive | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
-ZG-001,banks_headquartered,3,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-ZG-002,area_km2,207,km2,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-003,registered_companies,43275,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-004,establishments,20801,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-005,employment,135123,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+ZG-001,banks_headquartered,3,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/snb-data-BSTA@SNB.JAHR_U.STK.GST-de-selection-20260924_1116.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-002,area_km2,207,km2,Luca,04_benchmark/contributor_data/luca/fonti/zugo/zug-in-zahlen-2025.pdf,found_scaled,"found written in another unit (/100, e.g. billion vs million): check the unit"
+ZG-003,registered_companies,43275,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Das Zuger Handelsregister verzeichnet Rekordwerte.pdf,found,
+ZG-004,establishments,20801,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/excel-06-00-01 Beschäftigte und Betriebe nach Betriebsgrösse 2011 bis 2024.xlsx,found,
+ZG-005,employment,135123,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/excel-06-00-01 Beschäftigte und Betriebe nach Betriebsgrösse 2011 bis 2024.xlsx,found,
 ZG-006,financial_sector_employment,10023,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-007,employment_rate_15_64,77.6,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-008,unemployment_rate,4.6,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-007,employment_rate_15_64,77.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/su-i-40.02.03.02.03-2024.xlsx,found,
+ZG-008,unemployment_rate,4.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/su-i-40.02.03.02.03-2024.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
 ZG-009,crime_rate,42.6,per 1000 residents,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
 ZG-010,income_tax_effective_ref,21.7,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
 ZG-011,wealth_tax_effective_ref,0.213,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-012,lump_sum_taxation,yes,yes/no,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,qualitative value (yes/no): read the source
-ZG-013,lump_sum_min_base,500000,currency,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-ZG-014,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,zero (e.g. no tax): read the source
-ZG-015,foreign_residents_share,30.6,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-016,net_migration,995,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-017,net_international_migration,651,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-018,physicians,555,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+ZG-012,lump_sum_taxation,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/zugo/632.11.pdf,manual,qualitative value (yes/no): read the source
+ZG-013,lump_sum_min_base,500000,currency,Luca,04_benchmark/contributor_data/luca/fonti/zugo/632.11.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-014,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/632.1.pdf,manual,zero (e.g. no tax): read the source
+ZG-015,foreign_residents_share,30.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Bevölkerungsstand — Fachstelle für Daten und Statistik.pdf,found,
+ZG-016,net_migration,995,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Bevölkerungsstand — Fachstelle für Daten und Statistik.pdf,found,
+ZG-017,net_international_migration,651,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/2026-0167-d.pdf,found,
+ZG-018,physicians,555,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/1b.-berufstaetige-aerzteschaft-nach-kanton-und-sektor.pdf,found,
 ZG-019,hospital_beds,568,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-020,life_expectancy,84.6,years,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-021,international_schools,3,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-ZG-022,tertiary_education_share,54.6,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-ZG-023,centimillionaires,45,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-ZG-024,taxable_wealth_total,92038.8,currency (million),Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found_scaled,"found written in another unit (/1e6, e.g. billion vs million): check the unit"
-DXB-001,population,4580000,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-DXB-002,area_km2,4114,km2,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-DXB-003,wealth_managers,500,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-DXB-004,registered_companies,292486,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-DXB-005,new_companies,71830,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-DXB-006,unemployment_rate,2.17,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+ZG-020,life_expectancy,84.6,years,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+ZG-021,international_schools,3,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Liste der anerkannten Privatschulen.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-022,tertiary_education_share,54.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Zug_in_Zahlen_2025.pdf,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+ZG-023,centimillionaires,45,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Centi Hotspots - Wealthiest Cities 2025 - Henley & Partners.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-024,taxable_wealth_total,92038.8,currency (million),Luca,04_benchmark/contributor_data/luca/fonti/zugo/statistik-vermoegen-np-2022.xlsx,found_scaled,"found written in another unit (/1e6, e.g. billion vs million): check the unit"
+DXB-001,population,4580000,persons,Luca,"04_benchmark/contributor_data/luca/fonti/dubai/Dubai's Fastest Population Growth - 4.58 Million Residents, 6.39 Million Daytime Population and AI-Driven Census System.pdf",found_scaled,"found written in another unit (x1e6, e.g. billion vs million): check the unit"
+DXB-002,area_km2,4114,km2,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Geographic Location & Climate - The GDMO - Dubai Government Media Office.pdf,found,
+DXB-003,wealth_managers,500,count,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Dubai International Financial Centre announces landmark annual results for 2025.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+DXB-004,registered_companies,292486,count,Luca,"04_benchmark/contributor_data/luca/fonti/dubai/Dubai Chamber of Commerce records highest-ever annual member exports of AED356.5 billion in 2025, up 15.1%.pdf",found,
+DXB-005,new_companies,71830,count,Luca,"04_benchmark/contributor_data/luca/fonti/dubai/Dubai Chamber of Commerce records highest-ever annual member exports of AED356.5 billion in 2025, up 15.1%.pdf",found,
+DXB-006,unemployment_rate,2.17,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates Unemployment Rate.pdf,found,
 DXB-007,employment,9200000,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-DXB-008,financial_sector_employment,50200,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-DXB-009,sovereign_rating,3,notch (AAA = 1),Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-DXB-010,income_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,zero (e.g. no tax): read the source
-DXB-011,wealth_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,zero (e.g. no tax): read the source
-DXB-012,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,zero (e.g. no tax): read the source
-DXB-013,investor_residence_route,yes,yes/no,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,qualitative value (yes/no): read the source
-DXB-014,foreign_buyer_restrictions,yes,yes/no,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,qualitative value (yes/no): read the source
+DXB-008,financial_sector_employment,50200,persons,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Dubai International Financial Centre announces landmark annual results for 2025.pdf,found,
+DXB-009,sovereign_rating,3,notch (AAA = 1),Luca,04_benchmark/contributor_data/luca/fonti/dubai/UAE Aa2 Rating with Stable Outlook Unchanged Following Moody's Ratings Periodic Review - Ministry of.pdf,derived_partial,value = difference of figures in the note; 0 of 2 figures found in the file
+DXB-010,income_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates - Individual - Taxes on personal income.pdf,manual,zero (e.g. no tax): read the source
+DXB-011,wealth_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates - Individual - Other taxes.pdf,manual,zero (e.g. no tax): read the source
+DXB-012,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates - Individual - Other taxes.pdf,manual,zero (e.g. no tax): read the source
+DXB-013,investor_residence_route,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Golden visa - The Official Portal of the UAE Government.pdf,manual,qualitative value (yes/no): read the source
+DXB-014,foreign_buyer_restrictions,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Regulation No. (3) of 2006 Determining Areas for Ownership by Non-UAE Nationals of Real Property in .pdf,manual,qualitative value (yes/no): read the source
 DXB-015,prime_price_m2,43056,currency per m2,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
-DXB-016,foreign_residents_share,92,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+DXB-016,foreign_residents_share,92,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Dubai Population Statistics 2025 (Infographics).pdf,weak,"found in the file, but a short number matches easily: confirm the location"
 DXB-017,physicians,2.99,per 1000 residents,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
 DXB-018,hospital_beds,1.87,per 1000 residents,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-DXB-019,millionaires,81200,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-DXB-020,centimillionaires,237,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-001,population,2415261,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-002,area_km2,1390,km2,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-003,bank_branches_per_100k_adults,28.34,per 100k adults,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-004,registered_companies,376509,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-005,employment,1532308,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+DXB-019,millionaires,81200,persons,Luca,04_benchmark/contributor_data/luca/fonti/dubai/World's Wealthiest Cities 2025 - Press Release - Henley & Partners.pdf,found,
+DXB-020,centimillionaires,237,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Centi Hotspots - Wealthiest Cities 2025 - Henley & Partners.pdf,found,
+LIS-001,population,2415261,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+LIS-002,area_km2,1390,km2,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+LIS-003,bank_branches_per_100k_adults,28.34,per 100k adults,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/PRTFCBODCANUM.csv,found,
+LIS-004,registered_companies,376509,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/PORDATA_By-economic-activity.xlsx,found,
+LIS-005,employment,1532308,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
 LIS-006,employment_rate_15_64,75.8,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
 LIS-007,unemployment_rate,6.4,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-LIS-008,crime_rate,31.7,per 1000 residents,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-009,pm25_annual,7.2,µg/m3,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-LIS-010,income_tax_effective_ref,51.04,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-011,wealth_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,zero (e.g. no tax): read the source
-LIS-012,lump_sum_taxation,yes,yes/no,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,qualitative value (yes/no): read the source
-LIS-013,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,zero (e.g. no tax): read the source
-LIS-014,investor_residence_route,yes,yes/no,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,qualitative value (yes/no): read the source
+LIS-008,crime_rate,31.7,per 1000 residents,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+LIS-009,pm25_annual,7.2,µg/m3,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/City Trend viewer - European city air quality ranking - European Environment Agency (EEA).pdf,derived_partial,value = difference of figures in the note; 1 of 2 figures found in the file
+LIS-010,income_tax_effective_ref,51.04,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Portugal - Individual - Taxes on personal income.pdf,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+LIS-011,wealth_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Property Tax and Additional to Property Tax – 2026 Tax Guide – PwC Portugal.pdf,manual,zero (e.g. no tax): read the source
+LIS-012,lump_sum_taxation,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/incentivos_investigacao.pdf,manual,qualitative value (yes/no): read the source
+LIS-013,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Stamp Tax – 2026 Tax Guide – PwC Portugal.pdf,manual,zero (e.g. no tax): read the source
+LIS-014,investor_residence_route,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/minuta-declaracao-do-cumprimento-dos-requisitos-ari.pdf,manual,qualitative value (yes/no): read the source
 LIS-015,residential_price_m2,3836,currency per m2,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-016,foreign_buyer_restrictions,no,yes/no,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,manual,qualitative value (yes/no): read the source
+LIS-016,foreign_buyer_restrictions,no,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/C_2012326EN.01004701.pdf,manual,qualitative value (yes/no): read the source
 LIS-017,foreign_residents_share,22.4,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
 LIS-018,net_migration,56492,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-019,physicians,17168,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+LIS-019,physicians,17168,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/hlth_rs_physreg_defaultview_spreadsheet.xlsx,found,
 LIS-020,hospital_beds,9056,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-021,life_expectancy,82.9,years,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-022,tertiary_education_share,43.3,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
-LIS-023,international_schools,6,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
-LIS-024,centimillionaires,45,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+LIS-021,life_expectancy,82.9,years,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+LIS-022,tertiary_education_share,43.3,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/edat_lfse_04_defaultview_spreadsheet.xlsx,found,
+LIS-023,international_schools,6,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Find an IB World School - International Baccalaureate.pdf,not_found,"value not found in the file: check value, unit and file"
+LIS-024,centimillionaires,45,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Centi Hotspots - Wealthiest Cities 2025 - Henley & Partners.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
 TI-002,banks_headquartered,12,count,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
 TI-003,population,358903,persons,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
 TI-004,foreign_residents_share,29.4,%,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
