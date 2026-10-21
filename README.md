@@ -42,7 +42,13 @@ Data, sources and findings will be added progressively after the team has collec
 │   ├── research_questions.md
 │   ├── scoring_methodology.md
 │   └── segmentation_framework.md
-├── 03_data/
+├── 03_data/                     # benchmark data register (see 03_data/README.md)
+│   ├── README.md
+│   ├── coverage.csv
+│   ├── geographies.csv
+│   ├── indicators.csv
+│   ├── observations.csv
+│   └── validate_register.py
 ├── 04_benchmark/
 │   ├── ticino/
 │   ├── zug/
