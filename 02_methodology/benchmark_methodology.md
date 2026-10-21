@@ -33,12 +33,20 @@ The destinations are not the same kind of territory: Ticino and Zug are sub-nati
 
 For the Swiss destinations the canton is the unit even for Zurich and Geneva, so that they stay comparable with Ticino; city-level data is used only as context.
 
+### Ticino baseline and Lugano
+
+The baseline is the **Canton of Ticino as a whole**, not the city of Lugano. This matches the project brief (attractiveness of the canton) and the scope of the client contact (UHNWI Ticino). All local indicators for Ticino (population, banks and branches, companies, employment, healthcare, education, quality of life) are therefore measured at cantonal level.
+
+**Lugano is used only for tax profiles** (regime indicators). Swiss income and wealth tax depends on the municipal multiplier, so a single "Ticino tax rate" does not exist and a tax case has to be computed for one municipality. Lugano was agreed on 19.10.2026 as the reference municipality because it is where banks, family offices and international clients are concentrated. Other Lugano figures (e.g. prime property prices published only at city level) are proxies for the canton: they are recorded with `geo_match` = `smaller` and cannot be grade A.
+
+Optional sensitivity check: compute the same tax case for 2–3 other Ticino municipalities with a lower multiplier or a strong presence of wealthy residents, to show how much the result changes within the canton. Multipliers must be taken from the official cantonal source.
+
 ### Three kinds of indicators
 
 Not every indicator should be measured at the benchmark unit. Each indicator in the [indicator catalogue](../03_data/indicators.csv) has a `scope`:
 
 1. **Local**: describes what happens in the territory (population, banks and branches, companies, employment, property prices, crime, air quality, hospitals, schools). It must be measured at the benchmark unit. A value for a larger or smaller area is a proxy and is graded lower (see below).
-2. **Regime**: describes the rules that apply to a resident (income, wealth and inheritance tax, lump-sum taxation, residence permits). It is recorded for the level that sets the rule. In Switzerland the tax burden also depends on the municipality, so each canton uses a **reference municipality** (proposal: Lugano, Zurich, Zug, Geneva, Chur; St. Moritz as a sensitivity case for Graubünden), and the same taxpayer profiles are used everywhere.
+2. **Regime**: describes the rules that apply to a resident (income, wealth and inheritance tax, lump-sum taxation, residence permits). It is recorded for the level that sets the rule. In Switzerland the tax burden also depends on the municipality, so each canton uses a **reference municipality** (Lugano, agreed on 19.10.2026; proposal for the others: Zurich, Zug, Geneva, Chur; St. Moritz as a sensitivity case for Graubünden), and the same taxpayer profiles are used everywhere.
 3. **National**: only exists at country level (World Bank WGI, rule of law, credit rating of the state, FATF status). Using the national value is correct, but it is the same for all Swiss cantons, so it does not discriminate within the Swiss group.
 
 ## Comparison dimensions
