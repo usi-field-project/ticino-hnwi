@@ -49,3 +49,4 @@ physicians,Healthcare,Practising physicians,Physicians practising in the territo
 life_expectancy,Healthcare,Life expectancy at birth,"Life expectancy at birth, both sexes",years,local,higher_better,
 universities_ranked,Education,Universities in global rankings,Universities within about 1 hour of the main centre in the agreed global ranking (proposal: QS top 500),count,local,higher_better,"State ranking, edition and distance used"
 tertiary_education_share,Education,Tertiary-educated population,Population aged 25-64 with tertiary education,%,local,higher_better,
+business_aviation_airport,Quality of life,Business-aviation airport near the main centre,An airport open to business jets within about 30 minutes by road of the main centre (reference municipality),yes/no,local,higher_better,"Accessibility; record distance, runway and approach restrictions (e.g. steep-approach certification) in comparability_note"
