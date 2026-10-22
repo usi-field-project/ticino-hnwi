@@ -1,6 +1,6 @@
 # Geneva
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -8,14 +8,14 @@ Use the [shared research topics](../../02_methodology/benchmark_methodology.md#c
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | Resident millionaires: **70'200** (2024) `GE-008`<br>Resident centi-millionaires: **215** (2024) `GE-009`<br>GDP per inhabitant: **119'644 CHF per inhabitant** (2022) `GE-018` | Henley & Partners (data: New World Wealth)<br>[Swiss Federal Statistical Office (FSO)](https://ckan.opendata.swiss/it/perma/32627379@bundesamt-fur-statistik-bfs) | 2022 to 2024; Canton of Geneva | 3 of 3 values grade A |
+| **Banking presence and density** | Employment in financial and insurance activities: **31'437** (2024) `GE-003` | Swiss Federal Statistical Office (BFS) | 2024; Canton of Geneva | 1 of 1 values grade A |
+| **Business presence** | Local establishments (workplaces): **46'510** (2024) `GE-001` | Swiss Federal Statistical Office (BFS) | 2024; Canton of Geneva | 1 of 1 values grade A |
+| **Employment** | Persons employed: **401'982** (2024) `GE-002`<br>Median gross monthly wage: **7'893 CHF per month** (2024) `GE-015`<br>Employment rate 15-64: **64.6 %** (2024) `GE-019`<br>Unemployment rate: **11.5 %** (2024) `GE-020`<br>Employment rate 15-64: **73.0 %** (2025, Région lémanique (NUTS 2: VD, VS, GE)) `GE-021`<br>Unemployment rate: **7.8 %** (2025, Région lémanique (NUTS 2: VD, VS, GE)) `GE-022` | Swiss Federal Statistical Office (BFS)<br>Office cantonal de la statistique (OCSTAT)<br>[Swiss Federal Statistical Office (FSO)](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken.assetdetail.36347226.html)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tgs00007/default/table?lang=en) | 2024 to 2025; Canton of Geneva, Région lémanique (NUTS 2: VD, VS, GE) (larger) | 1 of 6 values grade A; `GE-015` grade B, `GE-019` grade B, `GE-020` grade B, `GE-021` grade B, `GE-022` grade B |
+| **Stability and institutions** | WGI Rule of Law: **1.738 score (-2.5 to 2.5)** (2025, Switzerland) `CH-001`<br>WGI Political Stability: **1.119 score (-2.5 to 2.5)** (2025, Switzerland) `CH-002` | World Bank | 2025; Switzerland | 2 of 2 values grade A |
+| **Quality of life** | Cost-of-living index: **113.35 index** (2026, City of Geneva) `GE-017`<br>Direct international destinations: **193** (2026-10) `GE-024` | Numbeo<br>[airportoverview.com](https://www.airportoverview.com/routes/GVA) | 2026 to 2026-10; City of Geneva (smaller), Canton of Geneva | 1 of 2 values grade A; `GE-017` grade B |
+| **Taxation and relocation** | Effective income tax, reference case: **36.37 %** (2026) `GE-006`<br>Effective wealth tax, reference case: **0.803 %** (2026) `GE-007`<br>Lump-sum taxation available: **yes** (2026) `GE-016` | Swiss Federal Tax Administration (ESTV/FTA)<br>Administration fiscale cantonale genevoise | 2026; City of Geneva, Canton of Geneva | 3 of 3 values grade A |
+| **Real estate** | Prime residential price per m2: **15'200 USD per m2** (2024, City of Geneva) `GE-010`<br>Prime residential price change: **4.2 %** (2026-Q1, City of Geneva) `GE-011`<br>Restrictions on foreign buyers: **yes** (2026, Switzerland) `CH-003` | Henley & Partners (data: New World Wealth)<br>Knight Frank<br>Kanton Zürich, Volkswirtschaftsdirektion | 2024 to 2026-Q1; City of Geneva (smaller), Switzerland (national proxy) | 1 of 3 values grade A; `GE-010` grade B, `GE-011` grade B |
+| **Population and migration** | Resident population: **530'246** (2024) `GE-012`<br>Share of foreign residents: **41.5 %** (2024) `GE-013`<br>Net migration: **4'185** (2024) `GE-014` | Office cantonal de la statistique (OCSTAT) | 2024; Canton of Geneva | 3 of 3 values grade A |
+| **Healthcare** | Practising physicians: **3'682** (2025) `GE-004`<br>Hospital beds: **2'449** (2024) `GE-005`<br>Life expectancy at birth: **84.6 years** (2024, Région lémanique (NUTS 2: VD, VS, GE)) `GE-023` | FMH Swiss Medical Association<br>Federal Office of Public Health (FOPH/BAG)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en) | 2024 to 2025; Canton of Geneva, Région lémanique (NUTS 2: VD, VS, GE) (larger) | 2 of 3 values grade A; `GE-023` grade B |
+| **Education** | No data in the register yet |  |  | To collect |

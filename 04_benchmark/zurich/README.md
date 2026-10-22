@@ -1,6 +1,6 @@
 # Zurich
 
-Status: research template; findings and sources to be collected.
+Status: table filled from [`03_data/observations.csv`](../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
@@ -8,14 +8,14 @@ Use the [shared research topics](../../02_methodology/benchmark_methodology.md#c
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
-| **Wealth** |  |  |  |  |
-| **Banking presence and density** |  |  |  |  |
-| **Business presence** |  |  |  |  |
-| **Employment** |  |  |  |  |
-| **Stability and institutions** |  |  |  |  |
-| **Quality of life** |  |  |  |  |
-| **Taxation and relocation** |  |  |  |  |
-| **Real estate** |  |  |  |  |
-| **Population and migration** |  |  |  |  |
-| **Healthcare** |  |  |  |  |
-| **Education** |  |  |  |  |
+| **Wealth** | Total taxable net wealth of individuals: **479'517 million CHF** (2024) `ZH-006`<br>Resident millionaires: **77'800** (2024) `ZH-010`<br>Resident centi-millionaires: **180** (2024) `ZH-011`<br>GDP per inhabitant: **104'620 CHF per inhabitant** (2022) `ZH-024`<br>Gross domestic product: **169'304 million EUR** (2022) `ZH-025` | Statistisches Amt des Kantons Zürich<br>Henley & Partners (data: New World Wealth)<br>[Swiss Federal Statistical Office (FSO)](https://ckan.opendata.swiss/it/perma/32627379@bundesamt-fur-statistik-bfs)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en) | 2022 to 2024; Canton of Zurich | 5 of 5 values grade A |
+| **Banking presence and density** | Bank offices (head offices + branches): **344** (2025) `EX-002`<br>Employment in financial and insurance activities: **90'993** (2024) `ZH-002` | [Swiss National Bank (SNB)](https://data.snb.ch/en/topics/banken/cube/bastdagsua)<br>Swiss Federal Statistical Office (BFS) | 2024 to 2025; Canton of Zurich | 2 of 2 values grade A; includes sample rows (`example`) |
+| **Business presence** | Local establishments (workplaces): **126'784** (2024) `EX-006`<br>New companies registered: **10'163** (2025) `ZH-022` | Swiss Federal Statistical Office (BFS)<br>Statistisches Amt des Kantons Zürich (data: ZEFIX / SHAB) | 2024 to 2025; Canton of Zurich | 2 of 2 values grade A; includes sample rows (`example`) |
+| **Employment** | Persons employed: **1'149'866** (2024) `ZH-001`<br>Unemployment rate: **2.6 %** (2025) `ZH-007`<br>Median gross monthly wage: **7'502 CHF per month** (2024) `ZH-018`<br>Employment rate 15-64: **79.0 %** (2024) `ZH-026`<br>Unemployment rate: **4.6 %** (2024) `ZH-027`<br>Employment rate 15-64: **82.2 %** (2025) `ZH-028`<br>Unemployment rate: **4.5 %** (2025) `ZH-029` | Swiss Federal Statistical Office (BFS)<br>Statistisches Amt des Kantons Zürich<br>[Swiss Federal Statistical Office (FSO)](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken.assetdetail.36347226.html)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tgs00007/default/table?lang=en) | 2024 to 2025; Canton of Zurich | 4 of 7 values grade A; `ZH-007` grade B, `ZH-026` grade B, `ZH-027` grade B |
+| **Stability and institutions** | WGI Rule of Law: **1.738 score (-2.5 to 2.5)** (2025, Switzerland) `CH-001`<br>WGI Political Stability: **1.119 score (-2.5 to 2.5)** (2025, Switzerland) `CH-002` | World Bank | 2025; Switzerland | 2 of 2 values grade A |
+| **Quality of life** | Recorded offences per 1000 residents: **64.6 per 1000 residents** (2025) `ZH-012`<br>PM2.5 annual mean: **7.5 µg/m3** (2024, City of Zurich) `ZH-013`<br>Direct international destinations: **212** (2026) `ZH-019`<br>Direct international destinations: **256** (2026-10) `ZH-031` | Kantonspolizei Zürich / Statistisches Amt des Kantons Zürich<br>Umwelt- und Gesundheitsschutz Zürich (UGZ), City of Zurich<br>Flughafen Zürich AG<br>[airportoverview.com](https://www.airportoverview.com/routes/ZRH) | 2024 to 2026-10; Canton of Zurich, City of Zurich (smaller) | 2 of 4 values grade A; `ZH-013` grade B, `ZH-019` grade B |
+| **Taxation and relocation** | Effective income tax, reference case: **33.37 %** (2026) `ZH-014`<br>Effective wealth tax, reference case: **0.555 %** (2026) `ZH-015`<br>Inheritance tax for direct descendants: **0 %** (2026) `ZH-016`<br>Lump-sum taxation available: **no** (2026) `ZH-017` | Swiss Federal Tax Administration (ESTV/FTA)<br>Kantonales Steueramt Zürich<br>Regierungsrat des Kantons Zürich | 2026; City of Zurich, Canton of Zurich | 4 of 4 values grade A |
+| **Real estate** | Prime residential price per m2: **31'000 CHF per m2** (2025, City of Zurich) `ZH-020`<br>Prime residential price change: **4.8 %** (2026-Q1, City of Zurich) `ZH-023`<br>Restrictions on foreign buyers: **yes** (2026, Switzerland) `CH-003` | UBS<br>Knight Frank<br>Kanton Zürich, Volkswirtschaftsdirektion | 2025 to 2026-Q1; City of Zurich (smaller), Switzerland (national proxy) | 1 of 3 values grade A; `ZH-020` grade B, `ZH-023` grade B |
+| **Population and migration** | Resident population: **1'628'081** (2025) `ZH-003`<br>Share of foreign residents: **29.0 %** (2025) `ZH-004`<br>Net migration: **12'352** (2024) `ZH-005` | Statistisches Amt des Kantons Zürich | 2024 to 2025; Canton of Zurich | 3 of 3 values grade A |
+| **Healthcare** | Practising physicians: **9'584** (2025) `ZH-008`<br>Hospital beds: **5'953.5** (2024) `ZH-009`<br>Life expectancy at birth: **84.2 years** (2024) `ZH-030` | FMH Swiss Medical Association<br>Federal Office of Public Health (FOPH/BAG)<br>[Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en) | 2024 to 2025; Canton of Zurich | 3 of 3 values grade A |
+| **Education** | International schools: **4** (2026) `ZH-021` | Team research (school websites) | 2026; Canton of Zurich | 0 of 1 values grade A; `ZH-021` grade C |
