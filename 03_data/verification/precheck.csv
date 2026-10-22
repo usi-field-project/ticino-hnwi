@@ -1,0 +1,320 @@
+obs_id,indicator_id,value,unit,collected_by,local_file,precheck,precheck_note
+EX-001,bank_offices,155,count,Elena,04_benchmark/contributor_data/elena/zurigo/02_banche e piazza finanziaria/Sportelli bancari per cantone 1987-2025 (BNS bastdagsua).xlsx,found,
+EX-002,bank_offices,344,count,Elena,04_benchmark/contributor_data/elena/zurigo/02_banche e piazza finanziaria/Sportelli bancari per cantone 1987-2025 (BNS bastdagsua).xlsx,found,
+EX-003,bank_offices,35,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/snb-data-BSTA@SNB.JAHR_U.STK.GST-de-selection-20260924_1116.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+EX-004,population,135018,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/2026-0167-d.pdf,found,
+EX-005,establishments,40590,count,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+EX-006,establishments,126784,count,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+EX-007,credit_institutions,24,count,Elena,04_benchmark/contributor_data/elena/monaco/02_banche e piazza finanziaria/CCAF (autorità di vigilanza)/La place financière en chiffres - CCAF.pdf,derived_ok,value = sum of figures in the note; 2 of 2 figures found in the file
+EX-008,bank_branches_per_100k_adults,7.24,per 100k adults,Luca,04_benchmark/contributor_data/luca/fonti/dubai/AREFCBODCANUM.csv,found,
+EX-009,bank_offices,686,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+EX-010,credit_institutions,136,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/ECB Data Portal long_20261021132216.xlsx,found,
+ZH-001,employment,1149866,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+ZH-002,financial_sector_employment,90993,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,recomputed_ok,"recomputed from the file: 90993 = sum of NOGA 64, 65, 66 (Beschäftigte)"
+ZH-003,population,1628081,persons,Elena,"04_benchmark/contributor_data/elena/zurigo/09_popolazione e migrazione/struttura per età e famiglie/Popolazione per comune, età, sesso e origine 2010-2025 (KTZH_00000254_00001282).csv",derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+ZH-004,foreign_residents_share,29.0,%,Elena,04_benchmark/contributor_data/elena/zurigo/09_popolazione e migrazione/migrazione e stranieri/Ausländeranteil [%] (KANTON_ZUERICH_205).csv,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-005,net_migration,12352,persons,Elena,04_benchmark/contributor_data/elena/zurigo/09_popolazione e migrazione/migrazione e stranieri/Wanderungsbilanz [Pers.] (KANTON_ZUERICH_104).csv,found,
+ZH-006,taxable_wealth_total,479517,currency (million),Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/patrimonio e reddito per comune/Steuerbares Vermögen natürliche Pers. [Mio.Fr.] (KANTON_ZUERICH_284).csv,found,
+ZH-007,unemployment_rate,2.6,%,Elena,04_benchmark/contributor_data/elena/zurigo/04_occupazione/disoccupazione/Tasso di disoccupazione medio annuo (KTZH_00003160_00006818).csv,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-008,physicians,9584,persons,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/medici (FMH)/1b.-medecins-en-exercice-par-canton-et-par-secteur.pdf,found,
+ZH-009,hospital_beds,5953.5,count,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/ospedali (UFSP)/kzp24_data.xlsx,recomputed_ok,"recomputed from the file: 5953.5 = sum of BettenStatA, BettenStatP, BettenStatR, BettenStatB over 42 hospitals"
+CH-001,wgi_rule_of_law,1.738,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+CH-002,wgi_political_stability,1.119,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+SG-001,wgi_rule_of_law,1.489,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+SG-002,wgi_political_stability,1.334,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+MC-001,wgi_rule_of_law,1.649,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+MC-002,wgi_political_stability,1.253,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+ZH-010,millionaires,77800,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+ZH-011,centimillionaires,180,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-012,crime_rate,64.6,per 1000 residents,Elena,04_benchmark/contributor_data/elena/zurigo/06_qualità della vita/sicurezza e criminalità/KTZH_00001202_00002278.csv,derived_partial,value = ratio of figures in the note; 1 of 2 figures found in the file
+ZH-013,pm25_annual,7.5,µg/m3,Elena,04_benchmark/contributor_data/elena/zurigo/06_qualità della vita/aria (città di Zurigo)/ugz_ogd_air_h1_2024.csv,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-014,income_tax_effective_ref,33.37,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+ZH-015,wealth_tax_effective_ref,0.555,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+ZH-016,inheritance_tax_direct,0,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/successioni e donazioni ZH/398 Merkblatt Erbschaft Schenkung ZH 2025 bf DEF.pdf,manual,zero (e.g. no tax): read the source
+ZH-017,lump_sum_taxation,no,yes/no,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/documentazione ESTV e calcolatore/RRB-2010-1776.pdf,manual,qualitative value (yes/no): read the source
+CH-003,foreign_buyer_restrictions,yes,yes/no,Elena,04_benchmark/contributor_data/elena/zurigo/08_immobili/acquisto da stranieri (Lex Koller)/Grundstückerwerb durch Personen im Ausland | Kanton Zürich.pdf,manual,qualitative value (yes/no): read the source
+ZH-018,median_wage,7502,currency per month,Elena,04_benchmark/contributor_data/elena/zurigo/04_occupazione/occupati e salari/Salari LSE 2024 - comunicato BFS 25.11.2025.pdf,found,
+TI-001,median_wage,5708,currency per month,Elena,04_benchmark/contributor_data/elena/zurigo/04_occupazione/occupati e salari/Salari LSE 2024 - comunicato BFS 25.11.2025.pdf,found,
+ZH-019,air_destinations_direct,212,count,Elena,04_benchmark/contributor_data/elena/zurigo/12_accessibilità/aeroporto di Zurigo/Business update - Zurich Airport Ltd. - Interim Report 2026.pdf,found,
+ZH-020,prime_price_m2,31000,currency per m2,Elena,04_benchmark/contributor_data/elena/zurigo/08_immobili/lusso/e-luxury-property-focus-2026.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-021,international_schools,4,count,Elena,04_benchmark/contributor_data/elena/zurigo/11_istruzione/scuole/scuole_internazionali_zurigo.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-022,new_companies,10163,count,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/registro di commercio/KANTON_ZUERICH_ZEFIX_Neugruendungen.csv,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+SG-003,population,6111175,persons,Elena,04_benchmark/contributor_data/elena/singapore/09_popolazione e migrazione/SingStat_indicatori_popolazione.xlsx,found,
+SG-004,foreign_residents_share,40.1,%,Elena,04_benchmark/contributor_data/elena/singapore/09_popolazione e migrazione/SingStat_indicatori_popolazione.xlsx,found,
+SG-005,life_expectancy,83.9,years,Elena,04_benchmark/contributor_data/elena/singapore/09_popolazione e migrazione/SingStat_indicatori_popolazione.xlsx,found,
+SG-006,tertiary_education_share,54.5,%,Elena,04_benchmark/contributor_data/elena/singapore/09_popolazione e migrazione/SingStat_indicatori_popolazione.xlsx,found,
+SG-007,millionaires,242400,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+SG-008,centimillionaires,333,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+SG-009,establishments,330453,count,Elena,"04_benchmark/contributor_data/elena/singapore/03_imprese/imprese per settore/Servizi - imprese, ricavi e occupati per settore SSIC 2010-2024 (SingStat).csv",derived_partial,value = sum of figures in the note; 1 of 2 figures found in the file
+SG-010,new_companies,78146,count,Elena,04_benchmark/contributor_data/elena/singapore/03_imprese/Formation_1Oct2026.xlsx,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+SG-011,bank_offices,315,count,Elena,"04_benchmark/contributor_data/elena/singapore/02_banche e piazza finanziaria/banche/SingStat - numero istituti finanziari, sportelli e bancomat (T4, T13).xlsx",found,
+SG-012,credit_institutions,133,count,Elena,"04_benchmark/contributor_data/elena/singapore/02_banche e piazza finanziaria/banche/SingStat - numero istituti finanziari, sportelli e bancomat (T4, T13).xlsx",found,
+SG-013,banks_headquartered,6,count,Elena,"04_benchmark/contributor_data/elena/singapore/02_banche e piazza finanziaria/banche/SingStat - numero istituti finanziari, sportelli e bancomat (T4, T13).xlsx",weak,"found in the file, but a short number matches easily: confirm the location"
+SG-014,hospital_beds,17296,count,Elena,04_benchmark/contributor_data/elena/singapore/10_sanità/Beds In Inpatient Facilities and Places In Non-Residential Long-Term Care Facilities (1).xlsx,derived_ok,value = sum of figures in the note; 3 of 3 figures found in the file
+SG-015,pm25_annual,12,µg/m3,Elena,04_benchmark/contributor_data/elena/singapore/06_qualità della vita/aria/Inquinamento aria annuale (data.gov.sg).csv,weak,"found in the file, but a short number matches easily: confirm the location"
+SG-016,crime_rate,3.4,per 1000 residents,Elena,04_benchmark/contributor_data/elena/singapore/06_qualità della vita/sicurezza e criminalità/Annual Crime Brief 2025.pdf,derived_partial,value = ratio of figures in the note; 1 of 2 figures found in the file
+SG-017,top_income_tax_rate,24,%,Elena,04_benchmark/contributor_data/elena/singapore/07_tasse e residenza/fisco/IRAS - aliquote imposta sul reddito persone fisiche.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+SG-018,inheritance_tax_direct,0,%,Elena,"04_benchmark/contributor_data/elena/singapore/07_tasse e residenza/fisco/IRAS - FAQ imposta di successione (Estate Duty, abolita nel 2008).pdf",manual,zero (e.g. no tax): read the source
+SG-019,foreign_buyer_restrictions,yes,yes/no,Elena,04_benchmark/contributor_data/elena/singapore/08_immobili/acquisto da stranieri (ABSD)/IRAS | Additional Buyer's Stamp Duty (ABSD).pdf,manual,qualitative value (yes/no): read the source
+SG-020,investor_residence_route,yes,yes/no,Elena,04_benchmark/contributor_data/elena/singapore/07_tasse e residenza/residenza/Global Investor Programme - factsheet.pdf,manual,qualitative value (yes/no): read the source
+SG-021,prime_price_m2,16700,currency per m2,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Most Expensive | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+SG-022,prime_price_change_yoy,9.8,%,Elena,04_benchmark/contributor_data/elena/singapore/08_immobili/Knight Frank Prime Global Cities Index Q1 2026.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-023,prime_price_change_yoy,4.8,%,Elena,04_benchmark/contributor_data/elena/singapore/08_immobili/Knight Frank Prime Global Cities Index Q1 2026.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+MC-003,prime_price_change_yoy,2.3,%,Elena,04_benchmark/contributor_data/elena/singapore/08_immobili/Knight Frank Prime Global Cities Index Q1 2026.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+SG-023,air_destinations_direct,170,count,Elena,04_benchmark/contributor_data/elena/singapore/12_accessibilità/Changi Airport - traffico record 2025 (comunicato CAG via Airlinergs).pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+MC-004,population,38857,persons,Elena,04_benchmark/contributor_data/elena/monaco/09_popolazione e migrazione/censimento 2025 (EN)/2025 Census Report.pdf,found,
+MC-005,foreign_residents_share,76.0,%,Elena,04_benchmark/contributor_data/elena/monaco/09_popolazione e migrazione/censimento 2025 (EN)/2025 Census Report.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+MC-006,gdp_nominal,10280,currency (million),Elena,04_benchmark/contributor_data/elena/monaco/03_imprese ed economia/PIL/Rapport PIB 2024.pdf,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+MC-007,employment,77866,persons,Elena,04_benchmark/contributor_data/elena/monaco/04_occupazione/Monaco en Chiffres 2026 - Cap. 3 Occupazione.pdf,found,
+MC-008,financial_sector_employment,4693,persons,Elena,04_benchmark/contributor_data/elena/monaco/04_occupazione/Monaco en Chiffres 2026 - Cap. 3 Occupazione.pdf,found,
+MC-009,establishments,7998,count,Elena,04_benchmark/contributor_data/elena/monaco/03_imprese ed economia/Monaco en Chiffres 2026 - Cap. 4 Economia.pdf,found,
+MC-010,new_companies,1070,count,Elena,04_benchmark/contributor_data/elena/monaco/03_imprese ed economia/Monaco en Chiffres 2026 - Cap. 4 Economia.pdf,found,
+MC-011,crime_rate,27.2,per 1000 residents,Elena,"04_benchmark/contributor_data/elena/monaco/05_stabilità e istituzioni/Monaco en Chiffres 2026 - Cap. 5 Vita pubblica, giustizia e sicurezza.pdf",derived_partial,value = ratio of figures in the note; 1 of 2 figures found in the file
+MC-012,hospital_beds,426,count,Elena,"04_benchmark/contributor_data/elena/monaco/06_qualità della vita/Monaco en Chiffres 2026 - Cap. 6 Quadro di vita (alloggio, istruzione, sanità).pdf",found,
+MC-013,income_tax_effective_ref,0,%,Elena,04_benchmark/contributor_data/elena/monaco/07_tasse e residenza/fisco/Tax in Monaco.pdf,manual,zero (e.g. no tax): read the source
+MC-014,wealth_tax_effective_ref,0,%,Elena,04_benchmark/contributor_data/elena/monaco/07_tasse e residenza/fisco/Tax in Monaco.pdf,manual,zero (e.g. no tax): read the source
+MC-015,inheritance_tax_direct,0,%,Elena,"04_benchmark/contributor_data/elena/monaco/07_tasse e residenza/fisco/Private Wealth 2026 Monaco - Chambers (fisco, successioni, residenza).pdf",manual,zero (e.g. no tax): read the source
+MC-016,investor_residence_route,yes,yes/no,Elena,04_benchmark/contributor_data/elena/monaco/07_tasse e residenza/residenza/Demander une carte de séjour.pdf,manual,qualitative value (yes/no): read the source
+MC-017,prime_price_m2,38800,currency per m2,Elena,04_benchmark/contributor_data/elena/monaco/01_ricchezza/rapporti internazionali/Most Expensive | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+ZG-001,banks_headquartered,3,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/snb-data-BSTA@SNB.JAHR_U.STK.GST-de-selection-20260924_1116.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-002,area_km2,207,km2,Luca,04_benchmark/contributor_data/luca/fonti/zugo/zug-in-zahlen-2025.pdf,found_scaled,"found written in another unit (/100, e.g. billion vs million): check the unit"
+ZG-003,registered_companies,43275,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Das Zuger Handelsregister verzeichnet Rekordwerte.pdf,found,
+ZG-004,establishments,20801,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/excel-06-00-01 Beschäftigte und Betriebe nach Betriebsgrösse 2011 bis 2024.xlsx,found,
+ZG-005,employment,135123,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/excel-06-00-01 Beschäftigte und Betriebe nach Betriebsgrösse 2011 bis 2024.xlsx,found,
+ZG-006,financial_sector_employment,10023,persons,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+ZG-007,employment_rate_15_64,77.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/su-i-40.02.03.02.03-2024.xlsx,found,
+ZG-008,unemployment_rate,4.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/su-i-40.02.03.02.03-2024.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-009,crime_rate,42.6,per 1000 residents,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+ZG-010,income_tax_effective_ref,21.7,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Risultato imposta sul reddito.pdf,not_found,"value not found in the file: check value, unit and file"
+ZG-011,wealth_tax_effective_ref,0.213,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+ZG-012,lump_sum_taxation,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/zugo/632.11.pdf,manual,qualitative value (yes/no): read the source
+ZG-013,lump_sum_min_base,500000,currency,Luca,04_benchmark/contributor_data/luca/fonti/zugo/632.11.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-014,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/632.1.pdf,manual,zero (e.g. no tax): read the source
+ZG-015,foreign_residents_share,30.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Bevölkerungsstand — Fachstelle für Daten und Statistik.pdf,found,
+ZG-016,net_migration,995,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Bevölkerungsstand — Fachstelle für Daten und Statistik.pdf,found,
+ZG-017,net_international_migration,651,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/2026-0167-d.pdf,found,
+ZG-018,physicians,555,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/1b.-berufstaetige-aerzteschaft-nach-kanton-und-sektor.pdf,found,
+ZG-019,hospital_beds,568,count,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+ZG-020,life_expectancy,84.6,years,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+ZG-021,international_schools,3,count,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Liste der anerkannten Privatschulen.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-022,tertiary_education_share,54.6,%,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Zug_in_Zahlen_2025.pdf,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+ZG-023,centimillionaires,45,persons,Luca,04_benchmark/contributor_data/luca/fonti/zugo/Centi Hotspots - Wealthiest Cities 2025 - Henley & Partners.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+ZG-024,taxable_wealth_total,92038.8,currency (million),Luca,04_benchmark/contributor_data/luca/fonti/zugo/statistik-vermoegen-np-2022.xlsx,found_scaled,"found written in another unit (/1e6, e.g. billion vs million): check the unit"
+DXB-001,population,4580000,persons,Luca,"04_benchmark/contributor_data/luca/fonti/dubai/Dubai's Fastest Population Growth - 4.58 Million Residents, 6.39 Million Daytime Population and AI-Driven Census System.pdf",found_scaled,"found written in another unit (x1e6, e.g. billion vs million): check the unit"
+DXB-002,area_km2,4114,km2,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Geographic Location & Climate - The GDMO - Dubai Government Media Office.pdf,found,
+DXB-003,wealth_managers,500,count,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Dubai International Financial Centre announces landmark annual results for 2025.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+DXB-004,registered_companies,292486,count,Luca,"04_benchmark/contributor_data/luca/fonti/dubai/Dubai Chamber of Commerce records highest-ever annual member exports of AED356.5 billion in 2025, up 15.1%.pdf",found,
+DXB-005,new_companies,71830,count,Luca,"04_benchmark/contributor_data/luca/fonti/dubai/Dubai Chamber of Commerce records highest-ever annual member exports of AED356.5 billion in 2025, up 15.1%.pdf",found,
+DXB-006,unemployment_rate,2.17,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates Unemployment Rate.pdf,found,
+DXB-007,employment,9200000,persons,Luca,04_benchmark/contributor_data/luca/fonti/dubai/UAE among world's lowest in unemployment as labour force hits record 9.4 million.pdf,found_scaled,"found written in another unit (x1e6, e.g. billion vs million): check the unit"
+DXB-008,financial_sector_employment,50200,persons,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Dubai International Financial Centre announces landmark annual results for 2025.pdf,found,
+DXB-009,sovereign_rating,3,notch (AAA = 1),Luca,04_benchmark/contributor_data/luca/fonti/dubai/UAE Aa2 Rating with Stable Outlook Unchanged Following Moody's Ratings Periodic Review - Ministry of.pdf,derived_partial,value = difference of figures in the note; 0 of 2 figures found in the file
+DXB-010,income_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates - Individual - Taxes on personal income.pdf,manual,zero (e.g. no tax): read the source
+DXB-011,wealth_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates - Individual - Other taxes.pdf,manual,zero (e.g. no tax): read the source
+DXB-012,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/United Arab Emirates - Individual - Other taxes.pdf,manual,zero (e.g. no tax): read the source
+DXB-013,investor_residence_route,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Golden visa - The Official Portal of the UAE Government.pdf,manual,qualitative value (yes/no): read the source
+DXB-014,foreign_buyer_restrictions,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Regulation No. (3) of 2006 Determining Areas for Ownership by Non-UAE Nationals of Real Property in .pdf,manual,qualitative value (yes/no): read the source
+DXB-015,prime_price_m2,43056,currency per m2,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+DXB-016,foreign_residents_share,92,%,Luca,04_benchmark/contributor_data/luca/fonti/dubai/Dubai Population Statistics 2025 (Infographics).pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+DXB-017,physicians,2.99,per 1000 residents,Luca,04_benchmark/contributor_data/luca/fonti/dubai/physicians-per-1000-people.pdf,found,
+DXB-018,hospital_beds,1.87,per 1000 residents,Luca,04_benchmark/contributor_data/luca/fonti/dubai/hospital-beds-per-1000-people.pdf,found,
+DXB-019,millionaires,81200,persons,Luca,04_benchmark/contributor_data/luca/fonti/dubai/World's Wealthiest Cities 2025 - Press Release - Henley & Partners.pdf,found,
+DXB-020,centimillionaires,237,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Centi Hotspots - Wealthiest Cities 2025 - Henley & Partners.pdf,found,
+LIS-001,population,2415261,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+LIS-002,area_km2,1390,km2,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+LIS-003,bank_branches_per_100k_adults,28.34,per 100k adults,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/PRTFCBODCANUM.csv,found,
+LIS-004,registered_companies,376509,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/PORDATA_By-economic-activity.xlsx,found,
+LIS-005,employment,1532308,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+LIS-006,employment_rate_15_64,75.8,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/tgs00007_page_spreadsheet.xlsx,found,
+LIS-007,unemployment_rate,6.4,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/tgs00010_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+LIS-008,crime_rate,31.7,per 1000 residents,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Your municipality in numbers! Grande Lisboa (NUTS II).pdf,no_text,no numbers extracted from the file (scanned PDF or image?): check manually
+LIS-009,pm25_annual,7.2,µg/m3,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/City Trend viewer - European city air quality ranking - European Environment Agency (EEA).pdf,derived_partial,value = difference of figures in the note; 1 of 2 figures found in the file
+LIS-010,income_tax_effective_ref,51.04,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Portugal - Individual - Taxes on personal income.pdf,derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+LIS-011,wealth_tax_effective_ref,0,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Property Tax and Additional to Property Tax – 2026 Tax Guide – PwC Portugal.pdf,manual,zero (e.g. no tax): read the source
+LIS-012,lump_sum_taxation,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/incentivos_investigacao.pdf,manual,qualitative value (yes/no): read the source
+LIS-013,inheritance_tax_direct,0,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Stamp Tax – 2026 Tax Guide – PwC Portugal.pdf,manual,zero (e.g. no tax): read the source
+LIS-014,investor_residence_route,yes,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/minuta-declaracao-do-cumprimento-dos-requisitos-ari.pdf,manual,qualitative value (yes/no): read the source
+LIS-015,residential_price_m2,3836,currency per m2,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Destaque_HAB_1T2026_PT.xlsx,found,
+LIS-016,foreign_buyer_restrictions,no,yes/no,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/C_2012326EN.01004701.pdf,manual,qualitative value (yes/no): read the source
+LIS-017,foreign_residents_share,22.4,%,Luca,04_benchmark/contributor_data/luca/Zugo_Dubai_Lisbona_finale.xlsx,found,
+LIS-018,net_migration,56492,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/demo_r_gind3__custom_23434637_spreadsheet.xlsx,found,
+LIS-019,physicians,17168,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/hlth_rs_physreg_defaultview_spreadsheet.xlsx,found,
+LIS-020,hospital_beds,9056,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/hlth_rs_bdsrg2_defaultview_spreadsheet.xlsx,found,
+LIS-021,life_expectancy,82.9,years,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+LIS-022,tertiary_education_share,43.3,%,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/edat_lfse_04_defaultview_spreadsheet.xlsx,found,
+LIS-023,international_schools,6,count,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Find an IB World School - International Baccalaureate.pdf,not_found,"value not found in the file: check value, unit and file"
+LIS-024,centimillionaires,45,persons,Luca,04_benchmark/contributor_data/luca/fonti/lisbona/Centi Hotspots - Wealthiest Cities 2025 - Henley & Partners.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+TI-002,banks_headquartered,12,count,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+TI-003,population,358903,persons,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
+TI-004,foreign_residents_share,29.4,%,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
+TI-005,net_international_migration,2576,persons,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
+TI-006,net_migration,2225,persons,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
+TI-007,crime_rate,51.7,per 1000 residents,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,derived_ok,value = ratio of figures in the note; 2 of 2 figures found in the file
+TI-008,pm25_annual,15,µg/m3,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+TI-009,lump_sum_taxation,yes,yes/no,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,manual,qualitative value (yes/no): read the source
+TI-010,lump_sum_min_base,434700,currency,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
+TI-011,top_income_tax_rate,37.96,%,Petra,04_benchmark/contributor_data/petra/Ticino_Metrics.xlsx,found,
+GR-001,population,207400,persons,Petra,04_benchmark/contributor_data/petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,found,
+GR-002,foreign_residents_share,21.0,%,Petra,04_benchmark/contributor_data/petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+GR-003,net_migration,2000,persons,Petra,04_benchmark/contributor_data/petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+GR-004,crime_rate,50.7,per 1000 residents,Petra,04_benchmark/contributor_data/petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,derived_ok,value = ratio of figures in the note; 2 of 2 figures found in the file
+GR-005,unemployment_rate,1.4,%,Petra,04_benchmark/contributor_data/petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+GR-006,taxable_wealth_total,86000,currency (million),Petra,04_benchmark/contributor_data/petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+GR-007,lump_sum_taxation,yes,yes/no,Petra,04_benchmark/contributor_data/petra/Graubuenden_HNWI_Comparison_Workbook (1).xlsx,manual,qualitative value (yes/no): read the source
+LU-001,population,690959,persons,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-002,foreign_residents_share,46.6,%,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-003,net_international_migration,7844,persons,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-004,credit_institutions,116,count,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-005,registered_companies,48813,count,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-006,employment,517700,persons,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-007,financial_sector_employment,55000,persons,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+LU-008,unemployment_rate,5.7,%,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+LU-009,crime_rate,60.0,per 1000 residents,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+LU-010,hospital_beds,2686,count,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-011,life_expectancy,83.5,years,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-012,employment_rate_15_64,83.5,%,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-013,tertiary_education_share,63.8,%,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-014,top_income_tax_rate,45.78,%,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+LU-015,inheritance_tax_direct,0,%,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,manual,zero (e.g. no tax): read the source
+LU-016,residential_price_m2,7795,currency per m2,Petra,04_benchmark/contributor_data/petra/Luxembourg_HNWI_Comparison_Workbook.xlsx,found,
+TI-012,employment,250618,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+TI-013,financial_sector_employment,12641,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,recomputed_ok,"recomputed from the file: 12641 = sum of NOGA 64, 65, 66 (Beschäftigte)"
+GE-001,establishments,46510,count,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+GE-002,employment,401982,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+GE-003,financial_sector_employment,31437,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,recomputed_ok,"recomputed from the file: 31437 = sum of NOGA 64, 65, 66 (Beschäftigte)"
+GR-008,establishments,21235,count,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+GR-009,employment,142755,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,found,
+GR-010,financial_sector_employment,3543,persons,Elena,04_benchmark/contributor_data/elena/zurigo/03_imprese/BFS STATENT - sedi e occupati per cantone e settore 2011-2024 (tutti i cantoni).csv,recomputed_ok,"recomputed from the file: 3543 = sum of NOGA 64, 65, 66 (Beschäftigte)"
+TI-014,physicians,2093,persons,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/medici (FMH)/1b.-medecins-en-exercice-par-canton-et-par-secteur.pdf,found,
+GE-004,physicians,3682,persons,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/medici (FMH)/1b.-medecins-en-exercice-par-canton-et-par-secteur.pdf,found,
+GR-011,physicians,1007,persons,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/medici (FMH)/1b.-medecins-en-exercice-par-canton-et-par-secteur.pdf,found,
+TI-015,hospital_beds,1757.0,count,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/ospedali (UFSP)/kzp24_data.xlsx,recomputed_ok,"recomputed from the file: 1757 = sum of BettenStatA, BettenStatP, BettenStatR, BettenStatB over 11 hospitals"
+GE-005,hospital_beds,2449.0,count,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/ospedali (UFSP)/kzp24_data.xlsx,recomputed_ok,"recomputed from the file: 2449 = sum of BettenStatA, BettenStatP, BettenStatR, BettenStatB over 13 hospitals"
+GR-012,hospital_beds,1201.9,count,Elena,04_benchmark/contributor_data/elena/zurigo/10_sanità/ospedali (UFSP)/kzp24_data.xlsx,recomputed_ok,"recomputed from the file: 1201.9 = sum of BettenStatA, BettenStatP, BettenStatR, BettenStatB over 18 hospitals"
+TI-016,income_tax_effective_ref,33.52,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-017,wealth_tax_effective_ref,0.483,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+GE-006,income_tax_effective_ref,36.37,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+GE-007,wealth_tax_effective_ref,0.803,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+GR-013,income_tax_effective_ref,28.25,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+GR-014,wealth_tax_effective_ref,0.304,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+ZG-025,income_tax_effective_ref,19.31,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+ZG-026,wealth_tax_effective_ref,0.208,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_capoluoghi.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+DXB-021,wgi_rule_of_law,0.543,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+DXB-022,wgi_political_stability,0.826,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+LIS-025,wgi_rule_of_law,1.046,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+LIS-026,wgi_political_stability,0.702,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+LU-017,wgi_rule_of_law,1.708,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+LU-018,wgi_political_stability,1.193,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+LDN-001,wgi_rule_of_law,1.268,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+LDN-002,wgi_political_stability,0.29,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+MI-001,wgi_rule_of_law,0.585,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+MI-002,wgi_political_stability,0.457,score (-2.5 to 2.5),Elena,04_benchmark/contributor_data/elena/singapore/05_stabilità e istituzioni/World Bank WGI/wgidataset_with_sourcedata-2026.xlsx,found,
+GE-008,millionaires,70200,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+GE-009,centimillionaires,215,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+LDN-003,millionaires,215700,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+LDN-004,centimillionaires,352,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+MI-003,millionaires,115000,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+MI-004,centimillionaires,182,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+LIS-027,millionaires,22200,persons,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Top 50 Cities | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+GE-010,prime_price_m2,15200,currency per m2,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Most Expensive | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+LDN-005,prime_price_m2,24000,currency per m2,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Most Expensive | Wealthiest Cities 2025 | Henley & Partners.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+TI-018,prime_price_m2,14600,currency per m2,Elena,04_benchmark/contributor_data/elena/zurigo/01_ricchezza/rapporti internazionali/Most Expensive | Wealthiest Cities 2025 | Henley & Partners.pdf,found,
+GE-011,prime_price_change_yoy,4.2,%,Elena,04_benchmark/contributor_data/elena/singapore/08_immobili/Knight Frank Prime Global Cities Index Q1 2026.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+GE-012,population,530246,persons,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+GE-013,foreign_residents_share,41.5,%,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found,
+GE-014,net_migration,4185,persons,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+GE-015,median_wage,7893,currency per month,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+GE-016,lump_sum_taxation,yes,yes/no,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,manual,qualitative value (yes/no): read the source
+GE-017,cost_of_living_index,113.35,index,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found,
+MI-005,population,1407044,persons,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found,
+MI-006,foreign_residents_share,15.1,%,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found,
+MI-007,new_companies,26262,count,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+MI-008,life_expectancy,84.7,years,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found,
+MI-009,international_schools,17,count,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,weak,"found in the file, but a short number matches easily: confirm the location"
+MI-010,lump_sum_taxation,yes,yes/no,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,manual,qualitative value (yes/no): read the source
+MI-011,lump_sum_min_base,300000,currency,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x100, e.g. billion vs million): check the unit"
+MI-012,cost_of_living_index,75.78,index,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found,
+LDN-006,population,9100000,persons,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x1e6, e.g. billion vs million): check the unit"
+LDN-007,foreign_residents_share,41,%,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,weak,"found in the file, but a short number matches easily: confirm the location"
+LDN-008,net_migration,35000,persons,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,derived_partial,value = difference of figures in the note; 0 of 2 figures found in the file
+LDN-009,net_international_migration,163000,persons,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+LDN-010,gdp_nominal,618000,currency (million),Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found_scaled,"found written in another unit (x1000, e.g. billion vs million): check the unit"
+LDN-011,new_companies,90000,count,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,weak,"found in the file, but a short number matches easily: confirm the location"
+LDN-012,lump_sum_taxation,yes,yes/no,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,manual,qualitative value (yes/no): read the source
+LDN-013,wealth_tax_effective_ref,0,%,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,manual,zero (e.g. no tax): read the source
+LDN-014,cost_of_living_index,90.05,index,Nicole,04_benchmark/contributor_data/nicole/Milano_Ginevra_Londra.docx,found,
+TI-019,income_tax_effective_ref,31.6,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-020,wealth_tax_effective_ref,0.443,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-021,gdp_per_capita,102190,CHF per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/ticino/01_ricchezza/je-i-04.02.06.03.xlsx,found,
+ZH-024,gdp_per_capita,104620,CHF per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/zurigo/01_ricchezza/je-i-04.02.06.03.xlsx,found,
+ZG-027,gdp_per_capita,192958,CHF per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/zugo/01_ricchezza/je-i-04.02.06.03.xlsx,found,
+GE-018,gdp_per_capita,119644,CHF per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/ginevra/01_ricchezza/je-i-04.02.06.03.xlsx,found,
+GR-015,gdp_per_capita,82817,CHF per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/grigioni/01_ricchezza/je-i-04.02.06.03.xlsx,found,
+MI-013,gdp_nominal,230481,currency (million),Elena,04_benchmark/contributor_data/info_mancanti/milano/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+MI-014,gdp_per_capita,71200,EUR per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/milano/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+LU-019,gdp_nominal,86180,currency (million),Elena,04_benchmark/contributor_data/info_mancanti/lussemburgo/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+LU-020,gdp_per_capita,127000,EUR per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/lussemburgo/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+LIS-028,gdp_nominal,90686,currency (million),Elena,04_benchmark/contributor_data/info_mancanti/lisbona/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+LIS-029,gdp_per_capita,42300,EUR per inhabitant,Elena,04_benchmark/contributor_data/info_mancanti/lisbona/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+TI-022,gdp_nominal,37213,currency (million),Elena,04_benchmark/contributor_data/info_mancanti/milano/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+ZH-025,gdp_nominal,169304,currency (million),Elena,04_benchmark/contributor_data/info_mancanti/milano/01_ricchezza/nama_10r_3gdp_defaultview_spreadsheet.xlsx,found,
+DXB-023,gdp_nominal,232000,currency (million),Elena,"04_benchmark/contributor_data/info_mancanti/dubai/01_ricchezza/Dubai's GDP reaches AED232 billion in Q1 2026, recording 2.4% growth.pdf",derived,"value not in the file, but figures quoted in the note are: probably calculated, check the calculation"
+ZH-026,employment_rate_15_64,79.0,%,Elena,04_benchmark/contributor_data/info_mancanti/zurigo/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,recomputed_ok,"recomputed from the file: 79 = (col. 'Popolazione attiva' − 'Persone disoccupate') / 'Popolazione totale', 15-64; the file also publishes 'Tasso di occupazione netto' = 82.8%"
+ZH-027,unemployment_rate,4.6,%,Elena,04_benchmark/contributor_data/info_mancanti/zurigo/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+TI-023,employment_rate_15_64,66.8,%,Elena,04_benchmark/contributor_data/info_mancanti/ticino/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,recomputed_ok,"recomputed from the file: 66.8 = (col. 'Popolazione attiva' − 'Persone disoccupate') / 'Popolazione totale', 15-64; the file also publishes 'Tasso di occupazione netto' = 72.0%"
+TI-024,unemployment_rate,7.3,%,Elena,04_benchmark/contributor_data/info_mancanti/ticino/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+GE-019,employment_rate_15_64,64.6,%,Elena,04_benchmark/contributor_data/info_mancanti/ginevra/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,recomputed_ok,"recomputed from the file: 64.6 = (col. 'Popolazione attiva' − 'Persone disoccupate') / 'Popolazione totale', 15-64; the file also publishes 'Tasso di occupazione netto' = 73.0%"
+GE-020,unemployment_rate,11.5,%,Elena,04_benchmark/contributor_data/info_mancanti/ginevra/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,found,
+GR-016,employment_rate_15_64,81.6,%,Elena,04_benchmark/contributor_data/info_mancanti/grigioni/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,recomputed_ok,"recomputed from the file: 81.6 = (col. 'Popolazione attiva' − 'Persone disoccupate') / 'Popolazione totale', 15-64; the file also publishes 'Tasso di occupazione netto' = 83.3%"
+GR-017,unemployment_rate,2.1,%,Elena,04_benchmark/contributor_data/info_mancanti/grigioni/04_occupazione/su-i-40.02.03.02.03-2024.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+TI-025,employment_rate_15_64,71.5,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00007_page_spreadsheet.xlsx,found,
+TI-026,unemployment_rate,6.6,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00010_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+ZH-028,employment_rate_15_64,82.2,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00007_page_spreadsheet.xlsx,found,
+ZH-029,unemployment_rate,4.5,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00010_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+GE-021,employment_rate_15_64,73.0,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00007_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+GE-022,unemployment_rate,7.8,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00010_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+GR-018,employment_rate_15_64,83.1,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00007_page_spreadsheet.xlsx,found,
+GR-019,unemployment_rate,3.3,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00010_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+MI-015,employment_rate_15_64,69.6,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00007_page_spreadsheet.xlsx,found,
+MI-016,unemployment_rate,3.0,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00010_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+LU-021,employment_rate_15_64,69.2,%,Elena,04_benchmark/contributor_data/info_mancanti/lussemburgo/04_occupazione/tgs00007_page_spreadsheet.xlsx,found,
+LU-022,unemployment_rate,6.5,%,Elena,04_benchmark/contributor_data/info_mancanti/milano/04_occupazione/tgs00010_page_spreadsheet.xlsx,weak,"found in the file, but a short number matches easily: confirm the location"
+LDN-015,employment_rate_15_64,74.5,%,Elena,04_benchmark/contributor_data/info_mancanti/londra/04_occupazione/Nomis LFS regioni UK - occupazione e disoccupazione (giu-ago 2026).csv,found,
+LDN-016,unemployment_rate,6.6,%,Elena,04_benchmark/contributor_data/info_mancanti/londra/04_occupazione/Nomis LFS regioni UK - occupazione e disoccupazione (giu-ago 2026).csv,weak,"found in the file, but a short number matches easily: confirm the location"
+LDN-017,financial_sector_employment,471204,jobs,Elena,04_benchmark/contributor_data/info_mancanti/londra/04_occupazione/Nomis Workforce jobs per settore K-L regioni UK (giu 2026).xlsx,found,
+MI-017,physicians,56621,persons,Elena,04_benchmark/contributor_data/info_mancanti/milano/10_sanità/hlth_rs_physreg_defaultview_spreadsheet.xlsx,found,
+LU-023,physicians,1780,persons,Elena,04_benchmark/contributor_data/info_mancanti/lussemburgo/10_sanità/hlth_rs_physreg_defaultview_spreadsheet.xlsx,found,
+SG-024,physicians,16753,persons,Elena,04_benchmark/contributor_data/info_mancanti/singapore/10_sanità/Healthcare Workforce Statistics.pdf,found,
+TI-027,life_expectancy,85.2,years,Elena,04_benchmark/contributor_data/info_mancanti/ticino/10_sanità/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+ZH-030,life_expectancy,84.2,years,Elena,04_benchmark/contributor_data/info_mancanti/zurigo/10_sanità/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+GE-023,life_expectancy,84.6,years,Elena,04_benchmark/contributor_data/info_mancanti/ginevra/10_sanità/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+GR-020,life_expectancy,83.9,years,Elena,04_benchmark/contributor_data/info_mancanti/grigioni/10_sanità/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+LU-024,life_expectancy,83.2,years,Elena,04_benchmark/contributor_data/info_mancanti/ticino/10_sanità/demo_r_mlifexp_defaultview_spreadsheet.xlsx,found,
+DXB-024,life_expectancy,83.1,years,Elena,04_benchmark/contributor_data/info_mancanti/dubai/10_sanità/API_SP/API_SP.DYN.LE00.IN_DS2_en_csv_v2_1528.csv,found,
+MC-018,life_expectancy,86.5,years,Elena,04_benchmark/contributor_data/info_mancanti/dubai/10_sanità/API_SP/API_SP.DYN.LE00.IN_DS2_en_csv_v2_1528.csv,found,
+TI-028,air_destinations_direct,231,count,Elena,04_benchmark/contributor_data/info_mancanti/ticino/12_accessibilità/Flights from Ferno (VA) (MXP) — 254 Routes on 88 Airlines.pdf,derived_partial,value = difference of figures in the note; 1 of 2 figures found in the file
+MI-018,air_destinations_direct,231,count,Elena,04_benchmark/contributor_data/info_mancanti/milano/12_accessibilità/Flights from Ferno (VA) (MXP) — 254 Routes on 88 Airlines.pdf,derived_partial,value = difference of figures in the note; 1 of 2 figures found in the file
+ZH-031,air_destinations_direct,256,count,Elena,04_benchmark/contributor_data/info_mancanti/zurigo/12_accessibilità/Flights from Zurich (ZRH) — 257 Routes on 62 Airlines.pdf,found,
+ZG-028,air_destinations_direct,256,count,Elena,04_benchmark/contributor_data/info_mancanti/zugo/12_accessibilità/Flights from Zurich (ZRH) — 257 Routes on 62 Airlines.pdf,found,
+GR-021,air_destinations_direct,256,count,Elena,04_benchmark/contributor_data/info_mancanti/grigioni/12_accessibilità/Flights from Zurich (ZRH) — 257 Routes on 62 Airlines.pdf,found,
+GE-024,air_destinations_direct,193,count,Elena,04_benchmark/contributor_data/info_mancanti/ginevra/12_accessibilità/Flights from Geneva (GVA) — 194 Routes on 59 Airlines.pdf,found,
+LDN-018,air_destinations_direct,230,count,Elena,04_benchmark/contributor_data/info_mancanti/londra/12_accessibilità/Flights from London (LHR) — 248 Routes on 83 Airlines.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+LU-025,air_destinations_direct,133,count,Elena,04_benchmark/contributor_data/info_mancanti/lussemburgo/12_accessibilità/Flights from Luxembourg (LUX) — 133 Routes on 23 Airlines.pdf,found,
+MC-019,air_destinations_direct,190,count,Elena,"04_benchmark/contributor_data/info_mancanti/monaco/12_accessibilità/Flights from Nice, Alpes-Maritimes (NCE) — 209 Routes on 67 Airlines.pdf",weak,"found in the file, but a short number matches easily: confirm the location"
+SG-025,air_destinations_direct,174,count,Elena,04_benchmark/contributor_data/info_mancanti/singapore/12_accessibilità/Flights from Singapore (SIN) — 174 Routes on 89 Airlines.pdf,found,
+DXB-025,air_destinations_direct,264,count,Elena,04_benchmark/contributor_data/info_mancanti/dubai/12_accessibilità/Flights from Dubai (DXB) — 267 Routes on 51 Airlines.pdf,found,
+LIS-030,air_destinations_direct,176,count,Elena,04_benchmark/contributor_data/info_mancanti/lisbona/12_accessibilità/Flights from Lisbon (LIS) — 185 Routes on 61 Airlines.pdf,derived_partial,value = difference of figures in the note; 1 of 2 figures found in the file
+DXB-026,banks_headquartered,25,count,Elena,04_benchmark/contributor_data/info_mancanti/dubai/02_banche e piazza finanziaria/cb-register-august-2026.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+LDN-019,inheritance_tax_direct,40,%,Elena,"04_benchmark/contributor_data/info_mancanti/londra/07_tasse e residenza/How Inheritance Tax works - thresholds, rules and allowances - Overview - GOV.UK.pdf",weak,"found in the file, but a short number matches easily: confirm the location"
+LDN-020,top_income_tax_rate,45,%,Elena,04_benchmark/contributor_data/info_mancanti/londra/07_tasse e residenza/United Kingdom - Individual - Taxes on personal income.pdf,weak,"found in the file, but a short number matches easily: confirm the location"
+LDN-021,foreign_buyer_restrictions,no,yes/no,Elena,04_benchmark/contributor_data/info_mancanti/londra/08_immobili/Stamp Duty Land Tax - Residential property rates - GOV.UK.pdf,manual,qualitative value (yes/no): read the source
+LU-026,wealth_tax_rate,0,%,Elena,04_benchmark/contributor_data/info_mancanti/lussemburgo/07_tasse e residenza/Luxembourg - Individual - Other taxes.pdf,manual,zero (e.g. no tax): read the source
+SG-026,wealth_tax_rate,0,%,Elena,04_benchmark/contributor_data/info_mancanti/singapore/07_tasse e residenza/Singapore - Individual - Other taxes.pdf,manual,zero (e.g. no tax): read the source
+MI-019,foreign_buyer_restrictions,yes,yes/no,Elena,04_benchmark/contributor_data/info_mancanti/milano/08_immobili/Acquisto casa in Italia da stranieri - requisiti e imposte.pdf,manual,qualitative value (yes/no): read the source
+MI-020,crime_rate,70,per 1000 residents,Elena,"04_benchmark/contributor_data/info_mancanti/milano/06_qualità della vita/Indice di criminalità, Milano resta prima - la classifica per province - LaPresse.pdf",derived_partial,value = ratio of figures in the note; 0 of 2 figures found in the file
+TI-029,income_tax_effective_ref,29.09,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-030,wealth_tax_effective_ref,0.39,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-031,income_tax_effective_ref,29.33,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-032,wealth_tax_effective_ref,0.395,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-033,income_tax_effective_ref,29.57,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_reddito_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file
+TI-034,wealth_tax_effective_ref,0.4,%,Elena,04_benchmark/contributor_data/elena/zurigo/07_tasse e residenza/onere fiscale e aliquote (ESTV)/onere_sostanza_persona-sola_CHF_2026_tutti-comuni.xlsx,derived_ok,value = share of the reference base of figures in the note; 1 of 1 figures found in the file

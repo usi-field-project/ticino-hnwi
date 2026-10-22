@@ -1,0 +1,39 @@
+{"queryObj":{
+  "query": [
+    {
+      "code": "Jahr",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024"
+        ]
+      }
+    },
+    {
+      "code": "Kanton",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "9"
+        ]
+      }
+    },
+    {
+      "code": "Wirtschaftsabteilung",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "999"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat"
+  }
+},"tableIdForQuery":"px-x-0602010000_101.px"}

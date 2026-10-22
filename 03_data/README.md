@@ -52,7 +52,7 @@ Swiss cantons use the official two-letter codes (`TI`, `ZH`, `ZG`, `GE`, `GR`); 
 - **Do not calculate ratios in this file.** Densities per resident or per km² are computed in the analysis from `population` and `area_km2` rows of the same territory and year.
 - **One definition per indicator.** If a source counts something different (e.g. credit institutions instead of bank offices), use or create a different `indicator_id`.
 - **Keep the original currency.** Conversion to CHF is done in the analysis.
-- **Second check.** A value becomes `verified` only after a second team member has opened the source and filled `verified_by`.
+- **Second check.** A value becomes `verified` only after a second team member has opened the source and filled `verified_by`. The automatic [pre-check](verification/README.md) shows which rows are already traced to their source file and which need a closer look.
 
 ## Open points found in the example rows
 
