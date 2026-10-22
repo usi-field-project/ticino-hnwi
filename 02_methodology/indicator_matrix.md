@@ -41,6 +41,7 @@ How it fits the data register:
 | | Q3 | Cost of living | `cost_of_living_index` (new) | ctx | opt | Commercial indices: one index and one edition for all |
 | | Q4 | Direct international destinations from main airport | `air_destinations_direct` (new) | + | core | Accessibility (see open point 1) |
 | | Q5 | Travel time to nearest intercontinental hub | `travel_time_hub_airport` (new) | − | core | Accessibility; fixed origin (main centre) and mode for all |
+| | Q6 | Business-aviation airport near the main centre | `business_aviation_airport` (new) | + | opt | Accessibility; yes/no, with distance and runway/approach limits in the note (e.g. Lugano: steep approach, certified jets only) |
 | **Taxation and relocation** | T1 | Effective income tax, reference case | `income_tax_effective_ref` (new) | − | core | Same synthetic taxpayer in the reference municipality (see open point 2); `top_income_tax_rate` kept as context |
 | | T2 | Effective wealth tax, reference case | `wealth_tax_effective_ref` (new) | − | core | 0 where there is no wealth tax |
 | | T3 | Inheritance tax for direct descendants | `inheritance_tax_direct` | − | core | Record exemptions in the note |
@@ -59,7 +60,7 @@ How it fits the data register:
 | | D2 | Universities in global rankings | `universities_ranked` (new) | + | core | One ranking, one edition, fixed distance |
 | | D3 | Tertiary-educated population 25–64 | `tertiary_education_share` (new) | + | opt | Good comparability |
 
-**Total:** 37 benchmark indicators (26 core, 11 optional). They reuse the existing catalogue and add 20 new register indicators.
+**Total:** 38 benchmark indicators (26 core, 12 optional). They reuse the existing catalogue and add 21 new register indicators.
 
 ## Open points for the team
 
