@@ -1,10 +1,10 @@
 # Luxembourg
 
-Status: table filled from [`03_data/observations.csv`](../../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
+Status: table filled from [`03_data/observations.csv`](../../03_data/observations.csv) with `04_benchmark/build_destination_sheets.py`; values are not verified yet (`to_verify`). Grades A/B/C are defined in the [benchmark methodology](../../02_methodology/benchmark_methodology.md#comparability-grade). Correct the data register, not this table, then run the script again.
 
 Ticino is the reference territory for the comparison.
 
-Use the [shared research topics](../../../02_methodology/benchmark_methodology.md#comparison-dimensions). For each finding, record the source, reference year or period, geographical coverage and any comparability limitations. Link to files collected and verified by the team in [the data archive](../../../03_data/) instead of copying them.
+Use the [shared research topics](../../02_methodology/benchmark_methodology.md#comparison-dimensions). For each finding, record the source, reference year or period, geographical coverage and any comparability limitations. Link to files collected and verified by the team in [the data archive](../../03_data/) instead of copying them.
 
 | Topic | Findings / indicators | Sources | Reference period and geographical coverage | Gaps / comparability notes |
 |---|---|---|---|---|
