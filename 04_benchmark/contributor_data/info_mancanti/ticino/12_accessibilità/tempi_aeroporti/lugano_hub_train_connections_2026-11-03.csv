@@ -1,0 +1,25 @@
+from,departure,to,arrival,duration_min,transfers,products
+Lugano,07:06,Malpensa Aeroporto T1,08:41,95,0,S10
+Lugano,08:06,Malpensa Aeroporto T1,09:41,95,0,S10
+Lugano,09:06,Malpensa Aeroporto T1,10:41,95,0,S10
+Lugano,10:06,Malpensa Aeroporto T1,11:41,95,0,S10
+Lugano,11:06,Malpensa Aeroporto T1,12:41,95,0,S10
+Lugano,12:06,Malpensa Aeroporto T1,13:41,95,0,S10
+Lugano,13:06,Malpensa Aeroporto T1,14:41,95,0,S10
+Lugano,14:06,Malpensa Aeroporto T1,15:41,95,0,S10
+Lugano,07:06,Malpensa Aeroporto T2,08:47,101,0,S10
+Lugano,08:06,Malpensa Aeroporto T2,09:47,101,0,S10
+Lugano,09:06,Malpensa Aeroporto T2,10:47,101,0,S10
+Lugano,10:06,Malpensa Aeroporto T2,11:47,101,0,S10
+Lugano,11:06,Malpensa Aeroporto T2,12:47,101,0,S10
+Lugano,12:06,Malpensa Aeroporto T2,13:47,101,0,S10
+Lugano,13:06,Malpensa Aeroporto T2,14:47,101,0,S10
+Lugano,14:06,Malpensa Aeroporto T2,15:47,101,0,S10
+Lugano,06:30,Zürich Flughafen,08:41,131,1,IC 2+IC 5
+Lugano,07:02,Zürich Flughafen,09:11,129,1,IC 2+IC 5
+Lugano,07:30,Zürich Flughafen,09:44,134,1,IC 2+IR 75
+Lugano,08:02,Zürich Flughafen,10:11,129,2,IC 21+IR 46+IC 5
+Lugano,08:30,Zürich Flughafen,10:41,131,1,EC+IC 5
+Lugano,09:00,Zürich Flughafen,11:11,131,1,IC 2+IC 5
+Lugano,09:30,Zürich Flughafen,11:44,134,1,EC+IR 75
+Lugano,10:00,Zürich Flughafen,12:11,131,2,IC 21+IR 46+IC 5
