@@ -25,6 +25,7 @@ Data, sources and findings will be added progressively after the team has collec
 - [London](04_benchmark/reference_hubs/london/README.md)
 - [Milan](04_benchmark/italy_milan/README.md)
 - [Luxembourg](04_benchmark/reference_hubs/luxembourg/README.md)
+- [Greece](04_benchmark/greece/README.md)
 
 ## Repository structure
 
@@ -55,6 +56,7 @@ Data, sources and findings will be added progressively after the team has collec
 │   ├── zurich/
 │   ├── geneva/
 │   ├── graubuenden/
+│   ├── greece/
 │   ├── dubai/
 │   ├── lisbon/
 │   ├── monaco/
