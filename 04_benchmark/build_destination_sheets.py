@@ -14,7 +14,7 @@ DATA = ROOT / "03_data"
 SHEETS = {
     "Ticino": "ticino", "Zug": "zug", "Zurich": "zurich", "Geneva": "geneva",
     "Graubünden": "graubuenden", "Monaco": "monaco", "Dubai": "dubai",
-    "Lisbon": "lisbon", "Milan": "italy_milan", "London": "london",
+    "Lisbon": "lisbon", "Milan": "milan", "London": "london",
     "Singapore": "singapore", "Luxembourg": "luxembourg",
 }
 SWISS = {"Ticino", "Zug", "Zurich", "Geneva", "Graubünden"}
