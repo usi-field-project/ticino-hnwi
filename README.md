@@ -20,11 +20,11 @@ Data, sources and findings will be added progressively after the team has collec
 - [Graubünden](04_benchmark/graubuenden/README.md)
 - [Dubai](04_benchmark/dubai/README.md)
 - [Lisbon](04_benchmark/lisbon/README.md)
-- [Singapore](04_benchmark/reference_hubs/singapore/README.md)
+- [Singapore](04_benchmark/singapore/README.md)
 - [Monaco](04_benchmark/monaco/README.md)
-- [London](04_benchmark/reference_hubs/london/README.md)
+- [London](04_benchmark/london/README.md)
 - [Milan](04_benchmark/italy_milan/README.md)
-- [Luxembourg](04_benchmark/reference_hubs/luxembourg/README.md)
+- [Luxembourg](04_benchmark/luxembourg/README.md)
 - [Greece](04_benchmark/greece/README.md)
 
 ## Repository structure
@@ -61,10 +61,9 @@ Data, sources and findings will be added progressively after the team has collec
 │   ├── lisbon/
 │   ├── monaco/
 │   ├── italy_milan/
-│   └── reference_hubs/
-│       ├── singapore/
-│       ├── london/
-│       └── luxembourg/
+│   ├── singapore/
+│   ├── london/
+│   └── luxembourg/
 ├── 05_interviews/
 │   ├── anonymized_transcripts/
 │   ├── coding/

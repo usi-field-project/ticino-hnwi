@@ -14,8 +14,8 @@ DATA = ROOT / "03_data"
 SHEETS = {
     "Ticino": "ticino", "Zug": "zug", "Zurich": "zurich", "Geneva": "geneva",
     "Graubünden": "graubuenden", "Monaco": "monaco", "Dubai": "dubai",
-    "Lisbon": "lisbon", "Milan": "italy_milan", "London": "reference_hubs/london",
-    "Singapore": "reference_hubs/singapore", "Luxembourg": "reference_hubs/luxembourg",
+    "Lisbon": "lisbon", "Milan": "italy_milan", "London": "london",
+    "Singapore": "singapore", "Luxembourg": "luxembourg",
 }
 SWISS = {"Ticino", "Zug", "Zurich", "Geneva", "Graubünden"}
 TOPICS = ["Wealth", "Banking presence and density", "Business presence", "Employment",
