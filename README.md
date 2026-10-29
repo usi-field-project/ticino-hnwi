@@ -23,7 +23,7 @@ Data, sources and findings will be added progressively after the team has collec
 - [Singapore](04_benchmark/singapore/README.md)
 - [Monaco](04_benchmark/monaco/README.md)
 - [London](04_benchmark/london/README.md)
-- [Milan](04_benchmark/italy_milan/README.md)
+- [Milan](04_benchmark/milan/README.md)
 - [Luxembourg](04_benchmark/luxembourg/README.md)
 - [Greece](04_benchmark/greece/README.md)
 
@@ -60,7 +60,7 @@ Data, sources and findings will be added progressively after the team has collec
 │   ├── dubai/
 │   ├── lisbon/
 │   ├── monaco/
-│   ├── italy_milan/
+│   ├── milan/
 │   ├── singapore/
 │   ├── london/
 │   └── luxembourg/
